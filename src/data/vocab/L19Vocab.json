@@ -1,0 +1,452 @@
+[
+  {
+    "reading": "いかが",
+    "kanji": "",
+    "type": "adv.",
+    "def": "how (polite expression of どう)"
+  },
+  {
+    "reading": "いらっしゃる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "honorific expression for いく, くる, and いる"
+  },
+  {
+    "reading": "うける",
+    "kanji": "受ける",
+    "type": "ru-v.",
+    "def": "to take (an examination) "
+  },
+  {
+    "reading": "えんりょする",
+    "kanji": "遠慮する",
+    "type": "irr-v.",
+    "def": "to hold back for the time being; to refrain from "
+  },
+  {
+    "reading": "おくさま",
+    "kanji": "奥様",
+    "type": "n.",
+    "def": "(your/someone’s) wife (polite)"
+  },
+  {
+    "reading": "おくる",
+    "kanji": "送る",
+    "type": "u-v.",
+    "def": "to send"
+  },
+  {
+    "reading": "おくれる",
+    "kanji": "遅れる",
+    "type": "ru-v.",
+    "def": "to become late "
+  },
+  {
+    "reading": "おこさん",
+    "kanji": "お子さん",
+    "type": "n.",
+    "def": "(your/someone’s) child (polite)"
+  },
+  {
+    "reading": "おせわになる",
+    "kanji": "お世話になる",
+    "type": "u-v.",
+    "def": "to be in someone’s care"
+  },
+  {
+    "reading": "おっしゃる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "honorific expression for いう"
+  },
+  {
+    "reading": "おととい",
+    "kanji": "",
+    "type": "n.",
+    "def": "the day before yesterday"
+  },
+  {
+    "reading": "おもいだす",
+    "kanji": "思い出す",
+    "type": "u-v.",
+    "def": "to recall"
+  },
+  {
+    "reading": "おやすみになる",
+    "kanji": "お休みになる",
+    "type": "u-v.",
+    "def": "honorific expression for ねる"
+  },
+  {
+    "reading": "おれい",
+    "kanji": "お礼",
+    "type": "n.",
+    "def": "expression of gratitude"
+  },
+  {
+    "reading": "かける",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to sit down "
+  },
+  {
+    "reading": "きまる",
+    "kanji": "決まる",
+    "type": "u-v.",
+    "def": "to be decided"
+  },
+  {
+    "reading": "くださる",
+    "kanji": "下さる",
+    "type": "u-v.",
+    "def": "honorific expression for くれる"
+  },
+  {
+    "reading": "けいご",
+    "kanji": "敬語",
+    "type": "n.",
+    "def": "honorific language"
+  },
+  {
+    "reading": "こくさい",
+    "kanji": "国際",
+    "type": "n.",
+    "def": "international"
+  },
+  {
+    "reading": "こちら",
+    "kanji": "",
+    "type": "n.",
+    "def": "this person (polite)"
+  },
+  {
+    "reading": "ごちそうする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to treat/invite (someone) to a meal "
+  },
+  {
+    "reading": "ごらんになる",
+    "kanji": "ご覧になる",
+    "type": "u-v.",
+    "def": "honorific expression for みる"
+  },
+  {
+    "reading": "しつもん",
+    "kanji": "質問",
+    "type": "n.",
+    "def": "question"
+  },
+  {
+    "reading": "しゅっちょう",
+    "kanji": "出張",
+    "type": "n.",
+    "def": "business trip"
+  },
+  {
+    "reading": "しゅるい",
+    "kanji": "種類",
+    "type": "n.",
+    "def": "a kind; a sort"
+  },
+  {
+    "reading": "しょうぎ",
+    "kanji": "",
+    "type": "n.",
+    "def": "Japanese chess"
+  },
+  {
+    "reading": "しょうしょう",
+    "kanji": "少々",
+    "type": "adv.",
+    "def": "a few seconds"
+  },
+  {
+    "reading": "しょうたいする",
+    "kanji": "招待する",
+    "type": "irr-v.",
+    "def": "to invite someone (to an event/a place) "
+  },
+  {
+    "reading": "しりあう",
+    "kanji": "知り合う",
+    "type": "u-v.",
+    "def": "to get acquainted with"
+  },
+  {
+    "reading": "せいかく",
+    "kanji": "性格",
+    "type": "n.",
+    "def": "personality"
+  },
+  {
+    "reading": "それで",
+    "kanji": "",
+    "type": "adv.",
+    "def": "then; therefore"
+  },
+  {
+    "reading": "それでは",
+    "kanji": "",
+    "type": "adv.",
+    "def": "well then"
+  },
+  {
+    "reading": "たいせつにする",
+    "kanji": "大切にする",
+    "type": "irr-v.",
+    "def": "to take good care of "
+  },
+  {
+    "reading": "たいへん",
+    "kanji": "",
+    "type": "adv.",
+    "def": "greatly"
+  },
+  {
+    "reading": "たつ",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "(time) pass"
+  },
+  {
+    "reading": "たつ",
+    "kanji": "立つ",
+    "type": "u-v.",
+    "def": "to stand up"
+  },
+  {
+    "reading": "ちゅうがくせい",
+    "kanji": "中学生",
+    "type": "n.",
+    "def": "junior high school student"
+  },
+  {
+    "reading": "でんきこうがく",
+    "kanji": "電気工学",
+    "type": "n.",
+    "def": "electrical engineering"
+  },
+  {
+    "reading": "とつぜん",
+    "kanji": "突然",
+    "type": "adv.",
+    "def": "suddenly"
+  },
+  {
+    "reading": "どうぞよろしくおねがいします",
+    "kanji": "どうぞよろしくお願いします",
+    "type": "exp.",
+    "def": "Thank you in advance."
+  },
+  {
+    "reading": "どちら",
+    "kanji": "",
+    "type": "n.",
+    "def": "where (polite)"
+  },
+  {
+    "reading": "なかがいい",
+    "kanji": "仲がいい",
+    "type": "い-adj.",
+    "def": "be on good/close terms; to get along well"
+  },
+  {
+    "reading": "なさる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "honorific expression for する"
+  },
+  {
+    "reading": "なぜ",
+    "kanji": "",
+    "type": "adv.",
+    "def": "why"
+  },
+  {
+    "reading": "なつかしい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "to miss; to long for"
+  },
+  {
+    "reading": "なまけもの",
+    "kanji": "怠け者",
+    "type": "n.",
+    "def": "lazy person"
+  },
+  {
+    "reading": "なやみ",
+    "kanji": "悩み",
+    "type": "n.",
+    "def": "worry"
+  },
+  {
+    "reading": "はずかしがりや",
+    "kanji": "恥ずかしがり屋",
+    "type": "n.",
+    "def": "shy person"
+  },
+  {
+    "reading": "はなし",
+    "kanji": "話",
+    "type": "n.",
+    "def": "story; talk"
+  },
+  {
+    "reading": "はなしをする",
+    "kanji": "話をする",
+    "type": "irr-v.",
+    "def": "to have a talk "
+  },
+  {
+    "reading": "はれる",
+    "kanji": "晴れる",
+    "type": "ru-v.",
+    "def": "to become sunny "
+  },
+  {
+    "reading": "ひっこす",
+    "kanji": "引っ越す",
+    "type": "u-v.",
+    "def": "to move (to another place to live)"
+  },
+  {
+    "reading": "ぶちょう",
+    "kanji": "部長",
+    "type": "n.",
+    "def": "department manager"
+  },
+  {
+    "reading": "ほんとうは",
+    "kanji": "本当は",
+    "type": "adv.",
+    "def": "in fact; originally"
+  },
+  {
+    "reading": "まいあさ",
+    "kanji": "毎朝",
+    "type": "adv.",
+    "def": "every morning"
+  },
+  {
+    "reading": "まじめ（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "serious; sober; diligent"
+  },
+  {
+    "reading": "まだ",
+    "kanji": "",
+    "type": "adv.",
+    "def": "still"
+  },
+  {
+    "reading": "まちがい",
+    "kanji": "間違い",
+    "type": "n.",
+    "def": "mistake"
+  },
+  {
+    "reading": "みなさま",
+    "kanji": "みな様",
+    "type": "n.",
+    "def": "everyone (polite expression of みなさん)"
+  },
+  {
+    "reading": "めしあがる",
+    "kanji": "召し上がる",
+    "type": "u-v.",
+    "def": "honorific expression for たべる and のむ"
+  },
+  {
+    "reading": "もうしこみ",
+    "kanji": "申し込み",
+    "type": "n.",
+    "def": "application"
+  },
+  {
+    "reading": "もうしわけありません",
+    "kanji": "申し訳ありません",
+    "type": "exp.",
+    "def": "You have my apologies."
+  },
+  {
+    "reading": "もし～たら",
+    "kanji": "",
+    "type": "adv.",
+    "def": "if . . ."
+  },
+  {
+    "reading": "もてる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to be popular (in terms of romantic interest) "
+  },
+  {
+    "reading": "ゆうじん",
+    "kanji": "友人",
+    "type": "n.",
+    "def": "friend"
+  },
+  {
+    "reading": "ようこそ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Welcome."
+  },
+  {
+    "reading": "よぶ",
+    "kanji": "呼ぶ",
+    "type": "u-v.",
+    "def": "to call (one’s name); to invite"
+  },
+  {
+    "reading": "よる",
+    "kanji": "夜",
+    "type": "n.",
+    "def": "night"
+  },
+  {
+    "reading": "よる",
+    "kanji": "寄る",
+    "type": "u-v.",
+    "def": "to stop by"
+  },
+  {
+    "reading": "よろしくおつたえください",
+    "kanji": "よろしくお伝えください",
+    "type": "exp.",
+    "def": "Please give my best regards (to . . . )."
+  },
+  {
+    "reading": "～ちゅう",
+    "kanji": "～中",
+    "type": "suf.",
+    "def": "while . . ."
+  },
+  {
+    "reading": "～ていらっしゃる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "honorific expression for ～ている"
+  },
+  {
+    "reading": "～のしょうかいで",
+    "kanji": "～の紹介で",
+    "type": "exp.",
+    "def": "through the introduction of"
+  },
+  {
+    "reading": "～のために",
+    "kanji": "",
+    "type": "part.",
+    "def": "for . . ."
+  },
+  {
+    "reading": "～めいさま",
+    "kanji": "～名様",
+    "type": "suf.",
+    "def": "party of . . . people"
+  }
+]

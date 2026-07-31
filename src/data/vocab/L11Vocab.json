@@ -1,0 +1,614 @@
+[
+  {
+    "reading": "あかるい",
+    "kanji": "明るい",
+    "type": "い-adj.",
+    "def": "bright"
+  },
+  {
+    "reading": "いみ",
+    "kanji": "意味",
+    "type": "n.",
+    "def": "meaning"
+  },
+  {
+    "reading": "うそをつく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to tell a lie"
+  },
+  {
+    "reading": "うちゅうひこうし",
+    "kanji": "宇宙飛行士",
+    "type": "n.",
+    "def": "astronaut"
+  },
+  {
+    "reading": "おかし",
+    "kanji": "お菓子",
+    "type": "n.",
+    "def": "snack; sweets"
+  },
+  {
+    "reading": "おしょうがつ",
+    "kanji": "お正月",
+    "type": "n.",
+    "def": "New Year’s"
+  },
+  {
+    "reading": "おなかがすく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to become hungry"
+  },
+  {
+    "reading": "おへんじ",
+    "kanji": "お返事",
+    "type": "n.",
+    "def": "reply"
+  },
+  {
+    "reading": "おまつり",
+    "kanji": "お祭り",
+    "type": "n.",
+    "def": "festival"
+  },
+  {
+    "reading": "おもちゃ",
+    "kanji": "",
+    "type": "n.",
+    "def": "toy"
+  },
+  {
+    "reading": "おんせん",
+    "kanji": "温泉",
+    "type": "n.",
+    "def": "spa; hot spring"
+  },
+  {
+    "reading": "かう",
+    "kanji": "買う",
+    "type": "u-v.",
+    "def": "to buy"
+  },
+  {
+    "reading": "かう",
+    "kanji": "飼う",
+    "type": "u-v.",
+    "def": "to own (a pet)"
+  },
+  {
+    "reading": "かし",
+    "kanji": "菓子",
+    "type": "n.",
+    "def": "snack; sweets"
+  },
+  {
+    "reading": "かしゅ",
+    "kanji": "歌手",
+    "type": "n.",
+    "def": "singer"
+  },
+  {
+    "reading": "かたいいいかた",
+    "kanji": "かたい言い方",
+    "type": "n.",
+    "def": "bookish expression"
+  },
+  {
+    "reading": "かっこ",
+    "kanji": "",
+    "type": "n.",
+    "def": "parenthesis"
+  },
+  {
+    "reading": "かわ",
+    "kanji": "川",
+    "type": "n.",
+    "def": "river"
+  },
+  {
+    "reading": "かんごし",
+    "kanji": "看護師",
+    "type": "n.",
+    "def": "nurse"
+  },
+  {
+    "reading": "がいこく",
+    "kanji": "外国",
+    "type": "n.",
+    "def": "foreign country"
+  },
+  {
+    "reading": "きょうし",
+    "kanji": "教師",
+    "type": "n.",
+    "def": "schoolteacher"
+  },
+  {
+    "reading": "きょうつうご",
+    "kanji": "共通語",
+    "type": "n.",
+    "def": "common language"
+  },
+  {
+    "reading": "きんじょ",
+    "kanji": "近所",
+    "type": "n.",
+    "def": "neighborhood"
+  },
+  {
+    "reading": "くだけたいいかた",
+    "kanji": "くだけた言い方",
+    "type": "n.",
+    "def": "colloquial expression"
+  },
+  {
+    "reading": "けいさつかん",
+    "kanji": "警察官",
+    "type": "n.",
+    "def": "police officer"
+  },
+  {
+    "reading": "けんかする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to have a fight; to quarrel "
+  },
+  {
+    "reading": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "type": "n.",
+    "def": "researcher"
+  },
+  {
+    "reading": "こたえ",
+    "kanji": "答／答え",
+    "type": "n.",
+    "def": "answer"
+  },
+  {
+    "reading": "こちら",
+    "kanji": "",
+    "type": "n.",
+    "def": "this person (polite)"
+  },
+  {
+    "reading": "こと",
+    "kanji": "",
+    "type": "n.",
+    "def": "things; matters"
+  },
+  {
+    "reading": "これから",
+    "kanji": "",
+    "type": "adv.",
+    "def": "from now on"
+  },
+  {
+    "reading": "こんがっき",
+    "kanji": "今学期",
+    "type": "n.",
+    "def": "this semester"
+  },
+  {
+    "reading": "さっか",
+    "kanji": "作家",
+    "type": "n.",
+    "def": "writer"
+  },
+  {
+    "reading": "しつもん",
+    "kanji": "質問",
+    "type": "n.",
+    "def": "question"
+  },
+  {
+    "reading": "しめきり",
+    "kanji": "締め切り",
+    "type": "n.",
+    "def": "deadline"
+  },
+  {
+    "reading": "しゃちょう",
+    "kanji": "社長",
+    "type": "n.",
+    "def": "president of a company"
+  },
+  {
+    "reading": "しゅっしん",
+    "kanji": "出身",
+    "type": "n.",
+    "def": "coming from"
+  },
+  {
+    "reading": "しょうかいする",
+    "kanji": "紹介する",
+    "type": "irr-v.",
+    "def": "to introduce "
+  },
+  {
+    "reading": "しょうがつ",
+    "kanji": "正月",
+    "type": "n.",
+    "def": "New Year’s"
+  },
+  {
+    "reading": "しょうぼうし",
+    "kanji": "消防士",
+    "type": "n.",
+    "def": "firefighter"
+  },
+  {
+    "reading": "しょうらい",
+    "kanji": "将来",
+    "type": "n.",
+    "def": "future"
+  },
+  {
+    "reading": "じゅぎょう",
+    "kanji": "授業",
+    "type": "n.",
+    "def": "class"
+  },
+  {
+    "reading": "じんじゃ",
+    "kanji": "神社",
+    "type": "n.",
+    "def": "shrine"
+  },
+  {
+    "reading": "そして",
+    "kanji": "",
+    "type": "adv.",
+    "def": "and then"
+  },
+  {
+    "reading": "たとえば",
+    "kanji": "例えば",
+    "type": "adv.",
+    "def": "for example"
+  },
+  {
+    "reading": "だいとうりょう",
+    "kanji": "大統領",
+    "type": "n.",
+    "def": "president of a country"
+  },
+  {
+    "reading": "ちこくする",
+    "kanji": "遅刻する",
+    "type": "irr-v.",
+    "def": "to be late (for an appointment) "
+  },
+  {
+    "reading": "つかれる",
+    "kanji": "疲れる",
+    "type": "ru-v.",
+    "def": "to get tired "
+  },
+  {
+    "reading": "つり",
+    "kanji": "",
+    "type": "n.",
+    "def": "fishing"
+  },
+  {
+    "reading": "ていねいないいかた",
+    "kanji": "ていねいな言い方",
+    "type": "n.",
+    "def": "polite expression"
+  },
+  {
+    "reading": "とる",
+    "kanji": "取る",
+    "type": "u-v.",
+    "def": "to take (a class); to get (a grade)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "撮る",
+    "type": "u-v.",
+    "def": "to take (a picture)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to take off"
+  },
+  {
+    "reading": "ならう",
+    "kanji": "習う",
+    "type": "u-v.",
+    "def": "to learn"
+  },
+  {
+    "reading": "のぼる",
+    "kanji": "登る",
+    "type": "u-v.",
+    "def": "to climb"
+  },
+  {
+    "reading": "はいゆう",
+    "kanji": "俳優",
+    "type": "n.",
+    "def": "actor; actress"
+  },
+  {
+    "reading": "はしる",
+    "kanji": "走る",
+    "type": "u-v.",
+    "def": "to run"
+  },
+  {
+    "reading": "はつおん",
+    "kanji": "発音",
+    "type": "n.",
+    "def": "pronunciation"
+  },
+  {
+    "reading": "ばつ",
+    "kanji": "",
+    "type": "n.",
+    "def": "× (wrong)"
+  },
+  {
+    "reading": "ひさしぶり",
+    "kanji": "久しぶり",
+    "type": "exp.",
+    "def": "it has been a long time"
+  },
+  {
+    "reading": "びじゅつかん",
+    "kanji": "美術館",
+    "type": "n.",
+    "def": "art museum"
+  },
+  {
+    "reading": "ふたりずつ",
+    "kanji": "二人ずつ",
+    "type": "exp.",
+    "def": "two people each"
+  },
+  {
+    "reading": "ぶんか",
+    "kanji": "文化",
+    "type": "n.",
+    "def": "culture"
+  },
+  {
+    "reading": "ぶんぽう",
+    "kanji": "文法",
+    "type": "n.",
+    "def": "grammar"
+  },
+  {
+    "reading": "へいじつ",
+    "kanji": "平日",
+    "type": "n.",
+    "def": "weekday"
+  },
+  {
+    "reading": "へんじ",
+    "kanji": "返事",
+    "type": "n.",
+    "def": "reply"
+  },
+  {
+    "reading": "ほうげん",
+    "kanji": "方言",
+    "type": "n.",
+    "def": "dialect"
+  },
+  {
+    "reading": "ほかに",
+    "kanji": "",
+    "type": "adv.",
+    "def": "anything else"
+  },
+  {
+    "reading": "まあまあ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "okay; so-so"
+  },
+  {
+    "reading": "まつり",
+    "kanji": "祭り",
+    "type": "n.",
+    "def": "festival"
+  },
+  {
+    "reading": "まる",
+    "kanji": "",
+    "type": "n.",
+    "def": "○ (correct)"
+  },
+  {
+    "reading": "まんがか",
+    "kanji": "漫画家",
+    "type": "n.",
+    "def": "cartoonist"
+  },
+  {
+    "reading": "みずうみ",
+    "kanji": "湖",
+    "type": "n.",
+    "def": "lake"
+  },
+  {
+    "reading": "もっと",
+    "kanji": "",
+    "type": "adv.",
+    "def": "more"
+  },
+  {
+    "reading": "やま",
+    "kanji": "山",
+    "type": "n.",
+    "def": "mountain"
+  },
+  {
+    "reading": "やめる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to quit "
+  },
+  {
+    "reading": "ゆめ",
+    "kanji": "夢",
+    "type": "n.",
+    "def": "dream"
+  },
+  {
+    "reading": "らいがっき",
+    "kanji": "来学期",
+    "type": "n.",
+    "def": "next semester"
+  },
+  {
+    "reading": "りゅうがくする",
+    "kanji": "留学する",
+    "type": "irr-v.",
+    "def": "to study abroad "
+  },
+  {
+    "reading": "れい",
+    "kanji": "例",
+    "type": "n.",
+    "def": "example"
+  },
+  {
+    "reading": "れんしゅう",
+    "kanji": "練習",
+    "type": "n.",
+    "def": "exercise"
+  },
+  {
+    "reading": "アウトドア",
+    "kanji": "",
+    "type": "n.",
+    "def": "outdoor activities"
+  },
+  {
+    "reading": "オーストラリア",
+    "kanji": "",
+    "type": "n.",
+    "def": "Australia"
+  },
+  {
+    "reading": "キャンプ",
+    "kanji": "",
+    "type": "n.",
+    "def": "camp"
+  },
+  {
+    "reading": "サボる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to cut (classes)"
+  },
+  {
+    "reading": "シェフ",
+    "kanji": "",
+    "type": "n.",
+    "def": "chef"
+  },
+  {
+    "reading": "ジャーナリスト",
+    "kanji": "",
+    "type": "n.",
+    "def": "journalist"
+  },
+  {
+    "reading": "スポーツせんしゅ",
+    "kanji": "スポーツ選手",
+    "type": "n.",
+    "def": "athlete"
+  },
+  {
+    "reading": "ダイエットする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to go on a diet "
+  },
+  {
+    "reading": "ドライブ",
+    "kanji": "",
+    "type": "n.",
+    "def": "drive"
+  },
+  {
+    "reading": "バンド",
+    "kanji": "",
+    "type": "n.",
+    "def": "band"
+  },
+  {
+    "reading": "ビール",
+    "kanji": "",
+    "type": "n.",
+    "def": "beer"
+  },
+  {
+    "reading": "ホストファミリー",
+    "kanji": "",
+    "type": "n.",
+    "def": "host family"
+  },
+  {
+    "reading": "ホラー",
+    "kanji": "",
+    "type": "n.",
+    "def": "horror"
+  },
+  {
+    "reading": "ボランティア",
+    "kanji": "",
+    "type": "n.",
+    "def": "volunteer"
+  },
+  {
+    "reading": "ルームメイト",
+    "kanji": "",
+    "type": "n.",
+    "def": "roommate"
+  },
+  {
+    "reading": "（〜の）あと",
+    "kanji": "後",
+    "type": "exp.",
+    "def": "after (an event)"
+  },
+  {
+    "reading": "～ぎょうめ",
+    "kanji": "～行目",
+    "type": "suf.",
+    "def": "line number . . ."
+  },
+  {
+    "reading": "～だけ",
+    "kanji": "",
+    "type": "suf.",
+    "def": "just . . . ; only . . ."
+  },
+  {
+    "reading": "～てん",
+    "kanji": "～点",
+    "type": "suf.",
+    "def": ". . . points"
+  },
+  {
+    "reading": "～ばん",
+    "kanji": "～番",
+    "type": "suf.",
+    "def": "number . . ."
+  },
+  {
+    "reading": "～ぼしゅう",
+    "kanji": "～募集",
+    "type": "suf.",
+    "def": "looking for . . ."
+  }
+]

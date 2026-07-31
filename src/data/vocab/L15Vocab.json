@@ -1,0 +1,596 @@
+[
+  {
+    "reading": "いちにちじゅう",
+    "kanji": "一日中",
+    "type": "adv.",
+    "def": "all day long"
+  },
+  {
+    "reading": "いちにちめ",
+    "kanji": "一日目",
+    "type": "n.",
+    "def": "first day"
+  },
+  {
+    "reading": "いちねんじゅう",
+    "kanji": "一年中",
+    "type": "adv.",
+    "def": "all year"
+  },
+  {
+    "reading": "いっぱくにしょくつき",
+    "kanji": "一泊二食付き",
+    "type": "exp.",
+    "def": "one night with two meals"
+  },
+  {
+    "reading": "うまれる",
+    "kanji": "生まれる",
+    "type": "ru-v.",
+    "def": "to be born "
+  },
+  {
+    "reading": "うる",
+    "kanji": "売る",
+    "type": "u-v.",
+    "def": "to sell"
+  },
+  {
+    "reading": "え",
+    "kanji": "絵",
+    "type": "n.",
+    "def": "painting; picture; drawing"
+  },
+  {
+    "reading": "えいがかん",
+    "kanji": "映画館",
+    "type": "n.",
+    "def": "movie theater"
+  },
+  {
+    "reading": "おとされる",
+    "kanji": "落とされる",
+    "type": "exp.",
+    "def": "to be dropped"
+  },
+  {
+    "reading": "おろす",
+    "kanji": "下ろす",
+    "type": "u-v.",
+    "def": "to withdraw (money)"
+  },
+  {
+    "reading": "かく",
+    "kanji": "書く",
+    "type": "u-v.",
+    "def": "to write"
+  },
+  {
+    "reading": "かく",
+    "kanji": "描く",
+    "type": "u-v.",
+    "def": "to draw; to paint"
+  },
+  {
+    "reading": "かぐ",
+    "kanji": "家具",
+    "type": "n.",
+    "def": "furniture"
+  },
+  {
+    "reading": "かつどう",
+    "kanji": "活動",
+    "type": "n.",
+    "def": "activity"
+  },
+  {
+    "reading": "かんこうする",
+    "kanji": "観光する",
+    "type": "irr-v.",
+    "def": "to do sightseeing "
+  },
+  {
+    "reading": "がいこくじん",
+    "kanji": "外国人",
+    "type": "n.",
+    "def": "foreigner"
+  },
+  {
+    "reading": "きつえん",
+    "kanji": "喫煙",
+    "type": "n.",
+    "def": "smoking"
+  },
+  {
+    "reading": "きょうしつ",
+    "kanji": "教室",
+    "type": "n.",
+    "def": "classroom"
+  },
+  {
+    "reading": "きをつける",
+    "kanji": "気をつける",
+    "type": "ru-v.",
+    "def": "to be cautious/careful "
+  },
+  {
+    "reading": "きんえん",
+    "kanji": "禁煙",
+    "type": "n.",
+    "def": "non-smoking"
+  },
+  {
+    "reading": "くじら",
+    "kanji": "",
+    "type": "n.",
+    "def": "whale"
+  },
+  {
+    "reading": "けいけん",
+    "kanji": "経験",
+    "type": "n.",
+    "def": "experience"
+  },
+  {
+    "reading": "けしき",
+    "kanji": "景色",
+    "type": "n.",
+    "def": "scenery"
+  },
+  {
+    "reading": "けっこんしき",
+    "kanji": "結婚式",
+    "type": "n.",
+    "def": "wedding"
+  },
+  {
+    "reading": "げんばく",
+    "kanji": "原爆",
+    "type": "n.",
+    "def": "atomic bomb"
+  },
+  {
+    "reading": "こうよう",
+    "kanji": "紅葉",
+    "type": "n.",
+    "def": "autumn leaves/colors"
+  },
+  {
+    "reading": "こむ",
+    "kanji": "混む",
+    "type": "u-v.",
+    "def": "to get crowded"
+  },
+  {
+    "reading": "こんでいる",
+    "kanji": "混んでいる",
+    "type": "exp.",
+    "def": "to be crowded"
+  },
+  {
+    "reading": "さいきん",
+    "kanji": "最近",
+    "type": "adv.",
+    "def": "recently"
+  },
+  {
+    "reading": "さがす",
+    "kanji": "探す",
+    "type": "u-v.",
+    "def": "to look for"
+  },
+  {
+    "reading": "さそう",
+    "kanji": "誘う",
+    "type": "u-v.",
+    "def": "to invite"
+  },
+  {
+    "reading": "さんかする",
+    "kanji": "参加する",
+    "type": "irr-v.",
+    "def": "to participate "
+  },
+  {
+    "reading": "しか",
+    "kanji": "鹿",
+    "type": "n.",
+    "def": "deer"
+  },
+  {
+    "reading": "しか",
+    "kanji": "歯科",
+    "type": "n.",
+    "def": "dentist"
+  },
+  {
+    "reading": "しぜん",
+    "kanji": "自然",
+    "type": "n.",
+    "def": "nature"
+  },
+  {
+    "reading": "しま",
+    "kanji": "島",
+    "type": "n.",
+    "def": "island"
+  },
+  {
+    "reading": "しめきり",
+    "kanji": "締め切り",
+    "type": "n.",
+    "def": "deadline"
+  },
+  {
+    "reading": "しゃべる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to chat"
+  },
+  {
+    "reading": "しゅうかん",
+    "kanji": "習慣",
+    "type": "n.",
+    "def": "custom"
+  },
+  {
+    "reading": "しゅじん",
+    "kanji": "主人",
+    "type": "n.",
+    "def": "head of a familiy"
+  },
+  {
+    "reading": "しらべる",
+    "kanji": "調べる",
+    "type": "ru-v.",
+    "def": "to look into (a matter) "
+  },
+  {
+    "reading": "じしょ",
+    "kanji": "辞書",
+    "type": "n.",
+    "def": "dictionary"
+  },
+  {
+    "reading": "じしん",
+    "kanji": "地震",
+    "type": "n.",
+    "def": "earthquake"
+  },
+  {
+    "reading": "する",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to cost "
+  },
+  {
+    "reading": "ぜいきん",
+    "kanji": "税金",
+    "type": "n.",
+    "def": "tax"
+  },
+  {
+    "reading": "そつぎょうしき",
+    "kanji": "卒業式",
+    "type": "n.",
+    "def": "graduation ceremony"
+  },
+  {
+    "reading": "そつぎょうする",
+    "kanji": "卒業する",
+    "type": "irr-v.",
+    "def": "to graduate (from . . . ) "
+  },
+  {
+    "reading": "そば",
+    "kanji": "",
+    "type": "n.",
+    "def": "soba; Japanese buckwheat noodles"
+  },
+  {
+    "reading": "たけ",
+    "kanji": "竹",
+    "type": "n.",
+    "def": "bamboo"
+  },
+  {
+    "reading": "たてもの",
+    "kanji": "建物",
+    "type": "n.",
+    "def": "building"
+  },
+  {
+    "reading": "たのしみです",
+    "kanji": "楽しみです",
+    "type": "exp.",
+    "def": "cannot wait; to look forward to it"
+  },
+  {
+    "reading": "たのしむ",
+    "kanji": "楽しむ",
+    "type": "u-v.",
+    "def": "to enjoy"
+  },
+  {
+    "reading": "だいよくじょう",
+    "kanji": "大浴場",
+    "type": "n.",
+    "def": "large spa"
+  },
+  {
+    "reading": "ちか",
+    "kanji": "地下",
+    "type": "n.",
+    "def": "underground"
+  },
+  {
+    "reading": "ちず",
+    "kanji": "地図",
+    "type": "n.",
+    "def": "map"
+  },
+  {
+    "reading": "ちょうしょくつき",
+    "kanji": "朝食付き",
+    "type": "n.",
+    "def": "with breakfast"
+  },
+  {
+    "reading": "つきあう",
+    "kanji": "付き合う",
+    "type": "u-v.",
+    "def": "to date (someone); to keep company"
+  },
+  {
+    "reading": "つく",
+    "kanji": "着く",
+    "type": "u-v.",
+    "def": "to arrive"
+  },
+  {
+    "reading": "つく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "(something) turns on"
+  },
+  {
+    "reading": "でんち",
+    "kanji": "電池",
+    "type": "n.",
+    "def": "battery"
+  },
+  {
+    "reading": "とおる",
+    "kanji": "通る",
+    "type": "u-v.",
+    "def": "to go through; to pass"
+  },
+  {
+    "reading": "にわ",
+    "kanji": "庭",
+    "type": "n.",
+    "def": "garden"
+  },
+  {
+    "reading": "のこす",
+    "kanji": "残す",
+    "type": "u-v.",
+    "def": "to leave; to preserve"
+  },
+  {
+    "reading": "はっぴょうする",
+    "kanji": "発表する",
+    "type": "irr-v.",
+    "def": "to make a presentation; to make public "
+  },
+  {
+    "reading": "ばしょ",
+    "kanji": "場所",
+    "type": "n.",
+    "def": "place"
+  },
+  {
+    "reading": "ひ",
+    "kanji": "日",
+    "type": "n.",
+    "def": "day"
+  },
+  {
+    "reading": "へいわ",
+    "kanji": "平和",
+    "type": "n.",
+    "def": "peace"
+  },
+  {
+    "reading": "へいわきねんしりょうかん",
+    "kanji": "平和記念資料館",
+    "type": "n.",
+    "def": "Peace Memorial Museum"
+  },
+  {
+    "reading": "ほけん",
+    "kanji": "保険",
+    "type": "n.",
+    "def": "insurance"
+  },
+  {
+    "reading": "ほけんにはいる",
+    "kanji": "保険に入る",
+    "type": "u-v.",
+    "def": "to buy insurance"
+  },
+  {
+    "reading": "まちあわせをする",
+    "kanji": "待ち合わせをする",
+    "type": "irr-v.",
+    "def": "to meet up "
+  },
+  {
+    "reading": "みえる",
+    "kanji": "見える",
+    "type": "ru-v.",
+    "def": "to be visible "
+  },
+  {
+    "reading": "みどり",
+    "kanji": "緑",
+    "type": "n.",
+    "def": "green"
+  },
+  {
+    "reading": "みなみ",
+    "kanji": "南",
+    "type": "n.",
+    "def": "south"
+  },
+  {
+    "reading": "もういちど",
+    "kanji": "もう一度",
+    "type": "adv.",
+    "def": "one more time"
+  },
+  {
+    "reading": "よてい",
+    "kanji": "予定",
+    "type": "n.",
+    "def": "schedule; plan"
+  },
+  {
+    "reading": "よやくする",
+    "kanji": "予約する",
+    "type": "irr-v.",
+    "def": "to reserve "
+  },
+  {
+    "reading": "りょかん",
+    "kanji": "旅館",
+    "type": "n.",
+    "def": "Japanese inn"
+  },
+  {
+    "reading": "わかもの",
+    "kanji": "若者",
+    "type": "n.",
+    "def": "young people"
+  },
+  {
+    "reading": "わたる",
+    "kanji": "渡る",
+    "type": "u-v.",
+    "def": "to cross"
+  },
+  {
+    "reading": "わりびきけん",
+    "kanji": "割引券",
+    "type": "n.",
+    "def": "discount coupon"
+  },
+  {
+    "reading": "インターネット",
+    "kanji": "",
+    "type": "n.",
+    "def": "internet"
+  },
+  {
+    "reading": "シングル",
+    "kanji": "",
+    "type": "n.",
+    "def": "single room"
+  },
+  {
+    "reading": "ジャケット",
+    "kanji": "",
+    "type": "n.",
+    "def": "jacket"
+  },
+  {
+    "reading": "スクランブルこうさてん",
+    "kanji": "スクランブル交差点",
+    "type": "n.",
+    "def": "scramble crossing"
+  },
+  {
+    "reading": "ダブル",
+    "kanji": "",
+    "type": "n.",
+    "def": "double room"
+  },
+  {
+    "reading": "チェックアウト（する）",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "checking out"
+  },
+  {
+    "reading": "チェックイン（する）",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "checking in"
+  },
+  {
+    "reading": "ツイン",
+    "kanji": "",
+    "type": "n.",
+    "def": "twin room"
+  },
+  {
+    "reading": "トロッコれっしゃ",
+    "kanji": "トロッコ列車",
+    "type": "n.",
+    "def": "small train usually for tourists"
+  },
+  {
+    "reading": "ファッション",
+    "kanji": "",
+    "type": "n.",
+    "def": "fashion"
+  },
+  {
+    "reading": "フロント",
+    "kanji": "",
+    "type": "n.",
+    "def": "receptionist; front desk"
+  },
+  {
+    "reading": "プール",
+    "kanji": "",
+    "type": "n.",
+    "def": "swimming pool"
+  },
+  {
+    "reading": "ペット",
+    "kanji": "",
+    "type": "n.",
+    "def": "pet"
+  },
+  {
+    "reading": "ボランティア",
+    "kanji": "",
+    "type": "n.",
+    "def": "volunteer"
+  },
+  {
+    "reading": "～けど",
+    "kanji": "",
+    "type": "part.",
+    "def": ". . . , but; . . . , so"
+  },
+  {
+    "reading": "～はく",
+    "kanji": "～泊",
+    "type": "suf.",
+    "def": ". . . nights"
+  },
+  {
+    "reading": "～め",
+    "kanji": "～目",
+    "type": "suf.",
+    "def": "=-th"
+  },
+  {
+    "reading": "～めい",
+    "kanji": "～名",
+    "type": "suf.",
+    "def": ". . . person(s)"
+  }
+]

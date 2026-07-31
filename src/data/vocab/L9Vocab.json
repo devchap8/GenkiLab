@@ -1,0 +1,524 @@
+[
+  {
+    "reading": "あおい",
+    "kanji": "青い",
+    "type": "い-adj.",
+    "def": "blue"
+  },
+  {
+    "reading": "あおしんごう",
+    "kanji": "青信号",
+    "type": "n.",
+    "def": "green light"
+  },
+  {
+    "reading": "あかい",
+    "kanji": "赤い",
+    "type": "い-adj.",
+    "def": "red"
+  },
+  {
+    "reading": "あんないする",
+    "kanji": "案内する",
+    "type": "irr-v.",
+    "def": "to show (someone) around"
+  },
+  {
+    "reading": "いいこ",
+    "kanji": "いい子",
+    "type": "n.",
+    "def": "good child"
+  },
+  {
+    "reading": "いじわる（な）",
+    "kanji": "意地悪",
+    "type": "な-adj.",
+    "def": "mean-spirited"
+  },
+  {
+    "reading": "いつつ",
+    "kanji": "五つ",
+    "type": "n.",
+    "def": "five"
+  },
+  {
+    "reading": "いろ",
+    "kanji": "色",
+    "type": "n.",
+    "def": "color"
+  },
+  {
+    "reading": "いろいろ（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "various; different kinds of"
+  },
+  {
+    "reading": "うんどうする",
+    "kanji": "運動する",
+    "type": "irr-v.",
+    "def": "to exercise "
+  },
+  {
+    "reading": "おどる",
+    "kanji": "踊る",
+    "type": "u-v.",
+    "def": "to dance"
+  },
+  {
+    "reading": "おべんとう",
+    "kanji": "お弁当",
+    "type": "n.",
+    "def": "boxed lunch"
+  },
+  {
+    "reading": "おぼえる",
+    "kanji": "覚える",
+    "type": "ru-v.",
+    "def": "to memorize "
+  },
+  {
+    "reading": "おわる",
+    "kanji": "終わる",
+    "type": "u-v.",
+    "def": "(something) ends"
+  },
+  {
+    "reading": "かおがあおい",
+    "kanji": "顔が青い",
+    "type": "い-adj.",
+    "def": "to look pale"
+  },
+  {
+    "reading": "かぶき",
+    "kanji": "歌舞伎",
+    "type": "n.",
+    "def": "Kabuki; traditional Japanese theatrical art"
+  },
+  {
+    "reading": "きいろい",
+    "kanji": "黄色い",
+    "type": "い-adj.",
+    "def": "yellow"
+  },
+  {
+    "reading": "きもの",
+    "kanji": "着物",
+    "type": "n.",
+    "def": "kimono; Japanese traditional dress"
+  },
+  {
+    "reading": "きょねん",
+    "kanji": "去年",
+    "type": "n.",
+    "def": "last year"
+  },
+  {
+    "reading": "きんいろ",
+    "kanji": "金色",
+    "type": "n.",
+    "def": "gold"
+  },
+  {
+    "reading": "ぎんいろ",
+    "kanji": "銀色",
+    "type": "n.",
+    "def": "silver"
+  },
+  {
+    "reading": "くすり",
+    "kanji": "薬",
+    "type": "n.",
+    "def": "medicine"
+  },
+  {
+    "reading": "くすりをのむ",
+    "kanji": "薬を飲む",
+    "type": "u-v.",
+    "def": "to take medicine"
+  },
+  {
+    "reading": "くろい",
+    "kanji": "黒い",
+    "type": "い-adj.",
+    "def": "black"
+  },
+  {
+    "reading": "ここのつ",
+    "kanji": "九つ",
+    "type": "n.",
+    "def": "nine"
+  },
+  {
+    "reading": "こんいろ",
+    "kanji": "紺色",
+    "type": "n.",
+    "def": "navy"
+  },
+  {
+    "reading": "こんど",
+    "kanji": "今度",
+    "type": "n.",
+    "def": "near future"
+  },
+  {
+    "reading": "ごぜんちゅう",
+    "kanji": "午前中",
+    "type": "n.",
+    "def": "in the morning"
+  },
+  {
+    "reading": "ごちそう",
+    "kanji": "",
+    "type": "n.",
+    "def": "excellent food"
+  },
+  {
+    "reading": "さくぶん",
+    "kanji": "作文",
+    "type": "n.",
+    "def": "essay; composition"
+  },
+  {
+    "reading": "さびしい",
+    "kanji": "寂しい",
+    "type": "い-adj.",
+    "def": "lonely"
+  },
+  {
+    "reading": "さんぽする",
+    "kanji": "散歩する",
+    "type": "irr-v.",
+    "def": "to take a walk "
+  },
+  {
+    "reading": "しけん",
+    "kanji": "試験",
+    "type": "n.",
+    "def": "exam"
+  },
+  {
+    "reading": "しろい",
+    "kanji": "白い",
+    "type": "い-adj.",
+    "def": "white"
+  },
+  {
+    "reading": "しろくろ",
+    "kanji": "白黒",
+    "type": "n.",
+    "def": "black and white"
+  },
+  {
+    "reading": "せんげつ",
+    "kanji": "先月",
+    "type": "n.",
+    "def": "last month"
+  },
+  {
+    "reading": "ぜひ",
+    "kanji": "是非",
+    "type": "adv.",
+    "def": "by all means"
+  },
+  {
+    "reading": "そう",
+    "kanji": "",
+    "type": "adv.",
+    "def": "(I think) so"
+  },
+  {
+    "reading": "そして",
+    "kanji": "",
+    "type": "adv.",
+    "def": "and then"
+  },
+  {
+    "reading": "たんご",
+    "kanji": "単語",
+    "type": "n.",
+    "def": "word; vocabulary"
+  },
+  {
+    "reading": "ちゃいろい",
+    "kanji": "茶色い",
+    "type": "い-adj.",
+    "def": "brown"
+  },
+  {
+    "reading": "てがみ",
+    "kanji": "手紙",
+    "type": "n.",
+    "def": "letter"
+  },
+  {
+    "reading": "でる",
+    "kanji": "出る",
+    "type": "ru-v.",
+    "def": "to appear; to attend; to exit "
+  },
+  {
+    "reading": "とお",
+    "kanji": "十",
+    "type": "n.",
+    "def": "ten"
+  },
+  {
+    "reading": "ところで",
+    "kanji": "",
+    "type": "adv.",
+    "def": "by the way"
+  },
+  {
+    "reading": "ななつ",
+    "kanji": "七つ",
+    "type": "n.",
+    "def": "seven"
+  },
+  {
+    "reading": "にっき",
+    "kanji": "日記",
+    "type": "n.",
+    "def": "diary"
+  },
+  {
+    "reading": "にんきがある",
+    "kanji": "人気がある",
+    "type": "u-v.",
+    "def": "to be popular"
+  },
+  {
+    "reading": "はいいろ",
+    "kanji": "灰色",
+    "type": "n.",
+    "def": "gray"
+  },
+  {
+    "reading": "はじまる",
+    "kanji": "始まる",
+    "type": "u-v.",
+    "def": "(something) begins"
+  },
+  {
+    "reading": "はなしをする",
+    "kanji": "話をする",
+    "type": "irr-v.",
+    "def": "to have a talk "
+  },
+  {
+    "reading": "ひく",
+    "kanji": "弾く",
+    "type": "u-v.",
+    "def": "to play (a string instrument or piano)"
+  },
+  {
+    "reading": "ひとつ",
+    "kanji": "一つ",
+    "type": "n.",
+    "def": "one"
+  },
+  {
+    "reading": "ひる",
+    "kanji": "昼",
+    "type": "n.",
+    "def": "noon"
+  },
+  {
+    "reading": "びょうき",
+    "kanji": "病気",
+    "type": "n.",
+    "def": "illness; sickness"
+  },
+  {
+    "reading": "ふたつ",
+    "kanji": "二つ",
+    "type": "n.",
+    "def": "two"
+  },
+  {
+    "reading": "べんとう",
+    "kanji": "弁当",
+    "type": "n.",
+    "def": "boxed lunch"
+  },
+  {
+    "reading": "みずいろ",
+    "kanji": "水色",
+    "type": "n.",
+    "def": "light blue"
+  },
+  {
+    "reading": "みっつ",
+    "kanji": "三つ",
+    "type": "n.",
+    "def": "three"
+  },
+  {
+    "reading": "みどり",
+    "kanji": "緑",
+    "type": "n.",
+    "def": "green"
+  },
+  {
+    "reading": "みんな",
+    "kanji": "",
+    "type": "adv.",
+    "def": "all"
+  },
+  {
+    "reading": "むっつ",
+    "kanji": "六つ",
+    "type": "n.",
+    "def": "six"
+  },
+  {
+    "reading": "むらさき",
+    "kanji": "紫",
+    "type": "n.",
+    "def": "purple"
+  },
+  {
+    "reading": "もう",
+    "kanji": "",
+    "type": "adv.",
+    "def": "already"
+  },
+  {
+    "reading": "もらう",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to get (from somebody)"
+  },
+  {
+    "reading": "やっつ",
+    "kanji": "八つ",
+    "type": "n.",
+    "def": "eight"
+  },
+  {
+    "reading": "よっつ",
+    "kanji": "四つ",
+    "type": "n.",
+    "def": "four"
+  },
+  {
+    "reading": "りょう",
+    "kanji": "両",
+    "type": "n.",
+    "def": "a unit of currency used in the Edo period"
+  },
+  {
+    "reading": "りょう",
+    "kanji": "寮",
+    "type": "n.",
+    "def": "dormitory"
+  },
+  {
+    "reading": "わかい",
+    "kanji": "若い",
+    "type": "い-adj.",
+    "def": "young"
+  },
+  {
+    "reading": "オレンジ",
+    "kanji": "",
+    "type": "n.",
+    "def": "orange"
+  },
+  {
+    "reading": "ギター",
+    "kanji": "",
+    "type": "n.",
+    "def": "guitar"
+  },
+  {
+    "reading": "グリーン",
+    "kanji": "",
+    "type": "n.",
+    "def": "green"
+  },
+  {
+    "reading": "グレー",
+    "kanji": "",
+    "type": "n.",
+    "def": "gray"
+  },
+  {
+    "reading": "コンサート",
+    "kanji": "",
+    "type": "n.",
+    "def": "concert"
+  },
+  {
+    "reading": "ゴールド",
+    "kanji": "",
+    "type": "n.",
+    "def": "gold"
+  },
+  {
+    "reading": "シルバー",
+    "kanji": "",
+    "type": "n.",
+    "def": "silver"
+  },
+  {
+    "reading": "スキー",
+    "kanji": "",
+    "type": "n.",
+    "def": "ski"
+  },
+  {
+    "reading": "チケット",
+    "kanji": "",
+    "type": "n.",
+    "def": "ticket"
+  },
+  {
+    "reading": "ピアノ",
+    "kanji": "",
+    "type": "n.",
+    "def": "piano"
+  },
+  {
+    "reading": "ピザ",
+    "kanji": "",
+    "type": "n.",
+    "def": "pizza"
+  },
+  {
+    "reading": "ピンク",
+    "kanji": "",
+    "type": "n.",
+    "def": "pink"
+  },
+  {
+    "reading": "ベージュ",
+    "kanji": "",
+    "type": "n.",
+    "def": "beige"
+  },
+  {
+    "reading": "ホストファミリー",
+    "kanji": "",
+    "type": "n.",
+    "def": "host family"
+  },
+  {
+    "reading": "メール",
+    "kanji": "",
+    "type": "n.",
+    "def": "e-mail"
+  },
+  {
+    "reading": "～から",
+    "kanji": "",
+    "type": "part.",
+    "def": "from . . ."
+  },
+  {
+    "reading": "～まで",
+    "kanji": "",
+    "type": "part.",
+    "def": "to (a place/a time)"
+  }
+]

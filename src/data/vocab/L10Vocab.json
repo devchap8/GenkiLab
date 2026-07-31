@@ -1,0 +1,680 @@
+[
+  {
+    "reading": "あき",
+    "kanji": "秋",
+    "type": "n.",
+    "def": "fall"
+  },
+  {
+    "reading": "あたたかい",
+    "kanji": "暖かい",
+    "type": "い-adj.",
+    "def": "warm"
+  },
+  {
+    "reading": "あるいて",
+    "kanji": "歩いて",
+    "type": "adv.",
+    "def": "on foot"
+  },
+  {
+    "reading": "いいこと",
+    "kanji": "",
+    "type": "n.",
+    "def": "good deed"
+  },
+  {
+    "reading": "いしゃ",
+    "kanji": "医者",
+    "type": "n.",
+    "def": "doctor"
+  },
+  {
+    "reading": "いちごうしゃ",
+    "kanji": "一号車",
+    "type": "n.",
+    "def": "Car No. 1"
+  },
+  {
+    "reading": "いちばん",
+    "kanji": "一番",
+    "type": "adv.",
+    "def": "best"
+  },
+  {
+    "reading": "いりぐち",
+    "kanji": "入口",
+    "type": "n.",
+    "def": "entrance"
+  },
+  {
+    "reading": "うる",
+    "kanji": "売る",
+    "type": "u-v.",
+    "def": "to sell"
+  },
+  {
+    "reading": "えき",
+    "kanji": "駅",
+    "type": "n.",
+    "def": "station"
+  },
+  {
+    "reading": "おうふく",
+    "kanji": "往復",
+    "type": "n.",
+    "def": "round trip"
+  },
+  {
+    "reading": "おかねもち",
+    "kanji": "お金持ち",
+    "type": "n.",
+    "def": "rich person"
+  },
+  {
+    "reading": "おしょうがつ",
+    "kanji": "お正月",
+    "type": "n.",
+    "def": "New Year’s"
+  },
+  {
+    "reading": "おじぞうさん",
+    "kanji": "",
+    "type": "n.",
+    "def": "guardian deity of children"
+  },
+  {
+    "reading": "おそい",
+    "kanji": "遅い",
+    "type": "い-adj.",
+    "def": "slow; late"
+  },
+  {
+    "reading": "おもち",
+    "kanji": "",
+    "type": "n.",
+    "def": "rice cake"
+  },
+  {
+    "reading": "かいさつ",
+    "kanji": "改札",
+    "type": "n.",
+    "def": "gate"
+  },
+  {
+    "reading": "かいだん",
+    "kanji": "階段",
+    "type": "n.",
+    "def": "stairs"
+  },
+  {
+    "reading": "かお",
+    "kanji": "顔",
+    "type": "n.",
+    "def": "face"
+  },
+  {
+    "reading": "かかる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to take (amount of time/money)"
+  },
+  {
+    "reading": "かさ",
+    "kanji": "",
+    "type": "n.",
+    "def": "bamboo hat"
+  },
+  {
+    "reading": "かさ",
+    "kanji": "傘",
+    "type": "n.",
+    "def": "umbrella"
+  },
+  {
+    "reading": "かたみち",
+    "kanji": "片道",
+    "type": "n.",
+    "def": "one way"
+  },
+  {
+    "reading": "かなしい",
+    "kanji": "悲しい",
+    "type": "い-adj.",
+    "def": "sad"
+  },
+  {
+    "reading": "かねもち",
+    "kanji": "金持ち",
+    "type": "n.",
+    "def": "rich person"
+  },
+  {
+    "reading": "かぶせる",
+    "kanji": "",
+    "type": "n.",
+    "def": "to put (a hat) on a person’s head "
+  },
+  {
+    "reading": "かんたん（な）",
+    "kanji": "簡単",
+    "type": "な-adj.",
+    "def": "easy; simple"
+  },
+  {
+    "reading": "がくわり",
+    "kanji": "学割",
+    "type": "n.",
+    "def": "student discount"
+  },
+  {
+    "reading": "きせつ",
+    "kanji": "季節",
+    "type": "n.",
+    "def": "season"
+  },
+  {
+    "reading": "きっぷうりば",
+    "kanji": "切符売り場",
+    "type": "n.",
+    "def": "ticket vending area"
+  },
+  {
+    "reading": "きめる",
+    "kanji": "決める",
+    "type": "ru-v.",
+    "def": "to decide "
+  },
+  {
+    "reading": "きゅうこう",
+    "kanji": "休講",
+    "type": "n.",
+    "def": "class cancellation"
+  },
+  {
+    "reading": "きゅうこう",
+    "kanji": "急行",
+    "type": "n.",
+    "def": "express"
+  },
+  {
+    "reading": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "type": "n.",
+    "def": "milk"
+  },
+  {
+    "reading": "こうつうけいアイシーカード",
+    "kanji": "交通系ICカード",
+    "type": "n.",
+    "def": "rechargeable card such as Suica, Icoca, Pasmo, etc."
+  },
+  {
+    "reading": "こえ",
+    "kanji": "声",
+    "type": "n.",
+    "def": "voice"
+  },
+  {
+    "reading": "ことし",
+    "kanji": "今年",
+    "type": "n.",
+    "def": "this year"
+  },
+  {
+    "reading": "このごろ",
+    "kanji": "",
+    "type": "adv.",
+    "def": "these days"
+  },
+  {
+    "reading": "ごろごろする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to chill out at home; to stay home do nothing "
+  },
+  {
+    "reading": "しあわせ（な）",
+    "kanji": "幸せ",
+    "type": "な-adj.",
+    "def": "happy (lasting happiness)"
+  },
+  {
+    "reading": "していせき",
+    "kanji": "指定席",
+    "type": "n.",
+    "def": "reserved seat"
+  },
+  {
+    "reading": "しゅうでん",
+    "kanji": "終電",
+    "type": "n.",
+    "def": "last train (of the day)"
+  },
+  {
+    "reading": "しょうがつ",
+    "kanji": "正月",
+    "type": "n.",
+    "def": "New Year’s"
+  },
+  {
+    "reading": "しんかんせん",
+    "kanji": "新幹線",
+    "type": "n.",
+    "def": "Shinkansen;  “Bullet Train”"
+  },
+  {
+    "reading": "じかん",
+    "kanji": "時間",
+    "type": "n.",
+    "def": "time"
+  },
+  {
+    "reading": "じぞう",
+    "kanji": "",
+    "type": "n.",
+    "def": "guardian deity of children"
+  },
+  {
+    "reading": "じはつ",
+    "kanji": "次発",
+    "type": "n.",
+    "def": "departing second"
+  },
+  {
+    "reading": "じぶん",
+    "kanji": "自分",
+    "type": "n.",
+    "def": "oneself"
+  },
+  {
+    "reading": "じゆうせき",
+    "kanji": "自由席",
+    "type": "n.",
+    "def": "general admission seat"
+  },
+  {
+    "reading": "じょうしゃけん",
+    "kanji": "乗車券",
+    "type": "n.",
+    "def": "(boarding) ticket"
+  },
+  {
+    "reading": "すし",
+    "kanji": "",
+    "type": "n.",
+    "def": "sushi"
+  },
+  {
+    "reading": "すずしい",
+    "kanji": "涼しい",
+    "type": "い-adj.",
+    "def": "cool (weather)"
+  },
+  {
+    "reading": "せいかつ",
+    "kanji": "生活",
+    "type": "n. ",
+    "def": "life; living"
+  },
+  {
+    "reading": "せかい",
+    "kanji": "世界",
+    "type": "n. ",
+    "def": "world"
+  },
+  {
+    "reading": "せんぱつ",
+    "kanji": "先発",
+    "type": "n.",
+    "def": "departing first"
+  },
+  {
+    "reading": "ちかてつ",
+    "kanji": "地下鉄",
+    "type": "n. ",
+    "def": "subway"
+  },
+  {
+    "reading": "つぎは～",
+    "kanji": "次は～",
+    "type": "exp.",
+    "def": "next (stop), . . ."
+  },
+  {
+    "reading": "つめたい",
+    "kanji": "冷たい",
+    "type": "い-adj.",
+    "def": "cold (things/people)"
+  },
+  {
+    "reading": "ていきけん",
+    "kanji": "定期券",
+    "type": "n.",
+    "def": "commuter’s pass"
+  },
+  {
+    "reading": "てぶくろ",
+    "kanji": "手袋",
+    "type": "n.",
+    "def": "gloves"
+  },
+  {
+    "reading": "てんぷら",
+    "kanji": "天ぷら",
+    "type": "n.",
+    "def": "tempura"
+  },
+  {
+    "reading": "でぐち",
+    "kanji": "出口",
+    "type": "n.",
+    "def": "exit"
+  },
+  {
+    "reading": "と",
+    "kanji": "戸",
+    "type": "n.",
+    "def": "door"
+  },
+  {
+    "reading": "とし",
+    "kanji": "年",
+    "type": "n.",
+    "def": "year"
+  },
+  {
+    "reading": "としうえ",
+    "kanji": "年上",
+    "type": "n.",
+    "def": "someone older"
+  },
+  {
+    "reading": "とっきゅう",
+    "kanji": "特急",
+    "type": "n.",
+    "def": "super express"
+  },
+  {
+    "reading": "とまる",
+    "kanji": "泊まる",
+    "type": "u-v.",
+    "def": "to stay (at a hotel, etc.)"
+  },
+  {
+    "reading": "とまる",
+    "kanji": "止まる",
+    "type": "u-v.",
+    "def": "to stop"
+  },
+  {
+    "reading": "とる",
+    "kanji": "取る",
+    "type": "u-v.",
+    "def": "to take (a class); to get (a grade)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "撮る",
+    "type": "u-v.",
+    "def": "to take (a picture)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to take off"
+  },
+  {
+    "reading": "どうぶつえん",
+    "kanji": "動物園",
+    "type": "n.",
+    "def": "zoo"
+  },
+  {
+    "reading": "どうやって",
+    "kanji": "",
+    "type": "adv.",
+    "def": "how; by what means"
+  },
+  {
+    "reading": "どちら",
+    "kanji": "",
+    "type": "n.",
+    "def": "where (polite)"
+  },
+  {
+    "reading": "どっち",
+    "kanji": "",
+    "type": "n.",
+    "def": "which"
+  },
+  {
+    "reading": "どのぐらい",
+    "kanji": "",
+    "type": "exp.",
+    "def": "how much; how long"
+  },
+  {
+    "reading": "なる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to become"
+  },
+  {
+    "reading": "ねむい",
+    "kanji": "眠い",
+    "type": "い-adj.",
+    "def": "sleepy"
+  },
+  {
+    "reading": "のりかえ",
+    "kanji": "乗り換え",
+    "type": "n.",
+    "def": "transfer"
+  },
+  {
+    "reading": "はやく",
+    "kanji": "早く/速く",
+    "type": "adv.",
+    "def": "(do something) early; fast"
+  },
+  {
+    "reading": "はる",
+    "kanji": "春",
+    "type": "n.",
+    "def": "spring"
+  },
+  {
+    "reading": "はる",
+    "kanji": "貼る",
+    "type": "u-v.",
+    "def": "to post; to stick"
+  },
+  {
+    "reading": "ばいてん",
+    "kanji": "売店",
+    "type": "n.",
+    "def": "shop; stand"
+  },
+  {
+    "reading": "ひこうき",
+    "kanji": "飛行機",
+    "type": "n.",
+    "def": "airplane"
+  },
+  {
+    "reading": "びっくりする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to be surprised "
+  },
+  {
+    "reading": "びよういん",
+    "kanji": "美容院",
+    "type": "n.",
+    "def": "beauty parlor"
+  },
+  {
+    "reading": "ふつう",
+    "kanji": "普通",
+    "type": "n.",
+    "def": "local (train)"
+  },
+  {
+    "reading": "ふね",
+    "kanji": "船",
+    "type": "n.",
+    "def": "ship; boat"
+  },
+  {
+    "reading": "むかしむかし",
+    "kanji": "昔々",
+    "type": "n.",
+    "def": "once upon a time"
+  },
+  {
+    "reading": "もち",
+    "kanji": "",
+    "type": "n.",
+    "def": "rice cake"
+  },
+  {
+    "reading": "やきゅう",
+    "kanji": "野球",
+    "type": "n.",
+    "def": "baseball"
+  },
+  {
+    "reading": "やまみち",
+    "kanji": "山道",
+    "type": "n.",
+    "def": "mountain road"
+  },
+  {
+    "reading": "ゆうめいじん",
+    "kanji": "有名人",
+    "type": "n.",
+    "def": "celebrity"
+  },
+  {
+    "reading": "ゆき",
+    "kanji": "雪",
+    "type": "n.",
+    "def": "snow"
+  },
+  {
+    "reading": "よやく",
+    "kanji": "予約",
+    "type": "n.",
+    "def": "reservation"
+  },
+  {
+    "reading": "りょうり",
+    "kanji": "料理",
+    "type": "n.",
+    "def": "cooking; dish"
+  },
+  {
+    "reading": "りょこうする",
+    "kanji": "旅行する",
+    "type": "irr-v.",
+    "def": "to travel "
+  },
+  {
+    "reading": "りんご",
+    "kanji": "",
+    "type": "n.",
+    "def": "apple"
+  },
+  {
+    "reading": "れんしゅうする",
+    "kanji": "練習する",
+    "type": "irr-v.",
+    "def": "to practice "
+  },
+  {
+    "reading": "ケーキ",
+    "kanji": "",
+    "type": "n.",
+    "def": "cake"
+  },
+  {
+    "reading": "サッカー",
+    "kanji": "",
+    "type": "n.",
+    "def": "soccer"
+  },
+  {
+    "reading": "ツアー",
+    "kanji": "",
+    "type": "n.",
+    "def": "tour"
+  },
+  {
+    "reading": "ホーム",
+    "kanji": "",
+    "type": "n.",
+    "def": "platform"
+  },
+  {
+    "reading": "～いき",
+    "kanji": "～行き",
+    "type": "suf.",
+    "def": "bound for . . ."
+  },
+  {
+    "reading": "～かげつ",
+    "kanji": "～か月",
+    "type": "suf.",
+    "def": "for . . . months"
+  },
+  {
+    "reading": "～か～",
+    "kanji": "",
+    "type": "part.",
+    "def": "or"
+  },
+  {
+    "reading": "～ご",
+    "kanji": "～後",
+    "type": "suf.",
+    "def": "in . . . time; after . . ."
+  },
+  {
+    "reading": "～ご",
+    "kanji": "～語",
+    "type": "suf.",
+    "def": ". . . language"
+  },
+  {
+    "reading": "～しゅうかん",
+    "kanji": "～週間",
+    "type": "suf.",
+    "def": "for . . . weeks"
+  },
+  {
+    "reading": "～で",
+    "kanji": "",
+    "type": "part.",
+    "def": "by (means of transportation); with (a tool)"
+  },
+  {
+    "reading": "～ねん",
+    "kanji": "～年",
+    "type": "suf.",
+    "def": ". . . years"
+  },
+  {
+    "reading": "～ばんせん",
+    "kanji": "～番線",
+    "type": "suf.",
+    "def": "track number . . ."
+  },
+  {
+    "reading": "～ほうめん",
+    "kanji": "～方面",
+    "type": "suf.",
+    "def": "serving . . . areas"
+  }
+]

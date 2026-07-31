@@ -1,0 +1,458 @@
+[
+  {
+    "reading": "あんぜん（な）",
+    "kanji": "安全",
+    "type": "な-adj.",
+    "def": "safe"
+  },
+  {
+    "reading": "いう（もんくを）",
+    "kanji": "言う（文句を）",
+    "type": "u-v.",
+    "def": "to complain"
+  },
+  {
+    "reading": "いじめる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to bully "
+  },
+  {
+    "reading": "いっしょうけんめい",
+    "kanji": "一生懸命",
+    "type": "adv.",
+    "def": "very hard"
+  },
+  {
+    "reading": "うらない",
+    "kanji": "占い",
+    "type": "n.",
+    "def": "fortune-telling"
+  },
+  {
+    "reading": "おおくの～",
+    "kanji": "多くの～",
+    "type": "pre.",
+    "def": "many . . ."
+  },
+  {
+    "reading": "おく",
+    "kanji": "置く",
+    "type": "u-v.",
+    "def": "to put; to lay; to place"
+  },
+  {
+    "reading": "おこる",
+    "kanji": "起こる",
+    "type": "u-v.",
+    "def": "to occur; to happen"
+  },
+  {
+    "reading": "おこる",
+    "kanji": "怒る",
+    "type": "u-v.",
+    "def": "to get angry"
+  },
+  {
+    "reading": "おまもり",
+    "kanji": "お守り",
+    "type": "n.",
+    "def": "charm (against evils); amulet"
+  },
+  {
+    "reading": "か",
+    "kanji": "蚊",
+    "type": "n.",
+    "def": "mosquito"
+  },
+  {
+    "reading": "かいぎ",
+    "kanji": "会議",
+    "type": "n.",
+    "def": "business meeting; conference"
+  },
+  {
+    "reading": "かよう",
+    "kanji": "通う",
+    "type": "u-v.",
+    "def": "to commute to"
+  },
+  {
+    "reading": "かんきょう",
+    "kanji": "環境",
+    "type": "n.",
+    "def": "environment"
+  },
+  {
+    "reading": "きがえる",
+    "kanji": "着替える",
+    "type": "ru-v.",
+    "def": "to change clothes "
+  },
+  {
+    "reading": "きがつく",
+    "kanji": "気が付く",
+    "type": "u-v.",
+    "def": "to notice"
+  },
+  {
+    "reading": "きにする",
+    "kanji": "気にする",
+    "type": "irr-v.",
+    "def": "to worry "
+  },
+  {
+    "reading": "くらべる",
+    "kanji": "比べる",
+    "type": "ru-v.",
+    "def": "to compare "
+  },
+  {
+    "reading": "けいさつ",
+    "kanji": "警察",
+    "type": "n.",
+    "def": "police; police station"
+  },
+  {
+    "reading": "ける",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to kick"
+  },
+  {
+    "reading": "こうじょう",
+    "kanji": "工場",
+    "type": "n.",
+    "def": "factory"
+  },
+  {
+    "reading": "こと",
+    "kanji": "",
+    "type": "n.",
+    "def": "things; matters"
+  },
+  {
+    "reading": "ごぜんちゅう",
+    "kanji": "午前中",
+    "type": "n.",
+    "def": "in the morning"
+  },
+  {
+    "reading": "さす",
+    "kanji": "刺す",
+    "type": "u-v.",
+    "def": "to bite"
+  },
+  {
+    "reading": "さわる",
+    "kanji": "触る",
+    "type": "u-v.",
+    "def": "to touch"
+  },
+  {
+    "reading": "しゅうでん",
+    "kanji": "終電",
+    "type": "n.",
+    "def": "last train (of the day)"
+  },
+  {
+    "reading": "しょくじ",
+    "kanji": "食事",
+    "type": "n.",
+    "def": "meal"
+  },
+  {
+    "reading": "しんじる",
+    "kanji": "信じる",
+    "type": "ru-v.",
+    "def": "to believe "
+  },
+  {
+    "reading": "しんぱい（な）",
+    "kanji": "心配",
+    "type": "な-adj.",
+    "def": "worried about"
+  },
+  {
+    "reading": "じゅぎょうりょう",
+    "kanji": "授業料",
+    "type": "n.",
+    "def": "tuition"
+  },
+  {
+    "reading": "すこし",
+    "kanji": "少し",
+    "type": "adv.",
+    "def": "a little"
+  },
+  {
+    "reading": "せいふ",
+    "kanji": "政府",
+    "type": "n.",
+    "def": "government"
+  },
+  {
+    "reading": "ぜいたくをする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to indulge in luxury "
+  },
+  {
+    "reading": "ただの～",
+    "kanji": "",
+    "type": "pre.",
+    "def": "nothing more than . . ."
+  },
+  {
+    "reading": "たのしみ",
+    "kanji": "楽しみ",
+    "type": "n.",
+    "def": "pleasure"
+  },
+  {
+    "reading": "ためる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to save money "
+  },
+  {
+    "reading": "ちかん",
+    "kanji": "",
+    "type": "n.",
+    "def": "groper; pervert"
+  },
+  {
+    "reading": "つかまる",
+    "kanji": "捕まる",
+    "type": "u-v.",
+    "def": "to be arrested; to be caught"
+  },
+  {
+    "reading": "つつむ",
+    "kanji": "包む",
+    "type": "u-v.",
+    "def": "to wrap; to cover"
+  },
+  {
+    "reading": "とおい",
+    "kanji": "遠い",
+    "type": "い-adj.",
+    "def": "far (away)"
+  },
+  {
+    "reading": "ところが",
+    "kanji": "",
+    "type": "adv.",
+    "def": "however; on the contrary"
+  },
+  {
+    "reading": "とにかく",
+    "kanji": "",
+    "type": "adv.",
+    "def": "anyhow; anyway"
+  },
+  {
+    "reading": "どうりょう",
+    "kanji": "同僚",
+    "type": "n.",
+    "def": "colleague"
+  },
+  {
+    "reading": "どろぼう",
+    "kanji": "泥棒",
+    "type": "n.",
+    "def": "thief; burglar"
+  },
+  {
+    "reading": "ながいあいだ",
+    "kanji": "長い間",
+    "type": "adv.",
+    "def": "long time"
+  },
+  {
+    "reading": "なぐる",
+    "kanji": "殴る",
+    "type": "u-v.",
+    "def": "to strike; to hit; to punch"
+  },
+  {
+    "reading": "にゅういんする",
+    "kanji": "入院する",
+    "type": "irr-v.",
+    "def": "to be hospitalized "
+  },
+  {
+    "reading": "ぬすむ",
+    "kanji": "盗む",
+    "type": "u-v.",
+    "def": "to steal; to rob"
+  },
+  {
+    "reading": "はる",
+    "kanji": "春",
+    "type": "n.",
+    "def": "spring"
+  },
+  {
+    "reading": "はる",
+    "kanji": "貼る",
+    "type": "u-v.",
+    "def": "to post; to stick"
+  },
+  {
+    "reading": "はんにん",
+    "kanji": "犯人",
+    "type": "n.",
+    "def": "criminal"
+  },
+  {
+    "reading": "ばかにする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to insult; to make a fool of . . . "
+  },
+  {
+    "reading": "ひどい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "awful"
+  },
+  {
+    "reading": "ひるねをする",
+    "kanji": "昼寝をする",
+    "type": "irr-v.",
+    "def": "to take a nap "
+  },
+  {
+    "reading": "びっくりする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to be surprised "
+  },
+  {
+    "reading": "ふべん（な）",
+    "kanji": "不便",
+    "type": "な-adj.",
+    "def": "inconvenient"
+  },
+  {
+    "reading": "ふむ",
+    "kanji": "踏む",
+    "type": "u-v.",
+    "def": "to step on"
+  },
+  {
+    "reading": "ふる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to turn down (somebody); to reject; to jilt"
+  },
+  {
+    "reading": "へん（な）",
+    "kanji": "変",
+    "type": "な-adj.",
+    "def": "strange; unusual"
+  },
+  {
+    "reading": "ほめる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to praise; to say nice things "
+  },
+  {
+    "reading": "まちがえる",
+    "kanji": "間違える",
+    "type": "ru-v.",
+    "def": "to make a mistake "
+  },
+  {
+    "reading": "みつける",
+    "kanji": "見つける",
+    "type": "ru-v.",
+    "def": "to find "
+  },
+  {
+    "reading": "むかし",
+    "kanji": "昔",
+    "type": "n.",
+    "def": "old days; past"
+  },
+  {
+    "reading": "めいしん",
+    "kanji": "迷信",
+    "type": "n.",
+    "def": "superstition"
+  },
+  {
+    "reading": "めちゃくちゃ（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "messy; disorganized"
+  },
+  {
+    "reading": "めったに～ない",
+    "kanji": "",
+    "type": "adv.",
+    "def": "seldom"
+  },
+  {
+    "reading": "もんく",
+    "kanji": "文句",
+    "type": "n.",
+    "def": "complaint"
+  },
+  {
+    "reading": "もんくをいう",
+    "kanji": "文句を言う",
+    "type": "u-v.",
+    "def": "to complain"
+  },
+  {
+    "reading": "やく",
+    "kanji": "焼く",
+    "type": "u-v.",
+    "def": "to bake; to burn; to grill"
+  },
+  {
+    "reading": "やる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to do; to perform"
+  },
+  {
+    "reading": "るす",
+    "kanji": "留守",
+    "type": "n.",
+    "def": "absence; not at home"
+  },
+  {
+    "reading": "れんらくする",
+    "kanji": "連絡する",
+    "type": "irr-v.",
+    "def": "to contact "
+  },
+  {
+    "reading": "ガソリン",
+    "kanji": "",
+    "type": "n.",
+    "def": "gasoline"
+  },
+  {
+    "reading": "スピーチ",
+    "kanji": "",
+    "type": "n.",
+    "def": "speech"
+  },
+  {
+    "reading": "ポスター",
+    "kanji": "",
+    "type": "n.",
+    "def": "poster"
+  },
+  {
+    "reading": "～ころ",
+    "kanji": "",
+    "type": "suf.",
+    "def": "time of . . . ; when . . ."
+  }
+]

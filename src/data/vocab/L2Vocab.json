@@ -1,0 +1,404 @@
+[
+  {
+    "reading": "あそこ",
+    "kanji": "",
+    "type": "n.",
+    "def": "over there"
+  },
+  {
+    "reading": "あの",
+    "kanji": "",
+    "type": "pre.",
+    "def": "that . . . (over there)"
+  },
+  {
+    "reading": "あれ",
+    "kanji": "",
+    "type": "n.",
+    "def": "that one (over there)"
+  },
+  {
+    "reading": "いくら",
+    "kanji": "",
+    "type": "n.",
+    "def": "how much"
+  },
+  {
+    "reading": "いす",
+    "kanji": "",
+    "type": "n.",
+    "def": "chair"
+  },
+  {
+    "reading": "いらっしゃいませ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Welcome (to our store)."
+  },
+  {
+    "reading": "えいご",
+    "kanji": "英語",
+    "type": "n.",
+    "def": "English language"
+  },
+  {
+    "reading": "おいしい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "delicious"
+  },
+  {
+    "reading": "おかあさん",
+    "kanji": "お母さん",
+    "type": "n.",
+    "def": "mother"
+  },
+  {
+    "reading": "おとうさん",
+    "kanji": "お父さん",
+    "type": "n.",
+    "def": "father"
+  },
+  {
+    "reading": "おねがいします（～を）",
+    "kanji": "",
+    "type": "exp.",
+    "def": ". . . , please."
+  },
+  {
+    "reading": "かさ",
+    "kanji": "",
+    "type": "n.",
+    "def": "bamboo hat"
+  },
+  {
+    "reading": "かさ",
+    "kanji": "傘",
+    "type": "n.",
+    "def": "umbrella"
+  },
+  {
+    "reading": "かばん",
+    "kanji": "",
+    "type": "n.",
+    "def": "bag"
+  },
+  {
+    "reading": "かんこく",
+    "kanji": "韓国",
+    "type": "n.",
+    "def": "Korea"
+  },
+  {
+    "reading": "ぎんこう",
+    "kanji": "銀行",
+    "type": "n.",
+    "def": "bank"
+  },
+  {
+    "reading": "ください（～を）",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Please give me . . ."
+  },
+  {
+    "reading": "くつ",
+    "kanji": "靴",
+    "type": "n.",
+    "def": "shoes"
+  },
+  {
+    "reading": "けいざい",
+    "kanji": "経済",
+    "type": "n.",
+    "def": "economics"
+  },
+  {
+    "reading": "けしゴム",
+    "kanji": "消しゴム",
+    "type": "n.",
+    "def": "eraser"
+  },
+  {
+    "reading": "こくばん",
+    "kanji": "黒板",
+    "type": "n.",
+    "def": "blackboard"
+  },
+  {
+    "reading": "ここ",
+    "kanji": "",
+    "type": "n.",
+    "def": "here"
+  },
+  {
+    "reading": "この",
+    "kanji": "",
+    "type": "pre.",
+    "def": "this . . ."
+  },
+  {
+    "reading": "これ",
+    "kanji": "",
+    "type": "n.",
+    "def": "this one"
+  },
+  {
+    "reading": "さいふ",
+    "kanji": "財布",
+    "type": "n.",
+    "def": "wallet"
+  },
+  {
+    "reading": "さかな",
+    "kanji": "魚",
+    "type": "n.",
+    "def": "fish"
+  },
+  {
+    "reading": "しんぶん",
+    "kanji": "新聞",
+    "type": "n.",
+    "def": "newspaper"
+  },
+  {
+    "reading": "じしょ",
+    "kanji": "辞書",
+    "type": "n.",
+    "def": "dictionary"
+  },
+  {
+    "reading": "じてんしゃ",
+    "kanji": "自転車",
+    "type": "n.",
+    "def": "bicycle"
+  },
+  {
+    "reading": "じゃあ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "then . . . ; if that is the case, . . ."
+  },
+  {
+    "reading": "そこ",
+    "kanji": "",
+    "type": "n.",
+    "def": "there"
+  },
+  {
+    "reading": "その",
+    "kanji": "",
+    "type": "pre.",
+    "def": "that . . ."
+  },
+  {
+    "reading": "それ",
+    "kanji": "",
+    "type": "n.",
+    "def": "that one"
+  },
+  {
+    "reading": "たかい",
+    "kanji": "高い",
+    "type": "い-adj.",
+    "def": "expensive; high"
+  },
+  {
+    "reading": "だれ",
+    "kanji": "",
+    "type": "n.",
+    "def": "who"
+  },
+  {
+    "reading": "ちゅうごく",
+    "kanji": "中国",
+    "type": "n.",
+    "def": "China"
+  },
+  {
+    "reading": "つくえ",
+    "kanji": "机",
+    "type": "n.",
+    "def": "desk"
+  },
+  {
+    "reading": "でんき",
+    "kanji": "電気",
+    "type": "n.",
+    "def": "electricity; light"
+  },
+  {
+    "reading": "とけい",
+    "kanji": "時計",
+    "type": "n.",
+    "def": "watch; clock"
+  },
+  {
+    "reading": "としょかん",
+    "kanji": "図書館",
+    "type": "n.",
+    "def": "library"
+  },
+  {
+    "reading": "とんかつ",
+    "kanji": "",
+    "type": "n.",
+    "def": "pork cutlet"
+  },
+  {
+    "reading": "どうぞ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Please.; Here it is."
+  },
+  {
+    "reading": "どうも",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Thank you."
+  },
+  {
+    "reading": "どこ",
+    "kanji": "",
+    "type": "n.",
+    "def": "where"
+  },
+  {
+    "reading": "どの",
+    "kanji": "",
+    "type": "pre.",
+    "def": "which . . ."
+  },
+  {
+    "reading": "どれ",
+    "kanji": "",
+    "type": "n.",
+    "def": "which one"
+  },
+  {
+    "reading": "にく",
+    "kanji": "肉",
+    "type": "n.",
+    "def": "meat"
+  },
+  {
+    "reading": "ほん",
+    "kanji": "本",
+    "type": "n.",
+    "def": "book"
+  },
+  {
+    "reading": "ぼうし",
+    "kanji": "帽子",
+    "type": "n.",
+    "def": "hat; cap"
+  },
+  {
+    "reading": "まど",
+    "kanji": "窓",
+    "type": "n.",
+    "def": "window"
+  },
+  {
+    "reading": "やさい",
+    "kanji": "野菜",
+    "type": "n.",
+    "def": "vegetable"
+  },
+  {
+    "reading": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "type": "n.",
+    "def": "post office"
+  },
+  {
+    "reading": "れきし",
+    "kanji": "歴史",
+    "type": "n.",
+    "def": "history"
+  },
+  {
+    "reading": "イギリス",
+    "kanji": "",
+    "type": "n.",
+    "def": "Britain"
+  },
+  {
+    "reading": "カーテン",
+    "kanji": "",
+    "type": "n.",
+    "def": "curtain"
+  },
+  {
+    "reading": "コンビニ",
+    "kanji": "",
+    "type": "n.",
+    "def": "convenience store"
+  },
+  {
+    "reading": "コンピューター",
+    "kanji": "",
+    "type": "n.",
+    "def": "computer"
+  },
+  {
+    "reading": "ジーンズ",
+    "kanji": "",
+    "type": "n.",
+    "def": "jeans"
+  },
+  {
+    "reading": "スマホ",
+    "kanji": "",
+    "type": "n.",
+    "def": "smartphone; mobile"
+  },
+  {
+    "reading": "ティーシャツ",
+    "kanji": "Ｔシャツ",
+    "type": "n.",
+    "def": "T-shirt"
+  },
+  {
+    "reading": "トイレ",
+    "kanji": "",
+    "type": "n.",
+    "def": "toilet; restroom"
+  },
+  {
+    "reading": "ドア",
+    "kanji": "",
+    "type": "n.",
+    "def": "door"
+  },
+  {
+    "reading": "ノート",
+    "kanji": "",
+    "type": "n.",
+    "def": "notebook"
+  },
+  {
+    "reading": "ビジネス",
+    "kanji": "",
+    "type": "n.",
+    "def": "business"
+  },
+  {
+    "reading": "ペン",
+    "kanji": "",
+    "type": "n.",
+    "def": "pen"
+  },
+  {
+    "reading": "メニュー",
+    "kanji": "",
+    "type": "n.",
+    "def": "menu"
+  },
+  {
+    "reading": "～えん",
+    "kanji": "～円",
+    "type": "suf.",
+    "def": ". . . yen"
+  }
+]

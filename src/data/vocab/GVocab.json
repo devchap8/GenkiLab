@@ -1,0 +1,116 @@
+[
+  {
+    "reading": "ありがとう",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Thank you."
+  },
+  {
+    "reading": "ありがとうございます",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Thank you. (polite)"
+  },
+  {
+    "reading": "いいえ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "No.; Not at all."
+  },
+  {
+    "reading": "いただきます",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Thank you for the meal. (before eating)"
+  },
+  {
+    "reading": "いってきます",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I’ll go and come back."
+  },
+  {
+    "reading": "いってらっしゃい",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Please go and come back."
+  },
+  {
+    "reading": "おかえり（なさい）",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Welcome home."
+  },
+  {
+    "reading": "おはよう",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Good morning."
+  },
+  {
+    "reading": "おはようございます",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Good morning. (polite)"
+  },
+  {
+    "reading": "おやすみ（なさい）",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Good night."
+  },
+  {
+    "reading": "こんにちは",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Good afternoon."
+  },
+  {
+    "reading": "こんばんは",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Good evening."
+  },
+  {
+    "reading": "ごちそうさま（でした）",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Thank you for the meal. (after eating)"
+  },
+  {
+    "reading": "さようなら",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Good-bye."
+  },
+  {
+    "reading": "すみません",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Excuse me.;  I’m sorry."
+  },
+  {
+    "reading": "ただいま",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I’m home."
+  },
+  {
+    "reading": "はじめまして",
+    "kanji": "",
+    "type": "exp.",
+    "def": "How do you do ?"
+  },
+  {
+    "reading": "よろしくおねがいします",
+    "kanji": "よろしくお願いします",
+    "type": "exp.",
+    "def": "Nice to meet you."
+  },
+  {
+    "reading": "～です",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I am . . . ."
+  }
+]

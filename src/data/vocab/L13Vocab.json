@@ -1,0 +1,602 @@
+[
+  {
+    "reading": "あずけいれ",
+    "kanji": "預け入れ",
+    "type": "n.",
+    "def": "deposit"
+  },
+  {
+    "reading": "あむ",
+    "kanji": "編む",
+    "type": "u-v.",
+    "def": "to knit"
+  },
+  {
+    "reading": "あんしょうばんごう",
+    "kanji": "暗証番号",
+    "type": "n.",
+    "def": "personal identification number"
+  },
+  {
+    "reading": "いちにち",
+    "kanji": "一日",
+    "type": "n.",
+    "def": "one day"
+  },
+  {
+    "reading": "いっしょうにいちど",
+    "kanji": "一生に一度",
+    "type": "adv.",
+    "def": "once in a lifetime"
+  },
+  {
+    "reading": "いつか",
+    "kanji": "五日",
+    "type": "n.",
+    "def": "five days"
+  },
+  {
+    "reading": "いろいろ（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "various; different kinds of"
+  },
+  {
+    "reading": "うれしい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "glad"
+  },
+  {
+    "reading": "おあずけいれ",
+    "kanji": "お預け入れ",
+    "type": "n.",
+    "def": "deposit"
+  },
+  {
+    "reading": "おくれる",
+    "kanji": "遅れる",
+    "type": "ru-v.",
+    "def": "to become late "
+  },
+  {
+    "reading": "おとな",
+    "kanji": "大人",
+    "type": "n.",
+    "def": "adult"
+  },
+  {
+    "reading": "おひきだし",
+    "kanji": "お引き出し",
+    "type": "n.",
+    "def": "withdrawal"
+  },
+  {
+    "reading": "おふりこみ",
+    "kanji": "お振込",
+    "type": "n.",
+    "def": "bank transfer"
+  },
+  {
+    "reading": "かなしい",
+    "kanji": "悲しい",
+    "type": "い-adj.",
+    "def": "sad"
+  },
+  {
+    "reading": "かめ",
+    "kanji": "",
+    "type": "n.",
+    "def": "turtle"
+  },
+  {
+    "reading": "からい",
+    "kanji": "辛い",
+    "type": "い-adj.",
+    "def": "hot and spicy; salty"
+  },
+  {
+    "reading": "からだ",
+    "kanji": "体",
+    "type": "n.",
+    "def": "body"
+  },
+  {
+    "reading": "からて",
+    "kanji": "空手",
+    "type": "n.",
+    "def": "karate"
+  },
+  {
+    "reading": "かんどうする",
+    "kanji": "感動する",
+    "type": "irr-v.",
+    "def": "to be moved/touched (by . . . ) "
+  },
+  {
+    "reading": "がいこくご",
+    "kanji": "外国語",
+    "type": "n.",
+    "def": "foreign language"
+  },
+  {
+    "reading": "がっき",
+    "kanji": "楽器",
+    "type": "n.",
+    "def": "musical instrument"
+  },
+  {
+    "reading": "がんばる",
+    "kanji": "頑張る",
+    "type": "u-v.",
+    "def": "to do one’s best; to try hard"
+  },
+  {
+    "reading": "きびしい",
+    "kanji": "厳しい",
+    "type": "い-adj.",
+    "def": "strict"
+  },
+  {
+    "reading": "きぶんがわるい",
+    "kanji": "気分が悪い",
+    "type": "い-adj.",
+    "def": "not to feel well; to feel sick"
+  },
+  {
+    "reading": "きもの",
+    "kanji": "着物",
+    "type": "n.",
+    "def": "kimono; Japanese traditional dress"
+  },
+  {
+    "reading": "きんがく",
+    "kanji": "金額",
+    "type": "n.",
+    "def": "amount"
+  },
+  {
+    "reading": "くうこう",
+    "kanji": "空港",
+    "type": "n.",
+    "def": "airport"
+  },
+  {
+    "reading": "けいけん",
+    "kanji": "経験",
+    "type": "n.",
+    "def": "experience"
+  },
+  {
+    "reading": "げんきん",
+    "kanji": "現金",
+    "type": "n.",
+    "def": "cash"
+  },
+  {
+    "reading": "こうこく",
+    "kanji": "広告",
+    "type": "n.",
+    "def": "advertisement"
+  },
+  {
+    "reading": "こうざ",
+    "kanji": "口座",
+    "type": "n.",
+    "def": "account"
+  },
+  {
+    "reading": "こうちゃ",
+    "kanji": "紅茶",
+    "type": "n.",
+    "def": "black tea"
+  },
+  {
+    "reading": "ここのか",
+    "kanji": "九日",
+    "type": "n.",
+    "def": "nine days"
+  },
+  {
+    "reading": "ことば",
+    "kanji": "言葉",
+    "type": "n.",
+    "def": "language"
+  },
+  {
+    "reading": "ざだんかい",
+    "kanji": "座談会",
+    "type": "n.",
+    "def": "round-table discussion"
+  },
+  {
+    "reading": "ざんだかしょうかい",
+    "kanji": "残高照会",
+    "type": "n.",
+    "def": "balance inquiry"
+  },
+  {
+    "reading": "しあわせ（な）",
+    "kanji": "幸せ",
+    "type": "な-adj.",
+    "def": "happy (lasting happiness)"
+  },
+  {
+    "reading": "じかんどおり",
+    "kanji": "時間通り",
+    "type": "n.",
+    "def": "on time"
+  },
+  {
+    "reading": "じどう",
+    "kanji": "自動",
+    "type": "n.",
+    "def": "automatic"
+  },
+  {
+    "reading": "すごい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "incredible; awesome"
+  },
+  {
+    "reading": "すっぽん",
+    "kanji": "",
+    "type": "n.",
+    "def": "snapping turtle; terrapin"
+  },
+  {
+    "reading": "ぜんぶ",
+    "kanji": "全部",
+    "type": "adv.",
+    "def": "all"
+  },
+  {
+    "reading": "ぞう",
+    "kanji": "象",
+    "type": "n.",
+    "def": "elephant"
+  },
+  {
+    "reading": "だめ（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "no good"
+  },
+  {
+    "reading": "ちかい",
+    "kanji": "近い",
+    "type": "い-adj.",
+    "def": "close; near"
+  },
+  {
+    "reading": "つうちょう",
+    "kanji": "通帳",
+    "type": "n.",
+    "def": "passbook"
+  },
+  {
+    "reading": "つうちょうきにゅう",
+    "kanji": "通帳記入",
+    "type": "n.",
+    "def": "passbook update"
+  },
+  {
+    "reading": "つく",
+    "kanji": "着く",
+    "type": "u-v.",
+    "def": "to arrive"
+  },
+  {
+    "reading": "つく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "(something) turns on"
+  },
+  {
+    "reading": "てすうりょう",
+    "kanji": "手数料",
+    "type": "n.",
+    "def": "commission"
+  },
+  {
+    "reading": "とおか",
+    "kanji": "十日",
+    "type": "n.",
+    "def": "ten days"
+  },
+  {
+    "reading": "とくに",
+    "kanji": "特に",
+    "type": "adv.",
+    "def": "especially"
+  },
+  {
+    "reading": "とり",
+    "kanji": "鳥",
+    "type": "n.",
+    "def": "bird; poultry"
+  },
+  {
+    "reading": "なく",
+    "kanji": "泣く",
+    "type": "u-v.",
+    "def": "to cry"
+  },
+  {
+    "reading": "なのか",
+    "kanji": "七日",
+    "type": "n.",
+    "def": "seven days"
+  },
+  {
+    "reading": "なべ",
+    "kanji": "",
+    "type": "n.",
+    "def": "pot"
+  },
+  {
+    "reading": "なんでも",
+    "kanji": "",
+    "type": "adv.",
+    "def": "anything; everything"
+  },
+  {
+    "reading": "ひきだし",
+    "kanji": "引き出し",
+    "type": "n.",
+    "def": "withdrawal"
+  },
+  {
+    "reading": "ふあん（な）",
+    "kanji": "不安",
+    "type": "な-adj.",
+    "def": "anxious; worried"
+  },
+  {
+    "reading": "ふつか",
+    "kanji": "二日",
+    "type": "n.",
+    "def": "the second day of a month"
+  },
+  {
+    "reading": "ふりこみ",
+    "kanji": "振込",
+    "type": "n.",
+    "def": "bank transfer"
+  },
+  {
+    "reading": "ぶっか",
+    "kanji": "物価",
+    "type": "n.",
+    "def": "consumer prices"
+  },
+  {
+    "reading": "ぶんぽう",
+    "kanji": "文法",
+    "type": "n.",
+    "def": "grammar"
+  },
+  {
+    "reading": "べんごし",
+    "kanji": "弁護士",
+    "type": "n.",
+    "def": "lawyer"
+  },
+  {
+    "reading": "ぼしゅう",
+    "kanji": "募集",
+    "type": "n.",
+    "def": "recruitment"
+  },
+  {
+    "reading": "みがく",
+    "kanji": "磨く",
+    "type": "u-v.",
+    "def": "to brush (teeth); to polish"
+  },
+  {
+    "reading": "みずぎ",
+    "kanji": "水着",
+    "type": "n.",
+    "def": "swimwear"
+  },
+  {
+    "reading": "みせ",
+    "kanji": "店",
+    "type": "n.",
+    "def": "shop; store"
+  },
+  {
+    "reading": "みっか",
+    "kanji": "三日",
+    "type": "n.",
+    "def": "the third day of a month"
+  },
+  {
+    "reading": "むいか",
+    "kanji": "六日",
+    "type": "n.",
+    "def": "six days"
+  },
+  {
+    "reading": "めずらしい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "rare"
+  },
+  {
+    "reading": "もう～ない",
+    "kanji": "",
+    "type": "adv.",
+    "def": "not any longer"
+  },
+  {
+    "reading": "やくそく",
+    "kanji": "約束",
+    "type": "n.",
+    "def": "promise; appointment"
+  },
+  {
+    "reading": "やくそくをまもる",
+    "kanji": "約束を守る",
+    "type": "u-v.",
+    "def": "to keep a promise"
+  },
+  {
+    "reading": "やっぱり",
+    "kanji": "",
+    "type": "adv.",
+    "def": "after all"
+  },
+  {
+    "reading": "ようか",
+    "kanji": "八日",
+    "type": "n.",
+    "def": "eight days"
+  },
+  {
+    "reading": "よきん",
+    "kanji": "預金",
+    "type": "n.",
+    "def": "savings"
+  },
+  {
+    "reading": "よっか",
+    "kanji": "四日",
+    "type": "n.",
+    "def": "four days"
+  },
+  {
+    "reading": "りょうがえ",
+    "kanji": "両替",
+    "type": "n.",
+    "def": "money exchange"
+  },
+  {
+    "reading": "わたくし",
+    "kanji": "私",
+    "type": "n.",
+    "def": "I (formal)"
+  },
+  {
+    "reading": "アナウンス",
+    "kanji": "",
+    "type": "n.",
+    "def": "announcement"
+  },
+  {
+    "reading": "アパート",
+    "kanji": "",
+    "type": "n.",
+    "def": "apartment; smaller apartment building"
+  },
+  {
+    "reading": "アプリ",
+    "kanji": "",
+    "type": "n.",
+    "def": "application"
+  },
+  {
+    "reading": "カレー",
+    "kanji": "",
+    "type": "n.",
+    "def": "curry"
+  },
+  {
+    "reading": "キャッシュカード",
+    "kanji": "",
+    "type": "n.",
+    "def": "bank card"
+  },
+  {
+    "reading": "クレジットカード",
+    "kanji": "",
+    "type": "n.",
+    "def": "credit card"
+  },
+  {
+    "reading": "ゴルフ",
+    "kanji": "",
+    "type": "n.",
+    "def": "golf"
+  },
+  {
+    "reading": "セーター",
+    "kanji": "",
+    "type": "n.",
+    "def": "sweater"
+  },
+  {
+    "reading": "タクシー",
+    "kanji": "",
+    "type": "n.",
+    "def": "taxi"
+  },
+  {
+    "reading": "チップ",
+    "kanji": "",
+    "type": "n.",
+    "def": "tip"
+  },
+  {
+    "reading": "デザート",
+    "kanji": "",
+    "type": "n.",
+    "def": "desert"
+  },
+  {
+    "reading": "ドア",
+    "kanji": "",
+    "type": "n.",
+    "def": "door"
+  },
+  {
+    "reading": "ニヤニヤする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to grin "
+  },
+  {
+    "reading": "バイク",
+    "kanji": "",
+    "type": "n.",
+    "def": "motorcycle"
+  },
+  {
+    "reading": "プリン",
+    "kanji": "",
+    "type": "n.",
+    "def": "pudding"
+  },
+  {
+    "reading": "マンション",
+    "kanji": "",
+    "type": "n.",
+    "def": "larger apartment building; condominium"
+  },
+  {
+    "reading": "～かい",
+    "kanji": "～回",
+    "type": "suf.",
+    "def": ". . . times"
+  },
+  {
+    "reading": "～かい",
+    "kanji": "～階",
+    "type": "suf.",
+    "def": ". . . th floor"
+  },
+  {
+    "reading": "～ともうします",
+    "kanji": "～と申します",
+    "type": "exp.",
+    "def": "my name is . . ."
+  },
+  {
+    "reading": "～キロ",
+    "kanji": "",
+    "type": "suf.",
+    "def": ". . . kilometers; . . . kilograms"
+  }
+]

@@ -1,0 +1,638 @@
+[
+  {
+    "reading": "あかちゃん",
+    "kanji": "赤ちゃん",
+    "type": "n.",
+    "def": "baby"
+  },
+  {
+    "reading": "あぶない",
+    "kanji": "危ない",
+    "type": "い-adj.",
+    "def": "dangerous"
+  },
+  {
+    "reading": "いれる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to make tea, coffee, etc. "
+  },
+  {
+    "reading": "いれる",
+    "kanji": "入れる",
+    "type": "ru-v.",
+    "def": "to put (something) in "
+  },
+  {
+    "reading": "うまれる",
+    "kanji": "生まれる",
+    "type": "ru-v.",
+    "def": "to be born "
+  },
+  {
+    "reading": "うらやましい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "envious"
+  },
+  {
+    "reading": "えいきょうをうける",
+    "kanji": "影響を受ける",
+    "type": "ru-v.",
+    "def": "to be affected "
+  },
+  {
+    "reading": "えらぶ",
+    "kanji": "選ぶ",
+    "type": "u-v.",
+    "def": "to choose; to select"
+  },
+  {
+    "reading": "おいのりする",
+    "kanji": "お祈りする",
+    "type": "irr-v.",
+    "def": "to pray "
+  },
+  {
+    "reading": "おきゃくさん",
+    "kanji": "お客さん",
+    "type": "n.",
+    "def": "guest; visitor; client; customer"
+  },
+  {
+    "reading": "おめでとうございます",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Congratulations!"
+  },
+  {
+    "reading": "おもに",
+    "kanji": "主に",
+    "type": "adv.",
+    "def": "mainly"
+  },
+  {
+    "reading": "おゆ",
+    "kanji": "お湯",
+    "type": "n.",
+    "def": "hot water"
+  },
+  {
+    "reading": "おゆをわかす",
+    "kanji": "お湯を沸かす",
+    "type": "u-v.",
+    "def": "to boil water"
+  },
+  {
+    "reading": "かぎ",
+    "kanji": "鍵",
+    "type": "n.",
+    "def": "lock; key"
+  },
+  {
+    "reading": "かぎをかける",
+    "kanji": "鍵をかける",
+    "type": "ru-v.",
+    "def": "to lock "
+  },
+  {
+    "reading": "かける（かぎを）",
+    "kanji": "かける（鍵を）",
+    "type": "ru-v.",
+    "def": "to lock "
+  },
+  {
+    "reading": "かける（パーマを）",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to have one’s hair permed "
+  },
+  {
+    "reading": "かじ",
+    "kanji": "火事",
+    "type": "n.",
+    "def": "fire"
+  },
+  {
+    "reading": "かじ",
+    "kanji": "家事",
+    "type": "n.",
+    "def": "housework"
+  },
+  {
+    "reading": "かぞえる",
+    "kanji": "数える",
+    "type": "ru-v.",
+    "def": "to count "
+  },
+  {
+    "reading": "かみ",
+    "kanji": "髪",
+    "type": "n.",
+    "def": "hair"
+  },
+  {
+    "reading": "かみ",
+    "kanji": "紙",
+    "type": "n.",
+    "def": "paper"
+  },
+  {
+    "reading": "かみがた",
+    "kanji": "髪形",
+    "type": "n.",
+    "def": "hairstyle"
+  },
+  {
+    "reading": "かみをとかす",
+    "kanji": "髪をとかす",
+    "type": "u-v.",
+    "def": "to comb one’s hair"
+  },
+  {
+    "reading": "かる",
+    "kanji": "刈る",
+    "type": "u-v.",
+    "def": "to crop"
+  },
+  {
+    "reading": "かんせいする",
+    "kanji": "完成する",
+    "type": "irr-v.",
+    "def": "to be completed "
+  },
+  {
+    "reading": "きゅうりょう",
+    "kanji": "給料",
+    "type": "n.",
+    "def": "salary"
+  },
+  {
+    "reading": "きる",
+    "kanji": "切る",
+    "type": "u-v.",
+    "def": "to cut"
+  },
+  {
+    "reading": "きる",
+    "kanji": "着る",
+    "type": "ru-v.",
+    "def": "to put on (clothes above your waist) "
+  },
+  {
+    "reading": "くも",
+    "kanji": "雲",
+    "type": "n.",
+    "def": "cloud"
+  },
+  {
+    "reading": "けしょうする",
+    "kanji": "化粧する",
+    "type": "irr-v.",
+    "def": "to put makeup on "
+  },
+  {
+    "reading": "げいじゅつ",
+    "kanji": "芸術",
+    "type": "n.",
+    "def": "art"
+  },
+  {
+    "reading": "こむ",
+    "kanji": "混む",
+    "type": "u-v.",
+    "def": "to get crowded"
+  },
+  {
+    "reading": "さいあく（な）",
+    "kanji": "最悪",
+    "type": "な-adj.",
+    "def": "the worst"
+  },
+  {
+    "reading": "さくひん",
+    "kanji": "作品",
+    "type": "n.",
+    "def": "work (of art, etc.)"
+  },
+  {
+    "reading": "ざんぎょう",
+    "kanji": "残業",
+    "type": "n.",
+    "def": "overtime work"
+  },
+  {
+    "reading": "し",
+    "kanji": "詩",
+    "type": "n.",
+    "def": "poem"
+  },
+  {
+    "reading": "しかし",
+    "kanji": "",
+    "type": "adv.",
+    "def": "however"
+  },
+  {
+    "reading": "しゅうしょくする",
+    "kanji": "就職する",
+    "type": "irr-v.",
+    "def": "to get a full-time job (at . . . ) "
+  },
+  {
+    "reading": "しゅしょう",
+    "kanji": "首相",
+    "type": "n.",
+    "def": "prime minister"
+  },
+  {
+    "reading": "しゅふ",
+    "kanji": "主婦",
+    "type": "n.",
+    "def": "housewife"
+  },
+  {
+    "reading": "しゅふ",
+    "kanji": "主夫",
+    "type": "n.",
+    "def": "house husband"
+  },
+  {
+    "reading": "じぶん",
+    "kanji": "自分",
+    "type": "n.",
+    "def": "oneself"
+  },
+  {
+    "reading": "じゅうでうたれる",
+    "kanji": "銃で撃たれる",
+    "type": "exp.",
+    "def": "to be shot"
+  },
+  {
+    "reading": "じゅんび",
+    "kanji": "準備",
+    "type": "n.",
+    "def": "preparation"
+  },
+  {
+    "reading": "すく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "thin out (hair)"
+  },
+  {
+    "reading": "すくない",
+    "kanji": "少ない",
+    "type": "い-adj.",
+    "def": "a little; a few"
+  },
+  {
+    "reading": "する",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to cost "
+  },
+  {
+    "reading": "ずいぶん",
+    "kanji": "",
+    "type": "adv.",
+    "def": "very"
+  },
+  {
+    "reading": "せんきゅうひゃくろくじゅうねんだい",
+    "kanji": "1960年代",
+    "type": "n.",
+    "def": "1960’s"
+  },
+  {
+    "reading": "そうか",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I see. (casual)"
+  },
+  {
+    "reading": "そのご",
+    "kanji": "その後",
+    "type": "adv.",
+    "def": "after that"
+  },
+  {
+    "reading": "そめる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to dye "
+  },
+  {
+    "reading": "そる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to shave"
+  },
+  {
+    "reading": "そろえる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to make hair even; to trim "
+  },
+  {
+    "reading": "たからくじ",
+    "kanji": "宝くじ",
+    "type": "n.",
+    "def": "lottery"
+  },
+  {
+    "reading": "たからくじにあたる",
+    "kanji": "宝くじに当たる",
+    "type": "u-v.",
+    "def": "to win a lottery"
+  },
+  {
+    "reading": "たとえば",
+    "kanji": "例えば",
+    "type": "adv.",
+    "def": "for example"
+  },
+  {
+    "reading": "たりる",
+    "kanji": "足りる",
+    "type": "ru-v.",
+    "def": "to be sufficient; to be enough "
+  },
+  {
+    "reading": "だいヒット",
+    "kanji": "大ヒット",
+    "type": "n.",
+    "def": "big hit"
+  },
+  {
+    "reading": "ちがい",
+    "kanji": "違い",
+    "type": "n.",
+    "def": "difference"
+  },
+  {
+    "reading": "つごうがわるい",
+    "kanji": "都合が悪い",
+    "type": "い-adj.",
+    "def": "inconvenient; to have a scheduling conflict"
+  },
+  {
+    "reading": "つよい",
+    "kanji": "強い",
+    "type": "い-adj.",
+    "def": "strong"
+  },
+  {
+    "reading": "てんじょう",
+    "kanji": "天井",
+    "type": "n.",
+    "def": "ceiling"
+  },
+  {
+    "reading": "てんらんかい",
+    "kanji": "展覧会",
+    "type": "n.",
+    "def": "art exhibition"
+  },
+  {
+    "reading": "でんしレンジ",
+    "kanji": "電子レンジ",
+    "type": "n.",
+    "def": "microwave oven"
+  },
+  {
+    "reading": "なまえをつける",
+    "kanji": "名前をつける",
+    "type": "ru-v.",
+    "def": "to name "
+  },
+  {
+    "reading": "なれる",
+    "kanji": "慣れる",
+    "type": "ru-v.",
+    "def": "to get used to . . . "
+  },
+  {
+    "reading": "なんども",
+    "kanji": "何度も",
+    "type": "adv.",
+    "def": "many times"
+  },
+  {
+    "reading": "ぬぐ",
+    "kanji": "脱ぐ",
+    "type": "u-v.",
+    "def": "to take off (clothes)"
+  },
+  {
+    "reading": "はいく",
+    "kanji": "俳句",
+    "type": "n.",
+    "def": "haiku"
+  },
+  {
+    "reading": "はしご",
+    "kanji": "",
+    "type": "n.",
+    "def": "ladders"
+  },
+  {
+    "reading": "ひげ",
+    "kanji": "",
+    "type": "n.",
+    "def": "beard"
+  },
+  {
+    "reading": "ひげをそる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to shave one’s beard"
+  },
+  {
+    "reading": "ひみつ",
+    "kanji": "秘密",
+    "type": "n.",
+    "def": "secret"
+  },
+  {
+    "reading": "ぶんや",
+    "kanji": "分野",
+    "type": "n.",
+    "def": "field; realm"
+  },
+  {
+    "reading": "まえ",
+    "kanji": "前",
+    "type": "suf.",
+    "def": "before . . ."
+  },
+  {
+    "reading": "まえ",
+    "kanji": "前",
+    "type": "n.",
+    "def": "front"
+  },
+  {
+    "reading": "むしめがね",
+    "kanji": "虫めがね",
+    "type": "n.",
+    "def": "magnifying glass"
+  },
+  {
+    "reading": "もじ",
+    "kanji": "文字",
+    "type": "n.",
+    "def": "letter; character"
+  },
+  {
+    "reading": "やっぱり",
+    "kanji": "",
+    "type": "adv.",
+    "def": "after all"
+  },
+  {
+    "reading": "ゆ",
+    "kanji": "湯",
+    "type": "n.",
+    "def": "hot water"
+  },
+  {
+    "reading": "りこんする",
+    "kanji": "離婚する",
+    "type": "irr-v.",
+    "def": "to get a divorce "
+  },
+  {
+    "reading": "りょう",
+    "kanji": "両",
+    "type": "n.",
+    "def": "a unit of currency used in the Edo period"
+  },
+  {
+    "reading": "りょう",
+    "kanji": "寮",
+    "type": "n.",
+    "def": "dormitory"
+  },
+  {
+    "reading": "りょこうがいしゃ",
+    "kanji": "旅行会社",
+    "type": "n.",
+    "def": "travel agency"
+  },
+  {
+    "reading": "カット",
+    "kanji": "",
+    "type": "n.",
+    "def": "cut"
+  },
+  {
+    "reading": "カラー",
+    "kanji": "",
+    "type": "n.",
+    "def": "hair coloring"
+  },
+  {
+    "reading": "コンタクト（レンズ）",
+    "kanji": "",
+    "type": "n.",
+    "def": "contact lenses"
+  },
+  {
+    "reading": "サラリーマン",
+    "kanji": "",
+    "type": "n.",
+    "def": "salaryman; office worker"
+  },
+  {
+    "reading": "シャンプー",
+    "kanji": "",
+    "type": "n.",
+    "def": "shampoo"
+  },
+  {
+    "reading": "ショッピングモール",
+    "kanji": "",
+    "type": "n.",
+    "def": "shopping mall"
+  },
+  {
+    "reading": "スプーン",
+    "kanji": "",
+    "type": "n.",
+    "def": "spoon"
+  },
+  {
+    "reading": "セット",
+    "kanji": "",
+    "type": "n.",
+    "def": "set"
+  },
+  {
+    "reading": "ニュース",
+    "kanji": "",
+    "type": "n.",
+    "def": "news"
+  },
+  {
+    "reading": "パンダ",
+    "kanji": "",
+    "type": "n.",
+    "def": "panda"
+  },
+  {
+    "reading": "パーマ",
+    "kanji": "",
+    "type": "n.",
+    "def": "perm"
+  },
+  {
+    "reading": "パーマをかける",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to have one’s hair permed "
+  },
+  {
+    "reading": "ヒーター",
+    "kanji": "",
+    "type": "n.",
+    "def": "heater"
+  },
+  {
+    "reading": "ブロー",
+    "kanji": "",
+    "type": "n.",
+    "def": "blow-dry"
+  },
+  {
+    "reading": "ブーツ",
+    "kanji": "",
+    "type": "n.",
+    "def": "boots"
+  },
+  {
+    "reading": "～かな（あ）",
+    "kanji": "",
+    "type": "part.",
+    "def": "I wonder . . . (casual)"
+  },
+  {
+    "reading": "～にくらべて",
+    "kanji": "～に比べて",
+    "type": "part.",
+    "def": "compared with . . ."
+  },
+  {
+    "reading": "～によると",
+    "kanji": "",
+    "type": "part.",
+    "def": "according to . . ."
+  },
+  {
+    "reading": "～のための",
+    "kanji": "",
+    "type": "suf.",
+    "def": "for the sake of . . ."
+  }
+]

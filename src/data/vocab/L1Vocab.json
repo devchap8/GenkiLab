@@ -1,0 +1,620 @@
+[
+  {
+    "reading": "あのう",
+    "kanji": "",
+    "type": "exp.",
+    "def": "um . . ."
+  },
+  {
+    "reading": "いしゃ",
+    "kanji": "医者",
+    "type": "n.",
+    "def": "doctor"
+  },
+  {
+    "reading": "いちじ",
+    "kanji": "一時",
+    "type": "n.",
+    "def": "one o’clock"
+  },
+  {
+    "reading": "いちねんせい",
+    "kanji": "一年生",
+    "type": "n.",
+    "def": "first-year student"
+  },
+  {
+    "reading": "いっぷん",
+    "kanji": "一分",
+    "type": "n.",
+    "def": "one minute"
+  },
+  {
+    "reading": "いま",
+    "kanji": "今",
+    "type": "adv.",
+    "def": "now"
+  },
+  {
+    "reading": "いもうと",
+    "kanji": "妹",
+    "type": "n.",
+    "def": "younger sister"
+  },
+  {
+    "reading": "おかあさん",
+    "kanji": "お母さん",
+    "type": "n.",
+    "def": "mother"
+  },
+  {
+    "reading": "おとうさん",
+    "kanji": "お父さん",
+    "type": "n.",
+    "def": "father"
+  },
+  {
+    "reading": "おとうと",
+    "kanji": "弟",
+    "type": "n.",
+    "def": "younger brother"
+  },
+  {
+    "reading": "おにいさん",
+    "kanji": "お兄さん",
+    "type": "n.",
+    "def": "older brother"
+  },
+  {
+    "reading": "おねえさん",
+    "kanji": "お姉さん",
+    "type": "n.",
+    "def": "older sister"
+  },
+  {
+    "reading": "かいしゃいん",
+    "kanji": "会社員",
+    "type": "n.",
+    "def": "office worker"
+  },
+  {
+    "reading": "かんこく",
+    "kanji": "韓国",
+    "type": "n.",
+    "def": "Korea"
+  },
+  {
+    "reading": "かんごし",
+    "kanji": "看護師",
+    "type": "n.",
+    "def": "nurse"
+  },
+  {
+    "reading": "がくせい",
+    "kanji": "学生",
+    "type": "n.",
+    "def": "student"
+  },
+  {
+    "reading": "きゅうふん",
+    "kanji": "九分",
+    "type": "n.",
+    "def": "nine minutes"
+  },
+  {
+    "reading": "くじ",
+    "kanji": "九時",
+    "type": "n.",
+    "def": "nine o’clock"
+  },
+  {
+    "reading": "けいざい",
+    "kanji": "経済",
+    "type": "n.",
+    "def": "economics"
+  },
+  {
+    "reading": "こうこう",
+    "kanji": "高校",
+    "type": "n.",
+    "def": "high school"
+  },
+  {
+    "reading": "こうこうせい",
+    "kanji": "高校生",
+    "type": "n.",
+    "def": "high school student"
+  },
+  {
+    "reading": "こくさいかんけい",
+    "kanji": "国際関係",
+    "type": "n.",
+    "def": "international relations"
+  },
+  {
+    "reading": "ごご",
+    "kanji": "午後",
+    "type": "n.",
+    "def": "p.m."
+  },
+  {
+    "reading": "ごじ",
+    "kanji": "五時",
+    "type": "n.",
+    "def": "five o’clock"
+  },
+  {
+    "reading": "ごぜん",
+    "kanji": "午前",
+    "type": "n.",
+    "def": "a.m."
+  },
+  {
+    "reading": "ごふん",
+    "kanji": "五分",
+    "type": "n.",
+    "def": "five minutes"
+  },
+  {
+    "reading": "さんじ",
+    "kanji": "三時",
+    "type": "n.",
+    "def": "three o’clock"
+  },
+  {
+    "reading": "さんじっぷん/さんじゅっぷん",
+    "kanji": "三十分",
+    "type": "n.",
+    "def": "thirty minutes"
+  },
+  {
+    "reading": "さんぷん",
+    "kanji": "三分",
+    "type": "n.",
+    "def": "three minutes"
+  },
+  {
+    "reading": "しちじ",
+    "kanji": "七時",
+    "type": "n.",
+    "def": "seven o’clock"
+  },
+  {
+    "reading": "しゅふ",
+    "kanji": "主婦",
+    "type": "n.",
+    "def": "housewife"
+  },
+  {
+    "reading": "しゅふ",
+    "kanji": "主夫",
+    "type": "n.",
+    "def": "house husband"
+  },
+  {
+    "reading": "じっぷん",
+    "kanji": "十分",
+    "type": "n.",
+    "def": "ten minutes"
+  },
+  {
+    "reading": "じゅういちじ",
+    "kanji": "十一時",
+    "type": "n.",
+    "def": "eleven o’clock"
+  },
+  {
+    "reading": "じゅういっぷん",
+    "kanji": "十一分",
+    "type": "n.",
+    "def": "eleven minutes"
+  },
+  {
+    "reading": "じゅうきゅうふん",
+    "kanji": "十九分",
+    "type": "n.",
+    "def": "nineteen minutes"
+  },
+  {
+    "reading": "じゅうごふん",
+    "kanji": "十五分",
+    "type": "n.",
+    "def": "fifteen minutes"
+  },
+  {
+    "reading": "じゅうさんぷん",
+    "kanji": "十三分",
+    "type": "n.",
+    "def": "thirteen minutes"
+  },
+  {
+    "reading": "じゅうじ",
+    "kanji": "十時",
+    "type": "n.",
+    "def": "ten o’clock"
+  },
+  {
+    "reading": "じゅうななふん",
+    "kanji": "十七分",
+    "type": "n.",
+    "def": "seventeen minutes"
+  },
+  {
+    "reading": "じゅうにじ",
+    "kanji": "十二時",
+    "type": "n.",
+    "def": "twelve o’clock"
+  },
+  {
+    "reading": "じゅうにふん",
+    "kanji": "十二分",
+    "type": "n.",
+    "def": "twelve minutes"
+  },
+  {
+    "reading": "じゅうはちふん/じゅうはっぷん",
+    "kanji": "十八分",
+    "type": "n.",
+    "def": "eighteen minutes"
+  },
+  {
+    "reading": "じゅうよんぷん",
+    "kanji": "十四分",
+    "type": "n.",
+    "def": "fourteen minutes"
+  },
+  {
+    "reading": "じゅうろっぷん",
+    "kanji": "十六分",
+    "type": "n.",
+    "def": "sixteen minutes"
+  },
+  {
+    "reading": "じゅっぷん",
+    "kanji": "十分",
+    "type": "n.",
+    "def": "ten minutes"
+  },
+  {
+    "reading": "せいじ",
+    "kanji": "政治",
+    "type": "n.",
+    "def": "politics"
+  },
+  {
+    "reading": "せいぶつがく",
+    "kanji": "生物学",
+    "type": "n.",
+    "def": "biology"
+  },
+  {
+    "reading": "せんこう",
+    "kanji": "専攻",
+    "type": "n.",
+    "def": "major"
+  },
+  {
+    "reading": "せんせい",
+    "kanji": "先生",
+    "type": "n.",
+    "def": "teacher; Professor . . ."
+  },
+  {
+    "reading": "そうです",
+    "kanji": "",
+    "type": "exp.",
+    "def": "That’s right."
+  },
+  {
+    "reading": "そうですか",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I see.; Is that so?"
+  },
+  {
+    "reading": "だいがく",
+    "kanji": "大学",
+    "type": "n.",
+    "def": "college; university"
+  },
+  {
+    "reading": "だいがくいんせい",
+    "kanji": "大学院生",
+    "type": "n.",
+    "def": "graduate student"
+  },
+  {
+    "reading": "だいがくせい",
+    "kanji": "大学生",
+    "type": "n.",
+    "def": "college student"
+  },
+  {
+    "reading": "ちゅうごく",
+    "kanji": "中国",
+    "type": "n.",
+    "def": "China"
+  },
+  {
+    "reading": "でんわ",
+    "kanji": "電話",
+    "type": "n.",
+    "def": "telephone"
+  },
+  {
+    "reading": "ともだち",
+    "kanji": "友だち",
+    "type": "n.",
+    "def": "friend"
+  },
+  {
+    "reading": "ななふん",
+    "kanji": "七分",
+    "type": "n.",
+    "def": "seven minutes"
+  },
+  {
+    "reading": "なに/なん",
+    "kanji": "何",
+    "type": "n.",
+    "def": "what"
+  },
+  {
+    "reading": "なまえ",
+    "kanji": "名前",
+    "type": "n.",
+    "def": "name"
+  },
+  {
+    "reading": "なん/なに",
+    "kanji": "何",
+    "type": "n.",
+    "def": "what"
+  },
+  {
+    "reading": "にじ",
+    "kanji": "二時",
+    "type": "n.",
+    "def": "two o’clock"
+  },
+  {
+    "reading": "にじっぷん",
+    "kanji": "二十分",
+    "type": "n.",
+    "def": "twenty minutes"
+  },
+  {
+    "reading": "にじはん",
+    "kanji": "二時半",
+    "type": "n.",
+    "def": "half past two"
+  },
+  {
+    "reading": "にじゅっぷん",
+    "kanji": "二十分",
+    "type": "n.",
+    "def": "twenty minutes"
+  },
+  {
+    "reading": "にふん",
+    "kanji": "二分",
+    "type": "n.",
+    "def": "two minutes"
+  },
+  {
+    "reading": "にほん",
+    "kanji": "日本",
+    "type": "n.",
+    "def": "Japan"
+  },
+  {
+    "reading": "にほんご",
+    "kanji": "日本語",
+    "type": "n.",
+    "def": "Japanese language"
+  },
+  {
+    "reading": "にほんじん",
+    "kanji": "日本人",
+    "type": "n.",
+    "def": "Japanese people"
+  },
+  {
+    "reading": "はい",
+    "kanji": "",
+    "type": "exp.",
+    "def": "yes"
+  },
+  {
+    "reading": "はちじ",
+    "kanji": "八時",
+    "type": "n.",
+    "def": "eight o’clock"
+  },
+  {
+    "reading": "はちふん",
+    "kanji": "八分",
+    "type": "n.",
+    "def": "eight minutes"
+  },
+  {
+    "reading": "はっぷん",
+    "kanji": "八分",
+    "type": "n.",
+    "def": "eight minutes"
+  },
+  {
+    "reading": "はん",
+    "kanji": "半",
+    "type": "suf.",
+    "def": "half"
+  },
+  {
+    "reading": "ばんごう",
+    "kanji": "番号",
+    "type": "n.",
+    "def": "number"
+  },
+  {
+    "reading": "ぶんがく",
+    "kanji": "文学",
+    "type": "n.",
+    "def": "literature"
+  },
+  {
+    "reading": "べんごし",
+    "kanji": "弁護士",
+    "type": "n.",
+    "def": "lawyer"
+  },
+  {
+    "reading": "よじ",
+    "kanji": "四時",
+    "type": "n.",
+    "def": "four o’clock"
+  },
+  {
+    "reading": "よんぷん",
+    "kanji": "四分",
+    "type": "n.",
+    "def": "four minutes"
+  },
+  {
+    "reading": "りゅうがくせい",
+    "kanji": "留学生",
+    "type": "n.",
+    "def": "international student"
+  },
+  {
+    "reading": "れきし",
+    "kanji": "歴史",
+    "type": "n.",
+    "def": "history"
+  },
+  {
+    "reading": "ろくじ",
+    "kanji": "六時",
+    "type": "n.",
+    "def": "six o’clock"
+  },
+  {
+    "reading": "ろっぷん",
+    "kanji": "六分",
+    "type": "n.",
+    "def": "six minutes"
+  },
+  {
+    "reading": "わたし",
+    "kanji": "私",
+    "type": "n.",
+    "def": "I"
+  },
+  {
+    "reading": "アジアけんきゅう",
+    "kanji": "アジア研究",
+    "type": "n.",
+    "def": "Asian studies"
+  },
+  {
+    "reading": "アメリカ",
+    "kanji": "",
+    "type": "n.",
+    "def": "U.S.A."
+  },
+  {
+    "reading": "イギリス",
+    "kanji": "",
+    "type": "n.",
+    "def": "Britain"
+  },
+  {
+    "reading": "インド",
+    "kanji": "",
+    "type": "n.",
+    "def": "India"
+  },
+  {
+    "reading": "エジプト",
+    "kanji": "",
+    "type": "n.",
+    "def": "Egypt"
+  },
+  {
+    "reading": "オーストラリア",
+    "kanji": "",
+    "type": "n.",
+    "def": "Australia"
+  },
+  {
+    "reading": "カナダ",
+    "kanji": "",
+    "type": "n.",
+    "def": "Canada"
+  },
+  {
+    "reading": "コンピューター",
+    "kanji": "",
+    "type": "n.",
+    "def": "computer"
+  },
+  {
+    "reading": "ビジネス",
+    "kanji": "",
+    "type": "n.",
+    "def": "business"
+  },
+  {
+    "reading": "フィリピン",
+    "kanji": "",
+    "type": "n.",
+    "def": "Philippines"
+  },
+  {
+    "reading": "～ご",
+    "kanji": "～後",
+    "type": "suf.",
+    "def": "in . . . time; after . . ."
+  },
+  {
+    "reading": "～ご",
+    "kanji": "～語",
+    "type": "suf.",
+    "def": ". . . language"
+  },
+  {
+    "reading": "～さい",
+    "kanji": "～歳",
+    "type": "suf.",
+    "def": ". . . years old"
+  },
+  {
+    "reading": "～さん",
+    "kanji": "",
+    "type": "suf.",
+    "def": "Mr./Ms. . . ."
+  },
+  {
+    "reading": "～じ",
+    "kanji": "～時",
+    "type": "suf.",
+    "def": "o’clock"
+  },
+  {
+    "reading": "～じん",
+    "kanji": "～人",
+    "type": "suf.",
+    "def": ". . . people"
+  },
+  {
+    "reading": "～ねんせい",
+    "kanji": "～年生",
+    "type": "suf.",
+    "def": ". . . year student"
+  },
+  {
+    "reading": "～ばん",
+    "kanji": "～番",
+    "type": "suf.",
+    "def": "number . . ."
+  }
+]

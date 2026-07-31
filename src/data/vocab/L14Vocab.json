@@ -1,0 +1,398 @@
+[
+  {
+    "reading": "あいす",
+    "kanji": "愛す",
+    "type": "u-v.",
+    "def": "to love"
+  },
+  {
+    "reading": "あきらめる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to give up "
+  },
+  {
+    "reading": "あげる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to give (to others) "
+  },
+  {
+    "reading": "えんぴつ",
+    "kanji": "鉛筆",
+    "type": "n.",
+    "def": "pencil"
+  },
+  {
+    "reading": "おおやさん",
+    "kanji": "大家さん",
+    "type": "n.",
+    "def": "landlord; landlady"
+  },
+  {
+    "reading": "おかえし",
+    "kanji": "お返し",
+    "type": "n.",
+    "def": "return (as a token of gratitude)"
+  },
+  {
+    "reading": "おくさん",
+    "kanji": "奥さん",
+    "type": "n.",
+    "def": "(your/someone’s) wife"
+  },
+  {
+    "reading": "おくる",
+    "kanji": "送る",
+    "type": "u-v.",
+    "def": "to send"
+  },
+  {
+    "reading": "おさら",
+    "kanji": "お皿",
+    "type": "n.",
+    "def": "plate; dish"
+  },
+  {
+    "reading": "おしゃれ（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "fashionable; stylish"
+  },
+  {
+    "reading": "おじさん",
+    "kanji": "",
+    "type": "n.",
+    "def": "uncle; middle-aged man"
+  },
+  {
+    "reading": "おばさん",
+    "kanji": "",
+    "type": "n.",
+    "def": "aunt; middle-aged woman"
+  },
+  {
+    "reading": "きゅうに",
+    "kanji": "急に",
+    "type": "adv.",
+    "def": "suddenly"
+  },
+  {
+    "reading": "くれる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to give (me) "
+  },
+  {
+    "reading": "けしょうひん",
+    "kanji": "化粧品",
+    "type": "n.",
+    "def": "cosmetics"
+  },
+  {
+    "reading": "けち（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "stingy; cheap"
+  },
+  {
+    "reading": "こんな～",
+    "kanji": "",
+    "type": "pre.",
+    "def": ". . . like this; this kind of . . ."
+  },
+  {
+    "reading": "ごしゅじん",
+    "kanji": "ご主人",
+    "type": "n.",
+    "def": "(your/someone’s) husband"
+  },
+  {
+    "reading": "さあ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I am not sure . . ."
+  },
+  {
+    "reading": "さら",
+    "kanji": "皿",
+    "type": "n.",
+    "def": "plate; dish"
+  },
+  {
+    "reading": "しゅっちょう",
+    "kanji": "出張",
+    "type": "n.",
+    "def": "business trip"
+  },
+  {
+    "reading": "じだい",
+    "kanji": "時代",
+    "type": "n.",
+    "def": "age; era"
+  },
+  {
+    "reading": "せんぱい",
+    "kanji": "先輩",
+    "type": "n.",
+    "def": "senior member of a group"
+  },
+  {
+    "reading": "そうだんする",
+    "kanji": "相談する",
+    "type": "irr-v.",
+    "def": "to consult "
+  },
+  {
+    "reading": "ちちおや",
+    "kanji": "父親",
+    "type": "n.",
+    "def": "father"
+  },
+  {
+    "reading": "ちゅういする",
+    "kanji": "注意する",
+    "type": "irr-v.",
+    "def": "to give warning; to watch out "
+  },
+  {
+    "reading": "ちょうど",
+    "kanji": "",
+    "type": "adv.",
+    "def": "exactly"
+  },
+  {
+    "reading": "つきあう",
+    "kanji": "付き合う",
+    "type": "u-v.",
+    "def": "to date (someone); to keep company"
+  },
+  {
+    "reading": "できる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to come into existence; to be made "
+  },
+  {
+    "reading": "どうしたらいい",
+    "kanji": "",
+    "type": "exp.",
+    "def": "what should one do"
+  },
+  {
+    "reading": "なやみ",
+    "kanji": "悩み",
+    "type": "n.",
+    "def": "worry"
+  },
+  {
+    "reading": "にあう",
+    "kanji": "似合う",
+    "type": "u-v.",
+    "def": "to look good (on somebody)"
+  },
+  {
+    "reading": "ぬいぐるみ",
+    "kanji": "",
+    "type": "n.",
+    "def": "stuffed animal (e.g., teddy bear)"
+  },
+  {
+    "reading": "ばあい",
+    "kanji": "場合",
+    "type": "n.",
+    "def": "case"
+  },
+  {
+    "reading": "ほしい",
+    "kanji": "欲しい",
+    "type": "い-adj.",
+    "def": "to want"
+  },
+  {
+    "reading": "ほんとうに",
+    "kanji": "本当に",
+    "type": "adv.",
+    "def": "really"
+  },
+  {
+    "reading": "まんが",
+    "kanji": "漫画",
+    "type": "n.",
+    "def": "comic book"
+  },
+  {
+    "reading": "みかん",
+    "kanji": "",
+    "type": "n.",
+    "def": "mandarin orange"
+  },
+  {
+    "reading": "みなさん",
+    "kanji": "皆さん",
+    "type": "n.",
+    "def": "everyone; all of you"
+  },
+  {
+    "reading": "ゆびわ",
+    "kanji": "指輪",
+    "type": "n.",
+    "def": "ring"
+  },
+  {
+    "reading": "よく",
+    "kanji": "",
+    "type": "adv.",
+    "def": "often; much"
+  },
+  {
+    "reading": "りょうしん",
+    "kanji": "両親",
+    "type": "n.",
+    "def": "parents"
+  },
+  {
+    "reading": "りれきしょ",
+    "kanji": "履歴書",
+    "type": "n.",
+    "def": "résumé"
+  },
+  {
+    "reading": "わたしたち",
+    "kanji": "私たち",
+    "type": "n.",
+    "def": "we"
+  },
+  {
+    "reading": "アドバイス",
+    "kanji": "",
+    "type": "n.",
+    "def": "advice"
+  },
+  {
+    "reading": "クリスマス",
+    "kanji": "",
+    "type": "n.",
+    "def": "Christmas"
+  },
+  {
+    "reading": "シャツ",
+    "kanji": "",
+    "type": "n.",
+    "def": "shirt"
+  },
+  {
+    "reading": "チョコレート",
+    "kanji": "",
+    "type": "n.",
+    "def": "chocolate"
+  },
+  {
+    "reading": "トレーナー",
+    "kanji": "",
+    "type": "n.",
+    "def": "sweatshirt"
+  },
+  {
+    "reading": "ネクタイ",
+    "kanji": "",
+    "type": "n.",
+    "def": "necktie"
+  },
+  {
+    "reading": "バレンタインデー",
+    "kanji": "",
+    "type": "n.",
+    "def": "Valentine’s Day"
+  },
+  {
+    "reading": "パートナー",
+    "kanji": "",
+    "type": "n.",
+    "def": "partner"
+  },
+  {
+    "reading": "プロポーズする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to propose marriage "
+  },
+  {
+    "reading": "ホワイトデー",
+    "kanji": "",
+    "type": "n.",
+    "def": "“White Day” (yet another gift-giving day)"
+  },
+  {
+    "reading": "マフラー",
+    "kanji": "",
+    "type": "n.",
+    "def": "winter scarf"
+  },
+  {
+    "reading": "ラジオ",
+    "kanji": "",
+    "type": "n.",
+    "def": "radio"
+  },
+  {
+    "reading": "～くん",
+    "kanji": "～君",
+    "type": "suf.",
+    "def": "Mr./Ms. . . . (casual)"
+  },
+  {
+    "reading": "～こ",
+    "kanji": "～個",
+    "type": "suf.",
+    "def": "[generic counter for smaller items]"
+  },
+  {
+    "reading": "～さつ",
+    "kanji": "～冊",
+    "type": "suf.",
+    "def": "[counter for bound volumes]"
+  },
+  {
+    "reading": "～たち",
+    "kanji": "",
+    "type": "suf.",
+    "def": "[makes a noun plural]"
+  },
+  {
+    "reading": "～だい",
+    "kanji": "～代",
+    "type": "suf.",
+    "def": "charge; fee"
+  },
+  {
+    "reading": "～だい",
+    "kanji": "～台",
+    "type": "suf.",
+    "def": "[counter for equipment]"
+  },
+  {
+    "reading": "～ねんかん",
+    "kanji": "～年間",
+    "type": "suf.",
+    "def": "for . . . years"
+  },
+  {
+    "reading": "～ひき",
+    "kanji": "～匹",
+    "type": "suf.",
+    "def": "[counter for smaller animals]"
+  },
+  {
+    "reading": "～ほん",
+    "kanji": "～本",
+    "type": "suf.",
+    "def": "[counter for long objects]"
+  },
+  {
+    "reading": "～まい",
+    "kanji": "～枚",
+    "type": "suf.",
+    "def": "[counter for flat objects]"
+  }
+]

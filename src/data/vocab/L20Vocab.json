@@ -1,0 +1,482 @@
+[
+  {
+    "reading": "あちら",
+    "kanji": "",
+    "type": "n.",
+    "def": "that way (polite)"
+  },
+  {
+    "reading": "あんなに",
+    "kanji": "",
+    "type": "adv.",
+    "def": "so; such"
+  },
+  {
+    "reading": "いたす",
+    "kanji": "致す",
+    "type": "u-v.",
+    "def": "extra-modest expression for する"
+  },
+  {
+    "reading": "いただく",
+    "kanji": "頂く",
+    "type": "u-v.",
+    "def": "extra-modest expression for たべる and のむ"
+  },
+  {
+    "reading": "いっかい",
+    "kanji": "一階",
+    "type": "n.",
+    "def": "first floor"
+  },
+  {
+    "reading": "いなか",
+    "kanji": "",
+    "type": "n.",
+    "def": "countryside"
+  },
+  {
+    "reading": "うかがう",
+    "kanji": "伺う",
+    "type": "u-v.",
+    "def": "to humbly visit; to humbly ask"
+  },
+  {
+    "reading": "うちゅうじん",
+    "kanji": "宇宙人",
+    "type": "n.",
+    "def": "space alien"
+  },
+  {
+    "reading": "うれる",
+    "kanji": "売れる",
+    "type": "ru-v.",
+    "def": "to be sold "
+  },
+  {
+    "reading": "えさ",
+    "kanji": "",
+    "type": "n.",
+    "def": "feed"
+  },
+  {
+    "reading": "えど",
+    "kanji": "江戸",
+    "type": "n.",
+    "def": "former name of Tokyo"
+  },
+  {
+    "reading": "えどじだい",
+    "kanji": "江戸時代",
+    "type": "n.",
+    "def": "Edo period (1603－1868)"
+  },
+  {
+    "reading": "おたく",
+    "kanji": "お宅",
+    "type": "n.",
+    "def": "(someone’s) home/house"
+  },
+  {
+    "reading": "おと",
+    "kanji": "音",
+    "type": "n.",
+    "def": "sound"
+  },
+  {
+    "reading": "おにぎり",
+    "kanji": "",
+    "type": "n.",
+    "def": "rice ball"
+  },
+  {
+    "reading": "おもい",
+    "kanji": "重い",
+    "type": "い-adj.",
+    "def": "heavy; serious (illness)"
+  },
+  {
+    "reading": "おる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "extra-modest expression for いる"
+  },
+  {
+    "reading": "かかりのもの",
+    "kanji": "係の者",
+    "type": "n.",
+    "def": "our person in charge"
+  },
+  {
+    "reading": "かしこまりました",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Certainly."
+  },
+  {
+    "reading": "かど",
+    "kanji": "角",
+    "type": "n.",
+    "def": "corner"
+  },
+  {
+    "reading": "かるい",
+    "kanji": "軽い",
+    "type": "い-adj.",
+    "def": "light"
+  },
+  {
+    "reading": "がっかりする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to be disappointed "
+  },
+  {
+    "reading": "きこえる",
+    "kanji": "聞こえる",
+    "type": "ru-v.",
+    "def": "to be audible "
+  },
+  {
+    "reading": "こうかんする",
+    "kanji": "交換する",
+    "type": "irr-v.",
+    "def": "to exchange "
+  },
+  {
+    "reading": "こころ",
+    "kanji": "心",
+    "type": "n.",
+    "def": "mind; heart"
+  },
+  {
+    "reading": "ござる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "extra-modest expression for ある"
+  },
+  {
+    "reading": "さしあげる",
+    "kanji": "差し上げる",
+    "type": "ru-v.",
+    "def": "humble expression for あげる "
+  },
+  {
+    "reading": "しつれいしました",
+    "kanji": "失礼しました",
+    "type": "exp.",
+    "def": "I’m very sorry."
+  },
+  {
+    "reading": "してん",
+    "kanji": "支店",
+    "type": "n.",
+    "def": "branch office"
+  },
+  {
+    "reading": "しゅみ",
+    "kanji": "趣味",
+    "type": "n.",
+    "def": "hobby; pastime"
+  },
+  {
+    "reading": "しょうせつ",
+    "kanji": "小説",
+    "type": "n.",
+    "def": "novel"
+  },
+  {
+    "reading": "しんごう",
+    "kanji": "信号",
+    "type": "n.",
+    "def": "traffic light"
+  },
+  {
+    "reading": "じ",
+    "kanji": "字",
+    "type": "n.",
+    "def": "letter; character"
+  },
+  {
+    "reading": "する",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to cost "
+  },
+  {
+    "reading": "せいかつする",
+    "kanji": "生活する",
+    "type": "irr-v.",
+    "def": "to lead a life "
+  },
+  {
+    "reading": "せんす",
+    "kanji": "扇子",
+    "type": "n.",
+    "def": "(hand) fan"
+  },
+  {
+    "reading": "ぜったいに",
+    "kanji": "絶対に",
+    "type": "adv.",
+    "def": "definitely; no matter what"
+  },
+  {
+    "reading": "そうだ！",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I have an idea!"
+  },
+  {
+    "reading": "だく",
+    "kanji": "抱く",
+    "type": "u-v.",
+    "def": "to hold something in one’s arm"
+  },
+  {
+    "reading": "だます",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to deceive"
+  },
+  {
+    "reading": "ちゃみせ",
+    "kanji": "茶店",
+    "type": "n.",
+    "def": "teahouse"
+  },
+  {
+    "reading": "つき",
+    "kanji": "月",
+    "type": "n.",
+    "def": "moon"
+  },
+  {
+    "reading": "つたえる",
+    "kanji": "伝える",
+    "type": "ru-v.",
+    "def": "to convey message "
+  },
+  {
+    "reading": "つづける",
+    "kanji": "続ける",
+    "type": "ru-v.",
+    "def": "to continue "
+  },
+  {
+    "reading": "できれば",
+    "kanji": "",
+    "type": "adv.",
+    "def": "if possible"
+  },
+  {
+    "reading": "では",
+    "kanji": "",
+    "type": "adv.",
+    "def": "well then (polite)"
+  },
+  {
+    "reading": "とまる",
+    "kanji": "泊まる",
+    "type": "u-v.",
+    "def": "to stay (at a hotel, etc.)"
+  },
+  {
+    "reading": "とまる",
+    "kanji": "止まる",
+    "type": "u-v.",
+    "def": "to stop"
+  },
+  {
+    "reading": "どうぶつ",
+    "kanji": "動物",
+    "type": "n.",
+    "def": "animal"
+  },
+  {
+    "reading": "にこにこする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to smile "
+  },
+  {
+    "reading": "ねだん",
+    "kanji": "値段",
+    "type": "n.",
+    "def": "price"
+  },
+  {
+    "reading": "ひっかく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to scratch"
+  },
+  {
+    "reading": "ふしぎ（な）",
+    "kanji": "不思議",
+    "type": "な-adj.",
+    "def": "mysterious"
+  },
+  {
+    "reading": "へんぴんする",
+    "kanji": "返品する",
+    "type": "irr-v.",
+    "def": "to return (merchandise) "
+  },
+  {
+    "reading": "まいる",
+    "kanji": "参る",
+    "type": "u-v.",
+    "def": "extra-modest expression for いく and くる"
+  },
+  {
+    "reading": "まがる",
+    "kanji": "曲がる",
+    "type": "u-v.",
+    "def": "to turn (right/left)"
+  },
+  {
+    "reading": "まことに",
+    "kanji": "誠に",
+    "type": "adv.",
+    "def": "really (very polite)"
+  },
+  {
+    "reading": "また",
+    "kanji": "",
+    "type": "adv.",
+    "def": "again"
+  },
+  {
+    "reading": "またせる",
+    "kanji": "待たせる",
+    "type": "ru-v.",
+    "def": "to keep (someone) waiting "
+  },
+  {
+    "reading": "みぶり",
+    "kanji": "身ぶり",
+    "type": "n.",
+    "def": "gesture"
+  },
+  {
+    "reading": "もうしわけありません",
+    "kanji": "申し訳ありません",
+    "type": "exp.",
+    "def": "You have my apologies."
+  },
+  {
+    "reading": "もうす",
+    "kanji": "申す",
+    "type": "u-v.",
+    "def": "extra-modest expression for いう"
+  },
+  {
+    "reading": "もどる",
+    "kanji": "戻る",
+    "type": "u-v.",
+    "def": "to return; to come/go back"
+  },
+  {
+    "reading": "やった！",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I did it!"
+  },
+  {
+    "reading": "よろしかったら",
+    "kanji": "",
+    "type": "adv.",
+    "def": "if it is okay (polite)"
+  },
+  {
+    "reading": "らくご",
+    "kanji": "落語",
+    "type": "n.",
+    "def": "comic monologue"
+  },
+  {
+    "reading": "らくごか",
+    "kanji": "落語家",
+    "type": "n.",
+    "def": "comic storyteller"
+  },
+  {
+    "reading": "りょう",
+    "kanji": "両",
+    "type": "n.",
+    "def": "a unit of currency used in the Edo period"
+  },
+  {
+    "reading": "りょう",
+    "kanji": "寮",
+    "type": "n.",
+    "def": "dormitory"
+  },
+  {
+    "reading": "わたす",
+    "kanji": "渡す",
+    "type": "u-v.",
+    "def": "to give; to hand"
+  },
+  {
+    "reading": "アニメ",
+    "kanji": "",
+    "type": "n.",
+    "def": "animation"
+  },
+  {
+    "reading": "スニーカー",
+    "kanji": "",
+    "type": "n.",
+    "def": "sneakers"
+  },
+  {
+    "reading": "ドイツ",
+    "kanji": "",
+    "type": "n.",
+    "def": "Germany"
+  },
+  {
+    "reading": "ヘッドホン",
+    "kanji": "",
+    "type": "n.",
+    "def": "headphones"
+  },
+  {
+    "reading": "～かい",
+    "kanji": "～回",
+    "type": "suf.",
+    "def": ". . . times"
+  },
+  {
+    "reading": "～かい",
+    "kanji": "～階",
+    "type": "suf.",
+    "def": ". . . th floor"
+  },
+  {
+    "reading": "～ておる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "extra-modest expression for ～ている"
+  },
+  {
+    "reading": "～でござる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "extra-modest expression for です"
+  },
+  {
+    "reading": "～みたいなX",
+    "kanji": "",
+    "type": "suf.",
+    "def": "X like . . . "
+  },
+  {
+    "reading": "～や",
+    "kanji": "～屋",
+    "type": "suf.",
+    "def": ". . . shop"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "reading": "あし",
+    "kanji": "足",
+    "type": "n.",
+    "def": "leg; foot"
+  },
+  {
+    "reading": "あたま",
+    "kanji": "頭",
+    "type": "n.",
+    "def": "head"
+  },
+  {
+    "reading": "あたまがいい",
+    "kanji": "頭がいい",
+    "type": "い-adj.",
+    "def": "bright; smart; clever"
+  },
+  {
+    "reading": "あに",
+    "kanji": "兄",
+    "type": "n.",
+    "def": "(my) older brother"
+  },
+  {
+    "reading": "あね",
+    "kanji": "姉",
+    "type": "n.",
+    "def": "(my) older sister"
+  },
+  {
+    "reading": "いもうと",
+    "kanji": "妹",
+    "type": "n.",
+    "def": "younger sister"
+  },
+  {
+    "reading": "うた",
+    "kanji": "歌",
+    "type": "n.",
+    "def": "song"
+  },
+  {
+    "reading": "うたう",
+    "kanji": "歌う",
+    "type": "u-v.",
+    "def": "to sing"
+  },
+  {
+    "reading": "おしり",
+    "kanji": "お尻",
+    "type": "n.",
+    "def": "buttocks"
+  },
+  {
+    "reading": "おじいさん",
+    "kanji": "",
+    "type": "n.",
+    "def": "grandfather; old man"
+  },
+  {
+    "reading": "おとうと",
+    "kanji": "弟",
+    "type": "n.",
+    "def": "younger brother"
+  },
+  {
+    "reading": "おとこのひと",
+    "kanji": "男の人",
+    "type": "n.",
+    "def": "man"
+  },
+  {
+    "reading": "おなか",
+    "kanji": "",
+    "type": "n.",
+    "def": "stomach"
+  },
+  {
+    "reading": "おにいさん",
+    "kanji": "お兄さん",
+    "type": "n.",
+    "def": "older brother"
+  },
+  {
+    "reading": "おねえさん",
+    "kanji": "お姉さん",
+    "type": "n.",
+    "def": "older sister"
+  },
+  {
+    "reading": "おばあさん",
+    "kanji": "",
+    "type": "n.",
+    "def": "grandmother; old woman"
+  },
+  {
+    "reading": "おんなのひと",
+    "kanji": "女の人",
+    "type": "n.",
+    "def": "woman"
+  },
+  {
+    "reading": "かいしゃ",
+    "kanji": "会社",
+    "type": "n.",
+    "def": "company"
+  },
+  {
+    "reading": "かお",
+    "kanji": "顔",
+    "type": "n.",
+    "def": "face"
+  },
+  {
+    "reading": "かける（めがねを）",
+    "kanji": "かける（眼鏡を）",
+    "type": "ru-v.",
+    "def": "to put on (glasses) "
+  },
+  {
+    "reading": "かぞく",
+    "kanji": "家族",
+    "type": "n.",
+    "def": "family"
+  },
+  {
+    "reading": "かた",
+    "kanji": "肩",
+    "type": "n.",
+    "def": "shoulder"
+  },
+  {
+    "reading": "かぶる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to put on (a hat)"
+  },
+  {
+    "reading": "かみ",
+    "kanji": "髪",
+    "type": "n.",
+    "def": "hair"
+  },
+  {
+    "reading": "かみ",
+    "kanji": "紙",
+    "type": "n.",
+    "def": "paper"
+  },
+  {
+    "reading": "からだにきをつける",
+    "kanji": "体に気をつける",
+    "type": "ru-v.",
+    "def": "to take care of oneself "
+  },
+  {
+    "reading": "かわいい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "cute"
+  },
+  {
+    "reading": "きょうだい",
+    "kanji": "兄弟",
+    "type": "n.",
+    "def": "brothers and sisters"
+  },
+  {
+    "reading": "きる",
+    "kanji": "切る",
+    "type": "u-v.",
+    "def": "to cut"
+  },
+  {
+    "reading": "きる",
+    "kanji": "着る",
+    "type": "ru-v.",
+    "def": "to put on (clothes above your waist) "
+  },
+  {
+    "reading": "くち",
+    "kanji": "口",
+    "type": "n.",
+    "def": "mouth"
+  },
+  {
+    "reading": "くび",
+    "kanji": "首",
+    "type": "n.",
+    "def": "neck"
+  },
+  {
+    "reading": "くるま",
+    "kanji": "車",
+    "type": "n.",
+    "def": "car"
+  },
+  {
+    "reading": "けっこんする",
+    "kanji": "結婚する",
+    "type": "irr-v.",
+    "def": "to get married "
+  },
+  {
+    "reading": "しっています",
+    "kanji": "知っています",
+    "type": "exp.",
+    "def": "I know"
+  },
+  {
+    "reading": "しょくどう",
+    "kanji": "食堂",
+    "type": "n.",
+    "def": "cafeteria; dining commons"
+  },
+  {
+    "reading": "しり",
+    "kanji": "尻",
+    "type": "n.",
+    "def": "buttocks"
+  },
+  {
+    "reading": "しりません",
+    "kanji": "知りません",
+    "type": "exp.",
+    "def": "I do not know"
+  },
+  {
+    "reading": "しる",
+    "kanji": "知る",
+    "type": "u-v.",
+    "def": "to get to know"
+  },
+  {
+    "reading": "しんせつ（な）",
+    "kanji": "親切",
+    "type": "な-adj.",
+    "def": "kind"
+  },
+  {
+    "reading": "じゅく",
+    "kanji": "塾",
+    "type": "n.",
+    "def": "cram school"
+  },
+  {
+    "reading": "すこし",
+    "kanji": "少し",
+    "type": "adv.",
+    "def": "a little"
+  },
+  {
+    "reading": "すむ",
+    "kanji": "住む",
+    "type": "u-v.",
+    "def": "to live"
+  },
+  {
+    "reading": "せがたかい",
+    "kanji": "背が高い",
+    "type": "い-adj.",
+    "def": "tall (stature)"
+  },
+  {
+    "reading": "せがひくい",
+    "kanji": "背が低い",
+    "type": "い-adj.",
+    "def": "short (stature)"
+  },
+  {
+    "reading": "せなか",
+    "kanji": "背中",
+    "type": "n.",
+    "def": "back (body)"
+  },
+  {
+    "reading": "たのしみにする（〜を）",
+    "kanji": "楽しみにする",
+    "type": "irr-v.",
+    "def": "to look forward (to) "
+  },
+  {
+    "reading": "ちち",
+    "kanji": "父",
+    "type": "n.",
+    "def": "(my) father"
+  },
+  {
+    "reading": "て",
+    "kanji": "手",
+    "type": "n.",
+    "def": "hand; arm"
+  },
+  {
+    "reading": "とる",
+    "kanji": "取る",
+    "type": "u-v.",
+    "def": "to take (a class); to get (a grade)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "撮る",
+    "type": "u-v.",
+    "def": "to take (a picture)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to take off"
+  },
+  {
+    "reading": "ながい",
+    "kanji": "長い",
+    "type": "い-adj.",
+    "def": "long"
+  },
+  {
+    "reading": "なにも ＋ negative",
+    "kanji": "何も",
+    "type": "adv.",
+    "def": "not . . . anything"
+  },
+  {
+    "reading": "は",
+    "kanji": "歯",
+    "type": "n.",
+    "def": "tooth"
+  },
+  {
+    "reading": "はく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to put on (items below your waist)"
+  },
+  {
+    "reading": "はく",
+    "kanji": "吐く",
+    "type": "u-v.",
+    "def": "to throw up"
+  },
+  {
+    "reading": "はたらく",
+    "kanji": "働く",
+    "type": "u-v.",
+    "def": "to work"
+  },
+  {
+    "reading": "はな",
+    "kanji": "花",
+    "type": "n.",
+    "def": "flower"
+  },
+  {
+    "reading": "はな",
+    "kanji": "鼻",
+    "type": "n.",
+    "def": "nose"
+  },
+  {
+    "reading": "はは",
+    "kanji": "母",
+    "type": "n.",
+    "def": "(my) mother"
+  },
+  {
+    "reading": "はやい",
+    "kanji": "早い",
+    "type": "い-adj.",
+    "def": "early"
+  },
+  {
+    "reading": "はやい",
+    "kanji": "速い",
+    "type": "い-adj.",
+    "def": "fast"
+  },
+  {
+    "reading": "ひとり",
+    "kanji": "一人",
+    "type": "exp.",
+    "def": "one person"
+  },
+  {
+    "reading": "ふたり",
+    "kanji": "二人",
+    "type": "exp.",
+    "def": "two people"
+  },
+  {
+    "reading": "ふとっています",
+    "kanji": "太っています",
+    "type": "exp.",
+    "def": "to be on the heavy side"
+  },
+  {
+    "reading": "ふとる",
+    "kanji": "太る",
+    "type": "u-v.",
+    "def": "to gain weight; overweight"
+  },
+  {
+    "reading": "ぶんがく",
+    "kanji": "文学",
+    "type": "n.",
+    "def": "literature"
+  },
+  {
+    "reading": "べつに ＋ negative",
+    "kanji": "別に",
+    "type": "adv.",
+    "def": "nothing in particular"
+  },
+  {
+    "reading": "べんり（な）",
+    "kanji": "便利",
+    "type": "な-adj.",
+    "def": "convenient"
+  },
+  {
+    "reading": "まゆげ",
+    "kanji": "眉毛",
+    "type": "n.",
+    "def": "eyebrow"
+  },
+  {
+    "reading": "みじかい",
+    "kanji": "短い",
+    "type": "い-adj.",
+    "def": "short (length)"
+  },
+  {
+    "reading": "みみ",
+    "kanji": "耳",
+    "type": "n.",
+    "def": "ear"
+  },
+  {
+    "reading": "みんな",
+    "kanji": "",
+    "type": "adv.",
+    "def": "all"
+  },
+  {
+    "reading": "むね",
+    "kanji": "胸",
+    "type": "n.",
+    "def": "breast"
+  },
+  {
+    "reading": "め",
+    "kanji": "目",
+    "type": "n.",
+    "def": "eye"
+  },
+  {
+    "reading": "めがね",
+    "kanji": "眼鏡",
+    "type": "n.",
+    "def": "glasses"
+  },
+  {
+    "reading": "もちろん",
+    "kanji": "",
+    "type": "adv.",
+    "def": "of course"
+  },
+  {
+    "reading": "やせています",
+    "kanji": "",
+    "type": "exp.",
+    "def": "to be thin"
+  },
+  {
+    "reading": "やせる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to lose weight "
+  },
+  {
+    "reading": "ゆび",
+    "kanji": "指",
+    "type": "n.",
+    "def": "finger"
+  },
+  {
+    "reading": "よかったら",
+    "kanji": "",
+    "type": "adv.",
+    "def": "if you like"
+  },
+  {
+    "reading": "サークル",
+    "kanji": "",
+    "type": "n.",
+    "def": "club activity"
+  },
+  {
+    "reading": "デパート",
+    "kanji": "",
+    "type": "n.",
+    "def": "department store"
+  },
+  {
+    "reading": "～から",
+    "kanji": "",
+    "type": "part.",
+    "def": "from . . ."
+  },
+  {
+    "reading": "～が",
+    "kanji": "",
+    "type": "part.",
+    "def": ". . . , but"
+  },
+  {
+    "reading": "～にん",
+    "kanji": "～人",
+    "type": "suf.",
+    "def": "[counter for people]"
+  }
+]

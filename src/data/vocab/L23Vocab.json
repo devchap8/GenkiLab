@@ -1,0 +1,404 @@
+[
+  {
+    "reading": "あいさつ",
+    "kanji": "",
+    "type": "n.",
+    "def": "greetings"
+  },
+  {
+    "reading": "あめがやむ",
+    "kanji": "雨がやむ",
+    "type": "u-v.",
+    "def": "the rain stops"
+  },
+  {
+    "reading": "あらわす",
+    "kanji": "表す",
+    "type": "u-v.",
+    "def": "to express; to show"
+  },
+  {
+    "reading": "いう（わるぐちを）",
+    "kanji": "言う（悪口を）",
+    "type": "u-v.",
+    "def": "to talk behind someone’s back"
+  },
+  {
+    "reading": "いっぽう",
+    "kanji": "一方",
+    "type": "adv.",
+    "def": "on the other hand"
+  },
+  {
+    "reading": "いなくなる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "(someone) is gone; to disappear"
+  },
+  {
+    "reading": "えもじ",
+    "kanji": "絵文字",
+    "type": "n.",
+    "def": "emoji"
+  },
+  {
+    "reading": "おせわになる",
+    "kanji": "お世話になる",
+    "type": "u-v.",
+    "def": "to be in someone’s care"
+  },
+  {
+    "reading": "おなかをこわす",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to have a stomachache"
+  },
+  {
+    "reading": "おもいで",
+    "kanji": "思い出",
+    "type": "n.",
+    "def": "memory"
+  },
+  {
+    "reading": "かいがいりょこう",
+    "kanji": "海外旅行",
+    "type": "n.",
+    "def": "trip to a foreign country"
+  },
+  {
+    "reading": "かいだん",
+    "kanji": "階段",
+    "type": "n.",
+    "def": "stairs"
+  },
+  {
+    "reading": "かおもじ",
+    "kanji": "顔文字",
+    "type": "n.",
+    "def": "emoticon"
+  },
+  {
+    "reading": "かわいそう（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "pitiful; feel sorry for; poor thing"
+  },
+  {
+    "reading": "かんじょう",
+    "kanji": "感情",
+    "type": "n.",
+    "def": "feeling; emotion"
+  },
+  {
+    "reading": "がっかりする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to be disappointed "
+  },
+  {
+    "reading": "がまんする",
+    "kanji": "我慢する",
+    "type": "irr-v.",
+    "def": "to be tolerant/patient "
+  },
+  {
+    "reading": "きごう",
+    "kanji": "記号",
+    "type": "n.",
+    "def": "symbol"
+  },
+  {
+    "reading": "きにいる",
+    "kanji": "気に入る",
+    "type": "u-v.",
+    "def": "to find something agreeable"
+  },
+  {
+    "reading": "きゅうこう",
+    "kanji": "休講",
+    "type": "n.",
+    "def": "class cancellation"
+  },
+  {
+    "reading": "きゅうこう",
+    "kanji": "急行",
+    "type": "n.",
+    "def": "express"
+  },
+  {
+    "reading": "くつした",
+    "kanji": "靴下",
+    "type": "n.",
+    "def": "socks"
+  },
+  {
+    "reading": "けっか",
+    "kanji": "結果",
+    "type": "n.",
+    "def": "result"
+  },
+  {
+    "reading": "けんこう",
+    "kanji": "健康",
+    "type": "n.",
+    "def": "health"
+  },
+  {
+    "reading": "げんきでね",
+    "kanji": "元気でね",
+    "type": "exp.",
+    "def": "Take care of yourself."
+  },
+  {
+    "reading": "こたえ",
+    "kanji": "答／答え",
+    "type": "n.",
+    "def": "answer"
+  },
+  {
+    "reading": "こたえる",
+    "kanji": "答える",
+    "type": "ru-v.",
+    "def": "to answer "
+  },
+  {
+    "reading": "ことわざ",
+    "kanji": "",
+    "type": "n.",
+    "def": "proverb"
+  },
+  {
+    "reading": "このように",
+    "kanji": "",
+    "type": "adv.",
+    "def": "like this; this way"
+  },
+  {
+    "reading": "さいごに",
+    "kanji": "最後に",
+    "type": "adv.",
+    "def": "finally; lastly"
+  },
+  {
+    "reading": "しゃかい",
+    "kanji": "社会",
+    "type": "n.",
+    "def": "society"
+  },
+  {
+    "reading": "しょうがっこう",
+    "kanji": "小学校",
+    "type": "n.",
+    "def": "elementary school"
+  },
+  {
+    "reading": "せかいじゅう",
+    "kanji": "世界中",
+    "type": "n.",
+    "def": "all over the world"
+  },
+  {
+    "reading": "せわをする",
+    "kanji": "世話をする",
+    "type": "irr-v.",
+    "def": "to take care of . . . "
+  },
+  {
+    "reading": "そうそう",
+    "kanji": "",
+    "type": "exp.",
+    "def": "You are right."
+  },
+  {
+    "reading": "そろそろ",
+    "kanji": "",
+    "type": "adv.",
+    "def": "it is about time to . . ."
+  },
+  {
+    "reading": "そんな～",
+    "kanji": "",
+    "type": "pre.",
+    "def": "such . . . ; that kind of . . ."
+  },
+  {
+    "reading": "ただ",
+    "kanji": "",
+    "type": "n.",
+    "def": "free of charge"
+  },
+  {
+    "reading": "たて",
+    "kanji": "縦",
+    "type": "n.",
+    "def": "vertical"
+  },
+  {
+    "reading": "ちがう",
+    "kanji": "違う",
+    "type": "u-v.",
+    "def": "to be different; to be wrong"
+  },
+  {
+    "reading": "ちょうさ",
+    "kanji": "調査",
+    "type": "n.",
+    "def": "survey"
+  },
+  {
+    "reading": "どうじょうする",
+    "kanji": "同情する",
+    "type": "irr-v.",
+    "def": "to sympathize "
+  },
+  {
+    "reading": "なくなる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to be lost; to disappear"
+  },
+  {
+    "reading": "はなれる",
+    "kanji": "離れる",
+    "type": "ru-v.",
+    "def": "(something/someone) separates; parts from "
+  },
+  {
+    "reading": "ばしょ",
+    "kanji": "場所",
+    "type": "n.",
+    "def": "place"
+  },
+  {
+    "reading": "ひょうじょう",
+    "kanji": "表情",
+    "type": "n.",
+    "def": "expression"
+  },
+  {
+    "reading": "ふくろ",
+    "kanji": "袋",
+    "type": "n.",
+    "def": "bag; sack; plastic/paper bag"
+  },
+  {
+    "reading": "ぼんおどり",
+    "kanji": "盆踊り",
+    "type": "n.",
+    "def": "Bon dance (Japanese traditional dance)"
+  },
+  {
+    "reading": "まずい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "(food is) terrible"
+  },
+  {
+    "reading": "めんせつ",
+    "kanji": "面接",
+    "type": "n.",
+    "def": "interview"
+  },
+  {
+    "reading": "もどってくる",
+    "kanji": "戻ってくる",
+    "type": "irr-v.",
+    "def": "(something/someone) comes back "
+  },
+  {
+    "reading": "ものすごく",
+    "kanji": "",
+    "type": "adv.",
+    "def": "extremely"
+  },
+  {
+    "reading": "ゆうしょうする",
+    "kanji": "優勝する",
+    "type": "irr-v.",
+    "def": "to win a championship "
+  },
+  {
+    "reading": "ゆうしょく",
+    "kanji": "夕食",
+    "type": "n.",
+    "def": "dinner"
+  },
+  {
+    "reading": "よこ",
+    "kanji": "横",
+    "type": "n.",
+    "def": "side; horizontal"
+  },
+  {
+    "reading": "りそう",
+    "kanji": "理想",
+    "type": "n.",
+    "def": "ideal"
+  },
+  {
+    "reading": "るすばん",
+    "kanji": "留守番",
+    "type": "n.",
+    "def": "looking after a house during someone’s absence"
+  },
+  {
+    "reading": "わるぐちをいう",
+    "kanji": "悪口を言う",
+    "type": "u-v.",
+    "def": "to talk behind someone’s back"
+  },
+  {
+    "reading": "エスエヌエス",
+    "kanji": "SNS",
+    "type": "n.",
+    "def": "social media"
+  },
+  {
+    "reading": "カンニングする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to cheat in an exam "
+  },
+  {
+    "reading": "キスをする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to kiss "
+  },
+  {
+    "reading": "チェックする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to check "
+  },
+  {
+    "reading": "メッセージ",
+    "kanji": "",
+    "type": "n.",
+    "def": "message; text"
+  },
+  {
+    "reading": "（～は）…といういみだ",
+    "kanji": "（～は）…という意味だ",
+    "type": "exp.",
+    "def": "～ means that . . ."
+  },
+  {
+    "reading": "～かおをする",
+    "kanji": "～顔をする",
+    "type": "irr-v.",
+    "def": "to look . . . (facial expression) "
+  },
+  {
+    "reading": "～ために",
+    "kanji": "",
+    "type": "exp.",
+    "def": "for . . . ; for the sake of . . ."
+  },
+  {
+    "reading": "～は…といういみだ",
+    "kanji": "～は…という意味だ",
+    "type": "exp.",
+    "def": "～ means that . . ."
+  }
+]

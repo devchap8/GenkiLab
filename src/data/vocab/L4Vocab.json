@@ -1,0 +1,722 @@
+[
+  {
+    "reading": "あいだ",
+    "kanji": "間",
+    "type": "n.",
+    "def": "between"
+  },
+  {
+    "reading": "あう",
+    "kanji": "会う",
+    "type": "u-v.",
+    "def": "to meet; to see (a person)"
+  },
+  {
+    "reading": "あさって",
+    "kanji": "",
+    "type": "n.",
+    "def": "the day after tomorrow"
+  },
+  {
+    "reading": "あした",
+    "kanji": "明日",
+    "type": "n.",
+    "def": "tomorrow"
+  },
+  {
+    "reading": "あなた",
+    "kanji": "",
+    "type": "n.",
+    "def": "you"
+  },
+  {
+    "reading": "ある",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "there is . . ."
+  },
+  {
+    "reading": "いす",
+    "kanji": "",
+    "type": "n.",
+    "def": "chair"
+  },
+  {
+    "reading": "いちがつ",
+    "kanji": "一月",
+    "type": "n.",
+    "def": "January"
+  },
+  {
+    "reading": "いちじかん",
+    "kanji": "一時間",
+    "type": "n.",
+    "def": "one hour"
+  },
+  {
+    "reading": "いつか",
+    "kanji": "五日",
+    "type": "n.",
+    "def": "five days"
+  },
+  {
+    "reading": "いぬ",
+    "kanji": "犬",
+    "type": "n.",
+    "def": "dog"
+  },
+  {
+    "reading": "いる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "(a person) is in . . . ; stays at . . . "
+  },
+  {
+    "reading": "いる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to need"
+  },
+  {
+    "reading": "うえ",
+    "kanji": "上",
+    "type": "n.",
+    "def": "on"
+  },
+  {
+    "reading": "うしろ",
+    "kanji": "後ろ",
+    "type": "n.",
+    "def": "back"
+  },
+  {
+    "reading": "おそく",
+    "kanji": "遅く",
+    "type": "adv.",
+    "def": "(do something) late"
+  },
+  {
+    "reading": "おてら",
+    "kanji": "お寺",
+    "type": "n.",
+    "def": "temple"
+  },
+  {
+    "reading": "おととい",
+    "kanji": "",
+    "type": "n.",
+    "def": "the day before yesterday"
+  },
+  {
+    "reading": "おととし",
+    "kanji": "",
+    "type": "n.",
+    "def": "the year before last"
+  },
+  {
+    "reading": "おまんじゅう",
+    "kanji": "",
+    "type": "n.",
+    "def": "sweet bun"
+  },
+  {
+    "reading": "かいもの",
+    "kanji": "買い物",
+    "type": "n.",
+    "def": "shopping"
+  },
+  {
+    "reading": "かう",
+    "kanji": "買う",
+    "type": "u-v.",
+    "def": "to buy"
+  },
+  {
+    "reading": "かう",
+    "kanji": "飼う",
+    "type": "u-v.",
+    "def": "to own (a pet)"
+  },
+  {
+    "reading": "かく",
+    "kanji": "書く",
+    "type": "u-v.",
+    "def": "to write"
+  },
+  {
+    "reading": "かく",
+    "kanji": "描く",
+    "type": "u-v.",
+    "def": "to draw; to paint"
+  },
+  {
+    "reading": "かようび",
+    "kanji": "火曜日",
+    "type": "n.",
+    "def": "Tuesday"
+  },
+  {
+    "reading": "きのう",
+    "kanji": "昨日",
+    "type": "n.",
+    "def": "yesterday"
+  },
+  {
+    "reading": "きょう",
+    "kanji": "今日",
+    "type": "n.",
+    "def": "today"
+  },
+  {
+    "reading": "きょねん",
+    "kanji": "去年",
+    "type": "n.",
+    "def": "last year"
+  },
+  {
+    "reading": "きんようび",
+    "kanji": "金曜日",
+    "type": "n.",
+    "def": "Friday"
+  },
+  {
+    "reading": "くがつ",
+    "kanji": "九月",
+    "type": "n.",
+    "def": "September"
+  },
+  {
+    "reading": "げつようび",
+    "kanji": "月曜日",
+    "type": "n.",
+    "def": "Monday"
+  },
+  {
+    "reading": "こうえん",
+    "kanji": "公園",
+    "type": "n.",
+    "def": "park"
+  },
+  {
+    "reading": "ここのか",
+    "kanji": "九日",
+    "type": "n.",
+    "def": "nine days"
+  },
+  {
+    "reading": "ことし",
+    "kanji": "今年",
+    "type": "n.",
+    "def": "this year"
+  },
+  {
+    "reading": "こども",
+    "kanji": "子供",
+    "type": "n.",
+    "def": "child"
+  },
+  {
+    "reading": "こんげつ",
+    "kanji": "今月",
+    "type": "n.",
+    "def": "this month"
+  },
+  {
+    "reading": "こんしゅう",
+    "kanji": "今週",
+    "type": "n.",
+    "def": "this week"
+  },
+  {
+    "reading": "ごがつ",
+    "kanji": "五月",
+    "type": "n.",
+    "def": "May"
+  },
+  {
+    "reading": "ごはん",
+    "kanji": "ご飯",
+    "type": "n.",
+    "def": "rice; meal"
+  },
+  {
+    "reading": "ごめんなさい",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I’m sorry."
+  },
+  {
+    "reading": "さらいげつ",
+    "kanji": "再来月",
+    "type": "n.",
+    "def": "the month after next"
+  },
+  {
+    "reading": "さらいしゅう",
+    "kanji": "再来週",
+    "type": "n.",
+    "def": "the week after next"
+  },
+  {
+    "reading": "さらいねん",
+    "kanji": "再来年",
+    "type": "n.",
+    "def": "the year after next"
+  },
+  {
+    "reading": "さんがつ",
+    "kanji": "三月",
+    "type": "n.",
+    "def": "March"
+  },
+  {
+    "reading": "しがつ",
+    "kanji": "四月",
+    "type": "n.",
+    "def": "April"
+  },
+  {
+    "reading": "した",
+    "kanji": "下",
+    "type": "n.",
+    "def": "under"
+  },
+  {
+    "reading": "しちがつ",
+    "kanji": "七月",
+    "type": "n.",
+    "def": "July"
+  },
+  {
+    "reading": "しゃしん",
+    "kanji": "写真",
+    "type": "n.",
+    "def": "picture; photograph"
+  },
+  {
+    "reading": "じゅういちがつ",
+    "kanji": "十一月",
+    "type": "n.",
+    "def": "November"
+  },
+  {
+    "reading": "じゅういちにち",
+    "kanji": "十一日",
+    "type": "n.",
+    "def": "the eleventh day of a month"
+  },
+  {
+    "reading": "じゅうがつ",
+    "kanji": "十月",
+    "type": "n.",
+    "def": "October"
+  },
+  {
+    "reading": "じゅうにがつ",
+    "kanji": "十二月",
+    "type": "n.",
+    "def": "December"
+  },
+  {
+    "reading": "じゅうよっか",
+    "kanji": "十四日",
+    "type": "n.",
+    "def": "the fourteenth day of a month"
+  },
+  {
+    "reading": "すいようび",
+    "kanji": "水曜日",
+    "type": "n.",
+    "def": "Wednesday"
+  },
+  {
+    "reading": "せんげつ",
+    "kanji": "先月",
+    "type": "n.",
+    "def": "last month"
+  },
+  {
+    "reading": "せんしゅう",
+    "kanji": "先週",
+    "type": "n.",
+    "def": "last week"
+  },
+  {
+    "reading": "それから",
+    "kanji": "",
+    "type": "adv.",
+    "def": "and then"
+  },
+  {
+    "reading": "たくさん",
+    "kanji": "",
+    "type": "adv.",
+    "def": "many; a lot"
+  },
+  {
+    "reading": "だから",
+    "kanji": "",
+    "type": "adv.",
+    "def": "so; therefore"
+  },
+  {
+    "reading": "ちかく",
+    "kanji": "近く",
+    "type": "n.",
+    "def": "near; nearby"
+  },
+  {
+    "reading": "ついたち",
+    "kanji": "一日",
+    "type": "n.",
+    "def": "the first day of a month"
+  },
+  {
+    "reading": "つくえ",
+    "kanji": "机",
+    "type": "n.",
+    "def": "desk"
+  },
+  {
+    "reading": "てら",
+    "kanji": "寺",
+    "type": "n.",
+    "def": "temple"
+  },
+  {
+    "reading": "とおか",
+    "kanji": "十日",
+    "type": "n.",
+    "def": "ten days"
+  },
+  {
+    "reading": "とき",
+    "kanji": "時",
+    "type": "n.",
+    "def": "when . . . ; at the time of . . ."
+  },
+  {
+    "reading": "となり",
+    "kanji": "隣",
+    "type": "n.",
+    "def": "next"
+  },
+  {
+    "reading": "とる",
+    "kanji": "取る",
+    "type": "u-v.",
+    "def": "to take (a class); to get (a grade)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "撮る",
+    "type": "u-v.",
+    "def": "to take (a picture)"
+  },
+  {
+    "reading": "とる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to take off"
+  },
+  {
+    "reading": "どうして",
+    "kanji": "",
+    "type": "adv.",
+    "def": "why"
+  },
+  {
+    "reading": "どようび",
+    "kanji": "土曜日",
+    "type": "n.",
+    "def": "Saturday"
+  },
+  {
+    "reading": "なか",
+    "kanji": "中",
+    "type": "n.",
+    "def": "inside"
+  },
+  {
+    "reading": "なのか",
+    "kanji": "七日",
+    "type": "n.",
+    "def": "seven days"
+  },
+  {
+    "reading": "にかげつまえ",
+    "kanji": "二か月前",
+    "type": "n.",
+    "def": "two months ago"
+  },
+  {
+    "reading": "にがつ",
+    "kanji": "二月",
+    "type": "n.",
+    "def": "February"
+  },
+  {
+    "reading": "にしゅうかんまえ",
+    "kanji": "二週間前",
+    "type": "n.",
+    "def": "two weeks ago"
+  },
+  {
+    "reading": "にじゅうよっか",
+    "kanji": "二十四日",
+    "type": "n.",
+    "def": "the twenty-fourth day of a month"
+  },
+  {
+    "reading": "にちようび",
+    "kanji": "日曜日",
+    "type": "n.",
+    "def": "Sunday"
+  },
+  {
+    "reading": "ねこ",
+    "kanji": "猫",
+    "type": "n.",
+    "def": "cat"
+  },
+  {
+    "reading": "はちがつ",
+    "kanji": "八月",
+    "type": "n.",
+    "def": "August"
+  },
+  {
+    "reading": "はつか",
+    "kanji": "二十日",
+    "type": "n.",
+    "def": "the twentieth day of a month"
+  },
+  {
+    "reading": "はな",
+    "kanji": "花",
+    "type": "n.",
+    "def": "flower"
+  },
+  {
+    "reading": "はな",
+    "kanji": "鼻",
+    "type": "n.",
+    "def": "nose"
+  },
+  {
+    "reading": "ひだり",
+    "kanji": "左",
+    "type": "n.",
+    "def": "left"
+  },
+  {
+    "reading": "ひと",
+    "kanji": "人",
+    "type": "n.",
+    "def": "person"
+  },
+  {
+    "reading": "ひとりで",
+    "kanji": "一人で",
+    "type": "adv.",
+    "def": "alone"
+  },
+  {
+    "reading": "びょういん",
+    "kanji": "病院",
+    "type": "n.",
+    "def": "hospital"
+  },
+  {
+    "reading": "ふつか",
+    "kanji": "二日",
+    "type": "n.",
+    "def": "the second day of a month"
+  },
+  {
+    "reading": "ほんや",
+    "kanji": "本屋",
+    "type": "n.",
+    "def": "bookstore"
+  },
+  {
+    "reading": "まえ",
+    "kanji": "前",
+    "type": "suf.",
+    "def": "before . . ."
+  },
+  {
+    "reading": "まえ",
+    "kanji": "前",
+    "type": "n.",
+    "def": "front"
+  },
+  {
+    "reading": "まち",
+    "kanji": "町",
+    "type": "n.",
+    "def": "town; city"
+  },
+  {
+    "reading": "まつ",
+    "kanji": "待つ",
+    "type": "u-v.",
+    "def": "to wait"
+  },
+  {
+    "reading": "まんじゅう",
+    "kanji": "",
+    "type": "n.",
+    "def": "sweet bun"
+  },
+  {
+    "reading": "みぎ",
+    "kanji": "右",
+    "type": "n.",
+    "def": "right"
+  },
+  {
+    "reading": "みせ",
+    "kanji": "店",
+    "type": "n.",
+    "def": "shop; store"
+  },
+  {
+    "reading": "みっか",
+    "kanji": "三日",
+    "type": "n.",
+    "def": "the third day of a month"
+  },
+  {
+    "reading": "むいか",
+    "kanji": "六日",
+    "type": "n.",
+    "def": "six days"
+  },
+  {
+    "reading": "もくようび",
+    "kanji": "木曜日",
+    "type": "n.",
+    "def": "Thursday"
+  },
+  {
+    "reading": "もしもし",
+    "kanji": "",
+    "type": "exp.",
+    "def": "Hello? (used on the phone)"
+  },
+  {
+    "reading": "ようか",
+    "kanji": "八日",
+    "type": "n.",
+    "def": "eight days"
+  },
+  {
+    "reading": "よっか",
+    "kanji": "四日",
+    "type": "n.",
+    "def": "four days"
+  },
+  {
+    "reading": "らいげつ",
+    "kanji": "来月",
+    "type": "n.",
+    "def": "next month"
+  },
+  {
+    "reading": "らいしゅう",
+    "kanji": "来週",
+    "type": "n.",
+    "def": "next week"
+  },
+  {
+    "reading": "らいねん",
+    "kanji": "来年",
+    "type": "n.",
+    "def": "next year"
+  },
+  {
+    "reading": "ろくがつ",
+    "kanji": "六月",
+    "type": "n.",
+    "def": "June"
+  },
+  {
+    "reading": "わかる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to understand"
+  },
+  {
+    "reading": "アルバイト",
+    "kanji": "",
+    "type": "n.",
+    "def": "part-time job"
+  },
+  {
+    "reading": "クラス",
+    "kanji": "",
+    "type": "n.",
+    "def": "class"
+  },
+  {
+    "reading": "ゲーム",
+    "kanji": "",
+    "type": "n.",
+    "def": "game"
+  },
+  {
+    "reading": "スーパー",
+    "kanji": "",
+    "type": "n.",
+    "def": "supermarket"
+  },
+  {
+    "reading": "バスてい",
+    "kanji": "バス停",
+    "type": "n.",
+    "def": "bus stop"
+  },
+  {
+    "reading": "パン",
+    "kanji": "",
+    "type": "n.",
+    "def": "bread"
+  },
+  {
+    "reading": "ホテル",
+    "kanji": "",
+    "type": "n.",
+    "def": "hotel"
+  },
+  {
+    "reading": "レストラン",
+    "kanji": "",
+    "type": "n.",
+    "def": "restaurant"
+  },
+  {
+    "reading": "レポート",
+    "kanji": "",
+    "type": "n.",
+    "def": "(term) paper"
+  },
+  {
+    "reading": "～ぐらい",
+    "kanji": "",
+    "type": "suf.",
+    "def": "about (approximate measurement)"
+  },
+  {
+    "reading": "～じかん",
+    "kanji": "～時間",
+    "type": "suf.",
+    "def": ". . . hours"
+  },
+  {
+    "reading": "～と",
+    "kanji": "",
+    "type": "part.",
+    "def": "together with (a person); and"
+  }
+]

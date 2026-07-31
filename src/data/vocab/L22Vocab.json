@@ -1,0 +1,446 @@
+[
+  {
+    "reading": "あいかわらず",
+    "kanji": "相変わらず",
+    "type": "adv.",
+    "def": "as usual"
+  },
+  {
+    "reading": "あいて",
+    "kanji": "相手",
+    "type": "n.",
+    "def": "partner; the other person"
+  },
+  {
+    "reading": "うけつけ",
+    "kanji": "受付",
+    "type": "n.",
+    "def": "reception desk"
+  },
+  {
+    "reading": "うける",
+    "kanji": "受ける",
+    "type": "ru-v.",
+    "def": "to take (an examination) "
+  },
+  {
+    "reading": "うまく",
+    "kanji": "",
+    "type": "adv.",
+    "def": "well; successfully; skillfully"
+  },
+  {
+    "reading": "うまくいく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to go well"
+  },
+  {
+    "reading": "うらやましがる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "(somebody is) envious"
+  },
+  {
+    "reading": "うるさい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "noisy; annoying"
+  },
+  {
+    "reading": "えいかいわ",
+    "kanji": "英会話",
+    "type": "n.",
+    "def": "English conversation"
+  },
+  {
+    "reading": "おおくの～",
+    "kanji": "多くの～",
+    "type": "pre.",
+    "def": "many . . ."
+  },
+  {
+    "reading": "おじょうさん",
+    "kanji": "お嬢さん",
+    "type": "n.",
+    "def": "(someone’s) daughter (polite)"
+  },
+  {
+    "reading": "おねがいする",
+    "kanji": "お願いする",
+    "type": "irr-v.",
+    "def": "to request help "
+  },
+  {
+    "reading": "かじ",
+    "kanji": "火事",
+    "type": "n.",
+    "def": "fire"
+  },
+  {
+    "reading": "かじ",
+    "kanji": "家事",
+    "type": "n.",
+    "def": "housework"
+  },
+  {
+    "reading": "かぜ",
+    "kanji": "風",
+    "type": "n.",
+    "def": "wind"
+  },
+  {
+    "reading": "かぜ",
+    "kanji": "風邪",
+    "type": "n.",
+    "def": "cold"
+  },
+  {
+    "reading": "かぜがふく",
+    "kanji": "風が吹く",
+    "type": "u-v.",
+    "def": "the wind blows"
+  },
+  {
+    "reading": "かつ",
+    "kanji": "勝つ",
+    "type": "u-v.",
+    "def": "to win"
+  },
+  {
+    "reading": "かみさま",
+    "kanji": "神様",
+    "type": "n.",
+    "def": "God"
+  },
+  {
+    "reading": "かわりに",
+    "kanji": "代わりに",
+    "type": "adv.",
+    "def": "instead"
+  },
+  {
+    "reading": "き",
+    "kanji": "木",
+    "type": "n.",
+    "def": "tree"
+  },
+  {
+    "reading": "けいかくをたてる",
+    "kanji": "計画を立てる",
+    "type": "ru-v.",
+    "def": "to make a plan "
+  },
+  {
+    "reading": "こうはい",
+    "kanji": "後輩",
+    "type": "n.",
+    "def": "junior member of a group"
+  },
+  {
+    "reading": "こんなふう",
+    "kanji": "",
+    "type": "exp.",
+    "def": "like this"
+  },
+  {
+    "reading": "さる",
+    "kanji": "猿",
+    "type": "n.",
+    "def": "monkey"
+  },
+  {
+    "reading": "さんせいする",
+    "kanji": "賛成する",
+    "type": "irr-v.",
+    "def": "to agree "
+  },
+  {
+    "reading": "しかたがない",
+    "kanji": "",
+    "type": "exp.",
+    "def": "cannot be helped"
+  },
+  {
+    "reading": "しっぱいする",
+    "kanji": "失敗する",
+    "type": "irr-v.",
+    "def": "to fail; to be unsuccessful "
+  },
+  {
+    "reading": "しょるい",
+    "kanji": "書類",
+    "type": "n.",
+    "def": "document"
+  },
+  {
+    "reading": "しんぱい（な）",
+    "kanji": "心配",
+    "type": "な-adj.",
+    "def": "worried about"
+  },
+  {
+    "reading": "しんゆう",
+    "kanji": "親友",
+    "type": "n.",
+    "def": "best friend"
+  },
+  {
+    "reading": "じゅく",
+    "kanji": "塾",
+    "type": "n.",
+    "def": "cram school"
+  },
+  {
+    "reading": "じゆう",
+    "kanji": "自由",
+    "type": "n.",
+    "def": "freedom"
+  },
+  {
+    "reading": "じゆうに",
+    "kanji": "自由に",
+    "type": "adv.",
+    "def": "freely"
+  },
+  {
+    "reading": "ずっと",
+    "kanji": "",
+    "type": "adv.",
+    "def": "for a long time; all the time"
+  },
+  {
+    "reading": "せんぱい",
+    "kanji": "先輩",
+    "type": "n.",
+    "def": "senior member of a group"
+  },
+  {
+    "reading": "ぜったいに",
+    "kanji": "絶対に",
+    "type": "adv.",
+    "def": "definitely; no matter what"
+  },
+  {
+    "reading": "そだてる",
+    "kanji": "育てる",
+    "type": "ru-v.",
+    "def": "to raise; to bring up "
+  },
+  {
+    "reading": "そんなこと（は）ない",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I don’t think so."
+  },
+  {
+    "reading": "たすける",
+    "kanji": "助ける",
+    "type": "ru-v.",
+    "def": "to help; to rescue "
+  },
+  {
+    "reading": "たのしそうに",
+    "kanji": "楽しそうに",
+    "type": "adv.",
+    "def": "joyfully"
+  },
+  {
+    "reading": "てつやする",
+    "kanji": "徹夜する",
+    "type": "irr-v.",
+    "def": "to stay up all night "
+  },
+  {
+    "reading": "なんだか",
+    "kanji": "",
+    "type": "adv.",
+    "def": "somehow"
+  },
+  {
+    "reading": "なんども",
+    "kanji": "何度も",
+    "type": "adv.",
+    "def": "many times"
+  },
+  {
+    "reading": "にげる",
+    "kanji": "逃げる",
+    "type": "ru-v.",
+    "def": "to run away; to escape "
+  },
+  {
+    "reading": "はこぶ",
+    "kanji": "運ぶ",
+    "type": "u-v.",
+    "def": "to carry"
+  },
+  {
+    "reading": "はんたいする",
+    "kanji": "反対する",
+    "type": "irr-v.",
+    "def": "to oppose; to object to "
+  },
+  {
+    "reading": "ひとりぐらし",
+    "kanji": "一人暮らし",
+    "type": "n.",
+    "def": "living alone"
+  },
+  {
+    "reading": "ひろう",
+    "kanji": "拾う",
+    "type": "u-v.",
+    "def": "to pick up (something)"
+  },
+  {
+    "reading": "びんぼう（な）",
+    "kanji": "貧乏",
+    "type": "な-adj.",
+    "def": "poor"
+  },
+  {
+    "reading": "ふくしゅう",
+    "kanji": "復習",
+    "type": "n.",
+    "def": "review of a lesson"
+  },
+  {
+    "reading": "ふつかかん",
+    "kanji": "二日間",
+    "type": "adv.",
+    "def": "for two days"
+  },
+  {
+    "reading": "ぶか",
+    "kanji": "部下",
+    "type": "n.",
+    "def": "subordinate"
+  },
+  {
+    "reading": "ぺらぺら（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "fluent"
+  },
+  {
+    "reading": "ほんやくする",
+    "kanji": "翻訳する",
+    "type": "irr-v.",
+    "def": "to translate "
+  },
+  {
+    "reading": "ほ（う）っておく",
+    "kanji": "放っておく",
+    "type": "u-v.",
+    "def": "to leave (someone/something) alone; to neglect"
+  },
+  {
+    "reading": "まける",
+    "kanji": "負ける",
+    "type": "ru-v.",
+    "def": "to lose (a match) "
+  },
+  {
+    "reading": "まちどおしい",
+    "kanji": "待ち遠しい",
+    "type": "い-adj.",
+    "def": "to wait eagerly for . . ."
+  },
+  {
+    "reading": "まにあう",
+    "kanji": "間に合う",
+    "type": "u-v.",
+    "def": "to be in time"
+  },
+  {
+    "reading": "むだづかい",
+    "kanji": "無駄遣い",
+    "type": "n.",
+    "def": "waste (money)"
+  },
+  {
+    "reading": "めんきょ",
+    "kanji": "免許",
+    "type": "n.",
+    "def": "license"
+  },
+  {
+    "reading": "もうすこし",
+    "kanji": "もう少し",
+    "type": "adv.",
+    "def": "a little more"
+  },
+  {
+    "reading": "ゆうき",
+    "kanji": "勇気",
+    "type": "n.",
+    "def": "courage"
+  },
+  {
+    "reading": "よしゅう",
+    "kanji": "予習",
+    "type": "n.",
+    "def": "preparation of a lesson"
+  },
+  {
+    "reading": "らく（な）",
+    "kanji": "楽",
+    "type": "な-adj.",
+    "def": "easy; comfortable"
+  },
+  {
+    "reading": "コピーをとる",
+    "kanji": "コピーを取る",
+    "type": "u-v.",
+    "def": "to make a photocopy"
+  },
+  {
+    "reading": "タイプ",
+    "kanji": "",
+    "type": "n.",
+    "def": "type"
+  },
+  {
+    "reading": "プロジェクト",
+    "kanji": "",
+    "type": "n.",
+    "def": "project"
+  },
+  {
+    "reading": "ホーム",
+    "kanji": "",
+    "type": "n.",
+    "def": "platform"
+  },
+  {
+    "reading": "ボール",
+    "kanji": "",
+    "type": "n.",
+    "def": "ball"
+  },
+  {
+    "reading": "メッセージ",
+    "kanji": "",
+    "type": "n.",
+    "def": "message; text"
+  },
+  {
+    "reading": "ヨーロッパ",
+    "kanji": "",
+    "type": "n.",
+    "def": "Europe"
+  },
+  {
+    "reading": "～ちゃん",
+    "kanji": "",
+    "type": "suf.",
+    "def": "suffix for names of children"
+  },
+  {
+    "reading": "～とか",
+    "kanji": "",
+    "type": "part.",
+    "def": ". . . for example"
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "reading": "あさ",
+    "kanji": "朝",
+    "type": "n.",
+    "def": "morning"
+  },
+  {
+    "reading": "あさごはん",
+    "kanji": "朝ご飯",
+    "type": "n.",
+    "def": "breakfast"
+  },
+  {
+    "reading": "あした",
+    "kanji": "明日",
+    "type": "n.",
+    "def": "tomorrow"
+  },
+  {
+    "reading": "あまり ＋ negative",
+    "kanji": "",
+    "type": "adv.",
+    "def": "not much"
+  },
+  {
+    "reading": "いい",
+    "kanji": "",
+    "type": "い-adj.",
+    "def": "good"
+  },
+  {
+    "reading": "いえ",
+    "kanji": "家",
+    "type": "n.",
+    "def": "home; house"
+  },
+  {
+    "reading": "いく",
+    "kanji": "行く",
+    "type": "u-v.",
+    "def": "to go"
+  },
+  {
+    "reading": "いつ",
+    "kanji": "",
+    "type": "n.",
+    "def": "when"
+  },
+  {
+    "reading": "うち",
+    "kanji": "",
+    "type": "n.",
+    "def": "home; house; my place"
+  },
+  {
+    "reading": "えいが",
+    "kanji": "映画",
+    "type": "n.",
+    "def": "movie"
+  },
+  {
+    "reading": "ええ",
+    "kanji": "",
+    "type": "exp.",
+    "def": "yes"
+  },
+  {
+    "reading": "おきる",
+    "kanji": "起きる",
+    "type": "ru-v.",
+    "def": "to get up "
+  },
+  {
+    "reading": "おさけ",
+    "kanji": "お酒",
+    "type": "n.",
+    "def": "sake; alcoholic drink"
+  },
+  {
+    "reading": "おちゃ",
+    "kanji": "お茶",
+    "type": "n.",
+    "def": "green tea"
+  },
+  {
+    "reading": "おんがく",
+    "kanji": "音楽",
+    "type": "n.",
+    "def": "music"
+  },
+  {
+    "reading": "かえる",
+    "kanji": "帰る",
+    "type": "u-v.",
+    "def": "to go back; to return"
+  },
+  {
+    "reading": "がっこう",
+    "kanji": "学校",
+    "type": "n.",
+    "def": "school"
+  },
+  {
+    "reading": "きく",
+    "kanji": "聞く",
+    "type": "u-v.",
+    "def": "to ask"
+  },
+  {
+    "reading": "きょう",
+    "kanji": "今日",
+    "type": "n.",
+    "def": "today"
+  },
+  {
+    "reading": "くる",
+    "kanji": "来る",
+    "type": "irr-v.",
+    "def": "to come "
+  },
+  {
+    "reading": "こんばん",
+    "kanji": "今晩",
+    "type": "n.",
+    "def": "tonight"
+  },
+  {
+    "reading": "さけ",
+    "kanji": "酒",
+    "type": "n.",
+    "def": "sake; alcohol"
+  },
+  {
+    "reading": "ざっし",
+    "kanji": "雑誌",
+    "type": "n.",
+    "def": "magazine"
+  },
+  {
+    "reading": "しゅうまつ",
+    "kanji": "週末",
+    "type": "n.",
+    "def": "weekend"
+  },
+  {
+    "reading": "する",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to cost "
+  },
+  {
+    "reading": "ぜんぜん ＋ negative",
+    "kanji": "全然",
+    "type": "adv.",
+    "def": "not at all"
+  },
+  {
+    "reading": "そうですね",
+    "kanji": "",
+    "type": "exp.",
+    "def": "That’s right.; Let me see."
+  },
+  {
+    "reading": "たいてい",
+    "kanji": "",
+    "type": "adv.",
+    "def": "usually"
+  },
+  {
+    "reading": "たべる",
+    "kanji": "食べる",
+    "type": "ru-v.",
+    "def": "to eat "
+  },
+  {
+    "reading": "ちゃ",
+    "kanji": "茶",
+    "type": "n.",
+    "def": "green tea"
+  },
+  {
+    "reading": "ちょっと",
+    "kanji": "",
+    "type": "adv.",
+    "def": "a little"
+  },
+  {
+    "reading": "でも",
+    "kanji": "",
+    "type": "exp.",
+    "def": "but"
+  },
+  {
+    "reading": "ときどき",
+    "kanji": "時々",
+    "type": "adv.",
+    "def": "sometimes"
+  },
+  {
+    "reading": "どうですか",
+    "kanji": "",
+    "type": "exp.",
+    "def": "How about . . . ?; How is . . . ?"
+  },
+  {
+    "reading": "どようび",
+    "kanji": "土曜日",
+    "type": "n.",
+    "def": "Saturday"
+  },
+  {
+    "reading": "にちようび",
+    "kanji": "日曜日",
+    "type": "n.",
+    "def": "Sunday"
+  },
+  {
+    "reading": "ねる",
+    "kanji": "寝る",
+    "type": "ru-v.",
+    "def": "to sleep; to go to sleep "
+  },
+  {
+    "reading": "のむ",
+    "kanji": "飲む",
+    "type": "u-v.",
+    "def": "to drink"
+  },
+  {
+    "reading": "はなす",
+    "kanji": "話す",
+    "type": "u-v.",
+    "def": "to speak; to talk"
+  },
+  {
+    "reading": "はやい",
+    "kanji": "早い",
+    "type": "い-adj.",
+    "def": "early"
+  },
+  {
+    "reading": "はやい",
+    "kanji": "速い",
+    "type": "い-adj.",
+    "def": "fast"
+  },
+  {
+    "reading": "ばんごはん",
+    "kanji": "晩ご飯",
+    "type": "n.",
+    "def": "dinner"
+  },
+  {
+    "reading": "ひるごはん",
+    "kanji": "昼ご飯",
+    "type": "n.",
+    "def": "lunch"
+  },
+  {
+    "reading": "べんきょうする",
+    "kanji": "勉強する",
+    "type": "irr-v.",
+    "def": "to study "
+  },
+  {
+    "reading": "まいにち",
+    "kanji": "毎日",
+    "type": "n.",
+    "def": "every day"
+  },
+  {
+    "reading": "まいばん",
+    "kanji": "毎晩",
+    "type": "n.",
+    "def": "every night"
+  },
+  {
+    "reading": "みず",
+    "kanji": "水",
+    "type": "n.",
+    "def": "water"
+  },
+  {
+    "reading": "みる",
+    "kanji": "見る",
+    "type": "ru-v.",
+    "def": "to see; to look at; to watch "
+  },
+  {
+    "reading": "よく",
+    "kanji": "",
+    "type": "adv.",
+    "def": "often; much"
+  },
+  {
+    "reading": "よむ",
+    "kanji": "読む",
+    "type": "u-v.",
+    "def": "to read"
+  },
+  {
+    "reading": "アイスクリーム",
+    "kanji": "",
+    "type": "n.",
+    "def": "ice cream"
+  },
+  {
+    "reading": "カフェ",
+    "kanji": "",
+    "type": "n.",
+    "def": "cafe"
+  },
+  {
+    "reading": "コーヒー",
+    "kanji": "",
+    "type": "n.",
+    "def": "coffee"
+  },
+  {
+    "reading": "スポーツ",
+    "kanji": "",
+    "type": "n.",
+    "def": "sports"
+  },
+  {
+    "reading": "テニス",
+    "kanji": "",
+    "type": "n.",
+    "def": "tennis"
+  },
+  {
+    "reading": "テレビ",
+    "kanji": "",
+    "type": "n.",
+    "def": "TV"
+  },
+  {
+    "reading": "デート",
+    "kanji": "",
+    "type": "n.",
+    "def": "date (romantic, not calendar)"
+  },
+  {
+    "reading": "ハンバーガー",
+    "kanji": "",
+    "type": "n.",
+    "def": "hamburger"
+  },
+  {
+    "reading": "～ごろ",
+    "kanji": "",
+    "type": "suf.",
+    "def": "at about . . ."
+  }
+]

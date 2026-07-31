@@ -1,0 +1,458 @@
+[
+  {
+    "reading": "あさねぼうする",
+    "kanji": "朝寝坊する",
+    "type": "irr-v.",
+    "def": "to oversleep "
+  },
+  {
+    "reading": "あつめる",
+    "kanji": "集める",
+    "type": "ru-v.",
+    "def": "to collect "
+  },
+  {
+    "reading": "あんないする",
+    "kanji": "案内する",
+    "type": "irr-v.",
+    "def": "to show (someone) around"
+  },
+  {
+    "reading": "いれる",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to make tea, coffee, etc. "
+  },
+  {
+    "reading": "いれる",
+    "kanji": "入れる",
+    "type": "ru-v.",
+    "def": "to put (something) in "
+  },
+  {
+    "reading": "うつす",
+    "kanji": "写す",
+    "type": "u-v.",
+    "def": "to copy"
+  },
+  {
+    "reading": "ええと",
+    "kanji": "",
+    "type": "exp.",
+    "def": "well . . . ; let me see . . ."
+  },
+  {
+    "reading": "えきいん（さん）",
+    "kanji": "駅員（さん）",
+    "type": "n.",
+    "def": "station attendant"
+  },
+  {
+    "reading": "おおきさ",
+    "kanji": "大きさ",
+    "type": "n.",
+    "def": "size"
+  },
+  {
+    "reading": "おこす",
+    "kanji": "起こす",
+    "type": "u-v.",
+    "def": "to wake (someone) up"
+  },
+  {
+    "reading": "おごる",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to treat (someone) to a meal"
+  },
+  {
+    "reading": "おちこむ",
+    "kanji": "落ち込む",
+    "type": "u-v.",
+    "def": "to get depressed"
+  },
+  {
+    "reading": "おや",
+    "kanji": "親",
+    "type": "n.",
+    "def": "parent"
+  },
+  {
+    "reading": "かける（アイロンを）",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to iron (clothes) "
+  },
+  {
+    "reading": "かす",
+    "kanji": "貸す",
+    "type": "u-v.",
+    "def": "to lend"
+  },
+  {
+    "reading": "きたない",
+    "kanji": "汚い",
+    "type": "い-adj.",
+    "def": "dirty"
+  },
+  {
+    "reading": "きまつしけん",
+    "kanji": "期末試験",
+    "type": "n.",
+    "def": "final examination"
+  },
+  {
+    "reading": "きょうじゅうに",
+    "kanji": "今日中に",
+    "type": "adv.",
+    "def": "by the end of today"
+  },
+  {
+    "reading": "けんきゅう",
+    "kanji": "研究",
+    "type": "n.",
+    "def": "research"
+  },
+  {
+    "reading": "このあいだ",
+    "kanji": "この間",
+    "type": "adv.",
+    "def": "the other day"
+  },
+  {
+    "reading": "このぐらい",
+    "kanji": "",
+    "type": "adv.",
+    "def": "about this much"
+  },
+  {
+    "reading": "こまる",
+    "kanji": "困る",
+    "type": "u-v.",
+    "def": "to have difficulty"
+  },
+  {
+    "reading": "これから",
+    "kanji": "",
+    "type": "adv.",
+    "def": "from now on"
+  },
+  {
+    "reading": "ごみ",
+    "kanji": "",
+    "type": "n.",
+    "def": "garbage"
+  },
+  {
+    "reading": "ごめん",
+    "kanji": "",
+    "type": "exp.",
+    "def": "I’m sorry. (casual)"
+  },
+  {
+    "reading": "さとう",
+    "kanji": "砂糖",
+    "type": "n.",
+    "def": "sugar"
+  },
+  {
+    "reading": "しつれいします",
+    "kanji": "失礼します",
+    "type": "exp.",
+    "def": "Excuse me.; Sorry to interrupt you."
+  },
+  {
+    "reading": "しょうがくきん",
+    "kanji": "奨学金",
+    "type": "n.",
+    "def": "scholarship"
+  },
+  {
+    "reading": "しょうがくせい",
+    "kanji": "小学生",
+    "type": "n.",
+    "def": "elementary school students"
+  },
+  {
+    "reading": "しんせき",
+    "kanji": "親せき",
+    "type": "n.",
+    "def": "relatives"
+  },
+  {
+    "reading": "じつは",
+    "kanji": "実は",
+    "type": "adv.",
+    "def": "actually; in fact"
+  },
+  {
+    "reading": "じぶんで",
+    "kanji": "自分で",
+    "type": "adv.",
+    "def": "(do something) by oneself"
+  },
+  {
+    "reading": "じゅぎょうちゅうに",
+    "kanji": "授業中に",
+    "type": "adv.",
+    "def": "in class; during the class"
+  },
+  {
+    "reading": "すいせんじょう",
+    "kanji": "推薦状",
+    "type": "n.",
+    "def": "letter of recommendation"
+  },
+  {
+    "reading": "すると",
+    "kanji": "",
+    "type": "adv.",
+    "def": ". . . Then . . ."
+  },
+  {
+    "reading": "せつめいする",
+    "kanji": "説明する",
+    "type": "irr-v.",
+    "def": "to explain "
+  },
+  {
+    "reading": "そら",
+    "kanji": "空",
+    "type": "n.",
+    "def": "sky"
+  },
+  {
+    "reading": "そんな～",
+    "kanji": "",
+    "type": "pre.",
+    "def": "such . . . ; that kind of . . ."
+  },
+  {
+    "reading": "たいふう",
+    "kanji": "台風",
+    "type": "n.",
+    "def": "typhoon"
+  },
+  {
+    "reading": "たすける",
+    "kanji": "助ける",
+    "type": "ru-v.",
+    "def": "to help; to rescue "
+  },
+  {
+    "reading": "たとえば",
+    "kanji": "例えば",
+    "type": "adv.",
+    "def": "for example"
+  },
+  {
+    "reading": "だいがくいん",
+    "kanji": "大学院",
+    "type": "n.",
+    "def": "graduate school"
+  },
+  {
+    "reading": "だす",
+    "kanji": "出す",
+    "type": "u-v.",
+    "def": "to take (something) out; to hand in (something)"
+  },
+  {
+    "reading": "ちがう",
+    "kanji": "違う",
+    "type": "u-v.",
+    "def": "to be different; to be wrong"
+  },
+  {
+    "reading": "つづく",
+    "kanji": "続く",
+    "type": "u-v.",
+    "def": "to continue"
+  },
+  {
+    "reading": "つれていく",
+    "kanji": "連れていく",
+    "type": "u-v.",
+    "def": "to take (someone) to (a place)"
+  },
+  {
+    "reading": "とぶ",
+    "kanji": "飛ぶ",
+    "type": "u-v.",
+    "def": "to fly"
+  },
+  {
+    "reading": "どうぐ",
+    "kanji": "道具",
+    "type": "n.",
+    "def": "tool"
+  },
+  {
+    "reading": "どこでも",
+    "kanji": "",
+    "type": "adv.",
+    "def": "anywhere"
+  },
+  {
+    "reading": "なおす",
+    "kanji": "直す",
+    "type": "u-v.",
+    "def": "to correct; to fix"
+  },
+  {
+    "reading": "のりおくれる",
+    "kanji": "乗り遅れる",
+    "type": "ru-v.",
+    "def": "to miss (a train, bus, etc.) "
+  },
+  {
+    "reading": "ばんぐみ",
+    "kanji": "番組",
+    "type": "n.",
+    "def": "broadcast program"
+  },
+  {
+    "reading": "ひ",
+    "kanji": "日",
+    "type": "n.",
+    "def": "day"
+  },
+  {
+    "reading": "ひみつ",
+    "kanji": "秘密",
+    "type": "n.",
+    "def": "secret"
+  },
+  {
+    "reading": "ぶんか",
+    "kanji": "文化",
+    "type": "n.",
+    "def": "culture"
+  },
+  {
+    "reading": "へんじ",
+    "kanji": "返事",
+    "type": "n.",
+    "def": "reply"
+  },
+  {
+    "reading": "ほかの",
+    "kanji": "他の",
+    "type": "pre.",
+    "def": "other"
+  },
+  {
+    "reading": "また",
+    "kanji": "",
+    "type": "adv.",
+    "def": "again"
+  },
+  {
+    "reading": "みかた",
+    "kanji": "味方",
+    "type": "n.",
+    "def": "person on one’s side"
+  },
+  {
+    "reading": "みせる",
+    "kanji": "見せる",
+    "type": "ru-v.",
+    "def": "to show "
+  },
+  {
+    "reading": "みち",
+    "kanji": "道",
+    "type": "n.",
+    "def": "way; road; directions"
+  },
+  {
+    "reading": "みちにまよう",
+    "kanji": "道に迷う",
+    "type": "u-v.",
+    "def": "to become lost; to lose one’s way"
+  },
+  {
+    "reading": "みつかる",
+    "kanji": "見つかる",
+    "type": "u-v.",
+    "def": "to be found"
+  },
+  {
+    "reading": "みらい",
+    "kanji": "未来",
+    "type": "n.",
+    "def": "future"
+  },
+  {
+    "reading": "むかえにいく",
+    "kanji": "迎えに行く",
+    "type": "u-v.",
+    "def": "to go to pick up"
+  },
+  {
+    "reading": "むかえにくる",
+    "kanji": "迎えに来る",
+    "type": "irr-v.",
+    "def": "to come to pick up "
+  },
+  {
+    "reading": "もどる",
+    "kanji": "戻る",
+    "type": "u-v.",
+    "def": "to return; to come/go back"
+  },
+  {
+    "reading": "やくす",
+    "kanji": "訳す",
+    "type": "u-v.",
+    "def": "to translate"
+  },
+  {
+    "reading": "よわい",
+    "kanji": "弱い",
+    "type": "い-adj.",
+    "def": "weak"
+  },
+  {
+    "reading": "わらう",
+    "kanji": "笑う",
+    "type": "u-v.",
+    "def": "to laugh"
+  },
+  {
+    "reading": "アイロンをかける",
+    "kanji": "",
+    "type": "ru-v.",
+    "def": "to iron (clothes) "
+  },
+  {
+    "reading": "ファイル",
+    "kanji": "",
+    "type": "n.",
+    "def": "(file) folder; portfolio; file"
+  },
+  {
+    "reading": "ポケット",
+    "kanji": "",
+    "type": "n.",
+    "def": "pocket"
+  },
+  {
+    "reading": "ロボット",
+    "kanji": "",
+    "type": "n.",
+    "def": "robot"
+  },
+  {
+    "reading": "～いがい",
+    "kanji": "～以外",
+    "type": "suf.",
+    "def": "other than . . ."
+  },
+  {
+    "reading": "～のようなもの",
+    "kanji": "",
+    "type": "exp.",
+    "def": "something like . . ."
+  }
+]

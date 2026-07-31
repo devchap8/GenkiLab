@@ -1,0 +1,680 @@
+[
+  {
+    "reading": "〜など",
+    "kanji": "",
+    "type": "suf.",
+    "def": "and so forth"
+  },
+  {
+    "reading": "あし",
+    "kanji": "足",
+    "type": "n.",
+    "def": "leg; foot"
+  },
+  {
+    "reading": "あまい",
+    "kanji": "甘い",
+    "type": "い-adj.",
+    "def": "sweet"
+  },
+  {
+    "reading": "あまのがわ",
+    "kanji": "天の川",
+    "type": "n.",
+    "def": "the Milky Way"
+  },
+  {
+    "reading": "あるく",
+    "kanji": "歩く",
+    "type": "u-v.",
+    "def": "to walk"
+  },
+  {
+    "reading": "ある～",
+    "kanji": "",
+    "type": "pre.",
+    "def": "one . . ."
+  },
+  {
+    "reading": "いたい",
+    "kanji": "痛い",
+    "type": "い-adj.",
+    "def": "hurt; painful"
+  },
+  {
+    "reading": "いたみどめ",
+    "kanji": "痛み止め",
+    "type": "n.",
+    "def": "painkiller"
+  },
+  {
+    "reading": "いちねんにいちど",
+    "kanji": "一年に一度",
+    "type": "adv.",
+    "def": "once a year"
+  },
+  {
+    "reading": "いみ",
+    "kanji": "意味",
+    "type": "n.",
+    "def": "meaning"
+  },
+  {
+    "reading": "うし",
+    "kanji": "牛",
+    "type": "n.",
+    "def": "cow"
+  },
+  {
+    "reading": "おおい",
+    "kanji": "多い",
+    "type": "い-adj.",
+    "def": "there are many . . ."
+  },
+  {
+    "reading": "おこる",
+    "kanji": "起こる",
+    "type": "u-v.",
+    "def": "to occur; to happen"
+  },
+  {
+    "reading": "おこる",
+    "kanji": "怒る",
+    "type": "u-v.",
+    "def": "to get angry"
+  },
+  {
+    "reading": "おだいじに",
+    "kanji": "お大事に",
+    "type": "exp.",
+    "def": "Get well soon."
+  },
+  {
+    "reading": "おてあらい",
+    "kanji": "お手洗い",
+    "type": "n.",
+    "def": "restroom"
+  },
+  {
+    "reading": "おとな",
+    "kanji": "大人",
+    "type": "n.",
+    "def": "adult"
+  },
+  {
+    "reading": "おなか",
+    "kanji": "",
+    "type": "n.",
+    "def": "stomach"
+  },
+  {
+    "reading": "おなじ",
+    "kanji": "同じ",
+    "type": "adv.",
+    "def": "same"
+  },
+  {
+    "reading": "かぜ",
+    "kanji": "風",
+    "type": "n.",
+    "def": "wind"
+  },
+  {
+    "reading": "かぜ",
+    "kanji": "風邪",
+    "type": "n.",
+    "def": "cold"
+  },
+  {
+    "reading": "かぜをひく",
+    "kanji": "風邪をひく",
+    "type": "u-v.",
+    "def": "to catch a cold"
+  },
+  {
+    "reading": "かなう",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to be realized"
+  },
+  {
+    "reading": "かのじょ",
+    "kanji": "彼女",
+    "type": "n.",
+    "def": "she; girlfriend"
+  },
+  {
+    "reading": "かふんしょう",
+    "kanji": "花粉症",
+    "type": "n.",
+    "def": "hay fever"
+  },
+  {
+    "reading": "かみさま",
+    "kanji": "神様",
+    "type": "n.",
+    "def": "God"
+  },
+  {
+    "reading": "かれ",
+    "kanji": "彼",
+    "type": "n.",
+    "def": "he; boyfriend"
+  },
+  {
+    "reading": "かれし",
+    "kanji": "彼氏",
+    "type": "n.",
+    "def": "boyfriend"
+  },
+  {
+    "reading": "かわいそう（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "pitiful; feel sorry for; poor thing"
+  },
+  {
+    "reading": "がんか",
+    "kanji": "眼科",
+    "type": "n.",
+    "def": "ophthalmologist"
+  },
+  {
+    "reading": "きっぷ",
+    "kanji": "切符",
+    "type": "n.",
+    "def": "train ticket"
+  },
+  {
+    "reading": "きぶんがわるい",
+    "kanji": "気分が悪い",
+    "type": "い-adj.",
+    "def": "not to feel well; to feel sick"
+  },
+  {
+    "reading": "きょうみがある",
+    "kanji": "興味がある",
+    "type": "u-v.",
+    "def": "to be interested (in)"
+  },
+  {
+    "reading": "きんちょうする",
+    "kanji": "緊張する",
+    "type": "irr-v.",
+    "def": "to get nervous "
+  },
+  {
+    "reading": "くしゃみ",
+    "kanji": "",
+    "type": "n.",
+    "def": "sneeze"
+  },
+  {
+    "reading": "けが",
+    "kanji": "",
+    "type": "n.",
+    "def": "injury"
+  },
+  {
+    "reading": "げか",
+    "kanji": "外科",
+    "type": "n.",
+    "def": "surgeon"
+  },
+  {
+    "reading": "げり",
+    "kanji": "下痢",
+    "type": "n.",
+    "def": "diarrhea"
+  },
+  {
+    "reading": "げんきがない",
+    "kanji": "元気がない",
+    "type": "exp.",
+    "def": "don’t look well"
+  },
+  {
+    "reading": "こうせいぶっしつ",
+    "kanji": "抗生物質",
+    "type": "n.",
+    "def": "antibiotic"
+  },
+  {
+    "reading": "こっせつする",
+    "kanji": "骨折する",
+    "type": "irr-v.",
+    "def": "to break (a bone)"
+  },
+  {
+    "reading": "さんふじんか",
+    "kanji": "産婦人科",
+    "type": "n.",
+    "def": "obstetrician and gynecologist"
+  },
+  {
+    "reading": "しあい",
+    "kanji": "試合",
+    "type": "n.",
+    "def": "match; game"
+  },
+  {
+    "reading": "しか",
+    "kanji": "鹿",
+    "type": "n.",
+    "def": "deer"
+  },
+  {
+    "reading": "しか",
+    "kanji": "歯科",
+    "type": "n.",
+    "def": "dentist"
+  },
+  {
+    "reading": "しゅじゅつ",
+    "kanji": "手術",
+    "type": "n.",
+    "def": "operation"
+  },
+  {
+    "reading": "しょくご",
+    "kanji": "食後",
+    "type": "n.",
+    "def": "after meals"
+  },
+  {
+    "reading": "しんぱいする",
+    "kanji": "心配する",
+    "type": "irr-v.",
+    "def": "to worry "
+  },
+  {
+    "reading": "じびか",
+    "kanji": "耳鼻科",
+    "type": "n.",
+    "def": "otorhinolaryngologist; ENT doctor"
+  },
+  {
+    "reading": "すてき（な）",
+    "kanji": "素敵",
+    "type": "な-adj.",
+    "def": "nice"
+  },
+  {
+    "reading": "せいけいげか",
+    "kanji": "整形外科",
+    "type": "n.",
+    "def": "orthopedic surgeon"
+  },
+  {
+    "reading": "せいじ",
+    "kanji": "政治",
+    "type": "n.",
+    "def": "politics"
+  },
+  {
+    "reading": "せいせき",
+    "kanji": "成績",
+    "type": "n.",
+    "def": "grade (on a test, etc.)"
+  },
+  {
+    "reading": "せいり",
+    "kanji": "生理",
+    "type": "n.",
+    "def": "period"
+  },
+  {
+    "reading": "せき",
+    "kanji": "",
+    "type": "n.",
+    "def": "cough"
+  },
+  {
+    "reading": "せきがでる",
+    "kanji": "せきが出る",
+    "type": "ru-v.",
+    "def": "to cough "
+  },
+  {
+    "reading": "せまい",
+    "kanji": "狭い",
+    "type": "い-adj.",
+    "def": "narrow; not spacious"
+  },
+  {
+    "reading": "それに",
+    "kanji": "",
+    "type": "adv.",
+    "def": "moreover, . . ."
+  },
+  {
+    "reading": "たいおんけい",
+    "kanji": "体温計",
+    "type": "n.",
+    "def": "thermometer"
+  },
+  {
+    "reading": "たぶん",
+    "kanji": "多分",
+    "type": "adv.",
+    "def": "probably; maybe"
+  },
+  {
+    "reading": "たまご",
+    "kanji": "卵",
+    "type": "n.",
+    "def": "egg"
+  },
+  {
+    "reading": "たんざく",
+    "kanji": "",
+    "type": "n.",
+    "def": "strip of fancy paper"
+  },
+  {
+    "reading": "ちゅうしゃ",
+    "kanji": "注射",
+    "type": "n.",
+    "def": "injection"
+  },
+  {
+    "reading": "つれてかえる",
+    "kanji": "連れて帰る",
+    "type": "u-v.",
+    "def": "to bring (a person) back"
+  },
+  {
+    "reading": "てん",
+    "kanji": "天",
+    "type": "n.",
+    "def": "the heavens; the sky"
+  },
+  {
+    "reading": "てんてき",
+    "kanji": "点滴",
+    "type": "n.",
+    "def": "intravenous feeding"
+  },
+  {
+    "reading": "できるだけ",
+    "kanji": "",
+    "type": "adv.",
+    "def": "as much as possible"
+  },
+  {
+    "reading": "ないか",
+    "kanji": "内科",
+    "type": "n.",
+    "def": "physician"
+  },
+  {
+    "reading": "なく",
+    "kanji": "泣く",
+    "type": "u-v.",
+    "def": "to cry"
+  },
+  {
+    "reading": "なくす",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to lose"
+  },
+  {
+    "reading": "にさんにち",
+    "kanji": "二三日",
+    "type": "n.",
+    "def": "for two to three days"
+  },
+  {
+    "reading": "ねがい",
+    "kanji": "願い",
+    "type": "n.",
+    "def": "wish"
+  },
+  {
+    "reading": "ねつがある",
+    "kanji": "熱がある",
+    "type": "u-v.",
+    "def": "to have a fever"
+  },
+  {
+    "reading": "のど",
+    "kanji": "喉",
+    "type": "n.",
+    "def": "throat"
+  },
+  {
+    "reading": "のどがかわく",
+    "kanji": "喉が渇く",
+    "type": "u-v.",
+    "def": "to become thirsty"
+  },
+  {
+    "reading": "は",
+    "kanji": "歯",
+    "type": "n.",
+    "def": "tooth"
+  },
+  {
+    "reading": "はく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "to put on (items below your waist)"
+  },
+  {
+    "reading": "はく",
+    "kanji": "吐く",
+    "type": "u-v.",
+    "def": "to throw up"
+  },
+  {
+    "reading": "はじめて",
+    "kanji": "初めて",
+    "type": "adv.",
+    "def": "for the first time"
+  },
+  {
+    "reading": "はたけ",
+    "kanji": "畑",
+    "type": "n.",
+    "def": "farm"
+  },
+  {
+    "reading": "はたをおる",
+    "kanji": "はたを織る",
+    "type": "u-v.",
+    "def": "to weave"
+  },
+  {
+    "reading": "はっしん",
+    "kanji": "発疹",
+    "type": "n.",
+    "def": "rash"
+  },
+  {
+    "reading": "はなみず",
+    "kanji": "鼻水",
+    "type": "n.",
+    "def": "runny nose"
+  },
+  {
+    "reading": "はらう",
+    "kanji": "払う",
+    "type": "u-v.",
+    "def": "to pay"
+  },
+  {
+    "reading": "ひとびと",
+    "kanji": "人々",
+    "type": "n.",
+    "def": "people"
+  },
+  {
+    "reading": "ひふか",
+    "kanji": "皮膚科",
+    "type": "n.",
+    "def": "dermatologist"
+  },
+  {
+    "reading": "ひろい",
+    "kanji": "広い",
+    "type": "い-adj.",
+    "def": "wide; spacious"
+  },
+  {
+    "reading": "びょうき",
+    "kanji": "病気",
+    "type": "n.",
+    "def": "illness; sickness"
+  },
+  {
+    "reading": "ふく",
+    "kanji": "服",
+    "type": "n.",
+    "def": "clothes"
+  },
+  {
+    "reading": "ふつかよい",
+    "kanji": "二日酔い",
+    "type": "n.",
+    "def": "hangover"
+  },
+  {
+    "reading": "べんぴ",
+    "kanji": "便秘",
+    "type": "n.",
+    "def": "constipation"
+  },
+  {
+    "reading": "ほけんしょう",
+    "kanji": "保険証",
+    "type": "n.",
+    "def": "health insurance certificate"
+  },
+  {
+    "reading": "まじめ（な）",
+    "kanji": "",
+    "type": "な-adj.",
+    "def": "serious; sober; diligent"
+  },
+  {
+    "reading": "むこう",
+    "kanji": "向こう",
+    "type": "n.",
+    "def": "the other side; over there"
+  },
+  {
+    "reading": "むしば",
+    "kanji": "虫歯",
+    "type": "n.",
+    "def": "bad tooth"
+  },
+  {
+    "reading": "むすめ",
+    "kanji": "娘",
+    "type": "n.",
+    "def": "daughter"
+  },
+  {
+    "reading": "めまいがする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to feel dizzy"
+  },
+  {
+    "reading": "もうすぐ",
+    "kanji": "",
+    "type": "adv.",
+    "def": "very soon; in a few moments/days"
+  },
+  {
+    "reading": "もの",
+    "kanji": "物",
+    "type": "n.",
+    "def": "thing (concrete object)"
+  },
+  {
+    "reading": "やけどをする",
+    "kanji": "",
+    "type": "irr-v.",
+    "def": "to burn oneself"
+  },
+  {
+    "reading": "ようじ",
+    "kanji": "用事",
+    "type": "n.",
+    "def": "business to take care of"
+  },
+  {
+    "reading": "わかれる",
+    "kanji": "別れる",
+    "type": "ru-v.",
+    "def": "to break up; to separate "
+  },
+  {
+    "reading": "わたしたち",
+    "kanji": "私たち",
+    "type": "n.",
+    "def": "we"
+  },
+  {
+    "reading": "わるい",
+    "kanji": "悪い",
+    "type": "い-adj.",
+    "def": "bad"
+  },
+  {
+    "reading": "アレルギー",
+    "kanji": "",
+    "type": "n.",
+    "def": "allergy"
+  },
+  {
+    "reading": "インフルエンザ",
+    "kanji": "",
+    "type": "n.",
+    "def": "influenza"
+  },
+  {
+    "reading": "ジュース",
+    "kanji": "",
+    "type": "n.",
+    "def": "juice"
+  },
+  {
+    "reading": "プレゼント",
+    "kanji": "",
+    "type": "n.",
+    "def": "present"
+  },
+  {
+    "reading": "ホームシック",
+    "kanji": "",
+    "type": "n.",
+    "def": "homesickness"
+  },
+  {
+    "reading": "レントゲン",
+    "kanji": "",
+    "type": "n.",
+    "def": "X-ray"
+  },
+  {
+    "reading": "～だい",
+    "kanji": "～代",
+    "type": "suf.",
+    "def": "charge; fee"
+  },
+  {
+    "reading": "～だい",
+    "kanji": "～台",
+    "type": "suf.",
+    "def": "[counter for equipment]"
+  },
+  {
+    "reading": "～までに",
+    "kanji": "",
+    "type": "part.",
+    "def": "by (time/date)"
+  }
+]

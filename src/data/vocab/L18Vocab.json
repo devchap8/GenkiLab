@@ -1,0 +1,446 @@
+[
+  {
+    "reading": "あかるい",
+    "kanji": "明るい",
+    "type": "い-adj.",
+    "def": "bright"
+  },
+  {
+    "reading": "あく",
+    "kanji": "開く",
+    "type": "u-v.",
+    "def": "(something) opens"
+  },
+  {
+    "reading": "あと",
+    "kanji": "後",
+    "type": "n.",
+    "def": "the rest"
+  },
+  {
+    "reading": "あやまる",
+    "kanji": "謝る",
+    "type": "u-v.",
+    "def": "to apologize"
+  },
+  {
+    "reading": "いますぐ",
+    "kanji": "今すぐ",
+    "type": "adv.",
+    "def": "right away"
+  },
+  {
+    "reading": "おかげで",
+    "kanji": "",
+    "type": "part.",
+    "def": "thanks to . . ."
+  },
+  {
+    "reading": "おさきにしつれいします",
+    "kanji": "お先に失礼します",
+    "type": "exp.",
+    "def": "See you. (lit., I’m leaving ahead of you.)"
+  },
+  {
+    "reading": "おす",
+    "kanji": "押す",
+    "type": "u-v.",
+    "def": "to press; to push"
+  },
+  {
+    "reading": "おちる",
+    "kanji": "落ちる",
+    "type": "ru-v.",
+    "def": "(something) drops "
+  },
+  {
+    "reading": "おつかれさま（でした）",
+    "kanji": "お疲れ様（でした）",
+    "type": "exp.",
+    "def": "You must be tired after working so hard. (greeting between friends and coworkers)"
+  },
+  {
+    "reading": "おとす",
+    "kanji": "落とす",
+    "type": "u-v.",
+    "def": "to drop (something)"
+  },
+  {
+    "reading": "おゆがわく",
+    "kanji": "お湯が沸く",
+    "type": "u-v.",
+    "def": "water boils"
+  },
+  {
+    "reading": "かたづける",
+    "kanji": "片付ける",
+    "type": "ru-v.",
+    "def": "to tidy up "
+  },
+  {
+    "reading": "かていきょうし",
+    "kanji": "家庭教師",
+    "type": "n.",
+    "def": "tutor"
+  },
+  {
+    "reading": "かんがえる",
+    "kanji": "考える",
+    "type": "ru-v.",
+    "def": "to think (about); to consider "
+  },
+  {
+    "reading": "きえる",
+    "kanji": "消える",
+    "type": "ru-v.",
+    "def": "(something) goes off "
+  },
+  {
+    "reading": "くらい",
+    "kanji": "暗い",
+    "type": "い-adj.",
+    "def": "dark"
+  },
+  {
+    "reading": "けいたい（でんわ）",
+    "kanji": "携帯（電話）",
+    "type": "n.",
+    "def": "cell phone"
+  },
+  {
+    "reading": "ころぶ",
+    "kanji": "転ぶ",
+    "type": "u-v.",
+    "def": "to fall down"
+  },
+  {
+    "reading": "こわす",
+    "kanji": "壊す",
+    "type": "u-v.",
+    "def": "to break (something)"
+  },
+  {
+    "reading": "こわれる",
+    "kanji": "壊れる",
+    "type": "ru-v.",
+    "def": "(something) breaks "
+  },
+  {
+    "reading": "さく",
+    "kanji": "咲く",
+    "type": "u-v.",
+    "def": "to bloom"
+  },
+  {
+    "reading": "さくら",
+    "kanji": "桜",
+    "type": "n.",
+    "def": "cherry blossom"
+  },
+  {
+    "reading": "したしい",
+    "kanji": "親しい",
+    "type": "い-adj.",
+    "def": "close; intimate"
+  },
+  {
+    "reading": "しまる",
+    "kanji": "閉まる",
+    "type": "u-v.",
+    "def": "(something) closes"
+  },
+  {
+    "reading": "しゅうにゅう",
+    "kanji": "収入",
+    "type": "n.",
+    "def": "income"
+  },
+  {
+    "reading": "しょうゆ",
+    "kanji": "しょう油",
+    "type": "n.",
+    "def": "soy sauce"
+  },
+  {
+    "reading": "しょくひ",
+    "kanji": "食費",
+    "type": "n.",
+    "def": "cost of food"
+  },
+  {
+    "reading": "じょしがくせい",
+    "kanji": "女子学生",
+    "type": "n.",
+    "def": "female student"
+  },
+  {
+    "reading": "せいかつのゆとり",
+    "kanji": "生活のゆとり",
+    "type": "n.",
+    "def": "extra money to spare for the cost of living"
+  },
+  {
+    "reading": "せいかつひ",
+    "kanji": "生活費",
+    "type": "n.",
+    "def": "the cost of living"
+  },
+  {
+    "reading": "そと",
+    "kanji": "外",
+    "type": "n.",
+    "def": "outside"
+  },
+  {
+    "reading": "たいせつ（な）",
+    "kanji": "大切",
+    "type": "な-adj.",
+    "def": "precious; important"
+  },
+  {
+    "reading": "たすかる",
+    "kanji": "助かる",
+    "type": "u-v.",
+    "def": "to be saved; to be helped"
+  },
+  {
+    "reading": "たのむ",
+    "kanji": "頼む",
+    "type": "u-v.",
+    "def": "to ask (a favor)"
+  },
+  {
+    "reading": "だんしがくせい",
+    "kanji": "男子学生",
+    "type": "n.",
+    "def": "male student"
+  },
+  {
+    "reading": "ちからしごと",
+    "kanji": "力仕事",
+    "type": "n.",
+    "def": "physical labor (such as construction)"
+  },
+  {
+    "reading": "ちゅうもんする",
+    "kanji": "注文する",
+    "type": "irr-v.",
+    "def": "to place an order "
+  },
+  {
+    "reading": "ちょきんする",
+    "kanji": "貯金する",
+    "type": "irr-v.",
+    "def": "to deposit money (in a bank) "
+  },
+  {
+    "reading": "つく",
+    "kanji": "着く",
+    "type": "u-v.",
+    "def": "to arrive"
+  },
+  {
+    "reading": "つく",
+    "kanji": "",
+    "type": "u-v.",
+    "def": "(something) turns on"
+  },
+  {
+    "reading": "どうしよう",
+    "kanji": "",
+    "type": "exp.",
+    "def": "What should I/we do?"
+  },
+  {
+    "reading": "にっき",
+    "kanji": "日記",
+    "type": "n.",
+    "def": "diary"
+  },
+  {
+    "reading": "はじめは",
+    "kanji": "初めは",
+    "type": "adv.",
+    "def": "at first"
+  },
+  {
+    "reading": "はずかしい",
+    "kanji": "恥ずかしい",
+    "type": "い-adj.",
+    "def": "embarrassing; to feel embarrassed"
+  },
+  {
+    "reading": "ひっこし",
+    "kanji": "引っ越し",
+    "type": "n.",
+    "def": "moving"
+  },
+  {
+    "reading": "ふあん（な）",
+    "kanji": "不安",
+    "type": "な-adj.",
+    "def": "anxious; worried"
+  },
+  {
+    "reading": "ほんとうに",
+    "kanji": "本当に",
+    "type": "adv.",
+    "def": "really"
+  },
+  {
+    "reading": "まいつき",
+    "kanji": "毎月",
+    "type": "n.",
+    "def": "every month"
+  },
+  {
+    "reading": "まず",
+    "kanji": "",
+    "type": "adv.",
+    "def": "first of all"
+  },
+  {
+    "reading": "むし",
+    "kanji": "虫",
+    "type": "n.",
+    "def": "insect"
+  },
+  {
+    "reading": "むり（な）",
+    "kanji": "無理",
+    "type": "な-adj.",
+    "def": "impossible"
+  },
+  {
+    "reading": "もくてき",
+    "kanji": "目的",
+    "type": "n.",
+    "def": "object; purpose"
+  },
+  {
+    "reading": "やちん",
+    "kanji": "家賃",
+    "type": "n.",
+    "def": "rent"
+  },
+  {
+    "reading": "ゆうがた",
+    "kanji": "夕方",
+    "type": "n.",
+    "def": "evening"
+  },
+  {
+    "reading": "ようふく",
+    "kanji": "洋服",
+    "type": "n.",
+    "def": "clothes"
+  },
+  {
+    "reading": "よごす",
+    "kanji": "汚す",
+    "type": "u-v.",
+    "def": "to make dirty"
+  },
+  {
+    "reading": "よごれる",
+    "kanji": "汚れる",
+    "type": "ru-v.",
+    "def": "to become dirty "
+  },
+  {
+    "reading": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "type": "n.",
+    "def": "refrigerator"
+  },
+  {
+    "reading": "ろうそく",
+    "kanji": "",
+    "type": "n.",
+    "def": "candle"
+  },
+  {
+    "reading": "カーテン",
+    "kanji": "",
+    "type": "n.",
+    "def": "curtain"
+  },
+  {
+    "reading": "シャンプー",
+    "kanji": "",
+    "type": "n.",
+    "def": "shampoo"
+  },
+  {
+    "reading": "スイッチ",
+    "kanji": "",
+    "type": "n.",
+    "def": "switch"
+  },
+  {
+    "reading": "スカート",
+    "kanji": "",
+    "type": "n.",
+    "def": "skirt"
+  },
+  {
+    "reading": "スープ",
+    "kanji": "",
+    "type": "n.",
+    "def": "soup"
+  },
+  {
+    "reading": "ソファ",
+    "kanji": "",
+    "type": "n.",
+    "def": "sofa"
+  },
+  {
+    "reading": "タオル",
+    "kanji": "",
+    "type": "n.",
+    "def": "towel"
+  },
+  {
+    "reading": "バナナ",
+    "kanji": "",
+    "type": "n.",
+    "def": "banana"
+  },
+  {
+    "reading": "ポップコーン",
+    "kanji": "",
+    "type": "n.",
+    "def": "popcorn"
+  },
+  {
+    "reading": "ワンルームマンション",
+    "kanji": "",
+    "type": "n.",
+    "def": "studio apartment"
+  },
+  {
+    "reading": "～いじょう",
+    "kanji": "～以上",
+    "type": "suf.",
+    "def": ". . . or more"
+  },
+  {
+    "reading": "～までに",
+    "kanji": "",
+    "type": "part.",
+    "def": "by (time/date)"
+  },
+  {
+    "reading": "～みまん",
+    "kanji": "～未満",
+    "type": "suf.",
+    "def": "less than . . ."
+  },
+  {
+    "reading": "～（ん）だろう",
+    "kanji": "",
+    "type": "exp.",
+    "def": "short form of ～（ん）でしょう"
+  }
+]
