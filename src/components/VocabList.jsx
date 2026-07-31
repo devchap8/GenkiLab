@@ -1,8 +1,11 @@
-import vocab from "../data/test-data"
+import { useParams } from "react-router";
+import data from "../data/dataIndex";
 // later instead of importing directly we will take the vocab list as a prop to the vocabList component
 
-export default function VocabList() {
-
+export default function VocabList({}) {
+    const params = useParams();
+    const vocab = data.vocab[params.chapter];
+    console.log(data);
 
     return (
         <table>
