@@ -9,12 +9,15 @@ export default function VocabList({}) {
 
     return (
         <table>
+            <thead>
             <tr>
                 <th>Reading</th>
                 <th>Kanji</th>
                 <th>Word Type</th>
                 <th>Definition</th>
             </tr>
+            </thead>
+            <tbody>
             {vocab.map(v => 
                 <tr>
                     <td>{v.reading}</td>
@@ -23,6 +26,8 @@ export default function VocabList({}) {
                     <td>{v.def}</td>
                 </tr>
             )}
+            </tbody>
+
         </table>
     )
 
