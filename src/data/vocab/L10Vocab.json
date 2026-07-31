@@ -90,12 +90,6 @@
     "def": "slow; late"
   },
   {
-    "reading": "おもち",
-    "kanji": "",
-    "type": "n.",
-    "def": "rice cake"
-  },
-  {
     "reading": "かいさつ",
     "kanji": "改札",
     "type": "n.",
@@ -142,12 +136,6 @@
     "kanji": "悲しい",
     "type": "い-adj.",
     "def": "sad"
-  },
-  {
-    "reading": "かねもち",
-    "kanji": "金持ち",
-    "type": "n.",
-    "def": "rich person"
   },
   {
     "reading": "かぶせる",
@@ -252,12 +240,6 @@
     "def": "last train (of the day)"
   },
   {
-    "reading": "しょうがつ",
-    "kanji": "正月",
-    "type": "n.",
-    "def": "New Year’s"
-  },
-  {
     "reading": "しんかんせん",
     "kanji": "新幹線",
     "type": "n.",
@@ -268,12 +250,6 @@
     "kanji": "時間",
     "type": "n.",
     "def": "time"
-  },
-  {
-    "reading": "じぞう",
-    "kanji": "",
-    "type": "n.",
-    "def": "guardian deity of children"
   },
   {
     "reading": "じはつ",

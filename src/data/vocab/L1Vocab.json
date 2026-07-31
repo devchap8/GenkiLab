@@ -192,12 +192,6 @@
     "def": "house husband"
   },
   {
-    "reading": "じっぷん",
-    "kanji": "十分",
-    "type": "n.",
-    "def": "ten minutes"
-  },
-  {
     "reading": "じゅういちじ",
     "kanji": "十一時",
     "type": "n.",
@@ -366,22 +360,10 @@
     "def": "name"
   },
   {
-    "reading": "なん/なに",
-    "kanji": "何",
-    "type": "n.",
-    "def": "what"
-  },
-  {
     "reading": "にじ",
     "kanji": "二時",
     "type": "n.",
     "def": "two o’clock"
-  },
-  {
-    "reading": "にじっぷん",
-    "kanji": "二十分",
-    "type": "n.",
-    "def": "twenty minutes"
   },
   {
     "reading": "にじはん",
@@ -430,12 +412,6 @@
     "kanji": "八時",
     "type": "n.",
     "def": "eight o’clock"
-  },
-  {
-    "reading": "はちふん",
-    "kanji": "八分",
-    "type": "n.",
-    "def": "eight minutes"
   },
   {
     "reading": "はっぷん",

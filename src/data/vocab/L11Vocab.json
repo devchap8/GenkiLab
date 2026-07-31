@@ -42,18 +42,6 @@
     "def": "to become hungry"
   },
   {
-    "reading": "おへんじ",
-    "kanji": "お返事",
-    "type": "n.",
-    "def": "reply"
-  },
-  {
-    "reading": "おまつり",
-    "kanji": "お祭り",
-    "type": "n.",
-    "def": "festival"
-  },
-  {
     "reading": "おもちゃ",
     "kanji": "",
     "type": "n.",
@@ -76,12 +64,6 @@
     "kanji": "飼う",
     "type": "u-v.",
     "def": "to own (a pet)"
-  },
-  {
-    "reading": "かし",
-    "kanji": "菓子",
-    "type": "n.",
-    "def": "snack; sweets"
   },
   {
     "reading": "かしゅ",
@@ -226,12 +208,6 @@
     "kanji": "紹介する",
     "type": "irr-v.",
     "def": "to introduce "
-  },
-  {
-    "reading": "しょうがつ",
-    "kanji": "正月",
-    "type": "n.",
-    "def": "New Year’s"
   },
   {
     "reading": "しょうぼうし",

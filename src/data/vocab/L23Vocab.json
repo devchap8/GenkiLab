@@ -18,12 +18,6 @@
     "def": "to express; to show"
   },
   {
-    "reading": "いう（わるぐちを）",
-    "kanji": "言う（悪口を）",
-    "type": "u-v.",
-    "def": "to talk behind someone’s back"
-  },
-  {
     "reading": "いっぽう",
     "kanji": "一方",
     "type": "adv.",
@@ -394,11 +388,5 @@
     "kanji": "",
     "type": "exp.",
     "def": "for . . . ; for the sake of . . ."
-  },
-  {
-    "reading": "～は…といういみだ",
-    "kanji": "～は…という意味だ",
-    "type": "exp.",
-    "def": "～ means that . . ."
   }
 ]

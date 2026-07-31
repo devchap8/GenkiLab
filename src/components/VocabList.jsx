@@ -5,7 +5,6 @@ import data from "../data/dataIndex";
 export default function VocabList({}) {
     const params = useParams();
     const vocab = data.vocab[params.chapter];
-    console.log(data);
 
     return (
         <table>
@@ -19,7 +18,7 @@ export default function VocabList({}) {
             </thead>
             <tbody>
             {vocab.map(v => 
-                <tr>
+                <tr key={v.def}>
                     <td>{v.reading}</td>
                     <td>{v.kanji}</td>
                     <td>{v.type}</td>

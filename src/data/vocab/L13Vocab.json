@@ -48,12 +48,6 @@
     "def": "glad"
   },
   {
-    "reading": "おあずけいれ",
-    "kanji": "お預け入れ",
-    "type": "n.",
-    "def": "deposit"
-  },
-  {
     "reading": "おくれる",
     "kanji": "遅れる",
     "type": "ru-v.",
@@ -64,18 +58,6 @@
     "kanji": "大人",
     "type": "n.",
     "def": "adult"
-  },
-  {
-    "reading": "おひきだし",
-    "kanji": "お引き出し",
-    "type": "n.",
-    "def": "withdrawal"
-  },
-  {
-    "reading": "おふりこみ",
-    "kanji": "お振込",
-    "type": "n.",
-    "def": "bank transfer"
   },
   {
     "reading": "かなしい",
