@@ -19,7 +19,7 @@ export default function VocabList({}) {
             <tbody>
             {vocab.map(v => 
                 <tr key={v.id}>
-                    <td>{v.reading}</td>
+                    <td><a href={`https://jisho.org/search/${v.reading}`} target="_blank" rel="noopener noreferrer">{v.reading}</a></td>
                     <td>{v.kanji}</td>
                     <td>{v.type}</td>
                     <td>{v.def}</td>
