@@ -3,654 +3,763 @@
     "reading": "あき",
     "kanji": "秋",
     "type": "n.",
-    "def": "fall"
+    "def": "fall",
+    "id": "L10-1"
   },
   {
     "reading": "あたたかい",
     "kanji": "暖かい",
     "type": "い-adj.",
-    "def": "warm"
+    "def": "warm",
+    "id": "L10-2"
   },
   {
     "reading": "あるいて",
     "kanji": "歩いて",
     "type": "adv.",
-    "def": "on foot"
+    "def": "on foot",
+    "id": "L10-3"
   },
   {
     "reading": "いいこと",
     "kanji": "",
     "type": "n.",
-    "def": "good deed"
+    "def": "good deed",
+    "id": "L10-4"
   },
   {
     "reading": "いしゃ",
     "kanji": "医者",
     "type": "n.",
-    "def": "doctor"
+    "def": "doctor",
+    "id": "L10-5"
   },
   {
     "reading": "いちごうしゃ",
     "kanji": "一号車",
     "type": "n.",
-    "def": "Car No. 1"
+    "def": "Car No. 1",
+    "id": "L10-6"
   },
   {
     "reading": "いちばん",
     "kanji": "一番",
     "type": "adv.",
-    "def": "best"
+    "def": "best",
+    "id": "L10-7"
   },
   {
     "reading": "いりぐち",
     "kanji": "入口",
     "type": "n.",
-    "def": "entrance"
+    "def": "entrance",
+    "id": "L10-8"
   },
   {
     "reading": "うる",
     "kanji": "売る",
     "type": "u-v.",
-    "def": "to sell"
+    "def": "to sell",
+    "id": "L10-9"
   },
   {
     "reading": "えき",
     "kanji": "駅",
     "type": "n.",
-    "def": "station"
+    "def": "station",
+    "id": "L10-10"
   },
   {
     "reading": "おうふく",
     "kanji": "往復",
     "type": "n.",
-    "def": "round trip"
+    "def": "round trip",
+    "id": "L10-11"
   },
   {
     "reading": "おかねもち",
     "kanji": "お金持ち",
     "type": "n.",
-    "def": "rich person"
+    "def": "rich person",
+    "id": "L10-12"
   },
   {
     "reading": "おしょうがつ",
     "kanji": "お正月",
     "type": "n.",
-    "def": "New Year’s"
+    "def": "New Year’s",
+    "id": "L10-13"
   },
   {
     "reading": "おじぞうさん",
     "kanji": "",
     "type": "n.",
-    "def": "guardian deity of children"
+    "def": "guardian deity of children",
+    "id": "L10-14"
   },
   {
     "reading": "おそい",
     "kanji": "遅い",
     "type": "い-adj.",
-    "def": "slow; late"
+    "def": "slow; late",
+    "id": "L10-15"
   },
   {
     "reading": "かいさつ",
     "kanji": "改札",
     "type": "n.",
-    "def": "gate"
+    "def": "gate",
+    "id": "L10-16"
   },
   {
     "reading": "かいだん",
     "kanji": "階段",
     "type": "n.",
-    "def": "stairs"
+    "def": "stairs",
+    "id": "L10-17"
   },
   {
     "reading": "かお",
     "kanji": "顔",
     "type": "n.",
-    "def": "face"
+    "def": "face",
+    "id": "L10-18"
   },
   {
     "reading": "かかる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to take (amount of time/money)"
+    "def": "to take (amount of time/money)",
+    "id": "L10-19"
   },
   {
     "reading": "かさ",
     "kanji": "",
     "type": "n.",
-    "def": "bamboo hat"
+    "def": "bamboo hat",
+    "id": "L10-20"
   },
   {
     "reading": "かさ",
     "kanji": "傘",
     "type": "n.",
-    "def": "umbrella"
+    "def": "umbrella",
+    "id": "L10-21"
   },
   {
     "reading": "かたみち",
     "kanji": "片道",
     "type": "n.",
-    "def": "one way"
+    "def": "one way",
+    "id": "L10-22"
   },
   {
     "reading": "かなしい",
     "kanji": "悲しい",
     "type": "い-adj.",
-    "def": "sad"
+    "def": "sad",
+    "id": "L10-23"
   },
   {
     "reading": "かぶせる",
     "kanji": "",
     "type": "n.",
-    "def": "to put (a hat) on a person’s head "
+    "def": "to put (a hat) on a person’s head ",
+    "id": "L10-24"
   },
   {
     "reading": "かんたん（な）",
     "kanji": "簡単",
     "type": "な-adj.",
-    "def": "easy; simple"
+    "def": "easy; simple",
+    "id": "L10-25"
   },
   {
     "reading": "がくわり",
     "kanji": "学割",
     "type": "n.",
-    "def": "student discount"
+    "def": "student discount",
+    "id": "L10-26"
   },
   {
     "reading": "きせつ",
     "kanji": "季節",
     "type": "n.",
-    "def": "season"
+    "def": "season",
+    "id": "L10-27"
   },
   {
     "reading": "きっぷうりば",
     "kanji": "切符売り場",
     "type": "n.",
-    "def": "ticket vending area"
+    "def": "ticket vending area",
+    "id": "L10-28"
   },
   {
     "reading": "きめる",
     "kanji": "決める",
     "type": "ru-v.",
-    "def": "to decide "
+    "def": "to decide ",
+    "id": "L10-29"
   },
   {
     "reading": "きゅうこう",
     "kanji": "休講",
     "type": "n.",
-    "def": "class cancellation"
+    "def": "class cancellation",
+    "id": "L10-30"
   },
   {
     "reading": "きゅうこう",
     "kanji": "急行",
     "type": "n.",
-    "def": "express"
+    "def": "express",
+    "id": "L10-31"
   },
   {
     "reading": "ぎゅうにゅう",
     "kanji": "牛乳",
     "type": "n.",
-    "def": "milk"
+    "def": "milk",
+    "id": "L10-32"
   },
   {
     "reading": "こうつうけいアイシーカード",
     "kanji": "交通系ICカード",
     "type": "n.",
-    "def": "rechargeable card such as Suica, Icoca, Pasmo, etc."
+    "def": "rechargeable card such as Suica, Icoca, Pasmo, etc.",
+    "id": "L10-33"
   },
   {
     "reading": "こえ",
     "kanji": "声",
     "type": "n.",
-    "def": "voice"
+    "def": "voice",
+    "id": "L10-34"
   },
   {
     "reading": "ことし",
     "kanji": "今年",
     "type": "n.",
-    "def": "this year"
+    "def": "this year",
+    "id": "L10-35"
   },
   {
     "reading": "このごろ",
     "kanji": "",
     "type": "adv.",
-    "def": "these days"
+    "def": "these days",
+    "id": "L10-36"
   },
   {
     "reading": "ごろごろする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to chill out at home; to stay home do nothing "
+    "def": "to chill out at home; to stay home do nothing ",
+    "id": "L10-37"
   },
   {
     "reading": "しあわせ（な）",
     "kanji": "幸せ",
     "type": "な-adj.",
-    "def": "happy (lasting happiness)"
+    "def": "happy (lasting happiness)",
+    "id": "L10-38"
   },
   {
     "reading": "していせき",
     "kanji": "指定席",
     "type": "n.",
-    "def": "reserved seat"
+    "def": "reserved seat",
+    "id": "L10-39"
   },
   {
     "reading": "しゅうでん",
     "kanji": "終電",
     "type": "n.",
-    "def": "last train (of the day)"
+    "def": "last train (of the day)",
+    "id": "L10-40"
   },
   {
     "reading": "しんかんせん",
     "kanji": "新幹線",
     "type": "n.",
-    "def": "Shinkansen;  “Bullet Train”"
+    "def": "Shinkansen;  “Bullet Train”",
+    "id": "L10-41"
   },
   {
     "reading": "じかん",
     "kanji": "時間",
     "type": "n.",
-    "def": "time"
+    "def": "time",
+    "id": "L10-42"
   },
   {
     "reading": "じはつ",
     "kanji": "次発",
     "type": "n.",
-    "def": "departing second"
+    "def": "departing second",
+    "id": "L10-43"
   },
   {
     "reading": "じぶん",
     "kanji": "自分",
     "type": "n.",
-    "def": "oneself"
+    "def": "oneself",
+    "id": "L10-44"
   },
   {
     "reading": "じゆうせき",
     "kanji": "自由席",
     "type": "n.",
-    "def": "general admission seat"
+    "def": "general admission seat",
+    "id": "L10-45"
   },
   {
     "reading": "じょうしゃけん",
     "kanji": "乗車券",
     "type": "n.",
-    "def": "(boarding) ticket"
+    "def": "(boarding) ticket",
+    "id": "L10-46"
   },
   {
     "reading": "すし",
     "kanji": "",
     "type": "n.",
-    "def": "sushi"
+    "def": "sushi",
+    "id": "L10-47"
   },
   {
     "reading": "すずしい",
     "kanji": "涼しい",
     "type": "い-adj.",
-    "def": "cool (weather)"
+    "def": "cool (weather)",
+    "id": "L10-48"
   },
   {
     "reading": "せいかつ",
     "kanji": "生活",
     "type": "n. ",
-    "def": "life; living"
+    "def": "life; living",
+    "id": "L10-49"
   },
   {
     "reading": "せかい",
     "kanji": "世界",
     "type": "n. ",
-    "def": "world"
+    "def": "world",
+    "id": "L10-50"
   },
   {
     "reading": "せんぱつ",
     "kanji": "先発",
     "type": "n.",
-    "def": "departing first"
+    "def": "departing first",
+    "id": "L10-51"
   },
   {
     "reading": "ちかてつ",
     "kanji": "地下鉄",
     "type": "n. ",
-    "def": "subway"
+    "def": "subway",
+    "id": "L10-52"
   },
   {
     "reading": "つぎは～",
     "kanji": "次は～",
     "type": "exp.",
-    "def": "next (stop), . . ."
+    "def": "next (stop), . . .",
+    "id": "L10-53"
   },
   {
     "reading": "つめたい",
     "kanji": "冷たい",
     "type": "い-adj.",
-    "def": "cold (things/people)"
+    "def": "cold (things/people)",
+    "id": "L10-54"
   },
   {
     "reading": "ていきけん",
     "kanji": "定期券",
     "type": "n.",
-    "def": "commuter’s pass"
+    "def": "commuter’s pass",
+    "id": "L10-55"
   },
   {
     "reading": "てぶくろ",
     "kanji": "手袋",
     "type": "n.",
-    "def": "gloves"
+    "def": "gloves",
+    "id": "L10-56"
   },
   {
     "reading": "てんぷら",
     "kanji": "天ぷら",
     "type": "n.",
-    "def": "tempura"
+    "def": "tempura",
+    "id": "L10-57"
   },
   {
     "reading": "でぐち",
     "kanji": "出口",
     "type": "n.",
-    "def": "exit"
+    "def": "exit",
+    "id": "L10-58"
   },
   {
     "reading": "と",
     "kanji": "戸",
     "type": "n.",
-    "def": "door"
+    "def": "door",
+    "id": "L10-59"
   },
   {
     "reading": "とし",
     "kanji": "年",
     "type": "n.",
-    "def": "year"
+    "def": "year",
+    "id": "L10-60"
   },
   {
     "reading": "としうえ",
     "kanji": "年上",
     "type": "n.",
-    "def": "someone older"
+    "def": "someone older",
+    "id": "L10-61"
   },
   {
     "reading": "とっきゅう",
     "kanji": "特急",
     "type": "n.",
-    "def": "super express"
+    "def": "super express",
+    "id": "L10-62"
   },
   {
     "reading": "とまる",
     "kanji": "泊まる",
     "type": "u-v.",
-    "def": "to stay (at a hotel, etc.)"
+    "def": "to stay (at a hotel, etc.)",
+    "id": "L10-63"
   },
   {
     "reading": "とまる",
     "kanji": "止まる",
     "type": "u-v.",
-    "def": "to stop"
+    "def": "to stop",
+    "id": "L10-64"
   },
   {
     "reading": "とる",
     "kanji": "取る",
     "type": "u-v.",
-    "def": "to take (a class); to get (a grade)"
+    "def": "to take (a class); to get (a grade)",
+    "id": "L10-65"
   },
   {
     "reading": "とる",
     "kanji": "撮る",
     "type": "u-v.",
-    "def": "to take (a picture)"
+    "def": "to take (a picture)",
+    "id": "L10-66"
   },
   {
     "reading": "とる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to take off"
+    "def": "to take off",
+    "id": "L10-67"
   },
   {
     "reading": "どうぶつえん",
     "kanji": "動物園",
     "type": "n.",
-    "def": "zoo"
+    "def": "zoo",
+    "id": "L10-68"
   },
   {
     "reading": "どうやって",
     "kanji": "",
     "type": "adv.",
-    "def": "how; by what means"
+    "def": "how; by what means",
+    "id": "L10-69"
   },
   {
     "reading": "どちら",
     "kanji": "",
     "type": "n.",
-    "def": "where (polite)"
+    "def": "where (polite)",
+    "id": "L10-70"
   },
   {
     "reading": "どっち",
     "kanji": "",
     "type": "n.",
-    "def": "which"
+    "def": "which",
+    "id": "L10-71"
   },
   {
     "reading": "どのぐらい",
     "kanji": "",
     "type": "exp.",
-    "def": "how much; how long"
+    "def": "how much; how long",
+    "id": "L10-72"
   },
   {
     "reading": "なる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to become"
+    "def": "to become",
+    "id": "L10-73"
   },
   {
     "reading": "ねむい",
     "kanji": "眠い",
     "type": "い-adj.",
-    "def": "sleepy"
+    "def": "sleepy",
+    "id": "L10-74"
   },
   {
     "reading": "のりかえ",
     "kanji": "乗り換え",
     "type": "n.",
-    "def": "transfer"
+    "def": "transfer",
+    "id": "L10-75"
   },
   {
     "reading": "はやく",
     "kanji": "早く/速く",
     "type": "adv.",
-    "def": "(do something) early; fast"
+    "def": "(do something) early; fast",
+    "id": "L10-76"
   },
   {
     "reading": "はる",
     "kanji": "春",
     "type": "n.",
-    "def": "spring"
+    "def": "spring",
+    "id": "L10-77"
   },
   {
     "reading": "はる",
     "kanji": "貼る",
     "type": "u-v.",
-    "def": "to post; to stick"
+    "def": "to post; to stick",
+    "id": "L10-78"
   },
   {
     "reading": "ばいてん",
     "kanji": "売店",
     "type": "n.",
-    "def": "shop; stand"
+    "def": "shop; stand",
+    "id": "L10-79"
   },
   {
     "reading": "ひこうき",
     "kanji": "飛行機",
     "type": "n.",
-    "def": "airplane"
+    "def": "airplane",
+    "id": "L10-80"
   },
   {
     "reading": "びっくりする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to be surprised "
+    "def": "to be surprised ",
+    "id": "L10-81"
   },
   {
     "reading": "びよういん",
     "kanji": "美容院",
     "type": "n.",
-    "def": "beauty parlor"
+    "def": "beauty parlor",
+    "id": "L10-82"
   },
   {
     "reading": "ふつう",
     "kanji": "普通",
     "type": "n.",
-    "def": "local (train)"
+    "def": "local (train)",
+    "id": "L10-83"
   },
   {
     "reading": "ふね",
     "kanji": "船",
     "type": "n.",
-    "def": "ship; boat"
+    "def": "ship; boat",
+    "id": "L10-84"
   },
   {
     "reading": "むかしむかし",
     "kanji": "昔々",
     "type": "n.",
-    "def": "once upon a time"
+    "def": "once upon a time",
+    "id": "L10-85"
   },
   {
     "reading": "もち",
     "kanji": "",
     "type": "n.",
-    "def": "rice cake"
+    "def": "rice cake",
+    "id": "L10-86"
   },
   {
     "reading": "やきゅう",
     "kanji": "野球",
     "type": "n.",
-    "def": "baseball"
+    "def": "baseball",
+    "id": "L10-87"
   },
   {
     "reading": "やまみち",
     "kanji": "山道",
     "type": "n.",
-    "def": "mountain road"
+    "def": "mountain road",
+    "id": "L10-88"
   },
   {
     "reading": "ゆうめいじん",
     "kanji": "有名人",
     "type": "n.",
-    "def": "celebrity"
+    "def": "celebrity",
+    "id": "L10-89"
   },
   {
     "reading": "ゆき",
     "kanji": "雪",
     "type": "n.",
-    "def": "snow"
+    "def": "snow",
+    "id": "L10-90"
   },
   {
     "reading": "よやく",
     "kanji": "予約",
     "type": "n.",
-    "def": "reservation"
+    "def": "reservation",
+    "id": "L10-91"
   },
   {
     "reading": "りょうり",
     "kanji": "料理",
     "type": "n.",
-    "def": "cooking; dish"
+    "def": "cooking; dish",
+    "id": "L10-92"
   },
   {
     "reading": "りょこうする",
     "kanji": "旅行する",
     "type": "irr-v.",
-    "def": "to travel "
+    "def": "to travel ",
+    "id": "L10-93"
   },
   {
     "reading": "りんご",
     "kanji": "",
     "type": "n.",
-    "def": "apple"
+    "def": "apple",
+    "id": "L10-94"
   },
   {
     "reading": "れんしゅうする",
     "kanji": "練習する",
     "type": "irr-v.",
-    "def": "to practice "
+    "def": "to practice ",
+    "id": "L10-95"
   },
   {
     "reading": "ケーキ",
     "kanji": "",
     "type": "n.",
-    "def": "cake"
+    "def": "cake",
+    "id": "L10-96"
   },
   {
     "reading": "サッカー",
     "kanji": "",
     "type": "n.",
-    "def": "soccer"
+    "def": "soccer",
+    "id": "L10-97"
   },
   {
     "reading": "ツアー",
     "kanji": "",
     "type": "n.",
-    "def": "tour"
+    "def": "tour",
+    "id": "L10-98"
   },
   {
     "reading": "ホーム",
     "kanji": "",
     "type": "n.",
-    "def": "platform"
+    "def": "platform",
+    "id": "L10-99"
   },
   {
     "reading": "～いき",
     "kanji": "～行き",
     "type": "suf.",
-    "def": "bound for . . ."
+    "def": "bound for . . .",
+    "id": "L10-100"
   },
   {
     "reading": "～かげつ",
     "kanji": "～か月",
     "type": "suf.",
-    "def": "for . . . months"
+    "def": "for . . . months",
+    "id": "L10-101"
   },
   {
     "reading": "～か～",
     "kanji": "",
     "type": "part.",
-    "def": "or"
+    "def": "or",
+    "id": "L10-102"
   },
   {
     "reading": "～ご",
     "kanji": "～後",
     "type": "suf.",
-    "def": "in . . . time; after . . ."
+    "def": "in . . . time; after . . .",
+    "id": "L10-103"
   },
   {
     "reading": "～ご",
     "kanji": "～語",
     "type": "suf.",
-    "def": ". . . language"
+    "def": ". . . language",
+    "id": "L10-104"
   },
   {
     "reading": "～しゅうかん",
     "kanji": "～週間",
     "type": "suf.",
-    "def": "for . . . weeks"
+    "def": "for . . . weeks",
+    "id": "L10-105"
   },
   {
     "reading": "～で",
     "kanji": "",
     "type": "part.",
-    "def": "by (means of transportation); with (a tool)"
+    "def": "by (means of transportation); with (a tool)",
+    "id": "L10-106"
   },
   {
     "reading": "～ねん",
     "kanji": "～年",
     "type": "suf.",
-    "def": ". . . years"
+    "def": ". . . years",
+    "id": "L10-107"
   },
   {
     "reading": "～ばんせん",
     "kanji": "～番線",
     "type": "suf.",
-    "def": "track number . . ."
+    "def": "track number . . .",
+    "id": "L10-108"
   },
   {
     "reading": "～ほうめん",
     "kanji": "～方面",
     "type": "suf.",
-    "def": "serving . . . areas"
+    "def": "serving . . . areas",
+    "id": "L10-109"
   }
 ]

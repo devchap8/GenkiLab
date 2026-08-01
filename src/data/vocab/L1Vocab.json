@@ -3,594 +3,693 @@
     "reading": "あのう",
     "kanji": "",
     "type": "exp.",
-    "def": "um . . ."
+    "def": "um . . .",
+    "id": "L1-1"
   },
   {
     "reading": "いしゃ",
     "kanji": "医者",
     "type": "n.",
-    "def": "doctor"
+    "def": "doctor",
+    "id": "L1-2"
   },
   {
     "reading": "いちじ",
     "kanji": "一時",
     "type": "n.",
-    "def": "one o’clock"
+    "def": "one o’clock",
+    "id": "L1-3"
   },
   {
     "reading": "いちねんせい",
     "kanji": "一年生",
     "type": "n.",
-    "def": "first-year student"
+    "def": "first-year student",
+    "id": "L1-4"
   },
   {
     "reading": "いっぷん",
     "kanji": "一分",
     "type": "n.",
-    "def": "one minute"
+    "def": "one minute",
+    "id": "L1-5"
   },
   {
     "reading": "いま",
     "kanji": "今",
     "type": "adv.",
-    "def": "now"
+    "def": "now",
+    "id": "L1-6"
   },
   {
     "reading": "いもうと",
     "kanji": "妹",
     "type": "n.",
-    "def": "younger sister"
+    "def": "younger sister",
+    "id": "L1-7"
   },
   {
     "reading": "おかあさん",
     "kanji": "お母さん",
     "type": "n.",
-    "def": "mother"
+    "def": "mother",
+    "id": "L1-8"
   },
   {
     "reading": "おとうさん",
     "kanji": "お父さん",
     "type": "n.",
-    "def": "father"
+    "def": "father",
+    "id": "L1-9"
   },
   {
     "reading": "おとうと",
     "kanji": "弟",
     "type": "n.",
-    "def": "younger brother"
+    "def": "younger brother",
+    "id": "L1-10"
   },
   {
     "reading": "おにいさん",
     "kanji": "お兄さん",
     "type": "n.",
-    "def": "older brother"
+    "def": "older brother",
+    "id": "L1-11"
   },
   {
     "reading": "おねえさん",
     "kanji": "お姉さん",
     "type": "n.",
-    "def": "older sister"
+    "def": "older sister",
+    "id": "L1-12"
   },
   {
     "reading": "かいしゃいん",
     "kanji": "会社員",
     "type": "n.",
-    "def": "office worker"
+    "def": "office worker",
+    "id": "L1-13"
   },
   {
     "reading": "かんこく",
     "kanji": "韓国",
     "type": "n.",
-    "def": "Korea"
+    "def": "Korea",
+    "id": "L1-14"
   },
   {
     "reading": "かんごし",
     "kanji": "看護師",
     "type": "n.",
-    "def": "nurse"
+    "def": "nurse",
+    "id": "L1-15"
   },
   {
     "reading": "がくせい",
     "kanji": "学生",
     "type": "n.",
-    "def": "student"
+    "def": "student",
+    "id": "L1-16"
   },
   {
     "reading": "きゅうふん",
     "kanji": "九分",
     "type": "n.",
-    "def": "nine minutes"
+    "def": "nine minutes",
+    "id": "L1-17"
   },
   {
     "reading": "くじ",
     "kanji": "九時",
     "type": "n.",
-    "def": "nine o’clock"
+    "def": "nine o’clock",
+    "id": "L1-18"
   },
   {
     "reading": "けいざい",
     "kanji": "経済",
     "type": "n.",
-    "def": "economics"
+    "def": "economics",
+    "id": "L1-19"
   },
   {
     "reading": "こうこう",
     "kanji": "高校",
     "type": "n.",
-    "def": "high school"
+    "def": "high school",
+    "id": "L1-20"
   },
   {
     "reading": "こうこうせい",
     "kanji": "高校生",
     "type": "n.",
-    "def": "high school student"
+    "def": "high school student",
+    "id": "L1-21"
   },
   {
     "reading": "こくさいかんけい",
     "kanji": "国際関係",
     "type": "n.",
-    "def": "international relations"
+    "def": "international relations",
+    "id": "L1-22"
   },
   {
     "reading": "ごご",
     "kanji": "午後",
     "type": "n.",
-    "def": "p.m."
+    "def": "p.m.",
+    "id": "L1-23"
   },
   {
     "reading": "ごじ",
     "kanji": "五時",
     "type": "n.",
-    "def": "five o’clock"
+    "def": "five o’clock",
+    "id": "L1-24"
   },
   {
     "reading": "ごぜん",
     "kanji": "午前",
     "type": "n.",
-    "def": "a.m."
+    "def": "a.m.",
+    "id": "L1-25"
   },
   {
     "reading": "ごふん",
     "kanji": "五分",
     "type": "n.",
-    "def": "five minutes"
+    "def": "five minutes",
+    "id": "L1-26"
   },
   {
     "reading": "さんじ",
     "kanji": "三時",
     "type": "n.",
-    "def": "three o’clock"
+    "def": "three o’clock",
+    "id": "L1-27"
   },
   {
     "reading": "さんじっぷん/さんじゅっぷん",
     "kanji": "三十分",
     "type": "n.",
-    "def": "thirty minutes"
+    "def": "thirty minutes",
+    "id": "L1-28"
   },
   {
     "reading": "さんぷん",
     "kanji": "三分",
     "type": "n.",
-    "def": "three minutes"
+    "def": "three minutes",
+    "id": "L1-29"
   },
   {
     "reading": "しちじ",
     "kanji": "七時",
     "type": "n.",
-    "def": "seven o’clock"
+    "def": "seven o’clock",
+    "id": "L1-30"
   },
   {
     "reading": "しゅふ",
     "kanji": "主婦",
     "type": "n.",
-    "def": "housewife"
+    "def": "housewife",
+    "id": "L1-31"
   },
   {
     "reading": "しゅふ",
     "kanji": "主夫",
     "type": "n.",
-    "def": "house husband"
+    "def": "house husband",
+    "id": "L1-32"
   },
   {
     "reading": "じゅういちじ",
     "kanji": "十一時",
     "type": "n.",
-    "def": "eleven o’clock"
+    "def": "eleven o’clock",
+    "id": "L1-33"
   },
   {
     "reading": "じゅういっぷん",
     "kanji": "十一分",
     "type": "n.",
-    "def": "eleven minutes"
+    "def": "eleven minutes",
+    "id": "L1-34"
   },
   {
     "reading": "じゅうきゅうふん",
     "kanji": "十九分",
     "type": "n.",
-    "def": "nineteen minutes"
+    "def": "nineteen minutes",
+    "id": "L1-35"
   },
   {
     "reading": "じゅうごふん",
     "kanji": "十五分",
     "type": "n.",
-    "def": "fifteen minutes"
+    "def": "fifteen minutes",
+    "id": "L1-36"
   },
   {
     "reading": "じゅうさんぷん",
     "kanji": "十三分",
     "type": "n.",
-    "def": "thirteen minutes"
+    "def": "thirteen minutes",
+    "id": "L1-37"
   },
   {
     "reading": "じゅうじ",
     "kanji": "十時",
     "type": "n.",
-    "def": "ten o’clock"
+    "def": "ten o’clock",
+    "id": "L1-38"
   },
   {
     "reading": "じゅうななふん",
     "kanji": "十七分",
     "type": "n.",
-    "def": "seventeen minutes"
+    "def": "seventeen minutes",
+    "id": "L1-39"
   },
   {
     "reading": "じゅうにじ",
     "kanji": "十二時",
     "type": "n.",
-    "def": "twelve o’clock"
+    "def": "twelve o’clock",
+    "id": "L1-40"
   },
   {
     "reading": "じゅうにふん",
     "kanji": "十二分",
     "type": "n.",
-    "def": "twelve minutes"
+    "def": "twelve minutes",
+    "id": "L1-41"
   },
   {
     "reading": "じゅうはちふん/じゅうはっぷん",
     "kanji": "十八分",
     "type": "n.",
-    "def": "eighteen minutes"
+    "def": "eighteen minutes",
+    "id": "L1-42"
   },
   {
     "reading": "じゅうよんぷん",
     "kanji": "十四分",
     "type": "n.",
-    "def": "fourteen minutes"
+    "def": "fourteen minutes",
+    "id": "L1-43"
   },
   {
     "reading": "じゅうろっぷん",
     "kanji": "十六分",
     "type": "n.",
-    "def": "sixteen minutes"
+    "def": "sixteen minutes",
+    "id": "L1-44"
   },
   {
     "reading": "じゅっぷん",
     "kanji": "十分",
     "type": "n.",
-    "def": "ten minutes"
+    "def": "ten minutes",
+    "id": "L1-45"
   },
   {
     "reading": "せいじ",
     "kanji": "政治",
     "type": "n.",
-    "def": "politics"
+    "def": "politics",
+    "id": "L1-46"
   },
   {
     "reading": "せいぶつがく",
     "kanji": "生物学",
     "type": "n.",
-    "def": "biology"
+    "def": "biology",
+    "id": "L1-47"
   },
   {
     "reading": "せんこう",
     "kanji": "専攻",
     "type": "n.",
-    "def": "major"
+    "def": "major",
+    "id": "L1-48"
   },
   {
     "reading": "せんせい",
     "kanji": "先生",
     "type": "n.",
-    "def": "teacher; Professor . . ."
+    "def": "teacher; Professor . . .",
+    "id": "L1-49"
   },
   {
     "reading": "そうです",
     "kanji": "",
     "type": "exp.",
-    "def": "That’s right."
+    "def": "That’s right.",
+    "id": "L1-50"
   },
   {
     "reading": "そうですか",
     "kanji": "",
     "type": "exp.",
-    "def": "I see.; Is that so?"
+    "def": "I see.; Is that so?",
+    "id": "L1-51"
   },
   {
     "reading": "だいがく",
     "kanji": "大学",
     "type": "n.",
-    "def": "college; university"
+    "def": "college; university",
+    "id": "L1-52"
   },
   {
     "reading": "だいがくいんせい",
     "kanji": "大学院生",
     "type": "n.",
-    "def": "graduate student"
+    "def": "graduate student",
+    "id": "L1-53"
   },
   {
     "reading": "だいがくせい",
     "kanji": "大学生",
     "type": "n.",
-    "def": "college student"
+    "def": "college student",
+    "id": "L1-54"
   },
   {
     "reading": "ちゅうごく",
     "kanji": "中国",
     "type": "n.",
-    "def": "China"
+    "def": "China",
+    "id": "L1-55"
   },
   {
     "reading": "でんわ",
     "kanji": "電話",
     "type": "n.",
-    "def": "telephone"
+    "def": "telephone",
+    "id": "L1-56"
   },
   {
     "reading": "ともだち",
     "kanji": "友だち",
     "type": "n.",
-    "def": "friend"
+    "def": "friend",
+    "id": "L1-57"
   },
   {
     "reading": "ななふん",
     "kanji": "七分",
     "type": "n.",
-    "def": "seven minutes"
+    "def": "seven minutes",
+    "id": "L1-58"
   },
   {
     "reading": "なに/なん",
     "kanji": "何",
     "type": "n.",
-    "def": "what"
+    "def": "what",
+    "id": "L1-59"
   },
   {
     "reading": "なまえ",
     "kanji": "名前",
     "type": "n.",
-    "def": "name"
+    "def": "name",
+    "id": "L1-60"
   },
   {
     "reading": "にじ",
     "kanji": "二時",
     "type": "n.",
-    "def": "two o’clock"
+    "def": "two o’clock",
+    "id": "L1-61"
   },
   {
     "reading": "にじはん",
     "kanji": "二時半",
     "type": "n.",
-    "def": "half past two"
+    "def": "half past two",
+    "id": "L1-62"
   },
   {
     "reading": "にじゅっぷん",
     "kanji": "二十分",
     "type": "n.",
-    "def": "twenty minutes"
+    "def": "twenty minutes",
+    "id": "L1-63"
   },
   {
     "reading": "にふん",
     "kanji": "二分",
     "type": "n.",
-    "def": "two minutes"
+    "def": "two minutes",
+    "id": "L1-64"
   },
   {
     "reading": "にほん",
     "kanji": "日本",
     "type": "n.",
-    "def": "Japan"
+    "def": "Japan",
+    "id": "L1-65"
   },
   {
     "reading": "にほんご",
     "kanji": "日本語",
     "type": "n.",
-    "def": "Japanese language"
+    "def": "Japanese language",
+    "id": "L1-66"
   },
   {
     "reading": "にほんじん",
     "kanji": "日本人",
     "type": "n.",
-    "def": "Japanese people"
+    "def": "Japanese people",
+    "id": "L1-67"
   },
   {
     "reading": "はい",
     "kanji": "",
     "type": "exp.",
-    "def": "yes"
+    "def": "yes",
+    "id": "L1-68"
   },
   {
     "reading": "はちじ",
     "kanji": "八時",
     "type": "n.",
-    "def": "eight o’clock"
+    "def": "eight o’clock",
+    "id": "L1-69"
   },
   {
     "reading": "はっぷん",
     "kanji": "八分",
     "type": "n.",
-    "def": "eight minutes"
+    "def": "eight minutes",
+    "id": "L1-70"
   },
   {
     "reading": "はん",
     "kanji": "半",
     "type": "suf.",
-    "def": "half"
+    "def": "half",
+    "id": "L1-71"
   },
   {
     "reading": "ばんごう",
     "kanji": "番号",
     "type": "n.",
-    "def": "number"
+    "def": "number",
+    "id": "L1-72"
   },
   {
     "reading": "ぶんがく",
     "kanji": "文学",
     "type": "n.",
-    "def": "literature"
+    "def": "literature",
+    "id": "L1-73"
   },
   {
     "reading": "べんごし",
     "kanji": "弁護士",
     "type": "n.",
-    "def": "lawyer"
+    "def": "lawyer",
+    "id": "L1-74"
   },
   {
     "reading": "よじ",
     "kanji": "四時",
     "type": "n.",
-    "def": "four o’clock"
+    "def": "four o’clock",
+    "id": "L1-75"
   },
   {
     "reading": "よんぷん",
     "kanji": "四分",
     "type": "n.",
-    "def": "four minutes"
+    "def": "four minutes",
+    "id": "L1-76"
   },
   {
     "reading": "りゅうがくせい",
     "kanji": "留学生",
     "type": "n.",
-    "def": "international student"
+    "def": "international student",
+    "id": "L1-77"
   },
   {
     "reading": "れきし",
     "kanji": "歴史",
     "type": "n.",
-    "def": "history"
+    "def": "history",
+    "id": "L1-78"
   },
   {
     "reading": "ろくじ",
     "kanji": "六時",
     "type": "n.",
-    "def": "six o’clock"
+    "def": "six o’clock",
+    "id": "L1-79"
   },
   {
     "reading": "ろっぷん",
     "kanji": "六分",
     "type": "n.",
-    "def": "six minutes"
+    "def": "six minutes",
+    "id": "L1-80"
   },
   {
     "reading": "わたし",
     "kanji": "私",
     "type": "n.",
-    "def": "I"
+    "def": "I",
+    "id": "L1-81"
   },
   {
     "reading": "アジアけんきゅう",
     "kanji": "アジア研究",
     "type": "n.",
-    "def": "Asian studies"
+    "def": "Asian studies",
+    "id": "L1-82"
   },
   {
     "reading": "アメリカ",
     "kanji": "",
     "type": "n.",
-    "def": "U.S.A."
+    "def": "U.S.A.",
+    "id": "L1-83"
   },
   {
     "reading": "イギリス",
     "kanji": "",
     "type": "n.",
-    "def": "Britain"
+    "def": "Britain",
+    "id": "L1-84"
   },
   {
     "reading": "インド",
     "kanji": "",
     "type": "n.",
-    "def": "India"
+    "def": "India",
+    "id": "L1-85"
   },
   {
     "reading": "エジプト",
     "kanji": "",
     "type": "n.",
-    "def": "Egypt"
+    "def": "Egypt",
+    "id": "L1-86"
   },
   {
     "reading": "オーストラリア",
     "kanji": "",
     "type": "n.",
-    "def": "Australia"
+    "def": "Australia",
+    "id": "L1-87"
   },
   {
     "reading": "カナダ",
     "kanji": "",
     "type": "n.",
-    "def": "Canada"
+    "def": "Canada",
+    "id": "L1-88"
   },
   {
     "reading": "コンピューター",
     "kanji": "",
     "type": "n.",
-    "def": "computer"
+    "def": "computer",
+    "id": "L1-89"
   },
   {
     "reading": "ビジネス",
     "kanji": "",
     "type": "n.",
-    "def": "business"
+    "def": "business",
+    "id": "L1-90"
   },
   {
     "reading": "フィリピン",
     "kanji": "",
     "type": "n.",
-    "def": "Philippines"
+    "def": "Philippines",
+    "id": "L1-91"
   },
   {
     "reading": "～ご",
     "kanji": "～後",
     "type": "suf.",
-    "def": "in . . . time; after . . ."
+    "def": "in . . . time; after . . .",
+    "id": "L1-92"
   },
   {
     "reading": "～ご",
     "kanji": "～語",
     "type": "suf.",
-    "def": ". . . language"
+    "def": ". . . language",
+    "id": "L1-93"
   },
   {
     "reading": "～さい",
     "kanji": "～歳",
     "type": "suf.",
-    "def": ". . . years old"
+    "def": ". . . years old",
+    "id": "L1-94"
   },
   {
     "reading": "～さん",
     "kanji": "",
     "type": "suf.",
-    "def": "Mr./Ms. . . ."
+    "def": "Mr./Ms. . . .",
+    "id": "L1-95"
   },
   {
     "reading": "～じ",
     "kanji": "～時",
     "type": "suf.",
-    "def": "o’clock"
+    "def": "o’clock",
+    "id": "L1-96"
   },
   {
     "reading": "～じん",
     "kanji": "～人",
     "type": "suf.",
-    "def": ". . . people"
+    "def": ". . . people",
+    "id": "L1-97"
   },
   {
     "reading": "～ねんせい",
     "kanji": "～年生",
     "type": "suf.",
-    "def": ". . . year student"
+    "def": ". . . year student",
+    "id": "L1-98"
   },
   {
     "reading": "～ばん",
     "kanji": "～番",
     "type": "suf.",
-    "def": "number . . ."
+    "def": "number . . .",
+    "id": "L1-99"
   }
 ]

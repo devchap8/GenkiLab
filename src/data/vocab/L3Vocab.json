@@ -3,348 +3,406 @@
     "reading": "あさ",
     "kanji": "朝",
     "type": "n.",
-    "def": "morning"
+    "def": "morning",
+    "id": "L3-1"
   },
   {
     "reading": "あさごはん",
     "kanji": "朝ご飯",
     "type": "n.",
-    "def": "breakfast"
+    "def": "breakfast",
+    "id": "L3-2"
   },
   {
     "reading": "あした",
     "kanji": "明日",
     "type": "n.",
-    "def": "tomorrow"
+    "def": "tomorrow",
+    "id": "L3-3"
   },
   {
     "reading": "あまり ＋ negative",
     "kanji": "",
     "type": "adv.",
-    "def": "not much"
+    "def": "not much",
+    "id": "L3-4"
   },
   {
     "reading": "いい",
     "kanji": "",
     "type": "い-adj.",
-    "def": "good"
+    "def": "good",
+    "id": "L3-5"
   },
   {
     "reading": "いえ",
     "kanji": "家",
     "type": "n.",
-    "def": "home; house"
+    "def": "home; house",
+    "id": "L3-6"
   },
   {
     "reading": "いく",
     "kanji": "行く",
     "type": "u-v.",
-    "def": "to go"
+    "def": "to go",
+    "id": "L3-7"
   },
   {
     "reading": "いつ",
     "kanji": "",
     "type": "n.",
-    "def": "when"
+    "def": "when",
+    "id": "L3-8"
   },
   {
     "reading": "うち",
     "kanji": "",
     "type": "n.",
-    "def": "home; house; my place"
+    "def": "home; house; my place",
+    "id": "L3-9"
   },
   {
     "reading": "えいが",
     "kanji": "映画",
     "type": "n.",
-    "def": "movie"
+    "def": "movie",
+    "id": "L3-10"
   },
   {
     "reading": "ええ",
     "kanji": "",
     "type": "exp.",
-    "def": "yes"
+    "def": "yes",
+    "id": "L3-11"
   },
   {
     "reading": "おきる",
     "kanji": "起きる",
     "type": "ru-v.",
-    "def": "to get up "
+    "def": "to get up ",
+    "id": "L3-12"
   },
   {
     "reading": "おさけ",
     "kanji": "お酒",
     "type": "n.",
-    "def": "sake; alcoholic drink"
+    "def": "sake; alcoholic drink",
+    "id": "L3-13"
   },
   {
     "reading": "おちゃ",
     "kanji": "お茶",
     "type": "n.",
-    "def": "green tea"
+    "def": "green tea",
+    "id": "L3-14"
   },
   {
     "reading": "おんがく",
     "kanji": "音楽",
     "type": "n.",
-    "def": "music"
+    "def": "music",
+    "id": "L3-15"
   },
   {
     "reading": "かえる",
     "kanji": "帰る",
     "type": "u-v.",
-    "def": "to go back; to return"
+    "def": "to go back; to return",
+    "id": "L3-16"
   },
   {
     "reading": "がっこう",
     "kanji": "学校",
     "type": "n.",
-    "def": "school"
+    "def": "school",
+    "id": "L3-17"
   },
   {
     "reading": "きく",
     "kanji": "聞く",
     "type": "u-v.",
-    "def": "to ask"
+    "def": "to ask",
+    "id": "L3-18"
   },
   {
     "reading": "きょう",
     "kanji": "今日",
     "type": "n.",
-    "def": "today"
+    "def": "today",
+    "id": "L3-19"
   },
   {
     "reading": "くる",
     "kanji": "来る",
     "type": "irr-v.",
-    "def": "to come "
+    "def": "to come ",
+    "id": "L3-20"
   },
   {
     "reading": "こんばん",
     "kanji": "今晩",
     "type": "n.",
-    "def": "tonight"
+    "def": "tonight",
+    "id": "L3-21"
   },
   {
     "reading": "さけ",
     "kanji": "酒",
     "type": "n.",
-    "def": "sake; alcohol"
+    "def": "sake; alcohol",
+    "id": "L3-22"
   },
   {
     "reading": "ざっし",
     "kanji": "雑誌",
     "type": "n.",
-    "def": "magazine"
+    "def": "magazine",
+    "id": "L3-23"
   },
   {
     "reading": "しゅうまつ",
     "kanji": "週末",
     "type": "n.",
-    "def": "weekend"
+    "def": "weekend",
+    "id": "L3-24"
   },
   {
     "reading": "する",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to cost "
+    "def": "to cost ",
+    "id": "L3-25"
   },
   {
     "reading": "ぜんぜん ＋ negative",
     "kanji": "全然",
     "type": "adv.",
-    "def": "not at all"
+    "def": "not at all",
+    "id": "L3-26"
   },
   {
     "reading": "そうですね",
     "kanji": "",
     "type": "exp.",
-    "def": "That’s right.; Let me see."
+    "def": "That’s right.; Let me see.",
+    "id": "L3-27"
   },
   {
     "reading": "たいてい",
     "kanji": "",
     "type": "adv.",
-    "def": "usually"
+    "def": "usually",
+    "id": "L3-28"
   },
   {
     "reading": "たべる",
     "kanji": "食べる",
     "type": "ru-v.",
-    "def": "to eat "
+    "def": "to eat ",
+    "id": "L3-29"
   },
   {
     "reading": "ちょっと",
     "kanji": "",
     "type": "adv.",
-    "def": "a little"
+    "def": "a little",
+    "id": "L3-30"
   },
   {
     "reading": "でも",
     "kanji": "",
     "type": "exp.",
-    "def": "but"
+    "def": "but",
+    "id": "L3-31"
   },
   {
     "reading": "ときどき",
     "kanji": "時々",
     "type": "adv.",
-    "def": "sometimes"
+    "def": "sometimes",
+    "id": "L3-32"
   },
   {
     "reading": "どうですか",
     "kanji": "",
     "type": "exp.",
-    "def": "How about . . . ?; How is . . . ?"
+    "def": "How about . . . ?; How is . . . ?",
+    "id": "L3-33"
   },
   {
     "reading": "どようび",
     "kanji": "土曜日",
     "type": "n.",
-    "def": "Saturday"
+    "def": "Saturday",
+    "id": "L3-34"
   },
   {
     "reading": "にちようび",
     "kanji": "日曜日",
     "type": "n.",
-    "def": "Sunday"
+    "def": "Sunday",
+    "id": "L3-35"
   },
   {
     "reading": "ねる",
     "kanji": "寝る",
     "type": "ru-v.",
-    "def": "to sleep; to go to sleep "
+    "def": "to sleep; to go to sleep ",
+    "id": "L3-36"
   },
   {
     "reading": "のむ",
     "kanji": "飲む",
     "type": "u-v.",
-    "def": "to drink"
+    "def": "to drink",
+    "id": "L3-37"
   },
   {
     "reading": "はなす",
     "kanji": "話す",
     "type": "u-v.",
-    "def": "to speak; to talk"
+    "def": "to speak; to talk",
+    "id": "L3-38"
   },
   {
     "reading": "はやい",
     "kanji": "早い",
     "type": "い-adj.",
-    "def": "early"
+    "def": "early",
+    "id": "L3-39"
   },
   {
     "reading": "はやい",
     "kanji": "速い",
     "type": "い-adj.",
-    "def": "fast"
+    "def": "fast",
+    "id": "L3-40"
   },
   {
     "reading": "ばんごはん",
     "kanji": "晩ご飯",
     "type": "n.",
-    "def": "dinner"
+    "def": "dinner",
+    "id": "L3-41"
   },
   {
     "reading": "ひるごはん",
     "kanji": "昼ご飯",
     "type": "n.",
-    "def": "lunch"
+    "def": "lunch",
+    "id": "L3-42"
   },
   {
     "reading": "べんきょうする",
     "kanji": "勉強する",
     "type": "irr-v.",
-    "def": "to study "
+    "def": "to study ",
+    "id": "L3-43"
   },
   {
     "reading": "まいにち",
     "kanji": "毎日",
     "type": "n.",
-    "def": "every day"
+    "def": "every day",
+    "id": "L3-44"
   },
   {
     "reading": "まいばん",
     "kanji": "毎晩",
     "type": "n.",
-    "def": "every night"
+    "def": "every night",
+    "id": "L3-45"
   },
   {
     "reading": "みず",
     "kanji": "水",
     "type": "n.",
-    "def": "water"
+    "def": "water",
+    "id": "L3-46"
   },
   {
     "reading": "みる",
     "kanji": "見る",
     "type": "ru-v.",
-    "def": "to see; to look at; to watch "
+    "def": "to see; to look at; to watch ",
+    "id": "L3-47"
   },
   {
     "reading": "よく",
     "kanji": "",
     "type": "adv.",
-    "def": "often; much"
+    "def": "often; much",
+    "id": "L3-48"
   },
   {
     "reading": "よむ",
     "kanji": "読む",
     "type": "u-v.",
-    "def": "to read"
+    "def": "to read",
+    "id": "L3-49"
   },
   {
     "reading": "アイスクリーム",
     "kanji": "",
     "type": "n.",
-    "def": "ice cream"
+    "def": "ice cream",
+    "id": "L3-50"
   },
   {
     "reading": "カフェ",
     "kanji": "",
     "type": "n.",
-    "def": "cafe"
+    "def": "cafe",
+    "id": "L3-51"
   },
   {
     "reading": "コーヒー",
     "kanji": "",
     "type": "n.",
-    "def": "coffee"
+    "def": "coffee",
+    "id": "L3-52"
   },
   {
     "reading": "スポーツ",
     "kanji": "",
     "type": "n.",
-    "def": "sports"
+    "def": "sports",
+    "id": "L3-53"
   },
   {
     "reading": "テニス",
     "kanji": "",
     "type": "n.",
-    "def": "tennis"
+    "def": "tennis",
+    "id": "L3-54"
   },
   {
     "reading": "テレビ",
     "kanji": "",
     "type": "n.",
-    "def": "TV"
+    "def": "TV",
+    "id": "L3-55"
   },
   {
     "reading": "デート",
     "kanji": "",
     "type": "n.",
-    "def": "date (romantic, not calendar)"
+    "def": "date (romantic, not calendar)",
+    "id": "L3-56"
   },
   {
     "reading": "ハンバーガー",
     "kanji": "",
     "type": "n.",
-    "def": "hamburger"
+    "def": "hamburger",
+    "id": "L3-57"
   },
   {
     "reading": "～ごろ",
     "kanji": "",
     "type": "suf.",
-    "def": "at about . . ."
+    "def": "at about . . .",
+    "id": "L3-58"
   }
 ]

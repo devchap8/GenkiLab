@@ -3,534 +3,623 @@
     "reading": "あさって",
     "kanji": "",
     "type": "n.",
-    "def": "the day after tomorrow"
+    "def": "the day after tomorrow",
+    "id": "L8-1"
   },
   {
     "reading": "あめ",
     "kanji": "雨",
     "type": "n.",
-    "def": "rain"
+    "def": "rain",
+    "id": "L8-2"
   },
   {
     "reading": "あらう",
     "kanji": "洗う",
     "type": "u-v.",
-    "def": "to wash"
+    "def": "to wash",
+    "id": "L8-3"
   },
   {
     "reading": "いう",
     "kanji": "言う",
     "type": "u-v.",
-    "def": "to say"
+    "def": "to say",
+    "id": "L8-4"
   },
   {
     "reading": "いちご",
     "kanji": "",
     "type": "n.",
-    "def": "strawberry"
+    "def": "strawberry",
+    "id": "L8-5"
   },
   {
     "reading": "いつも",
     "kanji": "",
     "type": "adv.",
-    "def": "always"
+    "def": "always",
+    "id": "L8-6"
   },
   {
     "reading": "いる",
     "kanji": "",
     "type": "ru-v.",
-    "def": "(a person) is in . . . ; stays at . . . "
+    "def": "(a person) is in . . . ; stays at . . . ",
+    "id": "L8-7"
   },
   {
     "reading": "いる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to need"
+    "def": "to need",
+    "id": "L8-8"
   },
   {
     "reading": "ううん",
     "kanji": "",
     "type": "exp.",
-    "def": "uh-uh; no"
+    "def": "uh-uh; no",
+    "id": "L8-9"
   },
   {
     "reading": "うん",
     "kanji": "",
     "type": "exp.",
-    "def": "uh-huh; yes"
+    "def": "uh-huh; yes",
+    "id": "L8-10"
   },
   {
     "reading": "うんてんする",
     "kanji": "運転する",
     "type": "irr-v.",
-    "def": "to drive "
+    "def": "to drive ",
+    "id": "L8-11"
   },
   {
     "reading": "おそく",
     "kanji": "遅く",
     "type": "adv.",
-    "def": "(do something) late"
+    "def": "(do something) late",
+    "id": "L8-12"
   },
   {
     "reading": "おそくなる",
     "kanji": "遅くなる",
     "type": "u-v.",
-    "def": "to be late"
+    "def": "to be late",
+    "id": "L8-13"
   },
   {
     "reading": "おふろ",
     "kanji": "お風呂",
     "type": "n.",
-    "def": "bath"
+    "def": "bath",
+    "id": "L8-14"
   },
   {
     "reading": "おふろにはいる",
     "kanji": "お風呂に入る",
     "type": "u-v.",
-    "def": "to take a bath"
+    "def": "to take a bath",
+    "id": "L8-15"
   },
   {
     "reading": "おもう",
     "kanji": "思う",
     "type": "u-v.",
-    "def": "to think"
+    "def": "to think",
+    "id": "L8-16"
   },
   {
     "reading": "かいしゃいん",
     "kanji": "会社員",
     "type": "n.",
-    "def": "office worker"
+    "def": "office worker",
+    "id": "L8-17"
   },
   {
     "reading": "かんぱい",
     "kanji": "乾杯",
     "type": "exp.",
-    "def": "Cheers! (a toast)"
+    "def": "Cheers! (a toast)",
+    "id": "L8-18"
   },
   {
     "reading": "きおん",
     "kanji": "気温",
     "type": "n.",
-    "def": "temperature (weather)"
+    "def": "temperature (weather)",
+    "id": "L8-19"
   },
   {
     "reading": "きゅうり",
     "kanji": "",
     "type": "n.",
-    "def": "cucumber"
+    "def": "cucumber",
+    "id": "L8-20"
   },
   {
     "reading": "きる",
     "kanji": "切る",
     "type": "u-v.",
-    "def": "to cut"
+    "def": "to cut",
+    "id": "L8-21"
   },
   {
     "reading": "きる",
     "kanji": "着る",
     "type": "ru-v.",
-    "def": "to put on (clothes above your waist) "
+    "def": "to put on (clothes above your waist) ",
+    "id": "L8-22"
   },
   {
     "reading": "ぎゅうにく",
     "kanji": "牛肉",
     "type": "n.",
-    "def": "beef"
+    "def": "beef",
+    "id": "L8-23"
   },
   {
     "reading": "くもり",
     "kanji": "曇り",
     "type": "n.",
-    "def": "cloudy weather"
+    "def": "cloudy weather",
+    "id": "L8-24"
   },
   {
     "reading": "けさ",
     "kanji": "今朝",
     "type": "n.",
-    "def": "this morning"
+    "def": "this morning",
+    "id": "L8-25"
   },
   {
     "reading": "こたえる",
     "kanji": "答える",
     "type": "ru-v.",
-    "def": "to answer "
+    "def": "to answer ",
+    "id": "L8-26"
   },
   {
     "reading": "このあいだ",
     "kanji": "この間",
     "type": "adv.",
-    "def": "the other day"
+    "def": "the other day",
+    "id": "L8-27"
   },
   {
     "reading": "こんげつ",
     "kanji": "今月",
     "type": "n.",
-    "def": "this month"
+    "def": "this month",
+    "id": "L8-28"
   },
   {
     "reading": "さいごに",
     "kanji": "最後に",
     "type": "adv.",
-    "def": "finally; lastly"
+    "def": "finally; lastly",
+    "id": "L8-29"
   },
   {
     "reading": "ざんぎょう",
     "kanji": "残業",
     "type": "n.",
-    "def": "overtime work"
+    "def": "overtime work",
+    "id": "L8-30"
   },
   {
     "reading": "ざんねん（ですね）",
     "kanji": "残念（ですね）",
     "type": "exp.",
-    "def": "That’s too bad."
+    "def": "That’s too bad.",
+    "id": "L8-31"
   },
   {
     "reading": "しごと",
     "kanji": "仕事",
     "type": "n.",
-    "def": "job; work; occupation"
+    "def": "job; work; occupation",
+    "id": "L8-32"
   },
   {
     "reading": "じゃがいも",
     "kanji": "",
     "type": "n.",
-    "def": "potato"
+    "def": "potato",
+    "id": "L8-33"
   },
   {
     "reading": "じょうず（な）",
     "kanji": "上手",
     "type": "な-adj.",
-    "def": "skillful; good at . . ."
+    "def": "skillful; good at . . .",
+    "id": "L8-34"
   },
   {
     "reading": "すいか",
     "kanji": "",
     "type": "n.",
-    "def": "watermelon"
+    "def": "watermelon",
+    "id": "L8-35"
   },
   {
     "reading": "すてる",
     "kanji": "捨てる",
     "type": "ru-v.",
-    "def": "to throw away "
+    "def": "to throw away ",
+    "id": "L8-36"
   },
   {
     "reading": "せんたくする",
     "kanji": "洗濯する",
     "type": "irr-v.",
-    "def": "to do laundry "
+    "def": "to do laundry ",
+    "id": "L8-37"
   },
   {
     "reading": "そうじする",
     "kanji": "掃除する",
     "type": "irr-v.",
-    "def": "to clean "
+    "def": "to clean ",
+    "id": "L8-38"
   },
   {
     "reading": "たまねぎ",
     "kanji": "",
     "type": "n.",
-    "def": "onion"
+    "def": "onion",
+    "id": "L8-39"
   },
   {
     "reading": "つかれている",
     "kanji": "疲れている",
     "type": "exp.",
-    "def": "to be tired"
+    "def": "to be tired",
+    "id": "L8-40"
   },
   {
     "reading": "つぎに",
     "kanji": "次に",
     "type": "adv.",
-    "def": "secondly"
+    "def": "secondly",
+    "id": "L8-41"
   },
   {
     "reading": "つくる",
     "kanji": "作る",
     "type": "u-v.",
-    "def": "to make"
+    "def": "to make",
+    "id": "L8-42"
   },
   {
     "reading": "てんきよほう",
     "kanji": "天気予報",
     "type": "n.",
-    "def": "weather forecast"
+    "def": "weather forecast",
+    "id": "L8-43"
   },
   {
     "reading": "ところ",
     "kanji": "所",
     "type": "n.",
-    "def": "place"
+    "def": "place",
+    "id": "L8-44"
   },
   {
     "reading": "とりにく",
     "kanji": "鶏肉",
     "type": "n.",
-    "def": "chicken"
+    "def": "chicken",
+    "id": "L8-45"
   },
   {
     "reading": "どう",
     "kanji": "",
     "type": "adv.",
-    "def": "how"
+    "def": "how",
+    "id": "L8-46"
   },
   {
     "reading": "なす",
     "kanji": "",
     "type": "n.",
-    "def": "eggplant"
+    "def": "eggplant",
+    "id": "L8-47"
   },
   {
     "reading": "なつ",
     "kanji": "夏",
     "type": "n.",
-    "def": "summer"
+    "def": "summer",
+    "id": "L8-48"
   },
   {
     "reading": "なにか",
     "kanji": "何か",
     "type": "n.",
-    "def": "something"
+    "def": "something",
+    "id": "L8-49"
   },
   {
     "reading": "にんじん",
     "kanji": "",
     "type": "n.",
-    "def": "carrot"
+    "def": "carrot",
+    "id": "L8-50"
   },
   {
     "reading": "はし",
     "kanji": "",
     "type": "n.",
-    "def": "chopsticks"
+    "def": "chopsticks",
+    "id": "L8-51"
   },
   {
     "reading": "はじめる",
     "kanji": "始める",
     "type": "ru-v.",
-    "def": "to begin "
+    "def": "to begin ",
+    "id": "L8-52"
   },
   {
     "reading": "はなし",
     "kanji": "話",
     "type": "n.",
-    "def": "story; talk"
+    "def": "story; talk",
+    "id": "L8-53"
   },
   {
     "reading": "はれ",
     "kanji": "晴れ",
     "type": "n.",
-    "def": "sunny weather"
+    "def": "sunny weather",
+    "id": "L8-54"
   },
   {
     "reading": "ふくろ",
     "kanji": "袋",
     "type": "n.",
-    "def": "bag; sack; plastic/paper bag"
+    "def": "bag; sack; plastic/paper bag",
+    "id": "L8-55"
   },
   {
     "reading": "ふゆ",
     "kanji": "冬",
     "type": "n.",
-    "def": "winter"
+    "def": "winter",
+    "id": "L8-56"
   },
   {
     "reading": "ふる（あめ/ゆきが）",
     "kanji": "降る（雨/雪が）",
     "type": "u-v.",
-    "def": "(rain/snow) falls"
+    "def": "(rain/snow) falls",
+    "id": "L8-57"
   },
   {
     "reading": "ぶたにく",
     "kanji": "豚肉",
     "type": "n.",
-    "def": "pork"
+    "def": "pork",
+    "id": "L8-58"
   },
   {
     "reading": "ぶどう",
     "kanji": "",
     "type": "n.",
-    "def": "grape"
+    "def": "grape",
+    "id": "L8-59"
   },
   {
     "reading": "へた（な）",
     "kanji": "下手",
     "type": "な-adj.",
-    "def": "clumsy; poor at . . ."
+    "def": "clumsy; poor at . . .",
+    "id": "L8-60"
   },
   {
     "reading": "まいしゅう",
     "kanji": "毎週",
     "type": "n.",
-    "def": "every week"
+    "def": "every week",
+    "id": "L8-61"
   },
   {
     "reading": "まず",
     "kanji": "",
     "type": "adv.",
-    "def": "first of all"
+    "def": "first of all",
+    "id": "L8-62"
   },
   {
     "reading": "まだ ＋ negative",
     "kanji": "",
     "type": "adv.",
-    "def": "not . . . yet"
+    "def": "not . . . yet",
+    "id": "L8-63"
   },
   {
     "reading": "みかん",
     "kanji": "",
     "type": "n.",
-    "def": "mandarin orange"
+    "def": "mandarin orange",
+    "id": "L8-64"
   },
   {
     "reading": "みんなで",
     "kanji": "",
     "type": "n.",
-    "def": "all (of the people) together"
+    "def": "all (of the people) together",
+    "id": "L8-65"
   },
   {
     "reading": "もっていく",
     "kanji": "持っていく",
     "type": "u-v.",
-    "def": "to take (a thing)"
+    "def": "to take (a thing)",
+    "id": "L8-66"
   },
   {
     "reading": "もも",
     "kanji": "",
     "type": "n.",
-    "def": "peach"
+    "def": "peach",
+    "id": "L8-67"
   },
   {
     "reading": "ゆうめい（な）",
     "kanji": "有名",
     "type": "な-adj.",
-    "def": "famous"
+    "def": "famous",
+    "id": "L8-68"
   },
   {
     "reading": "ゆき",
     "kanji": "雪",
     "type": "n.",
-    "def": "snow"
+    "def": "snow",
+    "id": "L8-69"
   },
   {
     "reading": "らいげつ",
     "kanji": "来月",
     "type": "n.",
-    "def": "next month"
+    "def": "next month",
+    "id": "L8-70"
   },
   {
     "reading": "りょうりする",
     "kanji": "料理する",
     "type": "irr-v.",
-    "def": "to cook "
+    "def": "to cook ",
+    "id": "L8-71"
   },
   {
     "reading": "りんご",
     "kanji": "",
     "type": "n.",
-    "def": "apple"
+    "def": "apple",
+    "id": "L8-72"
   },
   {
     "reading": "アボカド",
     "kanji": "",
     "type": "n.",
-    "def": "avocado"
+    "def": "avocado",
+    "id": "L8-73"
   },
   {
     "reading": "アレルギー",
     "kanji": "",
     "type": "n.",
-    "def": "allergy"
+    "def": "allergy",
+    "id": "L8-74"
   },
   {
     "reading": "アンケート",
     "kanji": "",
     "type": "n.",
-    "def": "questionnaire"
+    "def": "questionnaire",
+    "id": "L8-75"
   },
   {
     "reading": "カメラ",
     "kanji": "",
     "type": "n.",
-    "def": "camera"
+    "def": "camera",
+    "id": "L8-76"
   },
   {
     "reading": "カラオケ",
     "kanji": "",
     "type": "n.",
-    "def": "karaoke"
+    "def": "karaoke",
+    "id": "L8-77"
   },
   {
     "reading": "キャベツ",
     "kanji": "",
     "type": "n.",
-    "def": "cabbage"
+    "def": "cabbage",
+    "id": "L8-78"
   },
   {
     "reading": "ストレス",
     "kanji": "",
     "type": "n.",
-    "def": "stress"
+    "def": "stress",
+    "id": "L8-79"
   },
   {
     "reading": "スペイン",
     "kanji": "",
     "type": "n.",
-    "def": "Spain"
+    "def": "Spain",
+    "id": "L8-80"
   },
   {
     "reading": "トマト",
     "kanji": "",
     "type": "n.",
-    "def": "tomato"
+    "def": "tomato",
+    "id": "L8-81"
   },
   {
     "reading": "ハラルフード",
     "kanji": "",
     "type": "n.",
-    "def": "halal"
+    "def": "halal",
+    "id": "L8-82"
   },
   {
     "reading": "バーベキュー",
     "kanji": "",
     "type": "n.",
-    "def": "barbecue"
+    "def": "barbecue",
+    "id": "L8-83"
   },
   {
     "reading": "パーティー",
     "kanji": "",
     "type": "n.",
-    "def": "party"
+    "def": "party",
+    "id": "L8-84"
   },
   {
     "reading": "ピーナッツ",
     "kanji": "",
     "type": "n.",
-    "def": "peanut"
+    "def": "peanut",
+    "id": "L8-85"
   },
   {
     "reading": "ホームステイ",
     "kanji": "",
     "type": "n.",
-    "def": "homestay; living with a local family"
+    "def": "homestay; living with a local family",
+    "id": "L8-86"
   },
   {
     "reading": "（〜の）あと",
     "kanji": "後",
     "type": "exp.",
-    "def": "after (an event)"
+    "def": "after (an event)",
+    "id": "L8-87"
   },
   {
     "reading": "～ど",
     "kanji": "～度",
     "type": "suf.",
-    "def": ". . . degrees (temperature)"
+    "def": ". . . degrees (temperature)",
+    "id": "L8-88"
   },
   {
     "reading": "～について",
     "kanji": "",
     "type": "part.",
-    "def": "about . . . ; concerning . . ."
+    "def": "about . . . ; concerning . . .",
+    "id": "L8-89"
   }
 ]

@@ -3,450 +3,525 @@
     "reading": "あさねぼうする",
     "kanji": "朝寝坊する",
     "type": "irr-v.",
-    "def": "to oversleep "
+    "def": "to oversleep ",
+    "id": "L16-1"
   },
   {
     "reading": "あつめる",
     "kanji": "集める",
     "type": "ru-v.",
-    "def": "to collect "
+    "def": "to collect ",
+    "id": "L16-2"
   },
   {
     "reading": "あんないする",
     "kanji": "案内する",
     "type": "irr-v.",
-    "def": "to show (someone) around"
+    "def": "to show (someone) around",
+    "id": "L16-3"
   },
   {
     "reading": "いれる",
     "kanji": "",
     "type": "ru-v.",
-    "def": "to make tea, coffee, etc. "
+    "def": "to make tea, coffee, etc. ",
+    "id": "L16-4"
   },
   {
     "reading": "いれる",
     "kanji": "入れる",
     "type": "ru-v.",
-    "def": "to put (something) in "
+    "def": "to put (something) in ",
+    "id": "L16-5"
   },
   {
     "reading": "うつす",
     "kanji": "写す",
     "type": "u-v.",
-    "def": "to copy"
+    "def": "to copy",
+    "id": "L16-6"
   },
   {
     "reading": "ええと",
     "kanji": "",
     "type": "exp.",
-    "def": "well . . . ; let me see . . ."
+    "def": "well . . . ; let me see . . .",
+    "id": "L16-7"
   },
   {
     "reading": "えきいん（さん）",
     "kanji": "駅員（さん）",
     "type": "n.",
-    "def": "station attendant"
+    "def": "station attendant",
+    "id": "L16-8"
   },
   {
     "reading": "おおきさ",
     "kanji": "大きさ",
     "type": "n.",
-    "def": "size"
+    "def": "size",
+    "id": "L16-9"
   },
   {
     "reading": "おこす",
     "kanji": "起こす",
     "type": "u-v.",
-    "def": "to wake (someone) up"
+    "def": "to wake (someone) up",
+    "id": "L16-10"
   },
   {
     "reading": "おごる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to treat (someone) to a meal"
+    "def": "to treat (someone) to a meal",
+    "id": "L16-11"
   },
   {
     "reading": "おちこむ",
     "kanji": "落ち込む",
     "type": "u-v.",
-    "def": "to get depressed"
+    "def": "to get depressed",
+    "id": "L16-12"
   },
   {
     "reading": "おや",
     "kanji": "親",
     "type": "n.",
-    "def": "parent"
+    "def": "parent",
+    "id": "L16-13"
   },
   {
     "reading": "かす",
     "kanji": "貸す",
     "type": "u-v.",
-    "def": "to lend"
+    "def": "to lend",
+    "id": "L16-14"
   },
   {
     "reading": "きたない",
     "kanji": "汚い",
     "type": "い-adj.",
-    "def": "dirty"
+    "def": "dirty",
+    "id": "L16-15"
   },
   {
     "reading": "きまつしけん",
     "kanji": "期末試験",
     "type": "n.",
-    "def": "final examination"
+    "def": "final examination",
+    "id": "L16-16"
   },
   {
     "reading": "きょうじゅうに",
     "kanji": "今日中に",
     "type": "adv.",
-    "def": "by the end of today"
+    "def": "by the end of today",
+    "id": "L16-17"
   },
   {
     "reading": "けんきゅう",
     "kanji": "研究",
     "type": "n.",
-    "def": "research"
+    "def": "research",
+    "id": "L16-18"
   },
   {
     "reading": "このあいだ",
     "kanji": "この間",
     "type": "adv.",
-    "def": "the other day"
+    "def": "the other day",
+    "id": "L16-19"
   },
   {
     "reading": "このぐらい",
     "kanji": "",
     "type": "adv.",
-    "def": "about this much"
+    "def": "about this much",
+    "id": "L16-20"
   },
   {
     "reading": "こまる",
     "kanji": "困る",
     "type": "u-v.",
-    "def": "to have difficulty"
+    "def": "to have difficulty",
+    "id": "L16-21"
   },
   {
     "reading": "これから",
     "kanji": "",
     "type": "adv.",
-    "def": "from now on"
+    "def": "from now on",
+    "id": "L16-22"
   },
   {
     "reading": "ごみ",
     "kanji": "",
     "type": "n.",
-    "def": "garbage"
+    "def": "garbage",
+    "id": "L16-23"
   },
   {
     "reading": "ごめん",
     "kanji": "",
     "type": "exp.",
-    "def": "I’m sorry. (casual)"
+    "def": "I’m sorry. (casual)",
+    "id": "L16-24"
   },
   {
     "reading": "さとう",
     "kanji": "砂糖",
     "type": "n.",
-    "def": "sugar"
+    "def": "sugar",
+    "id": "L16-25"
   },
   {
     "reading": "しつれいします",
     "kanji": "失礼します",
     "type": "exp.",
-    "def": "Excuse me.; Sorry to interrupt you."
+    "def": "Excuse me.; Sorry to interrupt you.",
+    "id": "L16-26"
   },
   {
     "reading": "しょうがくきん",
     "kanji": "奨学金",
     "type": "n.",
-    "def": "scholarship"
+    "def": "scholarship",
+    "id": "L16-27"
   },
   {
     "reading": "しょうがくせい",
     "kanji": "小学生",
     "type": "n.",
-    "def": "elementary school students"
+    "def": "elementary school students",
+    "id": "L16-28"
   },
   {
     "reading": "しんせき",
     "kanji": "親せき",
     "type": "n.",
-    "def": "relatives"
+    "def": "relatives",
+    "id": "L16-29"
   },
   {
     "reading": "じつは",
     "kanji": "実は",
     "type": "adv.",
-    "def": "actually; in fact"
+    "def": "actually; in fact",
+    "id": "L16-30"
   },
   {
     "reading": "じぶんで",
     "kanji": "自分で",
     "type": "adv.",
-    "def": "(do something) by oneself"
+    "def": "(do something) by oneself",
+    "id": "L16-31"
   },
   {
     "reading": "じゅぎょうちゅうに",
     "kanji": "授業中に",
     "type": "adv.",
-    "def": "in class; during the class"
+    "def": "in class; during the class",
+    "id": "L16-32"
   },
   {
     "reading": "すいせんじょう",
     "kanji": "推薦状",
     "type": "n.",
-    "def": "letter of recommendation"
+    "def": "letter of recommendation",
+    "id": "L16-33"
   },
   {
     "reading": "すると",
     "kanji": "",
     "type": "adv.",
-    "def": ". . . Then . . ."
+    "def": ". . . Then . . .",
+    "id": "L16-34"
   },
   {
     "reading": "せつめいする",
     "kanji": "説明する",
     "type": "irr-v.",
-    "def": "to explain "
+    "def": "to explain ",
+    "id": "L16-35"
   },
   {
     "reading": "そら",
     "kanji": "空",
     "type": "n.",
-    "def": "sky"
+    "def": "sky",
+    "id": "L16-36"
   },
   {
     "reading": "そんな～",
     "kanji": "",
     "type": "pre.",
-    "def": "such . . . ; that kind of . . ."
+    "def": "such . . . ; that kind of . . .",
+    "id": "L16-37"
   },
   {
     "reading": "たいふう",
     "kanji": "台風",
     "type": "n.",
-    "def": "typhoon"
+    "def": "typhoon",
+    "id": "L16-38"
   },
   {
     "reading": "たすける",
     "kanji": "助ける",
     "type": "ru-v.",
-    "def": "to help; to rescue "
+    "def": "to help; to rescue ",
+    "id": "L16-39"
   },
   {
     "reading": "たとえば",
     "kanji": "例えば",
     "type": "adv.",
-    "def": "for example"
+    "def": "for example",
+    "id": "L16-40"
   },
   {
     "reading": "だいがくいん",
     "kanji": "大学院",
     "type": "n.",
-    "def": "graduate school"
+    "def": "graduate school",
+    "id": "L16-41"
   },
   {
     "reading": "だす",
     "kanji": "出す",
     "type": "u-v.",
-    "def": "to take (something) out; to hand in (something)"
+    "def": "to take (something) out; to hand in (something)",
+    "id": "L16-42"
   },
   {
     "reading": "ちがう",
     "kanji": "違う",
     "type": "u-v.",
-    "def": "to be different; to be wrong"
+    "def": "to be different; to be wrong",
+    "id": "L16-43"
   },
   {
     "reading": "つづく",
     "kanji": "続く",
     "type": "u-v.",
-    "def": "to continue"
+    "def": "to continue",
+    "id": "L16-44"
   },
   {
     "reading": "つれていく",
     "kanji": "連れていく",
     "type": "u-v.",
-    "def": "to take (someone) to (a place)"
+    "def": "to take (someone) to (a place)",
+    "id": "L16-45"
   },
   {
     "reading": "とぶ",
     "kanji": "飛ぶ",
     "type": "u-v.",
-    "def": "to fly"
+    "def": "to fly",
+    "id": "L16-46"
   },
   {
     "reading": "どうぐ",
     "kanji": "道具",
     "type": "n.",
-    "def": "tool"
+    "def": "tool",
+    "id": "L16-47"
   },
   {
     "reading": "どこでも",
     "kanji": "",
     "type": "adv.",
-    "def": "anywhere"
+    "def": "anywhere",
+    "id": "L16-48"
   },
   {
     "reading": "なおす",
     "kanji": "直す",
     "type": "u-v.",
-    "def": "to correct; to fix"
+    "def": "to correct; to fix",
+    "id": "L16-49"
   },
   {
     "reading": "のりおくれる",
     "kanji": "乗り遅れる",
     "type": "ru-v.",
-    "def": "to miss (a train, bus, etc.) "
+    "def": "to miss (a train, bus, etc.) ",
+    "id": "L16-50"
   },
   {
     "reading": "ばんぐみ",
     "kanji": "番組",
     "type": "n.",
-    "def": "broadcast program"
+    "def": "broadcast program",
+    "id": "L16-51"
   },
   {
     "reading": "ひ",
     "kanji": "日",
     "type": "n.",
-    "def": "day"
+    "def": "day",
+    "id": "L16-52"
   },
   {
     "reading": "ひみつ",
     "kanji": "秘密",
     "type": "n.",
-    "def": "secret"
+    "def": "secret",
+    "id": "L16-53"
   },
   {
     "reading": "ぶんか",
     "kanji": "文化",
     "type": "n.",
-    "def": "culture"
+    "def": "culture",
+    "id": "L16-54"
   },
   {
     "reading": "へんじ",
     "kanji": "返事",
     "type": "n.",
-    "def": "reply"
+    "def": "reply",
+    "id": "L16-55"
   },
   {
     "reading": "ほかの",
     "kanji": "他の",
     "type": "pre.",
-    "def": "other"
+    "def": "other",
+    "id": "L16-56"
   },
   {
     "reading": "また",
     "kanji": "",
     "type": "adv.",
-    "def": "again"
+    "def": "again",
+    "id": "L16-57"
   },
   {
     "reading": "みかた",
     "kanji": "味方",
     "type": "n.",
-    "def": "person on one’s side"
+    "def": "person on one’s side",
+    "id": "L16-58"
   },
   {
     "reading": "みせる",
     "kanji": "見せる",
     "type": "ru-v.",
-    "def": "to show "
+    "def": "to show ",
+    "id": "L16-59"
   },
   {
     "reading": "みち",
     "kanji": "道",
     "type": "n.",
-    "def": "way; road; directions"
+    "def": "way; road; directions",
+    "id": "L16-60"
   },
   {
     "reading": "みちにまよう",
     "kanji": "道に迷う",
     "type": "u-v.",
-    "def": "to become lost; to lose one’s way"
+    "def": "to become lost; to lose one’s way",
+    "id": "L16-61"
   },
   {
     "reading": "みつかる",
     "kanji": "見つかる",
     "type": "u-v.",
-    "def": "to be found"
+    "def": "to be found",
+    "id": "L16-62"
   },
   {
     "reading": "みらい",
     "kanji": "未来",
     "type": "n.",
-    "def": "future"
+    "def": "future",
+    "id": "L16-63"
   },
   {
     "reading": "むかえにいく",
     "kanji": "迎えに行く",
     "type": "u-v.",
-    "def": "to go to pick up"
+    "def": "to go to pick up",
+    "id": "L16-64"
   },
   {
     "reading": "むかえにくる",
     "kanji": "迎えに来る",
     "type": "irr-v.",
-    "def": "to come to pick up "
+    "def": "to come to pick up ",
+    "id": "L16-65"
   },
   {
     "reading": "もどる",
     "kanji": "戻る",
     "type": "u-v.",
-    "def": "to return; to come/go back"
+    "def": "to return; to come/go back",
+    "id": "L16-66"
   },
   {
     "reading": "やくす",
     "kanji": "訳す",
     "type": "u-v.",
-    "def": "to translate"
+    "def": "to translate",
+    "id": "L16-67"
   },
   {
     "reading": "よわい",
     "kanji": "弱い",
     "type": "い-adj.",
-    "def": "weak"
+    "def": "weak",
+    "id": "L16-68"
   },
   {
     "reading": "わらう",
     "kanji": "笑う",
     "type": "u-v.",
-    "def": "to laugh"
+    "def": "to laugh",
+    "id": "L16-69"
   },
   {
     "reading": "アイロンをかける",
     "kanji": "",
     "type": "ru-v.",
-    "def": "to iron (clothes) "
+    "def": "to iron (clothes) ",
+    "id": "L16-70"
   },
   {
     "reading": "ファイル",
     "kanji": "",
     "type": "n.",
-    "def": "(file) folder; portfolio; file"
+    "def": "(file) folder; portfolio; file",
+    "id": "L16-71"
   },
   {
     "reading": "ポケット",
     "kanji": "",
     "type": "n.",
-    "def": "pocket"
+    "def": "pocket",
+    "id": "L16-72"
   },
   {
     "reading": "ロボット",
     "kanji": "",
     "type": "n.",
-    "def": "robot"
+    "def": "robot",
+    "id": "L16-73"
   },
   {
     "reading": "～いがい",
     "kanji": "～以外",
     "type": "suf.",
-    "def": "other than . . ."
+    "def": "other than . . .",
+    "id": "L16-74"
   },
   {
     "reading": "～のようなもの",
     "kanji": "",
     "type": "exp.",
-    "def": "something like . . ."
+    "def": "something like . . .",
+    "id": "L16-75"
   }
 ]

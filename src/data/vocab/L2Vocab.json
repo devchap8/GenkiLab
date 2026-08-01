@@ -3,402 +3,469 @@
     "reading": "あそこ",
     "kanji": "",
     "type": "n.",
-    "def": "over there"
+    "def": "over there",
+    "id": "L2-1"
   },
   {
     "reading": "あの",
     "kanji": "",
     "type": "pre.",
-    "def": "that . . . (over there)"
+    "def": "that . . . (over there)",
+    "id": "L2-2"
   },
   {
     "reading": "あれ",
     "kanji": "",
     "type": "n.",
-    "def": "that one (over there)"
+    "def": "that one (over there)",
+    "id": "L2-3"
   },
   {
     "reading": "いくら",
     "kanji": "",
     "type": "n.",
-    "def": "how much"
+    "def": "how much",
+    "id": "L2-4"
   },
   {
     "reading": "いす",
     "kanji": "",
     "type": "n.",
-    "def": "chair"
+    "def": "chair",
+    "id": "L2-5"
   },
   {
     "reading": "いらっしゃいませ",
     "kanji": "",
     "type": "exp.",
-    "def": "Welcome (to our store)."
+    "def": "Welcome (to our store).",
+    "id": "L2-6"
   },
   {
     "reading": "えいご",
     "kanji": "英語",
     "type": "n.",
-    "def": "English language"
+    "def": "English language",
+    "id": "L2-7"
   },
   {
     "reading": "おいしい",
     "kanji": "",
     "type": "い-adj.",
-    "def": "delicious"
+    "def": "delicious",
+    "id": "L2-8"
   },
   {
     "reading": "おかあさん",
     "kanji": "お母さん",
     "type": "n.",
-    "def": "mother"
+    "def": "mother",
+    "id": "L2-9"
   },
   {
     "reading": "おとうさん",
     "kanji": "お父さん",
     "type": "n.",
-    "def": "father"
+    "def": "father",
+    "id": "L2-10"
   },
   {
     "reading": "おねがいします（～を）",
     "kanji": "",
     "type": "exp.",
-    "def": ". . . , please."
+    "def": ". . . , please.",
+    "id": "L2-11"
   },
   {
     "reading": "かさ",
     "kanji": "",
     "type": "n.",
-    "def": "bamboo hat"
+    "def": "bamboo hat",
+    "id": "L2-12"
   },
   {
     "reading": "かさ",
     "kanji": "傘",
     "type": "n.",
-    "def": "umbrella"
+    "def": "umbrella",
+    "id": "L2-13"
   },
   {
     "reading": "かばん",
     "kanji": "",
     "type": "n.",
-    "def": "bag"
+    "def": "bag",
+    "id": "L2-14"
   },
   {
     "reading": "かんこく",
     "kanji": "韓国",
     "type": "n.",
-    "def": "Korea"
+    "def": "Korea",
+    "id": "L2-15"
   },
   {
     "reading": "ぎんこう",
     "kanji": "銀行",
     "type": "n.",
-    "def": "bank"
+    "def": "bank",
+    "id": "L2-16"
   },
   {
     "reading": "ください（～を）",
     "kanji": "",
     "type": "exp.",
-    "def": "Please give me . . ."
+    "def": "Please give me . . .",
+    "id": "L2-17"
   },
   {
     "reading": "くつ",
     "kanji": "靴",
     "type": "n.",
-    "def": "shoes"
+    "def": "shoes",
+    "id": "L2-18"
   },
   {
     "reading": "けいざい",
     "kanji": "経済",
     "type": "n.",
-    "def": "economics"
+    "def": "economics",
+    "id": "L2-19"
   },
   {
     "reading": "けしゴム",
     "kanji": "消しゴム",
     "type": "n.",
-    "def": "eraser"
+    "def": "eraser",
+    "id": "L2-20"
   },
   {
     "reading": "こくばん",
     "kanji": "黒板",
     "type": "n.",
-    "def": "blackboard"
+    "def": "blackboard",
+    "id": "L2-21"
   },
   {
     "reading": "ここ",
     "kanji": "",
     "type": "n.",
-    "def": "here"
+    "def": "here",
+    "id": "L2-22"
   },
   {
     "reading": "この",
     "kanji": "",
     "type": "pre.",
-    "def": "this . . ."
+    "def": "this . . .",
+    "id": "L2-23"
   },
   {
     "reading": "これ",
     "kanji": "",
     "type": "n.",
-    "def": "this one"
+    "def": "this one",
+    "id": "L2-24"
   },
   {
     "reading": "さいふ",
     "kanji": "財布",
     "type": "n.",
-    "def": "wallet"
+    "def": "wallet",
+    "id": "L2-25"
   },
   {
     "reading": "さかな",
     "kanji": "魚",
     "type": "n.",
-    "def": "fish"
+    "def": "fish",
+    "id": "L2-26"
   },
   {
     "reading": "しんぶん",
     "kanji": "新聞",
     "type": "n.",
-    "def": "newspaper"
+    "def": "newspaper",
+    "id": "L2-27"
   },
   {
     "reading": "じしょ",
     "kanji": "辞書",
     "type": "n.",
-    "def": "dictionary"
+    "def": "dictionary",
+    "id": "L2-28"
   },
   {
     "reading": "じてんしゃ",
     "kanji": "自転車",
     "type": "n.",
-    "def": "bicycle"
+    "def": "bicycle",
+    "id": "L2-29"
   },
   {
     "reading": "じゃあ",
     "kanji": "",
     "type": "exp.",
-    "def": "then . . . ; if that is the case, . . ."
+    "def": "then . . . ; if that is the case, . . .",
+    "id": "L2-30"
   },
   {
     "reading": "そこ",
     "kanji": "",
     "type": "n.",
-    "def": "there"
+    "def": "there",
+    "id": "L2-31"
   },
   {
     "reading": "その",
     "kanji": "",
     "type": "pre.",
-    "def": "that . . ."
+    "def": "that . . .",
+    "id": "L2-32"
   },
   {
     "reading": "それ",
     "kanji": "",
     "type": "n.",
-    "def": "that one"
+    "def": "that one",
+    "id": "L2-33"
   },
   {
     "reading": "たかい",
     "kanji": "高い",
     "type": "い-adj.",
-    "def": "expensive; high"
+    "def": "expensive; high",
+    "id": "L2-34"
   },
   {
     "reading": "だれ",
     "kanji": "",
     "type": "n.",
-    "def": "who"
+    "def": "who",
+    "id": "L2-35"
   },
   {
     "reading": "ちゅうごく",
     "kanji": "中国",
     "type": "n.",
-    "def": "China"
+    "def": "China",
+    "id": "L2-36"
   },
   {
     "reading": "つくえ",
     "kanji": "机",
     "type": "n.",
-    "def": "desk"
+    "def": "desk",
+    "id": "L2-37"
   },
   {
     "reading": "でんき",
     "kanji": "電気",
     "type": "n.",
-    "def": "electricity; light"
+    "def": "electricity; light",
+    "id": "L2-38"
   },
   {
     "reading": "とけい",
     "kanji": "時計",
     "type": "n.",
-    "def": "watch; clock"
+    "def": "watch; clock",
+    "id": "L2-39"
   },
   {
     "reading": "としょかん",
     "kanji": "図書館",
     "type": "n.",
-    "def": "library"
+    "def": "library",
+    "id": "L2-40"
   },
   {
     "reading": "とんかつ",
     "kanji": "",
     "type": "n.",
-    "def": "pork cutlet"
+    "def": "pork cutlet",
+    "id": "L2-41"
   },
   {
     "reading": "どうぞ",
     "kanji": "",
     "type": "exp.",
-    "def": "Please.; Here it is."
+    "def": "Please.; Here it is.",
+    "id": "L2-42"
   },
   {
     "reading": "どうも",
     "kanji": "",
     "type": "exp.",
-    "def": "Thank you."
+    "def": "Thank you.",
+    "id": "L2-43"
   },
   {
     "reading": "どこ",
     "kanji": "",
     "type": "n.",
-    "def": "where"
+    "def": "where",
+    "id": "L2-44"
   },
   {
     "reading": "どの",
     "kanji": "",
     "type": "pre.",
-    "def": "which . . ."
+    "def": "which . . .",
+    "id": "L2-45"
   },
   {
     "reading": "どれ",
     "kanji": "",
     "type": "n.",
-    "def": "which one"
+    "def": "which one",
+    "id": "L2-46"
   },
   {
     "reading": "にく",
     "kanji": "肉",
     "type": "n.",
-    "def": "meat"
+    "def": "meat",
+    "id": "L2-47"
   },
   {
     "reading": "ほん",
     "kanji": "本",
     "type": "n.",
-    "def": "book"
+    "def": "book",
+    "id": "L2-48"
   },
   {
     "reading": "ぼうし",
     "kanji": "帽子",
     "type": "n.",
-    "def": "hat; cap"
+    "def": "hat; cap",
+    "id": "L2-49"
   },
   {
     "reading": "まど",
     "kanji": "窓",
     "type": "n.",
-    "def": "window"
+    "def": "window",
+    "id": "L2-50"
   },
   {
     "reading": "やさい",
     "kanji": "野菜",
     "type": "n.",
-    "def": "vegetable"
+    "def": "vegetable",
+    "id": "L2-51"
   },
   {
     "reading": "ゆうびんきょく",
     "kanji": "郵便局",
     "type": "n.",
-    "def": "post office"
+    "def": "post office",
+    "id": "L2-52"
   },
   {
     "reading": "れきし",
     "kanji": "歴史",
     "type": "n.",
-    "def": "history"
+    "def": "history",
+    "id": "L2-53"
   },
   {
     "reading": "イギリス",
     "kanji": "",
     "type": "n.",
-    "def": "Britain"
+    "def": "Britain",
+    "id": "L2-54"
   },
   {
     "reading": "カーテン",
     "kanji": "",
     "type": "n.",
-    "def": "curtain"
+    "def": "curtain",
+    "id": "L2-55"
   },
   {
     "reading": "コンビニ",
     "kanji": "",
     "type": "n.",
-    "def": "convenience store"
+    "def": "convenience store",
+    "id": "L2-56"
   },
   {
     "reading": "コンピューター",
     "kanji": "",
     "type": "n.",
-    "def": "computer"
+    "def": "computer",
+    "id": "L2-57"
   },
   {
     "reading": "ジーンズ",
     "kanji": "",
     "type": "n.",
-    "def": "jeans"
+    "def": "jeans",
+    "id": "L2-58"
   },
   {
     "reading": "スマホ",
     "kanji": "",
     "type": "n.",
-    "def": "smartphone; mobile"
+    "def": "smartphone; mobile",
+    "id": "L2-59"
   },
   {
     "reading": "ティーシャツ",
     "kanji": "Ｔシャツ",
     "type": "n.",
-    "def": "T-shirt"
+    "def": "T-shirt",
+    "id": "L2-60"
   },
   {
     "reading": "トイレ",
     "kanji": "",
     "type": "n.",
-    "def": "toilet; restroom"
+    "def": "toilet; restroom",
+    "id": "L2-61"
   },
   {
     "reading": "ドア",
     "kanji": "",
     "type": "n.",
-    "def": "door"
+    "def": "door",
+    "id": "L2-62"
   },
   {
     "reading": "ノート",
     "kanji": "",
     "type": "n.",
-    "def": "notebook"
+    "def": "notebook",
+    "id": "L2-63"
   },
   {
     "reading": "ビジネス",
     "kanji": "",
     "type": "n.",
-    "def": "business"
+    "def": "business",
+    "id": "L2-64"
   },
   {
     "reading": "ペン",
     "kanji": "",
     "type": "n.",
-    "def": "pen"
+    "def": "pen",
+    "id": "L2-65"
   },
   {
     "reading": "メニュー",
     "kanji": "",
     "type": "n.",
-    "def": "menu"
+    "def": "menu",
+    "id": "L2-66"
   },
   {
     "reading": "～えん",
     "kanji": "～円",
     "type": "suf.",
-    "def": ". . . yen"
+    "def": ". . . yen",
+    "id": "L2-67"
   }
 ]

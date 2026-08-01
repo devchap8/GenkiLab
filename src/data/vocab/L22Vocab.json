@@ -3,444 +3,518 @@
     "reading": "あいかわらず",
     "kanji": "相変わらず",
     "type": "adv.",
-    "def": "as usual"
+    "def": "as usual",
+    "id": "L22-1"
   },
   {
     "reading": "あいて",
     "kanji": "相手",
     "type": "n.",
-    "def": "partner; the other person"
+    "def": "partner; the other person",
+    "id": "L22-2"
   },
   {
     "reading": "うけつけ",
     "kanji": "受付",
     "type": "n.",
-    "def": "reception desk"
+    "def": "reception desk",
+    "id": "L22-3"
   },
   {
     "reading": "うける",
     "kanji": "受ける",
     "type": "ru-v.",
-    "def": "to take (an examination) "
+    "def": "to take (an examination) ",
+    "id": "L22-4"
   },
   {
     "reading": "うまく",
     "kanji": "",
     "type": "adv.",
-    "def": "well; successfully; skillfully"
+    "def": "well; successfully; skillfully",
+    "id": "L22-5"
   },
   {
     "reading": "うまくいく",
     "kanji": "",
     "type": "u-v.",
-    "def": "to go well"
+    "def": "to go well",
+    "id": "L22-6"
   },
   {
     "reading": "うらやましがる",
     "kanji": "",
     "type": "u-v.",
-    "def": "(somebody is) envious"
+    "def": "(somebody is) envious",
+    "id": "L22-7"
   },
   {
     "reading": "うるさい",
     "kanji": "",
     "type": "い-adj.",
-    "def": "noisy; annoying"
+    "def": "noisy; annoying",
+    "id": "L22-8"
   },
   {
     "reading": "えいかいわ",
     "kanji": "英会話",
     "type": "n.",
-    "def": "English conversation"
+    "def": "English conversation",
+    "id": "L22-9"
   },
   {
     "reading": "おおくの～",
     "kanji": "多くの～",
     "type": "pre.",
-    "def": "many . . ."
+    "def": "many . . .",
+    "id": "L22-10"
   },
   {
     "reading": "おじょうさん",
     "kanji": "お嬢さん",
     "type": "n.",
-    "def": "(someone’s) daughter (polite)"
+    "def": "(someone’s) daughter (polite)",
+    "id": "L22-11"
   },
   {
     "reading": "おねがいする",
     "kanji": "お願いする",
     "type": "irr-v.",
-    "def": "to request help "
+    "def": "to request help ",
+    "id": "L22-12"
   },
   {
     "reading": "かじ",
     "kanji": "火事",
     "type": "n.",
-    "def": "fire"
+    "def": "fire",
+    "id": "L22-13"
   },
   {
     "reading": "かじ",
     "kanji": "家事",
     "type": "n.",
-    "def": "housework"
+    "def": "housework",
+    "id": "L22-14"
   },
   {
     "reading": "かぜ",
     "kanji": "風",
     "type": "n.",
-    "def": "wind"
+    "def": "wind",
+    "id": "L22-15"
   },
   {
     "reading": "かぜ",
     "kanji": "風邪",
     "type": "n.",
-    "def": "cold"
+    "def": "cold",
+    "id": "L22-16"
   },
   {
     "reading": "かぜがふく",
     "kanji": "風が吹く",
     "type": "u-v.",
-    "def": "the wind blows"
+    "def": "the wind blows",
+    "id": "L22-17"
   },
   {
     "reading": "かつ",
     "kanji": "勝つ",
     "type": "u-v.",
-    "def": "to win"
+    "def": "to win",
+    "id": "L22-18"
   },
   {
     "reading": "かみさま",
     "kanji": "神様",
     "type": "n.",
-    "def": "God"
+    "def": "God",
+    "id": "L22-19"
   },
   {
     "reading": "かわりに",
     "kanji": "代わりに",
     "type": "adv.",
-    "def": "instead"
+    "def": "instead",
+    "id": "L22-20"
   },
   {
     "reading": "き",
     "kanji": "木",
     "type": "n.",
-    "def": "tree"
+    "def": "tree",
+    "id": "L22-21"
   },
   {
     "reading": "けいかくをたてる",
     "kanji": "計画を立てる",
     "type": "ru-v.",
-    "def": "to make a plan "
+    "def": "to make a plan ",
+    "id": "L22-22"
   },
   {
     "reading": "こうはい",
     "kanji": "後輩",
     "type": "n.",
-    "def": "junior member of a group"
+    "def": "junior member of a group",
+    "id": "L22-23"
   },
   {
     "reading": "こんなふう",
     "kanji": "",
     "type": "exp.",
-    "def": "like this"
+    "def": "like this",
+    "id": "L22-24"
   },
   {
     "reading": "さる",
     "kanji": "猿",
     "type": "n.",
-    "def": "monkey"
+    "def": "monkey",
+    "id": "L22-25"
   },
   {
     "reading": "さんせいする",
     "kanji": "賛成する",
     "type": "irr-v.",
-    "def": "to agree "
+    "def": "to agree ",
+    "id": "L22-26"
   },
   {
     "reading": "しかたがない",
     "kanji": "",
     "type": "exp.",
-    "def": "cannot be helped"
+    "def": "cannot be helped",
+    "id": "L22-27"
   },
   {
     "reading": "しっぱいする",
     "kanji": "失敗する",
     "type": "irr-v.",
-    "def": "to fail; to be unsuccessful "
+    "def": "to fail; to be unsuccessful ",
+    "id": "L22-28"
   },
   {
     "reading": "しょるい",
     "kanji": "書類",
     "type": "n.",
-    "def": "document"
+    "def": "document",
+    "id": "L22-29"
   },
   {
     "reading": "しんぱい（な）",
     "kanji": "心配",
     "type": "な-adj.",
-    "def": "worried about"
+    "def": "worried about",
+    "id": "L22-30"
   },
   {
     "reading": "しんゆう",
     "kanji": "親友",
     "type": "n.",
-    "def": "best friend"
+    "def": "best friend",
+    "id": "L22-31"
   },
   {
     "reading": "じゅく",
     "kanji": "塾",
     "type": "n.",
-    "def": "cram school"
+    "def": "cram school",
+    "id": "L22-32"
   },
   {
     "reading": "じゆう",
     "kanji": "自由",
     "type": "n.",
-    "def": "freedom"
+    "def": "freedom",
+    "id": "L22-33"
   },
   {
     "reading": "じゆうに",
     "kanji": "自由に",
     "type": "adv.",
-    "def": "freely"
+    "def": "freely",
+    "id": "L22-34"
   },
   {
     "reading": "ずっと",
     "kanji": "",
     "type": "adv.",
-    "def": "for a long time; all the time"
+    "def": "for a long time; all the time",
+    "id": "L22-35"
   },
   {
     "reading": "せんぱい",
     "kanji": "先輩",
     "type": "n.",
-    "def": "senior member of a group"
+    "def": "senior member of a group",
+    "id": "L22-36"
   },
   {
     "reading": "ぜったいに",
     "kanji": "絶対に",
     "type": "adv.",
-    "def": "definitely; no matter what"
+    "def": "definitely; no matter what",
+    "id": "L22-37"
   },
   {
     "reading": "そだてる",
     "kanji": "育てる",
     "type": "ru-v.",
-    "def": "to raise; to bring up "
+    "def": "to raise; to bring up ",
+    "id": "L22-38"
   },
   {
     "reading": "そんなこと（は）ない",
     "kanji": "",
     "type": "exp.",
-    "def": "I don’t think so."
+    "def": "I don’t think so.",
+    "id": "L22-39"
   },
   {
     "reading": "たすける",
     "kanji": "助ける",
     "type": "ru-v.",
-    "def": "to help; to rescue "
+    "def": "to help; to rescue ",
+    "id": "L22-40"
   },
   {
     "reading": "たのしそうに",
     "kanji": "楽しそうに",
     "type": "adv.",
-    "def": "joyfully"
+    "def": "joyfully",
+    "id": "L22-41"
   },
   {
     "reading": "てつやする",
     "kanji": "徹夜する",
     "type": "irr-v.",
-    "def": "to stay up all night "
+    "def": "to stay up all night ",
+    "id": "L22-42"
   },
   {
     "reading": "なんだか",
     "kanji": "",
     "type": "adv.",
-    "def": "somehow"
+    "def": "somehow",
+    "id": "L22-43"
   },
   {
     "reading": "なんども",
     "kanji": "何度も",
     "type": "adv.",
-    "def": "many times"
+    "def": "many times",
+    "id": "L22-44"
   },
   {
     "reading": "にげる",
     "kanji": "逃げる",
     "type": "ru-v.",
-    "def": "to run away; to escape "
+    "def": "to run away; to escape ",
+    "id": "L22-45"
   },
   {
     "reading": "はこぶ",
     "kanji": "運ぶ",
     "type": "u-v.",
-    "def": "to carry"
+    "def": "to carry",
+    "id": "L22-46"
   },
   {
     "reading": "はんたいする",
     "kanji": "反対する",
     "type": "irr-v.",
-    "def": "to oppose; to object to "
+    "def": "to oppose; to object to ",
+    "id": "L22-47"
   },
   {
     "reading": "ひとりぐらし",
     "kanji": "一人暮らし",
     "type": "n.",
-    "def": "living alone"
+    "def": "living alone",
+    "id": "L22-48"
   },
   {
     "reading": "ひろう",
     "kanji": "拾う",
     "type": "u-v.",
-    "def": "to pick up (something)"
+    "def": "to pick up (something)",
+    "id": "L22-49"
   },
   {
     "reading": "びんぼう（な）",
     "kanji": "貧乏",
     "type": "な-adj.",
-    "def": "poor"
+    "def": "poor",
+    "id": "L22-50"
   },
   {
     "reading": "ふくしゅう",
     "kanji": "復習",
     "type": "n.",
-    "def": "review of a lesson"
+    "def": "review of a lesson",
+    "id": "L22-51"
   },
   {
     "reading": "ふつかかん",
     "kanji": "二日間",
     "type": "adv.",
-    "def": "for two days"
+    "def": "for two days",
+    "id": "L22-52"
   },
   {
     "reading": "ぶか",
     "kanji": "部下",
     "type": "n.",
-    "def": "subordinate"
+    "def": "subordinate",
+    "id": "L22-53"
   },
   {
     "reading": "ぺらぺら（な）",
     "kanji": "",
     "type": "な-adj.",
-    "def": "fluent"
+    "def": "fluent",
+    "id": "L22-54"
   },
   {
     "reading": "ほんやくする",
     "kanji": "翻訳する",
     "type": "irr-v.",
-    "def": "to translate "
+    "def": "to translate ",
+    "id": "L22-55"
   },
   {
     "reading": "ほ（う）っておく",
     "kanji": "放っておく",
     "type": "u-v.",
-    "def": "to leave (someone/something) alone; to neglect"
+    "def": "to leave (someone/something) alone; to neglect",
+    "id": "L22-56"
   },
   {
     "reading": "まける",
     "kanji": "負ける",
     "type": "ru-v.",
-    "def": "to lose (a match) "
+    "def": "to lose (a match) ",
+    "id": "L22-57"
   },
   {
     "reading": "まちどおしい",
     "kanji": "待ち遠しい",
     "type": "い-adj.",
-    "def": "to wait eagerly for . . ."
+    "def": "to wait eagerly for . . .",
+    "id": "L22-58"
   },
   {
     "reading": "まにあう",
     "kanji": "間に合う",
     "type": "u-v.",
-    "def": "to be in time"
+    "def": "to be in time",
+    "id": "L22-59"
   },
   {
     "reading": "むだづかい",
     "kanji": "無駄遣い",
     "type": "n.",
-    "def": "waste (money)"
+    "def": "waste (money)",
+    "id": "L22-60"
   },
   {
     "reading": "めんきょ",
     "kanji": "免許",
     "type": "n.",
-    "def": "license"
+    "def": "license",
+    "id": "L22-61"
   },
   {
     "reading": "もうすこし",
     "kanji": "もう少し",
     "type": "adv.",
-    "def": "a little more"
+    "def": "a little more",
+    "id": "L22-62"
   },
   {
     "reading": "ゆうき",
     "kanji": "勇気",
     "type": "n.",
-    "def": "courage"
+    "def": "courage",
+    "id": "L22-63"
   },
   {
     "reading": "よしゅう",
     "kanji": "予習",
     "type": "n.",
-    "def": "preparation of a lesson"
+    "def": "preparation of a lesson",
+    "id": "L22-64"
   },
   {
     "reading": "らく（な）",
     "kanji": "楽",
     "type": "な-adj.",
-    "def": "easy; comfortable"
+    "def": "easy; comfortable",
+    "id": "L22-65"
   },
   {
     "reading": "コピーをとる",
     "kanji": "コピーを取る",
     "type": "u-v.",
-    "def": "to make a photocopy"
+    "def": "to make a photocopy",
+    "id": "L22-66"
   },
   {
     "reading": "タイプ",
     "kanji": "",
     "type": "n.",
-    "def": "type"
+    "def": "type",
+    "id": "L22-67"
   },
   {
     "reading": "プロジェクト",
     "kanji": "",
     "type": "n.",
-    "def": "project"
+    "def": "project",
+    "id": "L22-68"
   },
   {
     "reading": "ホーム",
     "kanji": "",
     "type": "n.",
-    "def": "platform"
+    "def": "platform",
+    "id": "L22-69"
   },
   {
     "reading": "ボール",
     "kanji": "",
     "type": "n.",
-    "def": "ball"
+    "def": "ball",
+    "id": "L22-70"
   },
   {
     "reading": "メッセージ",
     "kanji": "",
     "type": "n.",
-    "def": "message; text"
+    "def": "message; text",
+    "id": "L22-71"
   },
   {
     "reading": "ヨーロッパ",
     "kanji": "",
     "type": "n.",
-    "def": "Europe"
+    "def": "Europe",
+    "id": "L22-72"
   },
   {
     "reading": "～ちゃん",
     "kanji": "",
     "type": "suf.",
-    "def": "suffix for names of children"
+    "def": "suffix for names of children",
+    "id": "L22-73"
   },
   {
     "reading": "～とか",
     "kanji": "",
     "type": "part.",
-    "def": ". . . for example"
+    "def": ". . . for example",
+    "id": "L22-74"
   }
 ]

@@ -3,390 +3,455 @@
     "reading": "あいさつ",
     "kanji": "",
     "type": "n.",
-    "def": "greetings"
+    "def": "greetings",
+    "id": "L23-1"
   },
   {
     "reading": "あめがやむ",
     "kanji": "雨がやむ",
     "type": "u-v.",
-    "def": "the rain stops"
+    "def": "the rain stops",
+    "id": "L23-2"
   },
   {
     "reading": "あらわす",
     "kanji": "表す",
     "type": "u-v.",
-    "def": "to express; to show"
+    "def": "to express; to show",
+    "id": "L23-3"
   },
   {
     "reading": "いっぽう",
     "kanji": "一方",
     "type": "adv.",
-    "def": "on the other hand"
+    "def": "on the other hand",
+    "id": "L23-4"
   },
   {
     "reading": "いなくなる",
     "kanji": "",
     "type": "u-v.",
-    "def": "(someone) is gone; to disappear"
+    "def": "(someone) is gone; to disappear",
+    "id": "L23-5"
   },
   {
     "reading": "えもじ",
     "kanji": "絵文字",
     "type": "n.",
-    "def": "emoji"
+    "def": "emoji",
+    "id": "L23-6"
   },
   {
     "reading": "おせわになる",
     "kanji": "お世話になる",
     "type": "u-v.",
-    "def": "to be in someone’s care"
+    "def": "to be in someone’s care",
+    "id": "L23-7"
   },
   {
     "reading": "おなかをこわす",
     "kanji": "",
     "type": "u-v.",
-    "def": "to have a stomachache"
+    "def": "to have a stomachache",
+    "id": "L23-8"
   },
   {
     "reading": "おもいで",
     "kanji": "思い出",
     "type": "n.",
-    "def": "memory"
+    "def": "memory",
+    "id": "L23-9"
   },
   {
     "reading": "かいがいりょこう",
     "kanji": "海外旅行",
     "type": "n.",
-    "def": "trip to a foreign country"
+    "def": "trip to a foreign country",
+    "id": "L23-10"
   },
   {
     "reading": "かいだん",
     "kanji": "階段",
     "type": "n.",
-    "def": "stairs"
+    "def": "stairs",
+    "id": "L23-11"
   },
   {
     "reading": "かおもじ",
     "kanji": "顔文字",
     "type": "n.",
-    "def": "emoticon"
+    "def": "emoticon",
+    "id": "L23-12"
   },
   {
     "reading": "かわいそう（な）",
     "kanji": "",
     "type": "な-adj.",
-    "def": "pitiful; feel sorry for; poor thing"
+    "def": "pitiful; feel sorry for; poor thing",
+    "id": "L23-13"
   },
   {
     "reading": "かんじょう",
     "kanji": "感情",
     "type": "n.",
-    "def": "feeling; emotion"
+    "def": "feeling; emotion",
+    "id": "L23-14"
   },
   {
     "reading": "がっかりする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to be disappointed "
+    "def": "to be disappointed ",
+    "id": "L23-15"
   },
   {
     "reading": "がまんする",
     "kanji": "我慢する",
     "type": "irr-v.",
-    "def": "to be tolerant/patient "
+    "def": "to be tolerant/patient ",
+    "id": "L23-16"
   },
   {
     "reading": "きごう",
     "kanji": "記号",
     "type": "n.",
-    "def": "symbol"
+    "def": "symbol",
+    "id": "L23-17"
   },
   {
     "reading": "きにいる",
     "kanji": "気に入る",
     "type": "u-v.",
-    "def": "to find something agreeable"
+    "def": "to find something agreeable",
+    "id": "L23-18"
   },
   {
     "reading": "きゅうこう",
     "kanji": "休講",
     "type": "n.",
-    "def": "class cancellation"
+    "def": "class cancellation",
+    "id": "L23-19"
   },
   {
     "reading": "きゅうこう",
     "kanji": "急行",
     "type": "n.",
-    "def": "express"
+    "def": "express",
+    "id": "L23-20"
   },
   {
     "reading": "くつした",
     "kanji": "靴下",
     "type": "n.",
-    "def": "socks"
+    "def": "socks",
+    "id": "L23-21"
   },
   {
     "reading": "けっか",
     "kanji": "結果",
     "type": "n.",
-    "def": "result"
+    "def": "result",
+    "id": "L23-22"
   },
   {
     "reading": "けんこう",
     "kanji": "健康",
     "type": "n.",
-    "def": "health"
+    "def": "health",
+    "id": "L23-23"
   },
   {
     "reading": "げんきでね",
     "kanji": "元気でね",
     "type": "exp.",
-    "def": "Take care of yourself."
+    "def": "Take care of yourself.",
+    "id": "L23-24"
   },
   {
     "reading": "こたえ",
     "kanji": "答／答え",
     "type": "n.",
-    "def": "answer"
+    "def": "answer",
+    "id": "L23-25"
   },
   {
     "reading": "こたえる",
     "kanji": "答える",
     "type": "ru-v.",
-    "def": "to answer "
+    "def": "to answer ",
+    "id": "L23-26"
   },
   {
     "reading": "ことわざ",
     "kanji": "",
     "type": "n.",
-    "def": "proverb"
+    "def": "proverb",
+    "id": "L23-27"
   },
   {
     "reading": "このように",
     "kanji": "",
     "type": "adv.",
-    "def": "like this; this way"
+    "def": "like this; this way",
+    "id": "L23-28"
   },
   {
     "reading": "さいごに",
     "kanji": "最後に",
     "type": "adv.",
-    "def": "finally; lastly"
+    "def": "finally; lastly",
+    "id": "L23-29"
   },
   {
     "reading": "しゃかい",
     "kanji": "社会",
     "type": "n.",
-    "def": "society"
+    "def": "society",
+    "id": "L23-30"
   },
   {
     "reading": "しょうがっこう",
     "kanji": "小学校",
     "type": "n.",
-    "def": "elementary school"
+    "def": "elementary school",
+    "id": "L23-31"
   },
   {
     "reading": "せかいじゅう",
     "kanji": "世界中",
     "type": "n.",
-    "def": "all over the world"
+    "def": "all over the world",
+    "id": "L23-32"
   },
   {
     "reading": "せわをする",
     "kanji": "世話をする",
     "type": "irr-v.",
-    "def": "to take care of . . . "
+    "def": "to take care of . . . ",
+    "id": "L23-33"
   },
   {
     "reading": "そうそう",
     "kanji": "",
     "type": "exp.",
-    "def": "You are right."
+    "def": "You are right.",
+    "id": "L23-34"
   },
   {
     "reading": "そろそろ",
     "kanji": "",
     "type": "adv.",
-    "def": "it is about time to . . ."
+    "def": "it is about time to . . .",
+    "id": "L23-35"
   },
   {
     "reading": "そんな～",
     "kanji": "",
     "type": "pre.",
-    "def": "such . . . ; that kind of . . ."
+    "def": "such . . . ; that kind of . . .",
+    "id": "L23-36"
   },
   {
     "reading": "ただ",
     "kanji": "",
     "type": "n.",
-    "def": "free of charge"
+    "def": "free of charge",
+    "id": "L23-37"
   },
   {
     "reading": "たて",
     "kanji": "縦",
     "type": "n.",
-    "def": "vertical"
+    "def": "vertical",
+    "id": "L23-38"
   },
   {
     "reading": "ちがう",
     "kanji": "違う",
     "type": "u-v.",
-    "def": "to be different; to be wrong"
+    "def": "to be different; to be wrong",
+    "id": "L23-39"
   },
   {
     "reading": "ちょうさ",
     "kanji": "調査",
     "type": "n.",
-    "def": "survey"
+    "def": "survey",
+    "id": "L23-40"
   },
   {
     "reading": "どうじょうする",
     "kanji": "同情する",
     "type": "irr-v.",
-    "def": "to sympathize "
+    "def": "to sympathize ",
+    "id": "L23-41"
   },
   {
     "reading": "なくなる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to be lost; to disappear"
+    "def": "to be lost; to disappear",
+    "id": "L23-42"
   },
   {
     "reading": "はなれる",
     "kanji": "離れる",
     "type": "ru-v.",
-    "def": "(something/someone) separates; parts from "
+    "def": "(something/someone) separates; parts from ",
+    "id": "L23-43"
   },
   {
     "reading": "ばしょ",
     "kanji": "場所",
     "type": "n.",
-    "def": "place"
+    "def": "place",
+    "id": "L23-44"
   },
   {
     "reading": "ひょうじょう",
     "kanji": "表情",
     "type": "n.",
-    "def": "expression"
+    "def": "expression",
+    "id": "L23-45"
   },
   {
     "reading": "ふくろ",
     "kanji": "袋",
     "type": "n.",
-    "def": "bag; sack; plastic/paper bag"
+    "def": "bag; sack; plastic/paper bag",
+    "id": "L23-46"
   },
   {
     "reading": "ぼんおどり",
     "kanji": "盆踊り",
     "type": "n.",
-    "def": "Bon dance (Japanese traditional dance)"
+    "def": "Bon dance (Japanese traditional dance)",
+    "id": "L23-47"
   },
   {
     "reading": "まずい",
     "kanji": "",
     "type": "い-adj.",
-    "def": "(food is) terrible"
+    "def": "(food is) terrible",
+    "id": "L23-48"
   },
   {
     "reading": "めんせつ",
     "kanji": "面接",
     "type": "n.",
-    "def": "interview"
+    "def": "interview",
+    "id": "L23-49"
   },
   {
     "reading": "もどってくる",
     "kanji": "戻ってくる",
     "type": "irr-v.",
-    "def": "(something/someone) comes back "
+    "def": "(something/someone) comes back ",
+    "id": "L23-50"
   },
   {
     "reading": "ものすごく",
     "kanji": "",
     "type": "adv.",
-    "def": "extremely"
+    "def": "extremely",
+    "id": "L23-51"
   },
   {
     "reading": "ゆうしょうする",
     "kanji": "優勝する",
     "type": "irr-v.",
-    "def": "to win a championship "
+    "def": "to win a championship ",
+    "id": "L23-52"
   },
   {
     "reading": "ゆうしょく",
     "kanji": "夕食",
     "type": "n.",
-    "def": "dinner"
+    "def": "dinner",
+    "id": "L23-53"
   },
   {
     "reading": "よこ",
     "kanji": "横",
     "type": "n.",
-    "def": "side; horizontal"
+    "def": "side; horizontal",
+    "id": "L23-54"
   },
   {
     "reading": "りそう",
     "kanji": "理想",
     "type": "n.",
-    "def": "ideal"
+    "def": "ideal",
+    "id": "L23-55"
   },
   {
     "reading": "るすばん",
     "kanji": "留守番",
     "type": "n.",
-    "def": "looking after a house during someone’s absence"
+    "def": "looking after a house during someone’s absence",
+    "id": "L23-56"
   },
   {
     "reading": "わるぐちをいう",
     "kanji": "悪口を言う",
     "type": "u-v.",
-    "def": "to talk behind someone’s back"
+    "def": "to talk behind someone’s back",
+    "id": "L23-57"
   },
   {
     "reading": "エスエヌエス",
     "kanji": "SNS",
     "type": "n.",
-    "def": "social media"
+    "def": "social media",
+    "id": "L23-58"
   },
   {
     "reading": "カンニングする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to cheat in an exam "
+    "def": "to cheat in an exam ",
+    "id": "L23-59"
   },
   {
     "reading": "キスをする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to kiss "
+    "def": "to kiss ",
+    "id": "L23-60"
   },
   {
     "reading": "チェックする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to check "
+    "def": "to check ",
+    "id": "L23-61"
   },
   {
     "reading": "メッセージ",
     "kanji": "",
     "type": "n.",
-    "def": "message; text"
+    "def": "message; text",
+    "id": "L23-62"
   },
   {
     "reading": "（～は）…といういみだ",
     "kanji": "（～は）…という意味だ",
     "type": "exp.",
-    "def": "～ means that . . ."
+    "def": "～ means that . . .",
+    "id": "L23-63"
   },
   {
     "reading": "～かおをする",
     "kanji": "～顔をする",
     "type": "irr-v.",
-    "def": "to look . . . (facial expression) "
+    "def": "to look . . . (facial expression) ",
+    "id": "L23-64"
   },
   {
     "reading": "～ために",
     "kanji": "",
     "type": "exp.",
-    "def": "for . . . ; for the sake of . . ."
+    "def": "for . . . ; for the sake of . . .",
+    "id": "L23-65"
   }
 ]

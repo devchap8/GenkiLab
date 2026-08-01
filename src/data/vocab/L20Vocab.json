@@ -3,480 +3,560 @@
     "reading": "あちら",
     "kanji": "",
     "type": "n.",
-    "def": "that way (polite)"
+    "def": "that way (polite)",
+    "id": "L20-1"
   },
   {
     "reading": "あんなに",
     "kanji": "",
     "type": "adv.",
-    "def": "so; such"
+    "def": "so; such",
+    "id": "L20-2"
   },
   {
     "reading": "いたす",
     "kanji": "致す",
     "type": "u-v.",
-    "def": "extra-modest expression for する"
+    "def": "extra-modest expression for する",
+    "id": "L20-3"
   },
   {
     "reading": "いただく",
     "kanji": "頂く",
     "type": "u-v.",
-    "def": "extra-modest expression for たべる and のむ"
+    "def": "extra-modest expression for たべる and のむ",
+    "id": "L20-4"
   },
   {
     "reading": "いっかい",
     "kanji": "一階",
     "type": "n.",
-    "def": "first floor"
+    "def": "first floor",
+    "id": "L20-5"
   },
   {
     "reading": "いなか",
     "kanji": "",
     "type": "n.",
-    "def": "countryside"
+    "def": "countryside",
+    "id": "L20-6"
   },
   {
     "reading": "うかがう",
     "kanji": "伺う",
     "type": "u-v.",
-    "def": "to humbly visit; to humbly ask"
+    "def": "to humbly visit; to humbly ask",
+    "id": "L20-7"
   },
   {
     "reading": "うちゅうじん",
     "kanji": "宇宙人",
     "type": "n.",
-    "def": "space alien"
+    "def": "space alien",
+    "id": "L20-8"
   },
   {
     "reading": "うれる",
     "kanji": "売れる",
     "type": "ru-v.",
-    "def": "to be sold "
+    "def": "to be sold ",
+    "id": "L20-9"
   },
   {
     "reading": "えさ",
     "kanji": "",
     "type": "n.",
-    "def": "feed"
+    "def": "feed",
+    "id": "L20-10"
   },
   {
     "reading": "えど",
     "kanji": "江戸",
     "type": "n.",
-    "def": "former name of Tokyo"
+    "def": "former name of Tokyo",
+    "id": "L20-11"
   },
   {
     "reading": "えどじだい",
     "kanji": "江戸時代",
     "type": "n.",
-    "def": "Edo period (1603－1868)"
+    "def": "Edo period (1603－1868)",
+    "id": "L20-12"
   },
   {
     "reading": "おたく",
     "kanji": "お宅",
     "type": "n.",
-    "def": "(someone’s) home/house"
+    "def": "(someone’s) home/house",
+    "id": "L20-13"
   },
   {
     "reading": "おと",
     "kanji": "音",
     "type": "n.",
-    "def": "sound"
+    "def": "sound",
+    "id": "L20-14"
   },
   {
     "reading": "おにぎり",
     "kanji": "",
     "type": "n.",
-    "def": "rice ball"
+    "def": "rice ball",
+    "id": "L20-15"
   },
   {
     "reading": "おもい",
     "kanji": "重い",
     "type": "い-adj.",
-    "def": "heavy; serious (illness)"
+    "def": "heavy; serious (illness)",
+    "id": "L20-16"
   },
   {
     "reading": "おる",
     "kanji": "",
     "type": "u-v.",
-    "def": "extra-modest expression for いる"
+    "def": "extra-modest expression for いる",
+    "id": "L20-17"
   },
   {
     "reading": "かかりのもの",
     "kanji": "係の者",
     "type": "n.",
-    "def": "our person in charge"
+    "def": "our person in charge",
+    "id": "L20-18"
   },
   {
     "reading": "かしこまりました",
     "kanji": "",
     "type": "exp.",
-    "def": "Certainly."
+    "def": "Certainly.",
+    "id": "L20-19"
   },
   {
     "reading": "かど",
     "kanji": "角",
     "type": "n.",
-    "def": "corner"
+    "def": "corner",
+    "id": "L20-20"
   },
   {
     "reading": "かるい",
     "kanji": "軽い",
     "type": "い-adj.",
-    "def": "light"
+    "def": "light",
+    "id": "L20-21"
   },
   {
     "reading": "がっかりする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to be disappointed "
+    "def": "to be disappointed ",
+    "id": "L20-22"
   },
   {
     "reading": "きこえる",
     "kanji": "聞こえる",
     "type": "ru-v.",
-    "def": "to be audible "
+    "def": "to be audible ",
+    "id": "L20-23"
   },
   {
     "reading": "こうかんする",
     "kanji": "交換する",
     "type": "irr-v.",
-    "def": "to exchange "
+    "def": "to exchange ",
+    "id": "L20-24"
   },
   {
     "reading": "こころ",
     "kanji": "心",
     "type": "n.",
-    "def": "mind; heart"
+    "def": "mind; heart",
+    "id": "L20-25"
   },
   {
     "reading": "ござる",
     "kanji": "",
     "type": "u-v.",
-    "def": "extra-modest expression for ある"
+    "def": "extra-modest expression for ある",
+    "id": "L20-26"
   },
   {
     "reading": "さしあげる",
     "kanji": "差し上げる",
     "type": "ru-v.",
-    "def": "humble expression for あげる "
+    "def": "humble expression for あげる ",
+    "id": "L20-27"
   },
   {
     "reading": "しつれいしました",
     "kanji": "失礼しました",
     "type": "exp.",
-    "def": "I’m very sorry."
+    "def": "I’m very sorry.",
+    "id": "L20-28"
   },
   {
     "reading": "してん",
     "kanji": "支店",
     "type": "n.",
-    "def": "branch office"
+    "def": "branch office",
+    "id": "L20-29"
   },
   {
     "reading": "しゅみ",
     "kanji": "趣味",
     "type": "n.",
-    "def": "hobby; pastime"
+    "def": "hobby; pastime",
+    "id": "L20-30"
   },
   {
     "reading": "しょうせつ",
     "kanji": "小説",
     "type": "n.",
-    "def": "novel"
+    "def": "novel",
+    "id": "L20-31"
   },
   {
     "reading": "しんごう",
     "kanji": "信号",
     "type": "n.",
-    "def": "traffic light"
+    "def": "traffic light",
+    "id": "L20-32"
   },
   {
     "reading": "じ",
     "kanji": "字",
     "type": "n.",
-    "def": "letter; character"
+    "def": "letter; character",
+    "id": "L20-33"
   },
   {
     "reading": "する",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to cost "
+    "def": "to cost ",
+    "id": "L20-34"
   },
   {
     "reading": "せいかつする",
     "kanji": "生活する",
     "type": "irr-v.",
-    "def": "to lead a life "
+    "def": "to lead a life ",
+    "id": "L20-35"
   },
   {
     "reading": "せんす",
     "kanji": "扇子",
     "type": "n.",
-    "def": "(hand) fan"
+    "def": "(hand) fan",
+    "id": "L20-36"
   },
   {
     "reading": "ぜったいに",
     "kanji": "絶対に",
     "type": "adv.",
-    "def": "definitely; no matter what"
+    "def": "definitely; no matter what",
+    "id": "L20-37"
   },
   {
     "reading": "そうだ！",
     "kanji": "",
     "type": "exp.",
-    "def": "I have an idea!"
+    "def": "I have an idea!",
+    "id": "L20-38"
   },
   {
     "reading": "だく",
     "kanji": "抱く",
     "type": "u-v.",
-    "def": "to hold something in one’s arm"
+    "def": "to hold something in one’s arm",
+    "id": "L20-39"
   },
   {
     "reading": "だます",
     "kanji": "",
     "type": "u-v.",
-    "def": "to deceive"
+    "def": "to deceive",
+    "id": "L20-40"
   },
   {
     "reading": "ちゃみせ",
     "kanji": "茶店",
     "type": "n.",
-    "def": "teahouse"
+    "def": "teahouse",
+    "id": "L20-41"
   },
   {
     "reading": "つき",
     "kanji": "月",
     "type": "n.",
-    "def": "moon"
+    "def": "moon",
+    "id": "L20-42"
   },
   {
     "reading": "つたえる",
     "kanji": "伝える",
     "type": "ru-v.",
-    "def": "to convey message "
+    "def": "to convey message ",
+    "id": "L20-43"
   },
   {
     "reading": "つづける",
     "kanji": "続ける",
     "type": "ru-v.",
-    "def": "to continue "
+    "def": "to continue ",
+    "id": "L20-44"
   },
   {
     "reading": "できれば",
     "kanji": "",
     "type": "adv.",
-    "def": "if possible"
+    "def": "if possible",
+    "id": "L20-45"
   },
   {
     "reading": "では",
     "kanji": "",
     "type": "adv.",
-    "def": "well then (polite)"
+    "def": "well then (polite)",
+    "id": "L20-46"
   },
   {
     "reading": "とまる",
     "kanji": "泊まる",
     "type": "u-v.",
-    "def": "to stay (at a hotel, etc.)"
+    "def": "to stay (at a hotel, etc.)",
+    "id": "L20-47"
   },
   {
     "reading": "とまる",
     "kanji": "止まる",
     "type": "u-v.",
-    "def": "to stop"
+    "def": "to stop",
+    "id": "L20-48"
   },
   {
     "reading": "どうぶつ",
     "kanji": "動物",
     "type": "n.",
-    "def": "animal"
+    "def": "animal",
+    "id": "L20-49"
   },
   {
     "reading": "にこにこする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to smile "
+    "def": "to smile ",
+    "id": "L20-50"
   },
   {
     "reading": "ねだん",
     "kanji": "値段",
     "type": "n.",
-    "def": "price"
+    "def": "price",
+    "id": "L20-51"
   },
   {
     "reading": "ひっかく",
     "kanji": "",
     "type": "u-v.",
-    "def": "to scratch"
+    "def": "to scratch",
+    "id": "L20-52"
   },
   {
     "reading": "ふしぎ（な）",
     "kanji": "不思議",
     "type": "な-adj.",
-    "def": "mysterious"
+    "def": "mysterious",
+    "id": "L20-53"
   },
   {
     "reading": "へんぴんする",
     "kanji": "返品する",
     "type": "irr-v.",
-    "def": "to return (merchandise) "
+    "def": "to return (merchandise) ",
+    "id": "L20-54"
   },
   {
     "reading": "まいる",
     "kanji": "参る",
     "type": "u-v.",
-    "def": "extra-modest expression for いく and くる"
+    "def": "extra-modest expression for いく and くる",
+    "id": "L20-55"
   },
   {
     "reading": "まがる",
     "kanji": "曲がる",
     "type": "u-v.",
-    "def": "to turn (right/left)"
+    "def": "to turn (right/left)",
+    "id": "L20-56"
   },
   {
     "reading": "まことに",
     "kanji": "誠に",
     "type": "adv.",
-    "def": "really (very polite)"
+    "def": "really (very polite)",
+    "id": "L20-57"
   },
   {
     "reading": "また",
     "kanji": "",
     "type": "adv.",
-    "def": "again"
+    "def": "again",
+    "id": "L20-58"
   },
   {
     "reading": "またせる",
     "kanji": "待たせる",
     "type": "ru-v.",
-    "def": "to keep (someone) waiting "
+    "def": "to keep (someone) waiting ",
+    "id": "L20-59"
   },
   {
     "reading": "みぶり",
     "kanji": "身ぶり",
     "type": "n.",
-    "def": "gesture"
+    "def": "gesture",
+    "id": "L20-60"
   },
   {
     "reading": "もうしわけありません",
     "kanji": "申し訳ありません",
     "type": "exp.",
-    "def": "You have my apologies."
+    "def": "You have my apologies.",
+    "id": "L20-61"
   },
   {
     "reading": "もうす",
     "kanji": "申す",
     "type": "u-v.",
-    "def": "extra-modest expression for いう"
+    "def": "extra-modest expression for いう",
+    "id": "L20-62"
   },
   {
     "reading": "もどる",
     "kanji": "戻る",
     "type": "u-v.",
-    "def": "to return; to come/go back"
+    "def": "to return; to come/go back",
+    "id": "L20-63"
   },
   {
     "reading": "やった！",
     "kanji": "",
     "type": "exp.",
-    "def": "I did it!"
+    "def": "I did it!",
+    "id": "L20-64"
   },
   {
     "reading": "よろしかったら",
     "kanji": "",
     "type": "adv.",
-    "def": "if it is okay (polite)"
+    "def": "if it is okay (polite)",
+    "id": "L20-65"
   },
   {
     "reading": "らくご",
     "kanji": "落語",
     "type": "n.",
-    "def": "comic monologue"
+    "def": "comic monologue",
+    "id": "L20-66"
   },
   {
     "reading": "らくごか",
     "kanji": "落語家",
     "type": "n.",
-    "def": "comic storyteller"
+    "def": "comic storyteller",
+    "id": "L20-67"
   },
   {
     "reading": "りょう",
     "kanji": "両",
     "type": "n.",
-    "def": "a unit of currency used in the Edo period"
+    "def": "a unit of currency used in the Edo period",
+    "id": "L20-68"
   },
   {
     "reading": "りょう",
     "kanji": "寮",
     "type": "n.",
-    "def": "dormitory"
+    "def": "dormitory",
+    "id": "L20-69"
   },
   {
     "reading": "わたす",
     "kanji": "渡す",
     "type": "u-v.",
-    "def": "to give; to hand"
+    "def": "to give; to hand",
+    "id": "L20-70"
   },
   {
     "reading": "アニメ",
     "kanji": "",
     "type": "n.",
-    "def": "animation"
+    "def": "animation",
+    "id": "L20-71"
   },
   {
     "reading": "スニーカー",
     "kanji": "",
     "type": "n.",
-    "def": "sneakers"
+    "def": "sneakers",
+    "id": "L20-72"
   },
   {
     "reading": "ドイツ",
     "kanji": "",
     "type": "n.",
-    "def": "Germany"
+    "def": "Germany",
+    "id": "L20-73"
   },
   {
     "reading": "ヘッドホン",
     "kanji": "",
     "type": "n.",
-    "def": "headphones"
+    "def": "headphones",
+    "id": "L20-74"
   },
   {
     "reading": "～かい",
     "kanji": "～回",
     "type": "suf.",
-    "def": ". . . times"
+    "def": ". . . times",
+    "id": "L20-75"
   },
   {
     "reading": "～かい",
     "kanji": "～階",
     "type": "suf.",
-    "def": ". . . th floor"
+    "def": ". . . th floor",
+    "id": "L20-76"
   },
   {
     "reading": "～ておる",
     "kanji": "",
     "type": "u-v.",
-    "def": "extra-modest expression for ～ている"
+    "def": "extra-modest expression for ～ている",
+    "id": "L20-77"
   },
   {
     "reading": "～でござる",
     "kanji": "",
     "type": "u-v.",
-    "def": "extra-modest expression for です"
+    "def": "extra-modest expression for です",
+    "id": "L20-78"
   },
   {
     "reading": "～みたいなX",
     "kanji": "",
     "type": "suf.",
-    "def": "X like . . . "
+    "def": "X like . . . ",
+    "id": "L20-79"
   },
   {
     "reading": "～や",
     "kanji": "～屋",
     "type": "suf.",
-    "def": ". . . shop"
+    "def": ". . . shop",
+    "id": "L20-80"
   }
 ]

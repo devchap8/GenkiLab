@@ -3,594 +3,693 @@
     "reading": "いちにちじゅう",
     "kanji": "一日中",
     "type": "adv.",
-    "def": "all day long"
+    "def": "all day long",
+    "id": "L15-1"
   },
   {
     "reading": "いちにちめ",
     "kanji": "一日目",
     "type": "n.",
-    "def": "first day"
+    "def": "first day",
+    "id": "L15-2"
   },
   {
     "reading": "いちねんじゅう",
     "kanji": "一年中",
     "type": "adv.",
-    "def": "all year"
+    "def": "all year",
+    "id": "L15-3"
   },
   {
     "reading": "いっぱくにしょくつき",
     "kanji": "一泊二食付き",
     "type": "exp.",
-    "def": "one night with two meals"
+    "def": "one night with two meals",
+    "id": "L15-4"
   },
   {
     "reading": "うまれる",
     "kanji": "生まれる",
     "type": "ru-v.",
-    "def": "to be born "
+    "def": "to be born ",
+    "id": "L15-5"
   },
   {
     "reading": "うる",
     "kanji": "売る",
     "type": "u-v.",
-    "def": "to sell"
+    "def": "to sell",
+    "id": "L15-6"
   },
   {
     "reading": "え",
     "kanji": "絵",
     "type": "n.",
-    "def": "painting; picture; drawing"
+    "def": "painting; picture; drawing",
+    "id": "L15-7"
   },
   {
     "reading": "えいがかん",
     "kanji": "映画館",
     "type": "n.",
-    "def": "movie theater"
+    "def": "movie theater",
+    "id": "L15-8"
   },
   {
     "reading": "おとされる",
     "kanji": "落とされる",
     "type": "exp.",
-    "def": "to be dropped"
+    "def": "to be dropped",
+    "id": "L15-9"
   },
   {
     "reading": "おろす",
     "kanji": "下ろす",
     "type": "u-v.",
-    "def": "to withdraw (money)"
+    "def": "to withdraw (money)",
+    "id": "L15-10"
   },
   {
     "reading": "かく",
     "kanji": "書く",
     "type": "u-v.",
-    "def": "to write"
+    "def": "to write",
+    "id": "L15-11"
   },
   {
     "reading": "かく",
     "kanji": "描く",
     "type": "u-v.",
-    "def": "to draw; to paint"
+    "def": "to draw; to paint",
+    "id": "L15-12"
   },
   {
     "reading": "かぐ",
     "kanji": "家具",
     "type": "n.",
-    "def": "furniture"
+    "def": "furniture",
+    "id": "L15-13"
   },
   {
     "reading": "かつどう",
     "kanji": "活動",
     "type": "n.",
-    "def": "activity"
+    "def": "activity",
+    "id": "L15-14"
   },
   {
     "reading": "かんこうする",
     "kanji": "観光する",
     "type": "irr-v.",
-    "def": "to do sightseeing "
+    "def": "to do sightseeing ",
+    "id": "L15-15"
   },
   {
     "reading": "がいこくじん",
     "kanji": "外国人",
     "type": "n.",
-    "def": "foreigner"
+    "def": "foreigner",
+    "id": "L15-16"
   },
   {
     "reading": "きつえん",
     "kanji": "喫煙",
     "type": "n.",
-    "def": "smoking"
+    "def": "smoking",
+    "id": "L15-17"
   },
   {
     "reading": "きょうしつ",
     "kanji": "教室",
     "type": "n.",
-    "def": "classroom"
+    "def": "classroom",
+    "id": "L15-18"
   },
   {
     "reading": "きをつける",
     "kanji": "気をつける",
     "type": "ru-v.",
-    "def": "to be cautious/careful "
+    "def": "to be cautious/careful ",
+    "id": "L15-19"
   },
   {
     "reading": "きんえん",
     "kanji": "禁煙",
     "type": "n.",
-    "def": "non-smoking"
+    "def": "non-smoking",
+    "id": "L15-20"
   },
   {
     "reading": "くじら",
     "kanji": "",
     "type": "n.",
-    "def": "whale"
+    "def": "whale",
+    "id": "L15-21"
   },
   {
     "reading": "けいけん",
     "kanji": "経験",
     "type": "n.",
-    "def": "experience"
+    "def": "experience",
+    "id": "L15-22"
   },
   {
     "reading": "けしき",
     "kanji": "景色",
     "type": "n.",
-    "def": "scenery"
+    "def": "scenery",
+    "id": "L15-23"
   },
   {
     "reading": "けっこんしき",
     "kanji": "結婚式",
     "type": "n.",
-    "def": "wedding"
+    "def": "wedding",
+    "id": "L15-24"
   },
   {
     "reading": "げんばく",
     "kanji": "原爆",
     "type": "n.",
-    "def": "atomic bomb"
+    "def": "atomic bomb",
+    "id": "L15-25"
   },
   {
     "reading": "こうよう",
     "kanji": "紅葉",
     "type": "n.",
-    "def": "autumn leaves/colors"
+    "def": "autumn leaves/colors",
+    "id": "L15-26"
   },
   {
     "reading": "こむ",
     "kanji": "混む",
     "type": "u-v.",
-    "def": "to get crowded"
+    "def": "to get crowded",
+    "id": "L15-27"
   },
   {
     "reading": "こんでいる",
     "kanji": "混んでいる",
     "type": "exp.",
-    "def": "to be crowded"
+    "def": "to be crowded",
+    "id": "L15-28"
   },
   {
     "reading": "さいきん",
     "kanji": "最近",
     "type": "adv.",
-    "def": "recently"
+    "def": "recently",
+    "id": "L15-29"
   },
   {
     "reading": "さがす",
     "kanji": "探す",
     "type": "u-v.",
-    "def": "to look for"
+    "def": "to look for",
+    "id": "L15-30"
   },
   {
     "reading": "さそう",
     "kanji": "誘う",
     "type": "u-v.",
-    "def": "to invite"
+    "def": "to invite",
+    "id": "L15-31"
   },
   {
     "reading": "さんかする",
     "kanji": "参加する",
     "type": "irr-v.",
-    "def": "to participate "
+    "def": "to participate ",
+    "id": "L15-32"
   },
   {
     "reading": "しか",
     "kanji": "鹿",
     "type": "n.",
-    "def": "deer"
+    "def": "deer",
+    "id": "L15-33"
   },
   {
     "reading": "しか",
     "kanji": "歯科",
     "type": "n.",
-    "def": "dentist"
+    "def": "dentist",
+    "id": "L15-34"
   },
   {
     "reading": "しぜん",
     "kanji": "自然",
     "type": "n.",
-    "def": "nature"
+    "def": "nature",
+    "id": "L15-35"
   },
   {
     "reading": "しま",
     "kanji": "島",
     "type": "n.",
-    "def": "island"
+    "def": "island",
+    "id": "L15-36"
   },
   {
     "reading": "しめきり",
     "kanji": "締め切り",
     "type": "n.",
-    "def": "deadline"
+    "def": "deadline",
+    "id": "L15-37"
   },
   {
     "reading": "しゃべる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to chat"
+    "def": "to chat",
+    "id": "L15-38"
   },
   {
     "reading": "しゅうかん",
     "kanji": "習慣",
     "type": "n.",
-    "def": "custom"
+    "def": "custom",
+    "id": "L15-39"
   },
   {
     "reading": "しゅじん",
     "kanji": "主人",
     "type": "n.",
-    "def": "head of a familiy"
+    "def": "head of a familiy",
+    "id": "L15-40"
   },
   {
     "reading": "しらべる",
     "kanji": "調べる",
     "type": "ru-v.",
-    "def": "to look into (a matter) "
+    "def": "to look into (a matter) ",
+    "id": "L15-41"
   },
   {
     "reading": "じしょ",
     "kanji": "辞書",
     "type": "n.",
-    "def": "dictionary"
+    "def": "dictionary",
+    "id": "L15-42"
   },
   {
     "reading": "じしん",
     "kanji": "地震",
     "type": "n.",
-    "def": "earthquake"
+    "def": "earthquake",
+    "id": "L15-43"
   },
   {
     "reading": "する",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to cost "
+    "def": "to cost ",
+    "id": "L15-44"
   },
   {
     "reading": "ぜいきん",
     "kanji": "税金",
     "type": "n.",
-    "def": "tax"
+    "def": "tax",
+    "id": "L15-45"
   },
   {
     "reading": "そつぎょうしき",
     "kanji": "卒業式",
     "type": "n.",
-    "def": "graduation ceremony"
+    "def": "graduation ceremony",
+    "id": "L15-46"
   },
   {
     "reading": "そつぎょうする",
     "kanji": "卒業する",
     "type": "irr-v.",
-    "def": "to graduate (from . . . ) "
+    "def": "to graduate (from . . . ) ",
+    "id": "L15-47"
   },
   {
     "reading": "そば",
     "kanji": "",
     "type": "n.",
-    "def": "soba; Japanese buckwheat noodles"
+    "def": "soba; Japanese buckwheat noodles",
+    "id": "L15-48"
   },
   {
     "reading": "たけ",
     "kanji": "竹",
     "type": "n.",
-    "def": "bamboo"
+    "def": "bamboo",
+    "id": "L15-49"
   },
   {
     "reading": "たてもの",
     "kanji": "建物",
     "type": "n.",
-    "def": "building"
+    "def": "building",
+    "id": "L15-50"
   },
   {
     "reading": "たのしみです",
     "kanji": "楽しみです",
     "type": "exp.",
-    "def": "cannot wait; to look forward to it"
+    "def": "cannot wait; to look forward to it",
+    "id": "L15-51"
   },
   {
     "reading": "たのしむ",
     "kanji": "楽しむ",
     "type": "u-v.",
-    "def": "to enjoy"
+    "def": "to enjoy",
+    "id": "L15-52"
   },
   {
     "reading": "だいよくじょう",
     "kanji": "大浴場",
     "type": "n.",
-    "def": "large spa"
+    "def": "large spa",
+    "id": "L15-53"
   },
   {
     "reading": "ちか",
     "kanji": "地下",
     "type": "n.",
-    "def": "underground"
+    "def": "underground",
+    "id": "L15-54"
   },
   {
     "reading": "ちず",
     "kanji": "地図",
     "type": "n.",
-    "def": "map"
+    "def": "map",
+    "id": "L15-55"
   },
   {
     "reading": "ちょうしょくつき",
     "kanji": "朝食付き",
     "type": "n.",
-    "def": "with breakfast"
+    "def": "with breakfast",
+    "id": "L15-56"
   },
   {
     "reading": "つきあう",
     "kanji": "付き合う",
     "type": "u-v.",
-    "def": "to date (someone); to keep company"
+    "def": "to date (someone); to keep company",
+    "id": "L15-57"
   },
   {
     "reading": "つく",
     "kanji": "着く",
     "type": "u-v.",
-    "def": "to arrive"
+    "def": "to arrive",
+    "id": "L15-58"
   },
   {
     "reading": "つく",
     "kanji": "",
     "type": "u-v.",
-    "def": "(something) turns on"
+    "def": "(something) turns on",
+    "id": "L15-59"
   },
   {
     "reading": "でんち",
     "kanji": "電池",
     "type": "n.",
-    "def": "battery"
+    "def": "battery",
+    "id": "L15-60"
   },
   {
     "reading": "とおる",
     "kanji": "通る",
     "type": "u-v.",
-    "def": "to go through; to pass"
+    "def": "to go through; to pass",
+    "id": "L15-61"
   },
   {
     "reading": "にわ",
     "kanji": "庭",
     "type": "n.",
-    "def": "garden"
+    "def": "garden",
+    "id": "L15-62"
   },
   {
     "reading": "のこす",
     "kanji": "残す",
     "type": "u-v.",
-    "def": "to leave; to preserve"
+    "def": "to leave; to preserve",
+    "id": "L15-63"
   },
   {
     "reading": "はっぴょうする",
     "kanji": "発表する",
     "type": "irr-v.",
-    "def": "to make a presentation; to make public "
+    "def": "to make a presentation; to make public ",
+    "id": "L15-64"
   },
   {
     "reading": "ばしょ",
     "kanji": "場所",
     "type": "n.",
-    "def": "place"
+    "def": "place",
+    "id": "L15-65"
   },
   {
     "reading": "ひ",
     "kanji": "日",
     "type": "n.",
-    "def": "day"
+    "def": "day",
+    "id": "L15-66"
   },
   {
     "reading": "へいわ",
     "kanji": "平和",
     "type": "n.",
-    "def": "peace"
+    "def": "peace",
+    "id": "L15-67"
   },
   {
     "reading": "へいわきねんしりょうかん",
     "kanji": "平和記念資料館",
     "type": "n.",
-    "def": "Peace Memorial Museum"
+    "def": "Peace Memorial Museum",
+    "id": "L15-68"
   },
   {
     "reading": "ほけん",
     "kanji": "保険",
     "type": "n.",
-    "def": "insurance"
+    "def": "insurance",
+    "id": "L15-69"
   },
   {
     "reading": "ほけんにはいる",
     "kanji": "保険に入る",
     "type": "u-v.",
-    "def": "to buy insurance"
+    "def": "to buy insurance",
+    "id": "L15-70"
   },
   {
     "reading": "まちあわせをする",
     "kanji": "待ち合わせをする",
     "type": "irr-v.",
-    "def": "to meet up "
+    "def": "to meet up ",
+    "id": "L15-71"
   },
   {
     "reading": "みえる",
     "kanji": "見える",
     "type": "ru-v.",
-    "def": "to be visible "
+    "def": "to be visible ",
+    "id": "L15-72"
   },
   {
     "reading": "みどり",
     "kanji": "緑",
     "type": "n.",
-    "def": "green"
+    "def": "green",
+    "id": "L15-73"
   },
   {
     "reading": "みなみ",
     "kanji": "南",
     "type": "n.",
-    "def": "south"
+    "def": "south",
+    "id": "L15-74"
   },
   {
     "reading": "もういちど",
     "kanji": "もう一度",
     "type": "adv.",
-    "def": "one more time"
+    "def": "one more time",
+    "id": "L15-75"
   },
   {
     "reading": "よてい",
     "kanji": "予定",
     "type": "n.",
-    "def": "schedule; plan"
+    "def": "schedule; plan",
+    "id": "L15-76"
   },
   {
     "reading": "よやくする",
     "kanji": "予約する",
     "type": "irr-v.",
-    "def": "to reserve "
+    "def": "to reserve ",
+    "id": "L15-77"
   },
   {
     "reading": "りょかん",
     "kanji": "旅館",
     "type": "n.",
-    "def": "Japanese inn"
+    "def": "Japanese inn",
+    "id": "L15-78"
   },
   {
     "reading": "わかもの",
     "kanji": "若者",
     "type": "n.",
-    "def": "young people"
+    "def": "young people",
+    "id": "L15-79"
   },
   {
     "reading": "わたる",
     "kanji": "渡る",
     "type": "u-v.",
-    "def": "to cross"
+    "def": "to cross",
+    "id": "L15-80"
   },
   {
     "reading": "わりびきけん",
     "kanji": "割引券",
     "type": "n.",
-    "def": "discount coupon"
+    "def": "discount coupon",
+    "id": "L15-81"
   },
   {
     "reading": "インターネット",
     "kanji": "",
     "type": "n.",
-    "def": "internet"
+    "def": "internet",
+    "id": "L15-82"
   },
   {
     "reading": "シングル",
     "kanji": "",
     "type": "n.",
-    "def": "single room"
+    "def": "single room",
+    "id": "L15-83"
   },
   {
     "reading": "ジャケット",
     "kanji": "",
     "type": "n.",
-    "def": "jacket"
+    "def": "jacket",
+    "id": "L15-84"
   },
   {
     "reading": "スクランブルこうさてん",
     "kanji": "スクランブル交差点",
     "type": "n.",
-    "def": "scramble crossing"
+    "def": "scramble crossing",
+    "id": "L15-85"
   },
   {
     "reading": "ダブル",
     "kanji": "",
     "type": "n.",
-    "def": "double room"
+    "def": "double room",
+    "id": "L15-86"
   },
   {
     "reading": "チェックアウト（する）",
     "kanji": "",
     "type": "irr-v.",
-    "def": "checking out"
+    "def": "checking out",
+    "id": "L15-87"
   },
   {
     "reading": "チェックイン（する）",
     "kanji": "",
     "type": "irr-v.",
-    "def": "checking in"
+    "def": "checking in",
+    "id": "L15-88"
   },
   {
     "reading": "ツイン",
     "kanji": "",
     "type": "n.",
-    "def": "twin room"
+    "def": "twin room",
+    "id": "L15-89"
   },
   {
     "reading": "トロッコれっしゃ",
     "kanji": "トロッコ列車",
     "type": "n.",
-    "def": "small train usually for tourists"
+    "def": "small train usually for tourists",
+    "id": "L15-90"
   },
   {
     "reading": "ファッション",
     "kanji": "",
     "type": "n.",
-    "def": "fashion"
+    "def": "fashion",
+    "id": "L15-91"
   },
   {
     "reading": "フロント",
     "kanji": "",
     "type": "n.",
-    "def": "receptionist; front desk"
+    "def": "receptionist; front desk",
+    "id": "L15-92"
   },
   {
     "reading": "プール",
     "kanji": "",
     "type": "n.",
-    "def": "swimming pool"
+    "def": "swimming pool",
+    "id": "L15-93"
   },
   {
     "reading": "ペット",
     "kanji": "",
     "type": "n.",
-    "def": "pet"
+    "def": "pet",
+    "id": "L15-94"
   },
   {
     "reading": "ボランティア",
     "kanji": "",
     "type": "n.",
-    "def": "volunteer"
+    "def": "volunteer",
+    "id": "L15-95"
   },
   {
     "reading": "～けど",
     "kanji": "",
     "type": "part.",
-    "def": ". . . , but; . . . , so"
+    "def": ". . . , but; . . . , so",
+    "id": "L15-96"
   },
   {
     "reading": "～はく",
     "kanji": "～泊",
     "type": "suf.",
-    "def": ". . . nights"
+    "def": ". . . nights",
+    "id": "L15-97"
   },
   {
     "reading": "～め",
     "kanji": "～目",
     "type": "suf.",
-    "def": "=-th"
+    "def": "=-th",
+    "id": "L15-98"
   },
   {
     "reading": "～めい",
     "kanji": "～名",
     "type": "suf.",
-    "def": ". . . person(s)"
+    "def": ". . . person(s)",
+    "id": "L15-99"
   }
 ]

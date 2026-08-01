@@ -3,444 +3,518 @@
     "reading": "あかるい",
     "kanji": "明るい",
     "type": "い-adj.",
-    "def": "bright"
+    "def": "bright",
+    "id": "L18-1"
   },
   {
     "reading": "あく",
     "kanji": "開く",
     "type": "u-v.",
-    "def": "(something) opens"
+    "def": "(something) opens",
+    "id": "L18-2"
   },
   {
     "reading": "あと",
     "kanji": "後",
     "type": "n.",
-    "def": "the rest"
+    "def": "the rest",
+    "id": "L18-3"
   },
   {
     "reading": "あやまる",
     "kanji": "謝る",
     "type": "u-v.",
-    "def": "to apologize"
+    "def": "to apologize",
+    "id": "L18-4"
   },
   {
     "reading": "いますぐ",
     "kanji": "今すぐ",
     "type": "adv.",
-    "def": "right away"
+    "def": "right away",
+    "id": "L18-5"
   },
   {
     "reading": "おかげで",
     "kanji": "",
     "type": "part.",
-    "def": "thanks to . . ."
+    "def": "thanks to . . .",
+    "id": "L18-6"
   },
   {
     "reading": "おさきにしつれいします",
     "kanji": "お先に失礼します",
     "type": "exp.",
-    "def": "See you. (lit., I’m leaving ahead of you.)"
+    "def": "See you. (lit., I’m leaving ahead of you.)",
+    "id": "L18-7"
   },
   {
     "reading": "おす",
     "kanji": "押す",
     "type": "u-v.",
-    "def": "to press; to push"
+    "def": "to press; to push",
+    "id": "L18-8"
   },
   {
     "reading": "おちる",
     "kanji": "落ちる",
     "type": "ru-v.",
-    "def": "(something) drops "
+    "def": "(something) drops ",
+    "id": "L18-9"
   },
   {
     "reading": "おつかれさま（でした）",
     "kanji": "お疲れ様（でした）",
     "type": "exp.",
-    "def": "You must be tired after working so hard. (greeting between friends and coworkers)"
+    "def": "You must be tired after working so hard. (greeting between friends and coworkers)",
+    "id": "L18-10"
   },
   {
     "reading": "おとす",
     "kanji": "落とす",
     "type": "u-v.",
-    "def": "to drop (something)"
+    "def": "to drop (something)",
+    "id": "L18-11"
   },
   {
     "reading": "おゆがわく",
     "kanji": "お湯が沸く",
     "type": "u-v.",
-    "def": "water boils"
+    "def": "water boils",
+    "id": "L18-12"
   },
   {
     "reading": "かたづける",
     "kanji": "片付ける",
     "type": "ru-v.",
-    "def": "to tidy up "
+    "def": "to tidy up ",
+    "id": "L18-13"
   },
   {
     "reading": "かていきょうし",
     "kanji": "家庭教師",
     "type": "n.",
-    "def": "tutor"
+    "def": "tutor",
+    "id": "L18-14"
   },
   {
     "reading": "かんがえる",
     "kanji": "考える",
     "type": "ru-v.",
-    "def": "to think (about); to consider "
+    "def": "to think (about); to consider ",
+    "id": "L18-15"
   },
   {
     "reading": "きえる",
     "kanji": "消える",
     "type": "ru-v.",
-    "def": "(something) goes off "
+    "def": "(something) goes off ",
+    "id": "L18-16"
   },
   {
     "reading": "くらい",
     "kanji": "暗い",
     "type": "い-adj.",
-    "def": "dark"
+    "def": "dark",
+    "id": "L18-17"
   },
   {
     "reading": "けいたい（でんわ）",
     "kanji": "携帯（電話）",
     "type": "n.",
-    "def": "cell phone"
+    "def": "cell phone",
+    "id": "L18-18"
   },
   {
     "reading": "ころぶ",
     "kanji": "転ぶ",
     "type": "u-v.",
-    "def": "to fall down"
+    "def": "to fall down",
+    "id": "L18-19"
   },
   {
     "reading": "こわす",
     "kanji": "壊す",
     "type": "u-v.",
-    "def": "to break (something)"
+    "def": "to break (something)",
+    "id": "L18-20"
   },
   {
     "reading": "こわれる",
     "kanji": "壊れる",
     "type": "ru-v.",
-    "def": "(something) breaks "
+    "def": "(something) breaks ",
+    "id": "L18-21"
   },
   {
     "reading": "さく",
     "kanji": "咲く",
     "type": "u-v.",
-    "def": "to bloom"
+    "def": "to bloom",
+    "id": "L18-22"
   },
   {
     "reading": "さくら",
     "kanji": "桜",
     "type": "n.",
-    "def": "cherry blossom"
+    "def": "cherry blossom",
+    "id": "L18-23"
   },
   {
     "reading": "したしい",
     "kanji": "親しい",
     "type": "い-adj.",
-    "def": "close; intimate"
+    "def": "close; intimate",
+    "id": "L18-24"
   },
   {
     "reading": "しまる",
     "kanji": "閉まる",
     "type": "u-v.",
-    "def": "(something) closes"
+    "def": "(something) closes",
+    "id": "L18-25"
   },
   {
     "reading": "しゅうにゅう",
     "kanji": "収入",
     "type": "n.",
-    "def": "income"
+    "def": "income",
+    "id": "L18-26"
   },
   {
     "reading": "しょうゆ",
     "kanji": "しょう油",
     "type": "n.",
-    "def": "soy sauce"
+    "def": "soy sauce",
+    "id": "L18-27"
   },
   {
     "reading": "しょくひ",
     "kanji": "食費",
     "type": "n.",
-    "def": "cost of food"
+    "def": "cost of food",
+    "id": "L18-28"
   },
   {
     "reading": "じょしがくせい",
     "kanji": "女子学生",
     "type": "n.",
-    "def": "female student"
+    "def": "female student",
+    "id": "L18-29"
   },
   {
     "reading": "せいかつのゆとり",
     "kanji": "生活のゆとり",
     "type": "n.",
-    "def": "extra money to spare for the cost of living"
+    "def": "extra money to spare for the cost of living",
+    "id": "L18-30"
   },
   {
     "reading": "せいかつひ",
     "kanji": "生活費",
     "type": "n.",
-    "def": "the cost of living"
+    "def": "the cost of living",
+    "id": "L18-31"
   },
   {
     "reading": "そと",
     "kanji": "外",
     "type": "n.",
-    "def": "outside"
+    "def": "outside",
+    "id": "L18-32"
   },
   {
     "reading": "たいせつ（な）",
     "kanji": "大切",
     "type": "な-adj.",
-    "def": "precious; important"
+    "def": "precious; important",
+    "id": "L18-33"
   },
   {
     "reading": "たすかる",
     "kanji": "助かる",
     "type": "u-v.",
-    "def": "to be saved; to be helped"
+    "def": "to be saved; to be helped",
+    "id": "L18-34"
   },
   {
     "reading": "たのむ",
     "kanji": "頼む",
     "type": "u-v.",
-    "def": "to ask (a favor)"
+    "def": "to ask (a favor)",
+    "id": "L18-35"
   },
   {
     "reading": "だんしがくせい",
     "kanji": "男子学生",
     "type": "n.",
-    "def": "male student"
+    "def": "male student",
+    "id": "L18-36"
   },
   {
     "reading": "ちからしごと",
     "kanji": "力仕事",
     "type": "n.",
-    "def": "physical labor (such as construction)"
+    "def": "physical labor (such as construction)",
+    "id": "L18-37"
   },
   {
     "reading": "ちゅうもんする",
     "kanji": "注文する",
     "type": "irr-v.",
-    "def": "to place an order "
+    "def": "to place an order ",
+    "id": "L18-38"
   },
   {
     "reading": "ちょきんする",
     "kanji": "貯金する",
     "type": "irr-v.",
-    "def": "to deposit money (in a bank) "
+    "def": "to deposit money (in a bank) ",
+    "id": "L18-39"
   },
   {
     "reading": "つく",
     "kanji": "着く",
     "type": "u-v.",
-    "def": "to arrive"
+    "def": "to arrive",
+    "id": "L18-40"
   },
   {
     "reading": "つく",
     "kanji": "",
     "type": "u-v.",
-    "def": "(something) turns on"
+    "def": "(something) turns on",
+    "id": "L18-41"
   },
   {
     "reading": "どうしよう",
     "kanji": "",
     "type": "exp.",
-    "def": "What should I/we do?"
+    "def": "What should I/we do?",
+    "id": "L18-42"
   },
   {
     "reading": "にっき",
     "kanji": "日記",
     "type": "n.",
-    "def": "diary"
+    "def": "diary",
+    "id": "L18-43"
   },
   {
     "reading": "はじめは",
     "kanji": "初めは",
     "type": "adv.",
-    "def": "at first"
+    "def": "at first",
+    "id": "L18-44"
   },
   {
     "reading": "はずかしい",
     "kanji": "恥ずかしい",
     "type": "い-adj.",
-    "def": "embarrassing; to feel embarrassed"
+    "def": "embarrassing; to feel embarrassed",
+    "id": "L18-45"
   },
   {
     "reading": "ひっこし",
     "kanji": "引っ越し",
     "type": "n.",
-    "def": "moving"
+    "def": "moving",
+    "id": "L18-46"
   },
   {
     "reading": "ふあん（な）",
     "kanji": "不安",
     "type": "な-adj.",
-    "def": "anxious; worried"
+    "def": "anxious; worried",
+    "id": "L18-47"
   },
   {
     "reading": "ほんとうに",
     "kanji": "本当に",
     "type": "adv.",
-    "def": "really"
+    "def": "really",
+    "id": "L18-48"
   },
   {
     "reading": "まいつき",
     "kanji": "毎月",
     "type": "n.",
-    "def": "every month"
+    "def": "every month",
+    "id": "L18-49"
   },
   {
     "reading": "まず",
     "kanji": "",
     "type": "adv.",
-    "def": "first of all"
+    "def": "first of all",
+    "id": "L18-50"
   },
   {
     "reading": "むし",
     "kanji": "虫",
     "type": "n.",
-    "def": "insect"
+    "def": "insect",
+    "id": "L18-51"
   },
   {
     "reading": "むり（な）",
     "kanji": "無理",
     "type": "な-adj.",
-    "def": "impossible"
+    "def": "impossible",
+    "id": "L18-52"
   },
   {
     "reading": "もくてき",
     "kanji": "目的",
     "type": "n.",
-    "def": "object; purpose"
+    "def": "object; purpose",
+    "id": "L18-53"
   },
   {
     "reading": "やちん",
     "kanji": "家賃",
     "type": "n.",
-    "def": "rent"
+    "def": "rent",
+    "id": "L18-54"
   },
   {
     "reading": "ゆうがた",
     "kanji": "夕方",
     "type": "n.",
-    "def": "evening"
+    "def": "evening",
+    "id": "L18-55"
   },
   {
     "reading": "ようふく",
     "kanji": "洋服",
     "type": "n.",
-    "def": "clothes"
+    "def": "clothes",
+    "id": "L18-56"
   },
   {
     "reading": "よごす",
     "kanji": "汚す",
     "type": "u-v.",
-    "def": "to make dirty"
+    "def": "to make dirty",
+    "id": "L18-57"
   },
   {
     "reading": "よごれる",
     "kanji": "汚れる",
     "type": "ru-v.",
-    "def": "to become dirty "
+    "def": "to become dirty ",
+    "id": "L18-58"
   },
   {
     "reading": "れいぞうこ",
     "kanji": "冷蔵庫",
     "type": "n.",
-    "def": "refrigerator"
+    "def": "refrigerator",
+    "id": "L18-59"
   },
   {
     "reading": "ろうそく",
     "kanji": "",
     "type": "n.",
-    "def": "candle"
+    "def": "candle",
+    "id": "L18-60"
   },
   {
     "reading": "カーテン",
     "kanji": "",
     "type": "n.",
-    "def": "curtain"
+    "def": "curtain",
+    "id": "L18-61"
   },
   {
     "reading": "シャンプー",
     "kanji": "",
     "type": "n.",
-    "def": "shampoo"
+    "def": "shampoo",
+    "id": "L18-62"
   },
   {
     "reading": "スイッチ",
     "kanji": "",
     "type": "n.",
-    "def": "switch"
+    "def": "switch",
+    "id": "L18-63"
   },
   {
     "reading": "スカート",
     "kanji": "",
     "type": "n.",
-    "def": "skirt"
+    "def": "skirt",
+    "id": "L18-64"
   },
   {
     "reading": "スープ",
     "kanji": "",
     "type": "n.",
-    "def": "soup"
+    "def": "soup",
+    "id": "L18-65"
   },
   {
     "reading": "ソファ",
     "kanji": "",
     "type": "n.",
-    "def": "sofa"
+    "def": "sofa",
+    "id": "L18-66"
   },
   {
     "reading": "タオル",
     "kanji": "",
     "type": "n.",
-    "def": "towel"
+    "def": "towel",
+    "id": "L18-67"
   },
   {
     "reading": "バナナ",
     "kanji": "",
     "type": "n.",
-    "def": "banana"
+    "def": "banana",
+    "id": "L18-68"
   },
   {
     "reading": "ポップコーン",
     "kanji": "",
     "type": "n.",
-    "def": "popcorn"
+    "def": "popcorn",
+    "id": "L18-69"
   },
   {
     "reading": "ワンルームマンション",
     "kanji": "",
     "type": "n.",
-    "def": "studio apartment"
+    "def": "studio apartment",
+    "id": "L18-70"
   },
   {
     "reading": "～いじょう",
     "kanji": "～以上",
     "type": "suf.",
-    "def": ". . . or more"
+    "def": ". . . or more",
+    "id": "L18-71"
   },
   {
     "reading": "～までに",
     "kanji": "",
     "type": "part.",
-    "def": "by (time/date)"
+    "def": "by (time/date)",
+    "id": "L18-72"
   },
   {
     "reading": "～みまん",
     "kanji": "～未満",
     "type": "suf.",
-    "def": "less than . . ."
+    "def": "less than . . .",
+    "id": "L18-73"
   },
   {
     "reading": "～（ん）だろう",
     "kanji": "",
     "type": "exp.",
-    "def": "short form of ～（ん）でしょう"
+    "def": "short form of ～（ん）でしょう",
+    "id": "L18-74"
   }
 ]

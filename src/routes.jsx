@@ -1,16 +1,21 @@
 import { createBrowserRouter } from 'react-router';
 import VocabList from './components/VocabList';
-import Test from './Test';
+import Homepage from './components/Homepage';
+import Test from './components/Test';
 
 const router = createBrowserRouter([
     {
-        path: "/vocab/:chapter",
-        element: <VocabList />
+        path: "/",
+        element: <Homepage />
     },
     {
         path: "/test",
         element: <Test />
-    }
+    },
+    {
+        path: "/vocab/:chapter",
+        element: <VocabList />
+    },
 ]);
 
 export default router;

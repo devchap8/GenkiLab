@@ -3,516 +3,602 @@
     "reading": "あおい",
     "kanji": "青い",
     "type": "い-adj.",
-    "def": "blue"
+    "def": "blue",
+    "id": "L9-1"
   },
   {
     "reading": "あおしんごう",
     "kanji": "青信号",
     "type": "n.",
-    "def": "green light"
+    "def": "green light",
+    "id": "L9-2"
   },
   {
     "reading": "あかい",
     "kanji": "赤い",
     "type": "い-adj.",
-    "def": "red"
+    "def": "red",
+    "id": "L9-3"
   },
   {
     "reading": "あんないする",
     "kanji": "案内する",
     "type": "irr-v.",
-    "def": "to show (someone) around"
+    "def": "to show (someone) around",
+    "id": "L9-4"
   },
   {
     "reading": "いいこ",
     "kanji": "いい子",
     "type": "n.",
-    "def": "good child"
+    "def": "good child",
+    "id": "L9-5"
   },
   {
     "reading": "いじわる（な）",
     "kanji": "意地悪",
     "type": "な-adj.",
-    "def": "mean-spirited"
+    "def": "mean-spirited",
+    "id": "L9-6"
   },
   {
     "reading": "いつつ",
     "kanji": "五つ",
     "type": "n.",
-    "def": "five"
+    "def": "five",
+    "id": "L9-7"
   },
   {
     "reading": "いろ",
     "kanji": "色",
     "type": "n.",
-    "def": "color"
+    "def": "color",
+    "id": "L9-8"
   },
   {
     "reading": "いろいろ（な）",
     "kanji": "",
     "type": "な-adj.",
-    "def": "various; different kinds of"
+    "def": "various; different kinds of",
+    "id": "L9-9"
   },
   {
     "reading": "うんどうする",
     "kanji": "運動する",
     "type": "irr-v.",
-    "def": "to exercise "
+    "def": "to exercise ",
+    "id": "L9-10"
   },
   {
     "reading": "おどる",
     "kanji": "踊る",
     "type": "u-v.",
-    "def": "to dance"
+    "def": "to dance",
+    "id": "L9-11"
   },
   {
     "reading": "おぼえる",
     "kanji": "覚える",
     "type": "ru-v.",
-    "def": "to memorize "
+    "def": "to memorize ",
+    "id": "L9-12"
   },
   {
     "reading": "おわる",
     "kanji": "終わる",
     "type": "u-v.",
-    "def": "(something) ends"
+    "def": "(something) ends",
+    "id": "L9-13"
   },
   {
     "reading": "かおがあおい",
     "kanji": "顔が青い",
     "type": "い-adj.",
-    "def": "to look pale"
+    "def": "to look pale",
+    "id": "L9-14"
   },
   {
     "reading": "かぶき",
     "kanji": "歌舞伎",
     "type": "n.",
-    "def": "Kabuki; traditional Japanese theatrical art"
+    "def": "Kabuki; traditional Japanese theatrical art",
+    "id": "L9-15"
   },
   {
     "reading": "きいろい",
     "kanji": "黄色い",
     "type": "い-adj.",
-    "def": "yellow"
+    "def": "yellow",
+    "id": "L9-16"
   },
   {
     "reading": "きもの",
     "kanji": "着物",
     "type": "n.",
-    "def": "kimono; Japanese traditional dress"
+    "def": "kimono; Japanese traditional dress",
+    "id": "L9-17"
   },
   {
     "reading": "きょねん",
     "kanji": "去年",
     "type": "n.",
-    "def": "last year"
+    "def": "last year",
+    "id": "L9-18"
   },
   {
     "reading": "きんいろ",
     "kanji": "金色",
     "type": "n.",
-    "def": "gold"
+    "def": "gold",
+    "id": "L9-19"
   },
   {
     "reading": "ぎんいろ",
     "kanji": "銀色",
     "type": "n.",
-    "def": "silver"
+    "def": "silver",
+    "id": "L9-20"
   },
   {
     "reading": "くすり",
     "kanji": "薬",
     "type": "n.",
-    "def": "medicine"
+    "def": "medicine",
+    "id": "L9-21"
   },
   {
     "reading": "くすりをのむ",
     "kanji": "薬を飲む",
     "type": "u-v.",
-    "def": "to take medicine"
+    "def": "to take medicine",
+    "id": "L9-22"
   },
   {
     "reading": "くろい",
     "kanji": "黒い",
     "type": "い-adj.",
-    "def": "black"
+    "def": "black",
+    "id": "L9-23"
   },
   {
     "reading": "ここのつ",
     "kanji": "九つ",
     "type": "n.",
-    "def": "nine"
+    "def": "nine",
+    "id": "L9-24"
   },
   {
     "reading": "こんいろ",
     "kanji": "紺色",
     "type": "n.",
-    "def": "navy"
+    "def": "navy",
+    "id": "L9-25"
   },
   {
     "reading": "こんど",
     "kanji": "今度",
     "type": "n.",
-    "def": "near future"
+    "def": "near future",
+    "id": "L9-26"
   },
   {
     "reading": "ごぜんちゅう",
     "kanji": "午前中",
     "type": "n.",
-    "def": "in the morning"
+    "def": "in the morning",
+    "id": "L9-27"
   },
   {
     "reading": "ごちそう",
     "kanji": "",
     "type": "n.",
-    "def": "excellent food"
+    "def": "excellent food",
+    "id": "L9-28"
   },
   {
     "reading": "さくぶん",
     "kanji": "作文",
     "type": "n.",
-    "def": "essay; composition"
+    "def": "essay; composition",
+    "id": "L9-29"
   },
   {
     "reading": "さびしい",
     "kanji": "寂しい",
     "type": "い-adj.",
-    "def": "lonely"
+    "def": "lonely",
+    "id": "L9-30"
   },
   {
     "reading": "さんぽする",
     "kanji": "散歩する",
     "type": "irr-v.",
-    "def": "to take a walk "
+    "def": "to take a walk ",
+    "id": "L9-31"
   },
   {
     "reading": "しけん",
     "kanji": "試験",
     "type": "n.",
-    "def": "exam"
+    "def": "exam",
+    "id": "L9-32"
   },
   {
     "reading": "しろい",
     "kanji": "白い",
     "type": "い-adj.",
-    "def": "white"
+    "def": "white",
+    "id": "L9-33"
   },
   {
     "reading": "しろくろ",
     "kanji": "白黒",
     "type": "n.",
-    "def": "black and white"
+    "def": "black and white",
+    "id": "L9-34"
   },
   {
     "reading": "せんげつ",
     "kanji": "先月",
     "type": "n.",
-    "def": "last month"
+    "def": "last month",
+    "id": "L9-35"
   },
   {
     "reading": "ぜひ",
     "kanji": "是非",
     "type": "adv.",
-    "def": "by all means"
+    "def": "by all means",
+    "id": "L9-36"
   },
   {
     "reading": "そう",
     "kanji": "",
     "type": "adv.",
-    "def": "(I think) so"
+    "def": "(I think) so",
+    "id": "L9-37"
   },
   {
     "reading": "そして",
     "kanji": "",
     "type": "adv.",
-    "def": "and then"
+    "def": "and then",
+    "id": "L9-38"
   },
   {
     "reading": "たんご",
     "kanji": "単語",
     "type": "n.",
-    "def": "word; vocabulary"
+    "def": "word; vocabulary",
+    "id": "L9-39"
   },
   {
     "reading": "ちゃいろい",
     "kanji": "茶色い",
     "type": "い-adj.",
-    "def": "brown"
+    "def": "brown",
+    "id": "L9-40"
   },
   {
     "reading": "てがみ",
     "kanji": "手紙",
     "type": "n.",
-    "def": "letter"
+    "def": "letter",
+    "id": "L9-41"
   },
   {
     "reading": "でる",
     "kanji": "出る",
     "type": "ru-v.",
-    "def": "to appear; to attend; to exit "
+    "def": "to appear; to attend; to exit ",
+    "id": "L9-42"
   },
   {
     "reading": "とお",
     "kanji": "十",
     "type": "n.",
-    "def": "ten"
+    "def": "ten",
+    "id": "L9-43"
   },
   {
     "reading": "ところで",
     "kanji": "",
     "type": "adv.",
-    "def": "by the way"
+    "def": "by the way",
+    "id": "L9-44"
   },
   {
     "reading": "ななつ",
     "kanji": "七つ",
     "type": "n.",
-    "def": "seven"
+    "def": "seven",
+    "id": "L9-45"
   },
   {
     "reading": "にっき",
     "kanji": "日記",
     "type": "n.",
-    "def": "diary"
+    "def": "diary",
+    "id": "L9-46"
   },
   {
     "reading": "にんきがある",
     "kanji": "人気がある",
     "type": "u-v.",
-    "def": "to be popular"
+    "def": "to be popular",
+    "id": "L9-47"
   },
   {
     "reading": "はいいろ",
     "kanji": "灰色",
     "type": "n.",
-    "def": "gray"
+    "def": "gray",
+    "id": "L9-48"
   },
   {
     "reading": "はじまる",
     "kanji": "始まる",
     "type": "u-v.",
-    "def": "(something) begins"
+    "def": "(something) begins",
+    "id": "L9-49"
   },
   {
     "reading": "はなしをする",
     "kanji": "話をする",
     "type": "irr-v.",
-    "def": "to have a talk "
+    "def": "to have a talk ",
+    "id": "L9-50"
   },
   {
     "reading": "ひく",
     "kanji": "弾く",
     "type": "u-v.",
-    "def": "to play (a string instrument or piano)"
+    "def": "to play (a string instrument or piano)",
+    "id": "L9-51"
   },
   {
     "reading": "ひとつ",
     "kanji": "一つ",
     "type": "n.",
-    "def": "one"
+    "def": "one",
+    "id": "L9-52"
   },
   {
     "reading": "ひる",
     "kanji": "昼",
     "type": "n.",
-    "def": "noon"
+    "def": "noon",
+    "id": "L9-53"
   },
   {
     "reading": "びょうき",
     "kanji": "病気",
     "type": "n.",
-    "def": "illness; sickness"
+    "def": "illness; sickness",
+    "id": "L9-54"
   },
   {
     "reading": "ふたつ",
     "kanji": "二つ",
     "type": "n.",
-    "def": "two"
+    "def": "two",
+    "id": "L9-55"
   },
   {
     "reading": "べんとう",
     "kanji": "弁当",
     "type": "n.",
-    "def": "boxed lunch"
+    "def": "boxed lunch",
+    "id": "L9-56"
   },
   {
     "reading": "みずいろ",
     "kanji": "水色",
     "type": "n.",
-    "def": "light blue"
+    "def": "light blue",
+    "id": "L9-57"
   },
   {
     "reading": "みっつ",
     "kanji": "三つ",
     "type": "n.",
-    "def": "three"
+    "def": "three",
+    "id": "L9-58"
   },
   {
     "reading": "みどり",
     "kanji": "緑",
     "type": "n.",
-    "def": "green"
+    "def": "green",
+    "id": "L9-59"
   },
   {
     "reading": "みんな",
     "kanji": "",
     "type": "adv.",
-    "def": "all"
+    "def": "all",
+    "id": "L9-60"
   },
   {
     "reading": "むっつ",
     "kanji": "六つ",
     "type": "n.",
-    "def": "six"
+    "def": "six",
+    "id": "L9-61"
   },
   {
     "reading": "むらさき",
     "kanji": "紫",
     "type": "n.",
-    "def": "purple"
+    "def": "purple",
+    "id": "L9-62"
   },
   {
     "reading": "もう",
     "kanji": "",
     "type": "adv.",
-    "def": "already"
+    "def": "already",
+    "id": "L9-63"
   },
   {
     "reading": "もらう",
     "kanji": "",
     "type": "u-v.",
-    "def": "to get (from somebody)"
+    "def": "to get (from somebody)",
+    "id": "L9-64"
   },
   {
     "reading": "やっつ",
     "kanji": "八つ",
     "type": "n.",
-    "def": "eight"
+    "def": "eight",
+    "id": "L9-65"
   },
   {
     "reading": "よっつ",
     "kanji": "四つ",
     "type": "n.",
-    "def": "four"
+    "def": "four",
+    "id": "L9-66"
   },
   {
     "reading": "りょう",
     "kanji": "両",
     "type": "n.",
-    "def": "a unit of currency used in the Edo period"
+    "def": "a unit of currency used in the Edo period",
+    "id": "L9-67"
   },
   {
     "reading": "りょう",
     "kanji": "寮",
     "type": "n.",
-    "def": "dormitory"
+    "def": "dormitory",
+    "id": "L9-68"
   },
   {
     "reading": "わかい",
     "kanji": "若い",
     "type": "い-adj.",
-    "def": "young"
+    "def": "young",
+    "id": "L9-69"
   },
   {
     "reading": "オレンジ",
     "kanji": "",
     "type": "n.",
-    "def": "orange"
+    "def": "orange",
+    "id": "L9-70"
   },
   {
     "reading": "ギター",
     "kanji": "",
     "type": "n.",
-    "def": "guitar"
+    "def": "guitar",
+    "id": "L9-71"
   },
   {
     "reading": "グリーン",
     "kanji": "",
     "type": "n.",
-    "def": "green"
+    "def": "green",
+    "id": "L9-72"
   },
   {
     "reading": "グレー",
     "kanji": "",
     "type": "n.",
-    "def": "gray"
+    "def": "gray",
+    "id": "L9-73"
   },
   {
     "reading": "コンサート",
     "kanji": "",
     "type": "n.",
-    "def": "concert"
+    "def": "concert",
+    "id": "L9-74"
   },
   {
     "reading": "ゴールド",
     "kanji": "",
     "type": "n.",
-    "def": "gold"
+    "def": "gold",
+    "id": "L9-75"
   },
   {
     "reading": "シルバー",
     "kanji": "",
     "type": "n.",
-    "def": "silver"
+    "def": "silver",
+    "id": "L9-76"
   },
   {
     "reading": "スキー",
     "kanji": "",
     "type": "n.",
-    "def": "ski"
+    "def": "ski",
+    "id": "L9-77"
   },
   {
     "reading": "チケット",
     "kanji": "",
     "type": "n.",
-    "def": "ticket"
+    "def": "ticket",
+    "id": "L9-78"
   },
   {
     "reading": "ピアノ",
     "kanji": "",
     "type": "n.",
-    "def": "piano"
+    "def": "piano",
+    "id": "L9-79"
   },
   {
     "reading": "ピザ",
     "kanji": "",
     "type": "n.",
-    "def": "pizza"
+    "def": "pizza",
+    "id": "L9-80"
   },
   {
     "reading": "ピンク",
     "kanji": "",
     "type": "n.",
-    "def": "pink"
+    "def": "pink",
+    "id": "L9-81"
   },
   {
     "reading": "ベージュ",
     "kanji": "",
     "type": "n.",
-    "def": "beige"
+    "def": "beige",
+    "id": "L9-82"
   },
   {
     "reading": "ホストファミリー",
     "kanji": "",
     "type": "n.",
-    "def": "host family"
+    "def": "host family",
+    "id": "L9-83"
   },
   {
     "reading": "メール",
     "kanji": "",
     "type": "n.",
-    "def": "e-mail"
+    "def": "e-mail",
+    "id": "L9-84"
   },
   {
     "reading": "～から",
     "kanji": "",
     "type": "part.",
-    "def": "from . . ."
+    "def": "from . . .",
+    "id": "L9-85"
   },
   {
     "reading": "～まで",
     "kanji": "",
     "type": "part.",
-    "def": "to (a place/a time)"
+    "def": "to (a place/a time)",
+    "id": "L9-86"
   }
 ]

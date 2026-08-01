@@ -3,432 +3,504 @@
     "reading": "あける",
     "kanji": "開ける",
     "type": "ru-v.",
-    "def": "to open (something) "
+    "def": "to open (something) ",
+    "id": "L6-1"
   },
   {
     "reading": "あそぶ",
     "kanji": "遊ぶ",
     "type": "u-v.",
-    "def": "to play; to spend time pleasantly"
+    "def": "to play; to spend time pleasantly",
+    "id": "L6-2"
   },
   {
     "reading": "あとで",
     "kanji": "後で",
     "type": "adv.",
-    "def": "later on"
+    "def": "later on",
+    "id": "L6-3"
   },
   {
     "reading": "いそぐ",
     "kanji": "急ぐ",
     "type": "u-v.",
-    "def": "to hurry"
+    "def": "to hurry",
+    "id": "L6-4"
   },
   {
     "reading": "いつも",
     "kanji": "",
     "type": "adv.",
-    "def": "always"
+    "def": "always",
+    "id": "L6-5"
   },
   {
     "reading": "えき",
     "kanji": "駅",
     "type": "n.",
-    "def": "station"
+    "def": "station",
+    "id": "L6-6"
   },
   {
     "reading": "おかね",
     "kanji": "お金",
     "type": "n.",
-    "def": "money"
+    "def": "money",
+    "id": "L6-7"
   },
   {
     "reading": "おしえる",
     "kanji": "教える",
     "type": "ru-v.",
-    "def": "to teach; to instruct "
+    "def": "to teach; to instruct ",
+    "id": "L6-8"
   },
   {
     "reading": "おりる",
     "kanji": "降りる",
     "type": "ru-v.",
-    "def": "to get off "
+    "def": "to get off ",
+    "id": "L6-9"
   },
   {
     "reading": "かえす",
     "kanji": "返す",
     "type": "u-v.",
-    "def": "to return (a thing)"
+    "def": "to return (a thing)",
+    "id": "L6-10"
   },
   {
     "reading": "かど",
     "kanji": "角",
     "type": "n.",
-    "def": "corner"
+    "def": "corner",
+    "id": "L6-11"
   },
   {
     "reading": "かりる",
     "kanji": "借りる",
     "type": "ru-v.",
-    "def": "to borrow "
+    "def": "to borrow ",
+    "id": "L6-12"
   },
   {
     "reading": "かんじ",
     "kanji": "漢字",
     "type": "n.",
-    "def": "kanji; Chinese character"
+    "def": "kanji; Chinese character",
+    "id": "L6-13"
   },
   {
     "reading": "きた",
     "kanji": "北",
     "type": "n.",
-    "def": "north"
+    "def": "north",
+    "id": "L6-14"
   },
   {
     "reading": "きょうかしょ",
     "kanji": "教科書",
     "type": "n.",
-    "def": "textbook"
+    "def": "textbook",
+    "id": "L6-15"
   },
   {
     "reading": "くに",
     "kanji": "国",
     "type": "n.",
-    "def": "country; place of origin"
+    "def": "country; place of origin",
+    "id": "L6-16"
   },
   {
     "reading": "けす",
     "kanji": "消す",
     "type": "u-v.",
-    "def": "to turn off; to erase"
+    "def": "to turn off; to erase",
+    "id": "L6-17"
   },
   {
     "reading": "けっこうです",
     "kanji": "結構です",
     "type": "exp.",
-    "def": "That would be fine.; That wouldn’t be necessary."
+    "def": "That would be fine.; That wouldn’t be necessary.",
+    "id": "L6-18"
   },
   {
     "reading": "こんしゅう",
     "kanji": "今週",
     "type": "n.",
-    "def": "this week"
+    "def": "this week",
+    "id": "L6-19"
   },
   {
     "reading": "しぬ",
     "kanji": "死ぬ",
     "type": "u-v.",
-    "def": "to die"
+    "def": "to die",
+    "id": "L6-20"
   },
   {
     "reading": "しめる",
     "kanji": "閉める",
     "type": "ru-v.",
-    "def": "to close (something) "
+    "def": "to close (something) ",
+    "id": "L6-21"
   },
   {
     "reading": "しんごう",
     "kanji": "信号",
     "type": "n.",
-    "def": "traffic light"
+    "def": "traffic light",
+    "id": "L6-22"
   },
   {
     "reading": "すぐ",
     "kanji": "",
     "type": "adv.",
-    "def": "right away"
+    "def": "right away",
+    "id": "L6-23"
   },
   {
     "reading": "すわる",
     "kanji": "座る",
     "type": "u-v.",
-    "def": "to sit down"
+    "def": "to sit down",
+    "id": "L6-24"
   },
   {
     "reading": "たいへん（な）",
     "kanji": "大変",
     "type": "な-adj.",
-    "def": "tough (situation)"
+    "def": "tough (situation)",
+    "id": "L6-25"
   },
   {
     "reading": "たつ",
     "kanji": "",
     "type": "u-v.",
-    "def": "(time) pass"
+    "def": "(time) pass",
+    "id": "L6-26"
   },
   {
     "reading": "たつ",
     "kanji": "立つ",
     "type": "u-v.",
-    "def": "to stand up"
+    "def": "to stand up",
+    "id": "L6-27"
   },
   {
     "reading": "たばこをすう",
     "kanji": "たばこを吸う",
     "type": "u-v.",
-    "def": "to smoke"
+    "def": "to smoke",
+    "id": "L6-28"
   },
   {
     "reading": "つかう",
     "kanji": "使う",
     "type": "u-v.",
-    "def": "to use"
+    "def": "to use",
+    "id": "L6-29"
   },
   {
     "reading": "つぎ",
     "kanji": "次",
     "type": "n.",
-    "def": "next"
+    "def": "next",
+    "id": "L6-30"
   },
   {
     "reading": "つける",
     "kanji": "",
     "type": "ru-v.",
-    "def": "to turn on "
+    "def": "to turn on ",
+    "id": "L6-31"
   },
   {
     "reading": "つれてくる",
     "kanji": "連れてくる",
     "type": "irr-v.",
-    "def": "to bring (a person) "
+    "def": "to bring (a person) ",
+    "id": "L6-32"
   },
   {
     "reading": "てつだう",
     "kanji": "手伝う",
     "type": "u-v.",
-    "def": "to help"
+    "def": "to help",
+    "id": "L6-33"
   },
   {
     "reading": "でる",
     "kanji": "出る",
     "type": "ru-v.",
-    "def": "to appear; to attend; to exit "
+    "def": "to appear; to attend; to exit ",
+    "id": "L6-34"
   },
   {
     "reading": "でんき",
     "kanji": "電気",
     "type": "n.",
-    "def": "electricity; light"
+    "def": "electricity; light",
+    "id": "L6-35"
   },
   {
     "reading": "でんしゃ",
     "kanji": "電車",
     "type": "n.",
-    "def": "train"
+    "def": "train",
+    "id": "L6-36"
   },
   {
     "reading": "でんわする",
     "kanji": "電話する",
     "type": "irr-v.",
-    "def": "to call "
+    "def": "to call ",
+    "id": "L6-37"
   },
   {
     "reading": "にし",
     "kanji": "西",
     "type": "n.",
-    "def": "west"
+    "def": "west",
+    "id": "L6-38"
   },
   {
     "reading": "にもつ",
     "kanji": "荷物",
     "type": "n.",
-    "def": "baggage"
+    "def": "baggage",
+    "id": "L6-39"
   },
   {
     "reading": "はいる",
     "kanji": "入る",
     "type": "u-v.",
-    "def": "to enter"
+    "def": "to enter",
+    "id": "L6-40"
   },
   {
     "reading": "ひがし",
     "kanji": "東",
     "type": "n.",
-    "def": "east"
+    "def": "east",
+    "id": "L6-41"
   },
   {
     "reading": "ひだりがわ",
     "kanji": "左側",
     "type": "n.",
-    "def": "left side"
+    "def": "left side",
+    "id": "L6-42"
   },
   {
     "reading": "ひとつめ",
     "kanji": "一つ目",
     "type": "n.",
-    "def": "first"
+    "def": "first",
+    "id": "L6-43"
   },
   {
     "reading": "ふたつめ",
     "kanji": "二つ目",
     "type": "n.",
-    "def": "second"
+    "def": "second",
+    "id": "L6-44"
   },
   {
     "reading": "ほんとうですか",
     "kanji": "本当ですか",
     "type": "exp.",
-    "def": "Really?"
+    "def": "Really?",
+    "id": "L6-45"
   },
   {
     "reading": "まがる",
     "kanji": "曲がる",
     "type": "u-v.",
-    "def": "to turn (right/left)"
+    "def": "to turn (right/left)",
+    "id": "L6-46"
   },
   {
     "reading": "まっすぐ",
     "kanji": "",
     "type": "adv.",
-    "def": "straight"
+    "def": "straight",
+    "id": "L6-47"
   },
   {
     "reading": "まど",
     "kanji": "窓",
     "type": "n.",
-    "def": "window"
+    "def": "window",
+    "id": "L6-48"
   },
   {
     "reading": "みぎがわ",
     "kanji": "右側",
     "type": "n.",
-    "def": "right side"
+    "def": "right side",
+    "id": "L6-49"
   },
   {
     "reading": "みっつめ",
     "kanji": "三つ目",
     "type": "n.",
-    "def": "third"
+    "def": "third",
+    "id": "L6-50"
   },
   {
     "reading": "みなさん",
     "kanji": "皆さん",
     "type": "n.",
-    "def": "everyone; all of you"
+    "def": "everyone; all of you",
+    "id": "L6-51"
   },
   {
     "reading": "みなみ",
     "kanji": "南",
     "type": "n.",
-    "def": "south"
+    "def": "south",
+    "id": "L6-52"
   },
   {
     "reading": "もってくる",
     "kanji": "持ってくる",
     "type": "irr-v.",
-    "def": "to bring (a thing) "
+    "def": "to bring (a thing) ",
+    "id": "L6-53"
   },
   {
     "reading": "もつ",
     "kanji": "持つ",
     "type": "u-v.",
-    "def": "to carry; to hold"
+    "def": "to carry; to hold",
+    "id": "L6-54"
   },
   {
     "reading": "やすむ",
     "kanji": "休む",
     "type": "u-v.",
-    "def": "to be absent (from); to rest"
+    "def": "to be absent (from); to rest",
+    "id": "L6-55"
   },
   {
     "reading": "ゆっくり",
     "kanji": "",
     "type": "adv.",
-    "def": "slowly; leisurely; unhurriedly"
+    "def": "slowly; leisurely; unhurriedly",
+    "id": "L6-56"
   },
   {
     "reading": "よる",
     "kanji": "夜",
     "type": "n.",
-    "def": "night"
+    "def": "night",
+    "id": "L6-57"
   },
   {
     "reading": "よる",
     "kanji": "寄る",
     "type": "u-v.",
-    "def": "to stop by"
+    "def": "to stop by",
+    "id": "L6-58"
   },
   {
     "reading": "らいしゅう",
     "kanji": "来週",
     "type": "n.",
-    "def": "next week"
+    "def": "next week",
+    "id": "L6-59"
   },
   {
     "reading": "らいねん",
     "kanji": "来年",
     "type": "n.",
-    "def": "next year"
+    "def": "next year",
+    "id": "L6-60"
   },
   {
     "reading": "りょうり",
     "kanji": "料理",
     "type": "n.",
-    "def": "cooking; dish"
+    "def": "cooking; dish",
+    "id": "L6-61"
   },
   {
     "reading": "わすれる",
     "kanji": "忘れる",
     "type": "ru-v.",
-    "def": "to forget; to leave behind "
+    "def": "to forget; to leave behind ",
+    "id": "L6-62"
   },
   {
     "reading": "わたる",
     "kanji": "渡る",
     "type": "u-v.",
-    "def": "to cross"
+    "def": "to cross",
+    "id": "L6-63"
   },
   {
     "reading": "イタリア",
     "kanji": "",
     "type": "n.",
-    "def": "Italy"
+    "def": "Italy",
+    "id": "L6-64"
   },
   {
     "reading": "エアコン",
     "kanji": "",
     "type": "n.",
-    "def": "air conditioner"
+    "def": "air conditioner",
+    "id": "L6-65"
   },
   {
     "reading": "シェフ",
     "kanji": "",
     "type": "n.",
-    "def": "chef"
+    "def": "chef",
+    "id": "L6-66"
   },
   {
     "reading": "シャワー",
     "kanji": "",
     "type": "n.",
-    "def": "shower"
+    "def": "shower",
+    "id": "L6-67"
   },
   {
     "reading": "シャワーをあびる",
     "kanji": "シャワーを浴びる",
     "type": "ru-v.",
-    "def": "to take a shower "
+    "def": "to take a shower ",
+    "id": "L6-68"
   },
   {
     "reading": "パソコン",
     "kanji": "",
     "type": "n.",
-    "def": "personal computer"
+    "def": "personal computer",
+    "id": "L6-69"
   },
   {
     "reading": "ピザ",
     "kanji": "",
     "type": "n.",
-    "def": "pizza"
+    "def": "pizza",
+    "id": "L6-70"
   },
   {
     "reading": "ページ",
     "kanji": "",
     "type": "n.",
-    "def": "page"
+    "def": "page",
+    "id": "L6-71"
   },
   {
     "reading": "ワイン",
     "kanji": "",
     "type": "n.",
-    "def": "wine"
+    "def": "wine",
+    "id": "L6-72"
   }
 ]

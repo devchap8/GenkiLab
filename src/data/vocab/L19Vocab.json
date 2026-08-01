@@ -3,450 +3,525 @@
     "reading": "いかが",
     "kanji": "",
     "type": "adv.",
-    "def": "how (polite expression of どう)"
+    "def": "how (polite expression of どう)",
+    "id": "L19-1"
   },
   {
     "reading": "いらっしゃる",
     "kanji": "",
     "type": "u-v.",
-    "def": "honorific expression for いく, くる, and いる"
+    "def": "honorific expression for いく, くる, and いる",
+    "id": "L19-2"
   },
   {
     "reading": "うける",
     "kanji": "受ける",
     "type": "ru-v.",
-    "def": "to take (an examination) "
+    "def": "to take (an examination) ",
+    "id": "L19-3"
   },
   {
     "reading": "えんりょする",
     "kanji": "遠慮する",
     "type": "irr-v.",
-    "def": "to hold back for the time being; to refrain from "
+    "def": "to hold back for the time being; to refrain from ",
+    "id": "L19-4"
   },
   {
     "reading": "おくさま",
     "kanji": "奥様",
     "type": "n.",
-    "def": "(your/someone’s) wife (polite)"
+    "def": "(your/someone’s) wife (polite)",
+    "id": "L19-5"
   },
   {
     "reading": "おくる",
     "kanji": "送る",
     "type": "u-v.",
-    "def": "to send"
+    "def": "to send",
+    "id": "L19-6"
   },
   {
     "reading": "おくれる",
     "kanji": "遅れる",
     "type": "ru-v.",
-    "def": "to become late "
+    "def": "to become late ",
+    "id": "L19-7"
   },
   {
     "reading": "おこさん",
     "kanji": "お子さん",
     "type": "n.",
-    "def": "(your/someone’s) child (polite)"
+    "def": "(your/someone’s) child (polite)",
+    "id": "L19-8"
   },
   {
     "reading": "おせわになる",
     "kanji": "お世話になる",
     "type": "u-v.",
-    "def": "to be in someone’s care"
+    "def": "to be in someone’s care",
+    "id": "L19-9"
   },
   {
     "reading": "おっしゃる",
     "kanji": "",
     "type": "u-v.",
-    "def": "honorific expression for いう"
+    "def": "honorific expression for いう",
+    "id": "L19-10"
   },
   {
     "reading": "おととい",
     "kanji": "",
     "type": "n.",
-    "def": "the day before yesterday"
+    "def": "the day before yesterday",
+    "id": "L19-11"
   },
   {
     "reading": "おもいだす",
     "kanji": "思い出す",
     "type": "u-v.",
-    "def": "to recall"
+    "def": "to recall",
+    "id": "L19-12"
   },
   {
     "reading": "おやすみになる",
     "kanji": "お休みになる",
     "type": "u-v.",
-    "def": "honorific expression for ねる"
+    "def": "honorific expression for ねる",
+    "id": "L19-13"
   },
   {
     "reading": "おれい",
     "kanji": "お礼",
     "type": "n.",
-    "def": "expression of gratitude"
+    "def": "expression of gratitude",
+    "id": "L19-14"
   },
   {
     "reading": "かける",
     "kanji": "",
     "type": "ru-v.",
-    "def": "to sit down "
+    "def": "to sit down ",
+    "id": "L19-15"
   },
   {
     "reading": "きまる",
     "kanji": "決まる",
     "type": "u-v.",
-    "def": "to be decided"
+    "def": "to be decided",
+    "id": "L19-16"
   },
   {
     "reading": "くださる",
     "kanji": "下さる",
     "type": "u-v.",
-    "def": "honorific expression for くれる"
+    "def": "honorific expression for くれる",
+    "id": "L19-17"
   },
   {
     "reading": "けいご",
     "kanji": "敬語",
     "type": "n.",
-    "def": "honorific language"
+    "def": "honorific language",
+    "id": "L19-18"
   },
   {
     "reading": "こくさい",
     "kanji": "国際",
     "type": "n.",
-    "def": "international"
+    "def": "international",
+    "id": "L19-19"
   },
   {
     "reading": "こちら",
     "kanji": "",
     "type": "n.",
-    "def": "this person (polite)"
+    "def": "this person (polite)",
+    "id": "L19-20"
   },
   {
     "reading": "ごちそうする",
     "kanji": "",
     "type": "irr-v.",
-    "def": "to treat/invite (someone) to a meal "
+    "def": "to treat/invite (someone) to a meal ",
+    "id": "L19-21"
   },
   {
     "reading": "ごらんになる",
     "kanji": "ご覧になる",
     "type": "u-v.",
-    "def": "honorific expression for みる"
+    "def": "honorific expression for みる",
+    "id": "L19-22"
   },
   {
     "reading": "しつもん",
     "kanji": "質問",
     "type": "n.",
-    "def": "question"
+    "def": "question",
+    "id": "L19-23"
   },
   {
     "reading": "しゅっちょう",
     "kanji": "出張",
     "type": "n.",
-    "def": "business trip"
+    "def": "business trip",
+    "id": "L19-24"
   },
   {
     "reading": "しゅるい",
     "kanji": "種類",
     "type": "n.",
-    "def": "a kind; a sort"
+    "def": "a kind; a sort",
+    "id": "L19-25"
   },
   {
     "reading": "しょうぎ",
     "kanji": "",
     "type": "n.",
-    "def": "Japanese chess"
+    "def": "Japanese chess",
+    "id": "L19-26"
   },
   {
     "reading": "しょうしょう",
     "kanji": "少々",
     "type": "adv.",
-    "def": "a few seconds"
+    "def": "a few seconds",
+    "id": "L19-27"
   },
   {
     "reading": "しょうたいする",
     "kanji": "招待する",
     "type": "irr-v.",
-    "def": "to invite someone (to an event/a place) "
+    "def": "to invite someone (to an event/a place) ",
+    "id": "L19-28"
   },
   {
     "reading": "しりあう",
     "kanji": "知り合う",
     "type": "u-v.",
-    "def": "to get acquainted with"
+    "def": "to get acquainted with",
+    "id": "L19-29"
   },
   {
     "reading": "せいかく",
     "kanji": "性格",
     "type": "n.",
-    "def": "personality"
+    "def": "personality",
+    "id": "L19-30"
   },
   {
     "reading": "それで",
     "kanji": "",
     "type": "adv.",
-    "def": "then; therefore"
+    "def": "then; therefore",
+    "id": "L19-31"
   },
   {
     "reading": "それでは",
     "kanji": "",
     "type": "adv.",
-    "def": "well then"
+    "def": "well then",
+    "id": "L19-32"
   },
   {
     "reading": "たいせつにする",
     "kanji": "大切にする",
     "type": "irr-v.",
-    "def": "to take good care of "
+    "def": "to take good care of ",
+    "id": "L19-33"
   },
   {
     "reading": "たいへん",
     "kanji": "",
     "type": "adv.",
-    "def": "greatly"
+    "def": "greatly",
+    "id": "L19-34"
   },
   {
     "reading": "たつ",
     "kanji": "",
     "type": "u-v.",
-    "def": "(time) pass"
+    "def": "(time) pass",
+    "id": "L19-35"
   },
   {
     "reading": "たつ",
     "kanji": "立つ",
     "type": "u-v.",
-    "def": "to stand up"
+    "def": "to stand up",
+    "id": "L19-36"
   },
   {
     "reading": "ちゅうがくせい",
     "kanji": "中学生",
     "type": "n.",
-    "def": "junior high school student"
+    "def": "junior high school student",
+    "id": "L19-37"
   },
   {
     "reading": "でんきこうがく",
     "kanji": "電気工学",
     "type": "n.",
-    "def": "electrical engineering"
+    "def": "electrical engineering",
+    "id": "L19-38"
   },
   {
     "reading": "とつぜん",
     "kanji": "突然",
     "type": "adv.",
-    "def": "suddenly"
+    "def": "suddenly",
+    "id": "L19-39"
   },
   {
     "reading": "どうぞよろしくおねがいします",
     "kanji": "どうぞよろしくお願いします",
     "type": "exp.",
-    "def": "Thank you in advance."
+    "def": "Thank you in advance.",
+    "id": "L19-40"
   },
   {
     "reading": "どちら",
     "kanji": "",
     "type": "n.",
-    "def": "where (polite)"
+    "def": "where (polite)",
+    "id": "L19-41"
   },
   {
     "reading": "なかがいい",
     "kanji": "仲がいい",
     "type": "い-adj.",
-    "def": "be on good/close terms; to get along well"
+    "def": "be on good/close terms; to get along well",
+    "id": "L19-42"
   },
   {
     "reading": "なさる",
     "kanji": "",
     "type": "u-v.",
-    "def": "honorific expression for する"
+    "def": "honorific expression for する",
+    "id": "L19-43"
   },
   {
     "reading": "なぜ",
     "kanji": "",
     "type": "adv.",
-    "def": "why"
+    "def": "why",
+    "id": "L19-44"
   },
   {
     "reading": "なつかしい",
     "kanji": "",
     "type": "い-adj.",
-    "def": "to miss; to long for"
+    "def": "to miss; to long for",
+    "id": "L19-45"
   },
   {
     "reading": "なまけもの",
     "kanji": "怠け者",
     "type": "n.",
-    "def": "lazy person"
+    "def": "lazy person",
+    "id": "L19-46"
   },
   {
     "reading": "なやみ",
     "kanji": "悩み",
     "type": "n.",
-    "def": "worry"
+    "def": "worry",
+    "id": "L19-47"
   },
   {
     "reading": "はずかしがりや",
     "kanji": "恥ずかしがり屋",
     "type": "n.",
-    "def": "shy person"
+    "def": "shy person",
+    "id": "L19-48"
   },
   {
     "reading": "はなし",
     "kanji": "話",
     "type": "n.",
-    "def": "story; talk"
+    "def": "story; talk",
+    "id": "L19-49"
   },
   {
     "reading": "はなしをする",
     "kanji": "話をする",
     "type": "irr-v.",
-    "def": "to have a talk "
+    "def": "to have a talk ",
+    "id": "L19-50"
   },
   {
     "reading": "はれる",
     "kanji": "晴れる",
     "type": "ru-v.",
-    "def": "to become sunny "
+    "def": "to become sunny ",
+    "id": "L19-51"
   },
   {
     "reading": "ひっこす",
     "kanji": "引っ越す",
     "type": "u-v.",
-    "def": "to move (to another place to live)"
+    "def": "to move (to another place to live)",
+    "id": "L19-52"
   },
   {
     "reading": "ぶちょう",
     "kanji": "部長",
     "type": "n.",
-    "def": "department manager"
+    "def": "department manager",
+    "id": "L19-53"
   },
   {
     "reading": "ほんとうは",
     "kanji": "本当は",
     "type": "adv.",
-    "def": "in fact; originally"
+    "def": "in fact; originally",
+    "id": "L19-54"
   },
   {
     "reading": "まいあさ",
     "kanji": "毎朝",
     "type": "adv.",
-    "def": "every morning"
+    "def": "every morning",
+    "id": "L19-55"
   },
   {
     "reading": "まじめ（な）",
     "kanji": "",
     "type": "な-adj.",
-    "def": "serious; sober; diligent"
+    "def": "serious; sober; diligent",
+    "id": "L19-56"
   },
   {
     "reading": "まだ",
     "kanji": "",
     "type": "adv.",
-    "def": "still"
+    "def": "still",
+    "id": "L19-57"
   },
   {
     "reading": "まちがい",
     "kanji": "間違い",
     "type": "n.",
-    "def": "mistake"
+    "def": "mistake",
+    "id": "L19-58"
   },
   {
     "reading": "みなさま",
     "kanji": "みな様",
     "type": "n.",
-    "def": "everyone (polite expression of みなさん)"
+    "def": "everyone (polite expression of みなさん)",
+    "id": "L19-59"
   },
   {
     "reading": "めしあがる",
     "kanji": "召し上がる",
     "type": "u-v.",
-    "def": "honorific expression for たべる and のむ"
+    "def": "honorific expression for たべる and のむ",
+    "id": "L19-60"
   },
   {
     "reading": "もうしこみ",
     "kanji": "申し込み",
     "type": "n.",
-    "def": "application"
+    "def": "application",
+    "id": "L19-61"
   },
   {
     "reading": "もうしわけありません",
     "kanji": "申し訳ありません",
     "type": "exp.",
-    "def": "You have my apologies."
+    "def": "You have my apologies.",
+    "id": "L19-62"
   },
   {
     "reading": "もし～たら",
     "kanji": "",
     "type": "adv.",
-    "def": "if . . ."
+    "def": "if . . .",
+    "id": "L19-63"
   },
   {
     "reading": "もてる",
     "kanji": "",
     "type": "ru-v.",
-    "def": "to be popular (in terms of romantic interest) "
+    "def": "to be popular (in terms of romantic interest) ",
+    "id": "L19-64"
   },
   {
     "reading": "ゆうじん",
     "kanji": "友人",
     "type": "n.",
-    "def": "friend"
+    "def": "friend",
+    "id": "L19-65"
   },
   {
     "reading": "ようこそ",
     "kanji": "",
     "type": "exp.",
-    "def": "Welcome."
+    "def": "Welcome.",
+    "id": "L19-66"
   },
   {
     "reading": "よぶ",
     "kanji": "呼ぶ",
     "type": "u-v.",
-    "def": "to call (one’s name); to invite"
+    "def": "to call (one’s name); to invite",
+    "id": "L19-67"
   },
   {
     "reading": "よる",
     "kanji": "夜",
     "type": "n.",
-    "def": "night"
+    "def": "night",
+    "id": "L19-68"
   },
   {
     "reading": "よる",
     "kanji": "寄る",
     "type": "u-v.",
-    "def": "to stop by"
+    "def": "to stop by",
+    "id": "L19-69"
   },
   {
     "reading": "よろしくおつたえください",
     "kanji": "よろしくお伝えください",
     "type": "exp.",
-    "def": "Please give my best regards (to . . . )."
+    "def": "Please give my best regards (to . . . ).",
+    "id": "L19-70"
   },
   {
     "reading": "～ちゅう",
     "kanji": "～中",
     "type": "suf.",
-    "def": "while . . ."
+    "def": "while . . .",
+    "id": "L19-71"
   },
   {
     "reading": "～ていらっしゃる",
     "kanji": "",
     "type": "u-v.",
-    "def": "honorific expression for ～ている"
+    "def": "honorific expression for ～ている",
+    "id": "L19-72"
   },
   {
     "reading": "～のしょうかいで",
     "kanji": "～の紹介で",
     "type": "exp.",
-    "def": "through the introduction of"
+    "def": "through the introduction of",
+    "id": "L19-73"
   },
   {
     "reading": "～のために",
     "kanji": "",
     "type": "part.",
-    "def": "for . . ."
+    "def": "for . . .",
+    "id": "L19-74"
   },
   {
     "reading": "～めいさま",
     "kanji": "～名様",
     "type": "suf.",
-    "def": "party of . . . people"
+    "def": "party of . . . people",
+    "id": "L19-75"
   }
 ]

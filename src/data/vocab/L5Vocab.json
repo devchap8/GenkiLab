@@ -3,378 +3,441 @@
     "reading": "あたらしい",
     "kanji": "新しい",
     "type": "い-adj.",
-    "def": "new"
+    "def": "new",
+    "id": "L5-1"
   },
   {
     "reading": "あつい",
     "kanji": "熱い",
     "type": "い-adj.",
-    "def": "hot (thing)"
+    "def": "hot (thing)",
+    "id": "L5-2"
   },
   {
     "reading": "あつい",
     "kanji": "暑い",
     "type": "い-adj.",
-    "def": "hot (weather)"
+    "def": "hot (weather)",
+    "id": "L5-3"
   },
   {
     "reading": "いそがしい",
     "kanji": "忙しい",
     "type": "い-adj.",
-    "def": "busy (people/days)"
+    "def": "busy (people/days)",
+    "id": "L5-4"
   },
   {
     "reading": "いっしょに",
     "kanji": "一緒に",
     "type": "adv.",
-    "def": "together"
+    "def": "together",
+    "id": "L5-5"
   },
   {
     "reading": "うみ",
     "kanji": "海",
     "type": "n.",
-    "def": "sea"
+    "def": "sea",
+    "id": "L5-6"
   },
   {
     "reading": "おおきい",
     "kanji": "大きい",
     "type": "い-adj.",
-    "def": "large"
+    "def": "large",
+    "id": "L5-7"
   },
   {
     "reading": "おとこのひと",
     "kanji": "男の人",
     "type": "n.",
-    "def": "man"
+    "def": "man",
+    "id": "L5-8"
   },
   {
     "reading": "おみやげ",
     "kanji": "お土産",
     "type": "n.",
-    "def": "souvenir"
+    "def": "souvenir",
+    "id": "L5-9"
   },
   {
     "reading": "おもしろい",
     "kanji": "面白い",
     "type": "い-adj.",
-    "def": "interesting; funny"
+    "def": "interesting; funny",
+    "id": "L5-10"
   },
   {
     "reading": "およぐ",
     "kanji": "泳ぐ",
     "type": "u-v.",
-    "def": "to swim"
+    "def": "to swim",
+    "id": "L5-11"
   },
   {
     "reading": "おんなのひと",
     "kanji": "女の人",
     "type": "n.",
-    "def": "woman"
+    "def": "woman",
+    "id": "L5-12"
   },
   {
     "reading": "かっこいい",
     "kanji": "",
     "type": "い-adj.",
-    "def": "good-looking"
+    "def": "good-looking",
+    "id": "L5-13"
   },
   {
     "reading": "きく",
     "kanji": "聞く",
     "type": "u-v.",
-    "def": "to ask"
+    "def": "to ask",
+    "id": "L5-14"
   },
   {
     "reading": "きらい（な）",
     "kanji": "嫌い",
     "type": "な-adj.",
-    "def": "disgusted with; to dislike"
+    "def": "disgusted with; to dislike",
+    "id": "L5-15"
   },
   {
     "reading": "きれい（な）",
     "kanji": "",
     "type": "な-adj.",
-    "def": "beautiful; clean"
+    "def": "beautiful; clean",
+    "id": "L5-16"
   },
   {
     "reading": "くだもの",
     "kanji": "果物",
     "type": "n.",
-    "def": "fruit"
+    "def": "fruit",
+    "id": "L5-17"
   },
   {
     "reading": "げんき（な）",
     "kanji": "元気",
     "type": "な-adj.",
-    "def": "healthy; energetic"
+    "def": "healthy; energetic",
+    "id": "L5-18"
   },
   {
     "reading": "こわい",
     "kanji": "怖い",
     "type": "い-adj.",
-    "def": "frightening"
+    "def": "frightening",
+    "id": "L5-19"
   },
   {
     "reading": "さむい",
     "kanji": "寒い",
     "type": "い-adj.",
-    "def": "cold (weather)"
+    "def": "cold (weather)",
+    "id": "L5-20"
   },
   {
     "reading": "しずか（な）",
     "kanji": "静か",
     "type": "な-adj.",
-    "def": "quiet"
+    "def": "quiet",
+    "id": "L5-21"
   },
   {
     "reading": "しゅくだい",
     "kanji": "宿題",
     "type": "n.",
-    "def": "homework"
+    "def": "homework",
+    "id": "L5-22"
   },
   {
     "reading": "しろ",
     "kanji": "城",
     "type": "n.",
-    "def": "castle"
+    "def": "castle",
+    "id": "L5-23"
   },
   {
     "reading": "すき（な）",
     "kanji": "好き",
     "type": "な-adj.",
-    "def": "fond of; to like"
+    "def": "fond of; to like",
+    "id": "L5-24"
   },
   {
     "reading": "すごく",
     "kanji": "",
     "type": "adv.",
-    "def": "extremely"
+    "def": "extremely",
+    "id": "L5-25"
   },
   {
     "reading": "たいへん（な）",
     "kanji": "大変",
     "type": "な-adj.",
-    "def": "tough (situation)"
+    "def": "tough (situation)",
+    "id": "L5-26"
   },
   {
     "reading": "たのしい",
     "kanji": "楽しい",
     "type": "い-adj.",
-    "def": "fun"
+    "def": "fun",
+    "id": "L5-27"
   },
   {
     "reading": "たべもの",
     "kanji": "食べ物",
     "type": "n.",
-    "def": "food"
+    "def": "food",
+    "id": "L5-28"
   },
   {
     "reading": "たんじょうび",
     "kanji": "誕生日",
     "type": "n.",
-    "def": "birthday"
+    "def": "birthday",
+    "id": "L5-29"
   },
   {
     "reading": "だいきらい（な）",
     "kanji": "大嫌い",
     "type": "な-adj.",
-    "def": "to hate"
+    "def": "to hate",
+    "id": "L5-30"
   },
   {
     "reading": "だいじょうぶ",
     "kanji": "大丈夫",
     "type": "exp.",
-    "def": "It’s okay.; Not to worry.; Everything is under control."
+    "def": "It’s okay.; Not to worry.; Everything is under control.",
+    "id": "L5-31"
   },
   {
     "reading": "だいすき（な）",
     "kanji": "大好き",
     "type": "な-adj.",
-    "def": "very fond of; to love"
+    "def": "very fond of; to love",
+    "id": "L5-32"
   },
   {
     "reading": "ちいさい",
     "kanji": "小さい",
     "type": "い-adj.",
-    "def": "small"
+    "def": "small",
+    "id": "L5-33"
   },
   {
     "reading": "つまらない",
     "kanji": "",
     "type": "い-adj.",
-    "def": "boring"
+    "def": "boring",
+    "id": "L5-34"
   },
   {
     "reading": "てんき",
     "kanji": "天気",
     "type": "n.",
-    "def": "weather"
+    "def": "weather",
+    "id": "L5-35"
   },
   {
     "reading": "でかける",
     "kanji": "出かける",
     "type": "ru-v.",
-    "def": "to go out "
+    "def": "to go out ",
+    "id": "L5-36"
   },
   {
     "reading": "では、おげんきで",
     "kanji": "では、お元気で",
     "type": "exp.",
-    "def": "Take care."
+    "def": "Take care.",
+    "id": "L5-37"
   },
   {
     "reading": "とても",
     "kanji": "",
     "type": "adv.",
-    "def": "very"
+    "def": "very",
+    "id": "L5-38"
   },
   {
     "reading": "どんな",
     "kanji": "",
     "type": "pre.",
-    "def": "what kind of . . ."
+    "def": "what kind of . . .",
+    "id": "L5-39"
   },
   {
     "reading": "にぎやか（な）",
     "kanji": "",
     "type": "な-adj.",
-    "def": "lively"
+    "def": "lively",
+    "id": "L5-40"
   },
   {
     "reading": "のみもの",
     "kanji": "飲み物",
     "type": "n.",
-    "def": "drink"
+    "def": "drink",
+    "id": "L5-41"
   },
   {
     "reading": "のる",
     "kanji": "乗る",
     "type": "u-v.",
-    "def": "to ride; to board"
+    "def": "to ride; to board",
+    "id": "L5-42"
   },
   {
     "reading": "ひま（な）",
     "kanji": "暇",
     "type": "な-adj.",
-    "def": "not busy; free (time)"
+    "def": "not busy; free (time)",
+    "id": "L5-43"
   },
   {
     "reading": "ふるい",
     "kanji": "古い",
     "type": "い-adj.",
-    "def": "old (thing)"
+    "def": "old (thing)",
+    "id": "L5-44"
   },
   {
     "reading": "へや",
     "kanji": "部屋",
     "type": "n.",
-    "def": "room"
+    "def": "room",
+    "id": "L5-45"
   },
   {
     "reading": "ぼく",
     "kanji": "僕",
     "type": "n.",
-    "def": "I (used by men)"
+    "def": "I (used by men)",
+    "id": "L5-46"
   },
   {
     "reading": "むずかしい",
     "kanji": "難しい",
     "type": "い-adj.",
-    "def": "difficult"
+    "def": "difficult",
+    "id": "L5-47"
   },
   {
     "reading": "やさしい",
     "kanji": "",
     "type": "い-adj.",
-    "def": "easy (problem); kind (person)"
+    "def": "easy (problem); kind (person)",
+    "id": "L5-48"
   },
   {
     "reading": "やすい",
     "kanji": "安い",
     "type": "い-adj.",
-    "def": "inexpensive; cheap (thing)"
+    "def": "inexpensive; cheap (thing)",
+    "id": "L5-49"
   },
   {
     "reading": "やすみ",
     "kanji": "休み",
     "type": "n.",
-    "def": "holiday; day off; absence"
+    "def": "holiday; day off; absence",
+    "id": "L5-50"
   },
   {
     "reading": "やま",
     "kanji": "山",
     "type": "n.",
-    "def": "mountain"
+    "def": "mountain",
+    "id": "L5-51"
   },
   {
     "reading": "やる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to do; to perform"
+    "def": "to do; to perform",
+    "id": "L5-52"
   },
   {
     "reading": "よる",
     "kanji": "夜",
     "type": "n.",
-    "def": "night"
+    "def": "night",
+    "id": "L5-53"
   },
   {
     "reading": "よる",
     "kanji": "寄る",
     "type": "u-v.",
-    "def": "to stop by"
+    "def": "to stop by",
+    "id": "L5-54"
   },
   {
     "reading": "りょこう",
     "kanji": "旅行",
     "type": "n.",
-    "def": "travel"
+    "def": "travel",
+    "id": "L5-55"
   },
   {
     "reading": "エルサイズ",
     "kanji": "Ｌサイズ",
     "type": "n.",
-    "def": "size L"
+    "def": "size L",
+    "id": "L5-56"
   },
   {
     "reading": "サーフィン",
     "kanji": "",
     "type": "n.",
-    "def": "surfing"
+    "def": "surfing",
+    "id": "L5-57"
   },
   {
     "reading": "テスト",
     "kanji": "",
     "type": "n.",
-    "def": "test"
+    "def": "test",
+    "id": "L5-58"
   },
   {
     "reading": "バス",
     "kanji": "",
     "type": "n.",
-    "def": "bus"
+    "def": "bus",
+    "id": "L5-59"
   },
   {
     "reading": "メキシコ",
     "kanji": "",
     "type": "n.",
-    "def": "Mexico"
+    "def": "Mexico",
+    "id": "L5-60"
   },
   {
     "reading": "～が",
     "kanji": "",
     "type": "part.",
-    "def": ". . . , but"
+    "def": ". . . , but",
+    "id": "L5-61"
   },
   {
     "reading": "～さま",
     "kanji": "～様",
     "type": "suf.",
-    "def": "Mr./Ms. . . ."
+    "def": "Mr./Ms. . . .",
+    "id": "L5-62"
   },
   {
     "reading": "～まい",
     "kanji": "～枚",
     "type": "suf.",
-    "def": "[counter for flat objects]"
+    "def": "[counter for flat objects]",
+    "id": "L5-63"
   }
 ]

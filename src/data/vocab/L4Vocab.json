@@ -3,708 +3,826 @@
     "reading": "あいだ",
     "kanji": "間",
     "type": "n.",
-    "def": "between"
+    "def": "between",
+    "id": "L4-1"
   },
   {
     "reading": "あう",
     "kanji": "会う",
     "type": "u-v.",
-    "def": "to meet; to see (a person)"
+    "def": "to meet; to see (a person)",
+    "id": "L4-2"
   },
   {
     "reading": "あさって",
     "kanji": "",
     "type": "n.",
-    "def": "the day after tomorrow"
+    "def": "the day after tomorrow",
+    "id": "L4-3"
   },
   {
     "reading": "あした",
     "kanji": "明日",
     "type": "n.",
-    "def": "tomorrow"
+    "def": "tomorrow",
+    "id": "L4-4"
   },
   {
     "reading": "あなた",
     "kanji": "",
     "type": "n.",
-    "def": "you"
+    "def": "you",
+    "id": "L4-5"
   },
   {
     "reading": "ある",
     "kanji": "",
     "type": "u-v.",
-    "def": "there is . . ."
+    "def": "there is . . .",
+    "id": "L4-6"
   },
   {
     "reading": "いす",
     "kanji": "",
     "type": "n.",
-    "def": "chair"
+    "def": "chair",
+    "id": "L4-7"
   },
   {
     "reading": "いちがつ",
     "kanji": "一月",
     "type": "n.",
-    "def": "January"
+    "def": "January",
+    "id": "L4-8"
   },
   {
     "reading": "いちじかん",
     "kanji": "一時間",
     "type": "n.",
-    "def": "one hour"
+    "def": "one hour",
+    "id": "L4-9"
   },
   {
     "reading": "いつか",
     "kanji": "五日",
     "type": "n.",
-    "def": "five days"
+    "def": "five days",
+    "id": "L4-10"
   },
   {
     "reading": "いぬ",
     "kanji": "犬",
     "type": "n.",
-    "def": "dog"
+    "def": "dog",
+    "id": "L4-11"
   },
   {
     "reading": "いる",
     "kanji": "",
     "type": "ru-v.",
-    "def": "(a person) is in . . . ; stays at . . . "
+    "def": "(a person) is in . . . ; stays at . . . ",
+    "id": "L4-12"
   },
   {
     "reading": "いる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to need"
+    "def": "to need",
+    "id": "L4-13"
   },
   {
     "reading": "うえ",
     "kanji": "上",
     "type": "n.",
-    "def": "on"
+    "def": "on",
+    "id": "L4-14"
   },
   {
     "reading": "うしろ",
     "kanji": "後ろ",
     "type": "n.",
-    "def": "back"
+    "def": "back",
+    "id": "L4-15"
   },
   {
     "reading": "おそく",
     "kanji": "遅く",
     "type": "adv.",
-    "def": "(do something) late"
+    "def": "(do something) late",
+    "id": "L4-16"
   },
   {
     "reading": "おてら",
     "kanji": "お寺",
     "type": "n.",
-    "def": "temple"
+    "def": "temple",
+    "id": "L4-17"
   },
   {
     "reading": "おととい",
     "kanji": "",
     "type": "n.",
-    "def": "the day before yesterday"
+    "def": "the day before yesterday",
+    "id": "L4-18"
   },
   {
     "reading": "おととし",
     "kanji": "",
     "type": "n.",
-    "def": "the year before last"
+    "def": "the year before last",
+    "id": "L4-19"
   },
   {
     "reading": "かいもの",
     "kanji": "買い物",
     "type": "n.",
-    "def": "shopping"
+    "def": "shopping",
+    "id": "L4-20"
   },
   {
     "reading": "かう",
     "kanji": "買う",
     "type": "u-v.",
-    "def": "to buy"
+    "def": "to buy",
+    "id": "L4-21"
   },
   {
     "reading": "かう",
     "kanji": "飼う",
     "type": "u-v.",
-    "def": "to own (a pet)"
+    "def": "to own (a pet)",
+    "id": "L4-22"
   },
   {
     "reading": "かく",
     "kanji": "書く",
     "type": "u-v.",
-    "def": "to write"
+    "def": "to write",
+    "id": "L4-23"
   },
   {
     "reading": "かく",
     "kanji": "描く",
     "type": "u-v.",
-    "def": "to draw; to paint"
+    "def": "to draw; to paint",
+    "id": "L4-24"
   },
   {
     "reading": "かようび",
     "kanji": "火曜日",
     "type": "n.",
-    "def": "Tuesday"
+    "def": "Tuesday",
+    "id": "L4-25"
   },
   {
     "reading": "きのう",
     "kanji": "昨日",
     "type": "n.",
-    "def": "yesterday"
+    "def": "yesterday",
+    "id": "L4-26"
   },
   {
     "reading": "きょう",
     "kanji": "今日",
     "type": "n.",
-    "def": "today"
+    "def": "today",
+    "id": "L4-27"
   },
   {
     "reading": "きょねん",
     "kanji": "去年",
     "type": "n.",
-    "def": "last year"
+    "def": "last year",
+    "id": "L4-28"
   },
   {
     "reading": "きんようび",
     "kanji": "金曜日",
     "type": "n.",
-    "def": "Friday"
+    "def": "Friday",
+    "id": "L4-29"
   },
   {
     "reading": "くがつ",
     "kanji": "九月",
     "type": "n.",
-    "def": "September"
+    "def": "September",
+    "id": "L4-30"
   },
   {
     "reading": "げつようび",
     "kanji": "月曜日",
     "type": "n.",
-    "def": "Monday"
+    "def": "Monday",
+    "id": "L4-31"
   },
   {
     "reading": "こうえん",
     "kanji": "公園",
     "type": "n.",
-    "def": "park"
+    "def": "park",
+    "id": "L4-32"
   },
   {
     "reading": "ここのか",
     "kanji": "九日",
     "type": "n.",
-    "def": "nine days"
+    "def": "nine days",
+    "id": "L4-33"
   },
   {
     "reading": "ことし",
     "kanji": "今年",
     "type": "n.",
-    "def": "this year"
+    "def": "this year",
+    "id": "L4-34"
   },
   {
     "reading": "こども",
     "kanji": "子供",
     "type": "n.",
-    "def": "child"
+    "def": "child",
+    "id": "L4-35"
   },
   {
     "reading": "こんげつ",
     "kanji": "今月",
     "type": "n.",
-    "def": "this month"
+    "def": "this month",
+    "id": "L4-36"
   },
   {
     "reading": "こんしゅう",
     "kanji": "今週",
     "type": "n.",
-    "def": "this week"
+    "def": "this week",
+    "id": "L4-37"
   },
   {
     "reading": "ごがつ",
     "kanji": "五月",
     "type": "n.",
-    "def": "May"
+    "def": "May",
+    "id": "L4-38"
   },
   {
     "reading": "ごはん",
     "kanji": "ご飯",
     "type": "n.",
-    "def": "rice; meal"
+    "def": "rice; meal",
+    "id": "L4-39"
   },
   {
     "reading": "ごめんなさい",
     "kanji": "",
     "type": "exp.",
-    "def": "I’m sorry."
+    "def": "I’m sorry.",
+    "id": "L4-40"
   },
   {
     "reading": "さらいげつ",
     "kanji": "再来月",
     "type": "n.",
-    "def": "the month after next"
+    "def": "the month after next",
+    "id": "L4-41"
   },
   {
     "reading": "さらいしゅう",
     "kanji": "再来週",
     "type": "n.",
-    "def": "the week after next"
+    "def": "the week after next",
+    "id": "L4-42"
   },
   {
     "reading": "さらいねん",
     "kanji": "再来年",
     "type": "n.",
-    "def": "the year after next"
+    "def": "the year after next",
+    "id": "L4-43"
   },
   {
     "reading": "さんがつ",
     "kanji": "三月",
     "type": "n.",
-    "def": "March"
+    "def": "March",
+    "id": "L4-44"
   },
   {
     "reading": "しがつ",
     "kanji": "四月",
     "type": "n.",
-    "def": "April"
+    "def": "April",
+    "id": "L4-45"
   },
   {
     "reading": "した",
     "kanji": "下",
     "type": "n.",
-    "def": "under"
+    "def": "under",
+    "id": "L4-46"
   },
   {
     "reading": "しちがつ",
     "kanji": "七月",
     "type": "n.",
-    "def": "July"
+    "def": "July",
+    "id": "L4-47"
   },
   {
     "reading": "しゃしん",
     "kanji": "写真",
     "type": "n.",
-    "def": "picture; photograph"
+    "def": "picture; photograph",
+    "id": "L4-48"
   },
   {
     "reading": "じゅういちがつ",
     "kanji": "十一月",
     "type": "n.",
-    "def": "November"
+    "def": "November",
+    "id": "L4-49"
   },
   {
     "reading": "じゅういちにち",
     "kanji": "十一日",
     "type": "n.",
-    "def": "the eleventh day of a month"
+    "def": "the eleventh day of a month",
+    "id": "L4-50"
   },
   {
     "reading": "じゅうがつ",
     "kanji": "十月",
     "type": "n.",
-    "def": "October"
+    "def": "October",
+    "id": "L4-51"
   },
   {
     "reading": "じゅうにがつ",
     "kanji": "十二月",
     "type": "n.",
-    "def": "December"
+    "def": "December",
+    "id": "L4-52"
   },
   {
     "reading": "じゅうよっか",
     "kanji": "十四日",
     "type": "n.",
-    "def": "the fourteenth day of a month"
+    "def": "the fourteenth day of a month",
+    "id": "L4-53"
   },
   {
     "reading": "すいようび",
     "kanji": "水曜日",
     "type": "n.",
-    "def": "Wednesday"
+    "def": "Wednesday",
+    "id": "L4-54"
   },
   {
     "reading": "せんげつ",
     "kanji": "先月",
     "type": "n.",
-    "def": "last month"
+    "def": "last month",
+    "id": "L4-55"
   },
   {
     "reading": "せんしゅう",
     "kanji": "先週",
     "type": "n.",
-    "def": "last week"
+    "def": "last week",
+    "id": "L4-56"
   },
   {
     "reading": "それから",
     "kanji": "",
     "type": "adv.",
-    "def": "and then"
+    "def": "and then",
+    "id": "L4-57"
   },
   {
     "reading": "たくさん",
     "kanji": "",
     "type": "adv.",
-    "def": "many; a lot"
+    "def": "many; a lot",
+    "id": "L4-58"
   },
   {
     "reading": "だから",
     "kanji": "",
     "type": "adv.",
-    "def": "so; therefore"
+    "def": "so; therefore",
+    "id": "L4-59"
   },
   {
     "reading": "ちかく",
     "kanji": "近く",
     "type": "n.",
-    "def": "near; nearby"
+    "def": "near; nearby",
+    "id": "L4-60"
   },
   {
     "reading": "ついたち",
     "kanji": "一日",
     "type": "n.",
-    "def": "the first day of a month"
+    "def": "the first day of a month",
+    "id": "L4-61"
   },
   {
     "reading": "つくえ",
     "kanji": "机",
     "type": "n.",
-    "def": "desk"
+    "def": "desk",
+    "id": "L4-62"
   },
   {
     "reading": "とおか",
     "kanji": "十日",
     "type": "n.",
-    "def": "ten days"
+    "def": "ten days",
+    "id": "L4-63"
   },
   {
     "reading": "とき",
     "kanji": "時",
     "type": "n.",
-    "def": "when . . . ; at the time of . . ."
+    "def": "when . . . ; at the time of . . .",
+    "id": "L4-64"
   },
   {
     "reading": "となり",
     "kanji": "隣",
     "type": "n.",
-    "def": "next"
+    "def": "next",
+    "id": "L4-65"
   },
   {
     "reading": "とる",
     "kanji": "取る",
     "type": "u-v.",
-    "def": "to take (a class); to get (a grade)"
+    "def": "to take (a class); to get (a grade)",
+    "id": "L4-66"
   },
   {
     "reading": "とる",
     "kanji": "撮る",
     "type": "u-v.",
-    "def": "to take (a picture)"
+    "def": "to take (a picture)",
+    "id": "L4-67"
   },
   {
     "reading": "とる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to take off"
+    "def": "to take off",
+    "id": "L4-68"
   },
   {
     "reading": "どうして",
     "kanji": "",
     "type": "adv.",
-    "def": "why"
+    "def": "why",
+    "id": "L4-69"
   },
   {
     "reading": "どようび",
     "kanji": "土曜日",
     "type": "n.",
-    "def": "Saturday"
+    "def": "Saturday",
+    "id": "L4-70"
   },
   {
     "reading": "なか",
     "kanji": "中",
     "type": "n.",
-    "def": "inside"
+    "def": "inside",
+    "id": "L4-71"
   },
   {
     "reading": "なのか",
     "kanji": "七日",
     "type": "n.",
-    "def": "seven days"
+    "def": "seven days",
+    "id": "L4-72"
   },
   {
     "reading": "にかげつまえ",
     "kanji": "二か月前",
     "type": "n.",
-    "def": "two months ago"
+    "def": "two months ago",
+    "id": "L4-73"
   },
   {
     "reading": "にがつ",
     "kanji": "二月",
     "type": "n.",
-    "def": "February"
+    "def": "February",
+    "id": "L4-74"
   },
   {
     "reading": "にしゅうかんまえ",
     "kanji": "二週間前",
     "type": "n.",
-    "def": "two weeks ago"
+    "def": "two weeks ago",
+    "id": "L4-75"
   },
   {
     "reading": "にじゅうよっか",
     "kanji": "二十四日",
     "type": "n.",
-    "def": "the twenty-fourth day of a month"
+    "def": "the twenty-fourth day of a month",
+    "id": "L4-76"
   },
   {
     "reading": "にちようび",
     "kanji": "日曜日",
     "type": "n.",
-    "def": "Sunday"
+    "def": "Sunday",
+    "id": "L4-77"
   },
   {
     "reading": "ねこ",
     "kanji": "猫",
     "type": "n.",
-    "def": "cat"
+    "def": "cat",
+    "id": "L4-78"
   },
   {
     "reading": "はちがつ",
     "kanji": "八月",
     "type": "n.",
-    "def": "August"
+    "def": "August",
+    "id": "L4-79"
   },
   {
     "reading": "はつか",
     "kanji": "二十日",
     "type": "n.",
-    "def": "the twentieth day of a month"
+    "def": "the twentieth day of a month",
+    "id": "L4-80"
   },
   {
     "reading": "はな",
     "kanji": "花",
     "type": "n.",
-    "def": "flower"
+    "def": "flower",
+    "id": "L4-81"
   },
   {
     "reading": "はな",
     "kanji": "鼻",
     "type": "n.",
-    "def": "nose"
+    "def": "nose",
+    "id": "L4-82"
   },
   {
     "reading": "ひだり",
     "kanji": "左",
     "type": "n.",
-    "def": "left"
+    "def": "left",
+    "id": "L4-83"
   },
   {
     "reading": "ひと",
     "kanji": "人",
     "type": "n.",
-    "def": "person"
+    "def": "person",
+    "id": "L4-84"
   },
   {
     "reading": "ひとりで",
     "kanji": "一人で",
     "type": "adv.",
-    "def": "alone"
+    "def": "alone",
+    "id": "L4-85"
   },
   {
     "reading": "びょういん",
     "kanji": "病院",
     "type": "n.",
-    "def": "hospital"
+    "def": "hospital",
+    "id": "L4-86"
   },
   {
     "reading": "ふつか",
     "kanji": "二日",
     "type": "n.",
-    "def": "the second day of a month"
+    "def": "the second day of a month",
+    "id": "L4-87"
   },
   {
     "reading": "ほんや",
     "kanji": "本屋",
     "type": "n.",
-    "def": "bookstore"
+    "def": "bookstore",
+    "id": "L4-88"
   },
   {
     "reading": "まえ",
     "kanji": "前",
     "type": "suf.",
-    "def": "before . . ."
+    "def": "before . . .",
+    "id": "L4-89"
   },
   {
     "reading": "まえ",
     "kanji": "前",
     "type": "n.",
-    "def": "front"
+    "def": "front",
+    "id": "L4-90"
   },
   {
     "reading": "まち",
     "kanji": "町",
     "type": "n.",
-    "def": "town; city"
+    "def": "town; city",
+    "id": "L4-91"
   },
   {
     "reading": "まつ",
     "kanji": "待つ",
     "type": "u-v.",
-    "def": "to wait"
+    "def": "to wait",
+    "id": "L4-92"
   },
   {
     "reading": "まんじゅう",
     "kanji": "",
     "type": "n.",
-    "def": "sweet bun"
+    "def": "sweet bun",
+    "id": "L4-93"
   },
   {
     "reading": "みぎ",
     "kanji": "右",
     "type": "n.",
-    "def": "right"
+    "def": "right",
+    "id": "L4-94"
   },
   {
     "reading": "みせ",
     "kanji": "店",
     "type": "n.",
-    "def": "shop; store"
+    "def": "shop; store",
+    "id": "L4-95"
   },
   {
     "reading": "みっか",
     "kanji": "三日",
     "type": "n.",
-    "def": "the third day of a month"
+    "def": "the third day of a month",
+    "id": "L4-96"
   },
   {
     "reading": "むいか",
     "kanji": "六日",
     "type": "n.",
-    "def": "six days"
+    "def": "six days",
+    "id": "L4-97"
   },
   {
     "reading": "もくようび",
     "kanji": "木曜日",
     "type": "n.",
-    "def": "Thursday"
+    "def": "Thursday",
+    "id": "L4-98"
   },
   {
     "reading": "もしもし",
     "kanji": "",
     "type": "exp.",
-    "def": "Hello? (used on the phone)"
+    "def": "Hello? (used on the phone)",
+    "id": "L4-99"
   },
   {
     "reading": "ようか",
     "kanji": "八日",
     "type": "n.",
-    "def": "eight days"
+    "def": "eight days",
+    "id": "L4-100"
   },
   {
     "reading": "よっか",
     "kanji": "四日",
     "type": "n.",
-    "def": "four days"
+    "def": "four days",
+    "id": "L4-101"
   },
   {
     "reading": "らいげつ",
     "kanji": "来月",
     "type": "n.",
-    "def": "next month"
+    "def": "next month",
+    "id": "L4-102"
   },
   {
     "reading": "らいしゅう",
     "kanji": "来週",
     "type": "n.",
-    "def": "next week"
+    "def": "next week",
+    "id": "L4-103"
   },
   {
     "reading": "らいねん",
     "kanji": "来年",
     "type": "n.",
-    "def": "next year"
+    "def": "next year",
+    "id": "L4-104"
   },
   {
     "reading": "ろくがつ",
     "kanji": "六月",
     "type": "n.",
-    "def": "June"
+    "def": "June",
+    "id": "L4-105"
   },
   {
     "reading": "わかる",
     "kanji": "",
     "type": "u-v.",
-    "def": "to understand"
+    "def": "to understand",
+    "id": "L4-106"
   },
   {
     "reading": "アルバイト",
     "kanji": "",
     "type": "n.",
-    "def": "part-time job"
+    "def": "part-time job",
+    "id": "L4-107"
   },
   {
     "reading": "クラス",
     "kanji": "",
     "type": "n.",
-    "def": "class"
+    "def": "class",
+    "id": "L4-108"
   },
   {
     "reading": "ゲーム",
     "kanji": "",
     "type": "n.",
-    "def": "game"
+    "def": "game",
+    "id": "L4-109"
   },
   {
     "reading": "スーパー",
     "kanji": "",
     "type": "n.",
-    "def": "supermarket"
+    "def": "supermarket",
+    "id": "L4-110"
   },
   {
     "reading": "バスてい",
     "kanji": "バス停",
     "type": "n.",
-    "def": "bus stop"
+    "def": "bus stop",
+    "id": "L4-111"
   },
   {
     "reading": "パン",
     "kanji": "",
     "type": "n.",
-    "def": "bread"
+    "def": "bread",
+    "id": "L4-112"
   },
   {
     "reading": "ホテル",
     "kanji": "",
     "type": "n.",
-    "def": "hotel"
+    "def": "hotel",
+    "id": "L4-113"
   },
   {
     "reading": "レストラン",
     "kanji": "",
     "type": "n.",
-    "def": "restaurant"
+    "def": "restaurant",
+    "id": "L4-114"
   },
   {
     "reading": "レポート",
     "kanji": "",
     "type": "n.",
-    "def": "(term) paper"
+    "def": "(term) paper",
+    "id": "L4-115"
   },
   {
     "reading": "～ぐらい",
     "kanji": "",
     "type": "suf.",
-    "def": "about (approximate measurement)"
+    "def": "about (approximate measurement)",
+    "id": "L4-116"
   },
   {
     "reading": "～じかん",
     "kanji": "～時間",
     "type": "suf.",
-    "def": ". . . hours"
+    "def": ". . . hours",
+    "id": "L4-117"
   },
   {
     "reading": "～と",
     "kanji": "",
     "type": "part.",
-    "def": "together with (a person); and"
+    "def": "together with (a person); and",
+    "id": "L4-118"
   }
 ]
