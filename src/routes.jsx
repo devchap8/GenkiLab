@@ -9,10 +9,6 @@ const router = createBrowserRouter([
         element: <Homepage />
     },
     {
-        path: "/test",
-        element: <Test />
-    },
-    {
         path: "/vocab/:chapter",
         element: <VocabList />
     },
