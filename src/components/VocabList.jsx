@@ -18,7 +18,7 @@ export default function VocabList({}) {
             </thead>
             <tbody>
             {vocab.map(v => 
-                <tr key={v.def}>
+                <tr key={v.id}>
                     <td>{v.reading}</td>
                     <td>{v.kanji}</td>
                     <td>{v.type}</td>
