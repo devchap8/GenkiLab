@@ -1,17 +1,17 @@
 import { createBrowserRouter } from 'react-router';
+import Layout from './components/Layout';
 import VocabList from './components/VocabList';
 import Homepage from './components/Homepage';
-import Test from './components/Test';
 
 const router = createBrowserRouter([
-    {
-        path: "/",
-        element: <Homepage />
-    },
-    {
-        path: "/vocab/:chapter",
-        element: <VocabList />
-    },
+ {
+    path: '/',
+    element: <Layout/>,
+    children: [
+        {index: true, element: <Homepage/>},
+        {path: "vocab/:chapter", element: <VocabList/>}
+    ]
+ }
 ]);
 
 export default router;
