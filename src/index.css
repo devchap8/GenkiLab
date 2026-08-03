@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@theme {
+    --color-genki-orange: #F69448
+}
+
 html, body, #root {
     height: 100%;
 }

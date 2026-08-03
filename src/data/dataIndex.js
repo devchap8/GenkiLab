@@ -27,6 +27,33 @@ const vocab = {G, L1, L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12,
     L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23
 };
 
-const data = {vocab};
+const lessonNames = {
+    L0: "Writing System, Greetings, and Numbers",
+    L1: "New Friends",
+    L2: "Shopping",
+    L3: "Making a Date",
+    L4: "The First Date",
+    L5: "A Trip to Okinawa",
+    L6: "A Day in Robert's Life",
+    L7: "Family Picture",
+    L8: "Barbecue",
+    L9: "Kabuki",
+    L10: "Winter Vacation Plans",
+    L11: "After the Vacation",
+    L12: "Feeling Ill",
+    L13: "Looking for a Part-time Job",
+    L14: "Valentine's Day",
+    L15: "A Trip to Nagano",
+    L16: "Lost and Found",
+    L17: "Grumble and Gossip",
+    L18: "John's Part-time Job",
+    L19: "Meeting the Boss",
+    L20: "Mary Goes Shopping",
+    L21: "Burglar",
+    L22: "Education in Japan",
+    L23: "Good-bye"
+}
+
+const data = {vocab, lessonNames};
 
 export default data;
