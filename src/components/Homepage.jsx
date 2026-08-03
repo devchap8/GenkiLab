@@ -8,9 +8,9 @@ const extraLinks = {
 
 export default function Homepage() {
     return (
-        <div className="bg-zinc-800 h-full flex flex-col items-center p-4">
+        <div className="bg-bg-main h-full flex flex-col items-center p-4">
             <main className=" max-w-250 w-full p-2 flex flex-col gap-3">
-                <h2 className="text-center text-4xl font-bold text-zinc-200">Chapter Navigation</h2>
+                <h2 className="text-center text-4xl font-bold text-text-main">Chapter Navigation</h2>
                 {lessonNums.map(n => 
                     <ChapterIndex key={n} lessonNum={n} extras={extraLinks[`L${n}`]}/>
                 )}
