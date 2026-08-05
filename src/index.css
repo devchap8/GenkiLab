@@ -3,9 +3,25 @@
 @theme {
     --color-genki-orange: #F69448;
     --color-bg-main: #27272A;
+    --color-bg-dark: #18181b;
     --color-text-main: #E4E4E7;
 }
 
 html, body, #root {
     height: 100%;
+}
+
+.spoiler-hidden > * {
+    background-color: var(--color-bg-dark);
+    color: var(--color-bg-dark);
+    cursor: pointer;
+    display: inline-block;
+    opacity: .8;
+}
+
+.spoiler-not-hidden > * {
+    display: inline-block;
+    background-color: unset;
+    color: unset;
+    cursor: pointer;
 }
