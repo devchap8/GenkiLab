@@ -1,0 +1,410 @@
+[
+  {
+    "id": "L19-1",
+    "reading": "おくさま",
+    "kanji": "奥様",
+    "def": "(your/someone's) wife (polite)",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-2",
+    "reading": "おこさん",
+    "kanji": "お子さん",
+    "def": "(your/someone's) child (polite)",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-3",
+    "reading": "ちゅうがくせい",
+    "kanji": "中学生",
+    "def": "junior high school student",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-4",
+    "reading": "ぶちょう",
+    "kanji": "部長",
+    "def": "department manager",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-5",
+    "reading": "しゅっちょう",
+    "kanji": "出張",
+    "def": "business trip",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-6",
+    "reading": "けいご",
+    "kanji": "敬語",
+    "def": "honorific language",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-7",
+    "reading": "こちら",
+    "kanji": "",
+    "def": "this way (polite)",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-8",
+    "reading": "どちら",
+    "kanji": "",
+    "def": "where (polite)",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-9",
+    "reading": "おれい",
+    "kanji": "お礼",
+    "def": "expression of gratitude",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L19-10",
+    "reading": "しゅるい",
+    "kanji": "種類",
+    "def": "a kind; a sort",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-11",
+    "reading": "はなし",
+    "kanji": "話",
+    "def": "talk; story",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-12",
+    "reading": "なやみ",
+    "kanji": "悩み",
+    "def": "worry",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-13",
+    "reading": "まちがい",
+    "kanji": "間違い",
+    "def": "mistake",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-14",
+    "reading": "せいかく",
+    "kanji": "性格",
+    "def": "personality",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-15",
+    "reading": "なまけもの",
+    "kanji": "怠け者",
+    "def": "lazy person",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-16",
+    "reading": "はずかしがりや",
+    "kanji": "恥ずかしがり屋",
+    "def": "shy person",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-17",
+    "reading": "なかがいい",
+    "kanji": "仲がいい",
+    "def": "be on good/close terms; to get along well",
+    "sect": "い-adjectives",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-18",
+    "reading": "まじめ（な）",
+    "kanji": "",
+    "def": "serious; sober; diligent",
+    "sect": "な-adjectives",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L19-19",
+    "reading": "いらっしゃる",
+    "kanji": "",
+    "def": "honorific expression for いく, くる, and いる",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-20",
+    "reading": "めしあがる",
+    "kanji": "召し上がる",
+    "def": "honorific expression for たべる and のむ",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-21",
+    "reading": "くださる",
+    "kanji": "下さる",
+    "def": "honorific expression for くれる",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-22",
+    "reading": "なさる",
+    "kanji": "",
+    "def": "honorific expression for する",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-23",
+    "reading": "おやすみになる",
+    "kanji": "お休みになる",
+    "def": "honorific expression for ねる",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-24",
+    "reading": "ごらんになる",
+    "kanji": "ご覧になる",
+    "def": "honorific expression for みる",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-25",
+    "reading": "おっしゃる",
+    "kanji": "",
+    "def": "honorific expression for いう",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-26",
+    "reading": "～ていらっしゃる",
+    "kanji": "",
+    "def": "honorific expression for ～ている",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-27",
+    "reading": "おくる",
+    "kanji": "送る",
+    "def": "to walk/drive (someone) (person を place まで)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-28",
+    "reading": "おこる",
+    "kanji": "怒る",
+    "def": "to get angry",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-29",
+    "reading": "きまる",
+    "kanji": "決まる",
+    "def": "to be decided (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-30",
+    "reading": "しりあう",
+    "kanji": "知り合う",
+    "def": "to get acquainted with (～と)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-31",
+    "reading": "呼ぶ",
+    "kanji": "呼ぶ",
+    "def": "to call (one's name) (～を); to invite (person を event に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-32",
+    "reading": "ひっこす",
+    "kanji": "引っ越し",
+    "def": "to move (to another place to live) (～に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-33",
+    "reading": "よる",
+    "kanji": "寄る",
+    "def": "to stop by (place に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L19-34",
+    "reading": "おくれる",
+    "kanji": "遅れる",
+    "def": "to become late (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-35",
+    "reading": "かける",
+    "kanji": "",
+    "def": "to sit down (seat に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-36",
+    "reading": "もてる",
+    "kanji": "",
+    "def": "to be popular (in terms of romantic interest) (people に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-37",
+    "reading": "はれる",
+    "kanji": "晴れる",
+    "def": "to become sunny",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-38",
+    "reading": "ごちそうする",
+    "kanji": "",
+    "def": "to treat/invite (someone) to a meal (person に meal を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-39",
+    "reading": "えんりょする",
+    "kanji": "遠慮する",
+    "def": "to hold back for the time being; to refrain from",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-40",
+    "reading": "しょうたいする",
+    "kanji": "招待する",
+    "def": "to invite someone (to an event/a place) (person を event/place に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-41",
+    "reading": "はなしをする",
+    "kanji": "話をする",
+    "def": "to have a talk",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L19-42",
+    "reading": "おととい",
+    "kanji": "",
+    "def": "the day before yesterday",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-43",
+    "reading": "まいあさ",
+    "kanji": "毎朝",
+    "def": "every morning",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-44",
+    "reading": "それで",
+    "kanji": "",
+    "def": "then; therefore",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-45",
+    "reading": "なぜ",
+    "kanji": "",
+    "def": "why (＝どうして)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-46",
+    "reading": "ほんとうは",
+    "kanji": "本当は",
+    "def": "in fact; originally",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-47",
+    "reading": "まだ",
+    "kanji": "",
+    "def": "still",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-48",
+    "reading": "しょうしょう",
+    "kanji": "少々",
+    "def": "a few seconds",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-49",
+    "reading": "～めいさま",
+    "kanji": "～名様",
+    "def": "party of . . . people",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-50",
+    "reading": "ようこそ",
+    "kanji": "",
+    "def": "Welcome.",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L19-51",
+    "reading": "よろしくおつたえください",
+    "kanji": "よろしくお伝えください",
+    "def": "Please give my best regards (to . . .). (～に)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  }
+]

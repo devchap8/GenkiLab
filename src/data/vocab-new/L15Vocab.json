@@ -1,0 +1,426 @@
+[
+  {
+    "id": "L15-1",
+    "reading": "がいこくじん",
+    "kanji": "外国人",
+    "def": "foreigner",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-2",
+    "reading": "そば",
+    "kanji": "",
+    "def": "soba; Japanese buckwheat noodles",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-3",
+    "reading": "え",
+    "kanji": "絵",
+    "def": "painting; picture; drawing",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-4",
+    "reading": "ちず",
+    "kanji": "地図",
+    "def": "map",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-5",
+    "reading": "じしょ",
+    "kanji": "辞書",
+    "def": "dictionary",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-6",
+    "reading": "かぐ",
+    "kanji": "家具",
+    "def": "furniture",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-7",
+    "reading": "でんち",
+    "kanji": "電池",
+    "def": "battery",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-8",
+    "reading": "ジャケット",
+    "kanji": "",
+    "def": "jacket",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-9",
+    "reading": "ペット",
+    "kanji": "",
+    "def": "pet",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-10",
+    "reading": "わりびきけん",
+    "kanji": "割引券",
+    "def": "discount coupon",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-11",
+    "reading": "インターネット",
+    "kanji": "",
+    "def": "internet (more colloquially, ネット)",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-12",
+    "reading": "じしん",
+    "kanji": "地震",
+    "def": "earthquake",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-13",
+    "reading": "ほけん",
+    "kanji": "保険",
+    "def": "insurance",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-14",
+    "reading": "ぜいきん",
+    "kanji": "税金",
+    "def": "tax",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-15",
+    "reading": "きょうしつ",
+    "kanji": "教室",
+    "def": "classroom",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-16",
+    "reading": "たてもの",
+    "kanji": "建物",
+    "def": "building",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-17",
+    "reading": "プール",
+    "kanji": "",
+    "def": "swimming pool",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-18",
+    "reading": "えいがかん",
+    "kanji": "映画館",
+    "def": "movie theater",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-19",
+    "reading": "りょかん",
+    "kanji": "旅館",
+    "def": "Japanese inn",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-20",
+    "reading": "にわ",
+    "kanji": "庭",
+    "def": "garden",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-21",
+    "reading": "ボランティア",
+    "kanji": "",
+    "def": "volunteer",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-22",
+    "reading": "かつどう",
+    "kanji": "活動",
+    "def": "activity",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-23",
+    "reading": "けいけん",
+    "kanji": "経験",
+    "def": "experience",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-24",
+    "reading": "しゅうかん",
+    "kanji": "習慣",
+    "def": "custom",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-25",
+    "reading": "しめきり",
+    "kanji": "締め切り",
+    "def": "deadline",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-26",
+    "reading": "よてい",
+    "kanji": "予定",
+    "def": "schedule; plan",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-27",
+    "reading": "そつぎょうしき",
+    "kanji": "卒業式",
+    "def": "graduation ceremony",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-28",
+    "reading": "けっこんしき",
+    "kanji": "結婚式",
+    "def": "wedding",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L15-29",
+    "reading": "うる",
+    "kanji": "売る",
+    "def": "to sell (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-30",
+    "reading": "おろす",
+    "kanji": "下ろす",
+    "def": "to withdraw (money) (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-31",
+    "reading": "かく",
+    "kanji": "描く",
+    "def": "to draw; to paint (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-32",
+    "reading": "さがす",
+    "kanji": "探す",
+    "def": "to look for (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-33",
+    "reading": "さそう",
+    "kanji": "誘う",
+    "def": "to invite (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-34",
+    "reading": "しゃべる",
+    "kanji": "",
+    "def": "to chat",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-35",
+    "reading": "つきあう",
+    "kanji": "付き合う",
+    "def": "(1) to date (someone) (person と)\n(2) to keep company (purpose に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-36",
+    "reading": "つく",
+    "kanji": "着く",
+    "def": "to arrive (place に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-37",
+    "reading": "ほけんにはいる",
+    "kanji": "保険に入る",
+    "def": "to buy insurance",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L15-38",
+    "reading": "きをつける",
+    "kanji": "気をつける",
+    "def": "to be cautious/careful (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-39",
+    "reading": "しらべる",
+    "kanji": "調べる",
+    "def": "to look into (a matter) (matter を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-40",
+    "reading": "みえる",
+    "kanji": "見える",
+    "def": "to be visible (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-41",
+    "reading": "する",
+    "kanji": "",
+    "def": "to decide on (an item) (item に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-42",
+    "reading": "かんこうする",
+    "kanji": "観光する",
+    "def": "to do sightseeing",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-43",
+    "reading": "よやくする",
+    "kanji": "予約する",
+    "def": "to reserve (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-44",
+    "reading": "さんかする",
+    "kanji": "参加する",
+    "def": "to participate (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-45",
+    "reading": "そつぎょうする",
+    "kanji": "卒業する",
+    "def": "to graduate (from . . .) (school を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-46",
+    "reading": "はっぴょうする",
+    "kanji": "発表する",
+    "def": "to make a presentation; to make public",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L15-47",
+    "reading": "～けど",
+    "kanji": "",
+    "def": ". . . , but; . . . , so",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L15-48",
+    "reading": "～め",
+    "kanji": "～目",
+    "def": "-th",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L15-49",
+    "reading": "いちにちめ",
+    "kanji": "一日目",
+    "def": "first day",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L15-50",
+    "reading": "いちにちじゅう",
+    "kanji": "一日中",
+    "def": "all day long",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L15-51",
+    "reading": "さいきん",
+    "kanji": "最近",
+    "def": "recently",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L15-52",
+    "reading": "もういちど",
+    "kanji": "もう一度",
+    "def": "one more time",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L15-53",
+    "reading": "たのしみです",
+    "kanji": "楽しみです",
+    "def": "cannot wait; to look forward to it",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  }
+]

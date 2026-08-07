@@ -1,0 +1,418 @@
+[
+  {
+    "id": "L5-1",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "たべもの",
+    "kanji": "食べ物",
+    "def": "food"
+  },
+  {
+    "id": "L5-2",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "のみもの",
+    "kanji": "飲み物",
+    "def": "drink"
+  },
+  {
+    "id": "L5-3",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "くだもの",
+    "kanji": "果物",
+    "def": "fruit"
+  },
+  {
+    "id": "L5-4",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "やすみ",
+    "kanji": "休み",
+    "def": "holiday; day off; absence"
+  },
+  {
+    "id": "L5-5",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "りょこう",
+    "kanji": "旅行",
+    "def": "travel"
+  },
+  {
+    "id": "L5-6",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "うみ",
+    "kanji": "海",
+    "def": "sea"
+  },
+  {
+    "id": "L5-7",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "サーフィン",
+    "kanji": "",
+    "def": "surfing"
+  },
+  {
+    "id": "L5-8",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "おみやげ",
+    "kanji": "お土産",
+    "def": "souvenir"
+  },
+  {
+    "id": "L5-9",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "バス",
+    "kanji": "",
+    "def": "bus"
+  },
+  {
+    "id": "L5-10",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "てんき",
+    "kanji": "天気",
+    "def": "weather"
+  },
+  {
+    "id": "L5-11",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "しゅくだい",
+    "kanji": "宿題",
+    "def": "homework"
+  },
+  {
+    "id": "L5-12",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "テスト",
+    "kanji": "",
+    "def": "test"
+  },
+  {
+    "id": "L5-13",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "たんじょうび",
+    "kanji": "誕生日",
+    "def": "birthday"
+  },
+  {
+    "id": "L5-14",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "へや",
+    "kanji": "部屋",
+    "def": "room"
+  },
+  {
+    "id": "L5-15",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "ぼく",
+    "kanji": "僕",
+    "def": "I (used by men)"
+  },
+  {
+    "id": "L5-16",
+    "subsect": "Nouns",
+    "sect": "Nouns",
+    "reading": "Lサイズ（エルサイズ）",
+    "kanji": "",
+    "def": "size L"
+  },
+  {
+    "id": "L5-17",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "あたらしい",
+    "kanji": "新しい",
+    "def": "new"
+  },
+  {
+    "id": "L5-18",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "ふるい",
+    "kanji": "古い",
+    "def": "old (thing—not used for people)"
+  },
+  {
+    "id": "L5-19",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "あつい",
+    "kanji": "暑い",
+    "def": "hot (weather)"
+  },
+  {
+    "id": "L5-20",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "さむい",
+    "kanji": "寒い",
+    "def": "cold (weather—not used for things)"
+  },
+  {
+    "id": "L5-21",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "あつい",
+    "kanji": "熱い",
+    "def": "hot (thing)"
+  },
+  {
+    "id": "L5-22",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "いそがしい",
+    "kanji": "忙しい",
+    "def": "busy (people/days)"
+  },
+  {
+    "id": "L5-23",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "おおきい",
+    "kanji": "大きい",
+    "def": "large"
+  },
+  {
+    "id": "L5-24",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "ちいさい",
+    "kanji": "小さい",
+    "def": "small"
+  },
+  {
+    "id": "L5-25",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "おもしろい",
+    "kanji": "面白い",
+    "def": "interesting; funny"
+  },
+  {
+    "id": "L5-26",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "つまらない",
+    "kanji": "",
+    "def": "boring"
+  },
+  {
+    "id": "L5-27",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "やさしい",
+    "kanji": "",
+    "def": "easy (problem); kind (person)"
+  },
+  {
+    "id": "L5-28",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "むずかしい",
+    "kanji": "難しい",
+    "def": "difficult"
+  },
+  {
+    "id": "L5-29",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "かっこいい",
+    "kanji": "",
+    "def": "good-looking (conjugates like いい)"
+  },
+  {
+    "id": "L5-30",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "こわい",
+    "kanji": "怖い",
+    "def": "frightening"
+  },
+  {
+    "id": "L5-31",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "たのしい",
+    "kanji": "楽しい",
+    "def": "fun"
+  },
+  {
+    "id": "L5-32",
+    "subsect": "い-adjectives",
+    "sect": "い-adjectives",
+    "reading": "やすい",
+    "kanji": "安い",
+    "def": "inexpensive; cheap (thing)"
+  },
+  {
+    "id": "L5-33",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "すき（な）",
+    "kanji": "好き",
+    "def": "fond of; to like (～が)"
+  },
+  {
+    "id": "L5-34",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "きらい（な）",
+    "kanji": "嫌い",
+    "def": "disgusted with; to dislike (～が)"
+  },
+  {
+    "id": "L5-35",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "だいすき（な）",
+    "kanji": "大好き",
+    "def": "very fond of; to love (～が)"
+  },
+  {
+    "id": "L5-36",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "だいきらい（な）",
+    "kanji": "大嫌い",
+    "def": "to hate (～が)"
+  },
+  {
+    "id": "L5-37",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "きれい（な）",
+    "kanji": "",
+    "def": "beautiful; clean"
+  },
+  {
+    "id": "L5-38",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "げんき（な）",
+    "kanji": "元気",
+    "def": "healthy; energetic"
+  },
+  {
+    "id": "L5-39",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "しずか（な）",
+    "kanji": "静か",
+    "def": "quiet"
+  },
+  {
+    "id": "L5-40",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "にぎやか（な）",
+    "kanji": "",
+    "def": "lively"
+  },
+  {
+    "id": "L5-41",
+    "subsect": "な-adjectives",
+    "sect": "な-adjectives",
+    "reading": "ひま（な）",
+    "kanji": "暇",
+    "def": "not busy; free (time)"
+  },
+  {
+    "id": "L5-42",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "U-verbs",
+    "reading": "およぐ",
+    "kanji": "泳ぐ",
+    "def": "to swim"
+  },
+  {
+    "id": "L5-43",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "U-verbs",
+    "reading": "きく",
+    "kanji": "聞く",
+    "def": "to ask (person に)"
+  },
+  {
+    "id": "L5-44",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "U-verbs",
+    "reading": "のる",
+    "kanji": "乗る",
+    "def": "to ride; to board (～に)"
+  },
+  {
+    "id": "L5-45",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "U-verbs",
+    "reading": "やる",
+    "kanji": "",
+    "def": "to do; to perform (～を)"
+  },
+  {
+    "id": "L5-46",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "Ru-verbs",
+    "reading": "でかける",
+    "kanji": "出かける",
+    "def": "to go out"
+  },
+  {
+    "id": "L5-47",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "いっしょに",
+    "kanji": "一緒に",
+    "def": "together"
+  },
+  {
+    "id": "L5-48",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "すごく",
+    "kanji": "",
+    "def": "extremely"
+  },
+  {
+    "id": "L5-49",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "だいじょうぶ",
+    "kanji": "大丈夫",
+    "def": "It's okay.; Not to worry.; Everything is under control."
+  },
+  {
+    "id": "L5-50",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "とても",
+    "kanji": "",
+    "def": "very"
+  },
+  {
+    "id": "L5-51",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "どんな",
+    "kanji": "",
+    "def": "what kind of . . ."
+  },
+  {
+    "id": "L5-52",
+    "subsect": "Verbs, Adverbs, and Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "～まい",
+    "kanji": "～枚",
+    "def": "[counter for flat objects]"
+  }
+]

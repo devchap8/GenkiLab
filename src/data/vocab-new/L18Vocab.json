@@ -1,0 +1,442 @@
+[
+  {
+    "id": "L18-1",
+    "reading": "カーテン",
+    "kanji": "",
+    "def": "curtain",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-2",
+    "reading": "ソファ",
+    "kanji": "",
+    "def": "sofa",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-3",
+    "reading": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "def": "refrigerator",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-4",
+    "reading": "スイッチ",
+    "kanji": "",
+    "def": "switch",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-5",
+    "reading": "しょうゆ",
+    "kanji": "しょう油",
+    "def": "soy sauce",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-6",
+    "reading": "スープ",
+    "kanji": "",
+    "def": "soup",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-7",
+    "reading": "バナナ",
+    "kanji": "",
+    "def": "banana",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-8",
+    "reading": "ポップコーン",
+    "kanji": "",
+    "def": "popcorn",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-9",
+    "reading": "シャンプー",
+    "kanji": "",
+    "def": "shampoo",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-10",
+    "reading": "ろうそく",
+    "kanji": "",
+    "def": "candle",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L18-11",
+    "reading": "タオル",
+    "kanji": "",
+    "def": "towel",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-12",
+    "reading": "スカート",
+    "kanji": "",
+    "def": "skirt",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-13",
+    "reading": "にっき",
+    "kanji": "日記",
+    "def": "diary",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-14",
+    "reading": "けいたい（でんわ）",
+    "kanji": "携帯（電話）",
+    "def": "cell phone",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-15",
+    "reading": "さくら",
+    "kanji": "桜",
+    "def": "cherry blossom",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-16",
+    "reading": "むし",
+    "kanji": "虫",
+    "def": "insect",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-17",
+    "reading": "やちん",
+    "kanji": "家賃",
+    "def": "rent",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-18",
+    "reading": "そと",
+    "kanji": "外",
+    "def": "outside",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-19",
+    "reading": "あと",
+    "kanji": "後",
+    "def": "the rest",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-20",
+    "reading": "ゆうがた",
+    "kanji": "夕方",
+    "def": "evening",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L18-21",
+    "reading": "あかるい",
+    "kanji": "明るい",
+    "def": "bright",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L18-22",
+    "reading": "くらい",
+    "kanji": "暗い",
+    "def": "dark",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L18-23",
+    "reading": "はずかしい",
+    "kanji": "恥ずかしい",
+    "def": "embarrassing; to feel embarrassed",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L18-24",
+    "reading": "たいせつ（な）",
+    "kanji": "大切",
+    "def": "precious; important",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L18-25",
+    "reading": "ふあん（な）",
+    "kanji": "不安",
+    "def": "anxious; worried",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L18-26",
+    "reading": "むり（な）",
+    "kanji": "無理",
+    "def": "impossible",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L18-27",
+    "reading": "あく",
+    "kanji": "開く",
+    "def": "(something) opens (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-28",
+    "reading": "しまる",
+    "kanji": "閉まる",
+    "def": "(something) closes (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-29",
+    "reading": "あやまる",
+    "kanji": "謝る",
+    "def": "to apologize (person に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-30",
+    "reading": "おす",
+    "kanji": "押す",
+    "def": "to press; to push (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-31",
+    "reading": "おとす",
+    "kanji": "落とす",
+    "def": "to drop (something) (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-32",
+    "reading": "おゆがわく",
+    "kanji": "お湯が沸く",
+    "def": "water boils",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-33",
+    "reading": "ころぶ",
+    "kanji": "転ぶ",
+    "def": "to fall down",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-34",
+    "reading": "こわす",
+    "kanji": "壊す",
+    "def": "to break (something) (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-35",
+    "reading": "さく",
+    "kanji": "咲く",
+    "def": "to bloom (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-36",
+    "reading": "たすかる",
+    "kanji": "助かる",
+    "def": "to be saved; to be helped",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-37",
+    "reading": "たのむ",
+    "kanji": "頼む",
+    "def": "to ask (a favor) (person に～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-38",
+    "reading": "つく",
+    "kanji": "",
+    "def": "(something) turns on (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-39",
+    "reading": "よごす",
+    "kanji": "汚す",
+    "def": "to make dirty (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L18-40",
+    "reading": "おちる",
+    "kanji": "落ちる",
+    "def": "(something) drops (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L18-41",
+    "reading": "かたづける",
+    "kanji": "片付ける",
+    "def": "to tidy up (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L18-42",
+    "reading": "かんがえる",
+    "kanji": "考える",
+    "def": "to think (about); to consider",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L18-43",
+    "reading": "きえる",
+    "kanji": "消える",
+    "def": "(something) goes off (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L18-44",
+    "reading": "こわれる",
+    "kanji": "壊れる",
+    "def": "(something) breaks (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L18-45",
+    "reading": "よごれる",
+    "kanji": "汚れる",
+    "def": "to become dirty (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L18-46",
+    "reading": "ちゅうもんする",
+    "kanji": "注文する",
+    "def": "to place an order (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L18-47",
+    "reading": "いますぐ",
+    "kanji": "今すぐ",
+    "def": "right away",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-48",
+    "reading": "～までに",
+    "kanji": "",
+    "def": "by (time/date)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-49",
+    "reading": "ほんとうに",
+    "kanji": "本当に",
+    "def": "really",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-50",
+    "reading": "まず",
+    "kanji": "",
+    "def": "first of all",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-51",
+    "reading": "おかげで",
+    "kanji": "",
+    "def": "thanks to . . . (～の)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-52",
+    "reading": "どうしよう",
+    "kanji": "",
+    "def": "What should I/we do?",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-53",
+    "reading": "～（ん）だろう",
+    "kanji": "",
+    "def": "short form of ～（ん）でしょう",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-54",
+    "reading": "おさきにしつれいします",
+    "kanji": "お先に失礼します",
+    "def": "See you. (lit., I'm leaving ahead of you.)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L18-55",
+    "reading": "おつかれさま（でした）",
+    "kanji": "お疲れ様（でした）",
+    "def": "You must be tired after working so hard. (greeting between friends and coworkers)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "id": "L17-1",
+    "reading": "あかちゃん",
+    "kanji": "赤ちゃん",
+    "def": "baby",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-2",
+    "reading": "おきゃくさん",
+    "kanji": "お客さん",
+    "def": "guest; visitor; client; customer",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-3",
+    "reading": "しゅしょう",
+    "kanji": "首相",
+    "def": "prime minister",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-4",
+    "reading": "サラリーマン",
+    "kanji": "",
+    "def": "salaryman; office worker",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-5",
+    "reading": "きゅうりょう",
+    "kanji": "給料",
+    "def": "salary",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-6",
+    "reading": "ざんぎょう",
+    "kanji": "残業",
+    "def": "overtime work",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-7",
+    "reading": "パンダ",
+    "kanji": "",
+    "def": "panda",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-8",
+    "reading": "コンタクト（レンズ）",
+    "kanji": "",
+    "def": "contact lenses",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-9",
+    "reading": "ひげ",
+    "kanji": "",
+    "def": "beard",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-10",
+    "reading": "ブーツ",
+    "kanji": "",
+    "def": "boots",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-11",
+    "reading": "かぎ",
+    "kanji": "鍵",
+    "def": "lock; key",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-12",
+    "reading": "たからくじ",
+    "kanji": "宝くじ",
+    "def": "lottery",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-13",
+    "reading": "かみ",
+    "kanji": "紙",
+    "def": "paper",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L17-14",
+    "reading": "スプーン",
+    "kanji": "",
+    "def": "spoon",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-15",
+    "reading": "おゆ",
+    "kanji": "お湯",
+    "def": "hot water",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-16",
+    "reading": "でんしレンジ",
+    "kanji": "電子レンジ",
+    "def": "microwave oven",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-17",
+    "reading": "ヒーター",
+    "kanji": "",
+    "def": "heater",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-18",
+    "reading": "ニュース",
+    "kanji": "",
+    "def": "news",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-19",
+    "reading": "かじ",
+    "kanji": "火事",
+    "def": "fire",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-20",
+    "reading": "りょこうがいしゃ",
+    "kanji": "旅行会社",
+    "def": "travel agency",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-21",
+    "reading": "ショッピングモール",
+    "kanji": "",
+    "def": "shopping mall",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-22",
+    "reading": "りょう",
+    "kanji": "寮",
+    "def": "dormitory",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-23",
+    "reading": "ちがい",
+    "kanji": "違い",
+    "def": "difference",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-24",
+    "reading": "ひみつ",
+    "kanji": "秘密",
+    "def": "secret",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-25",
+    "reading": "じゅんび",
+    "kanji": "準備",
+    "def": "preparation",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-26",
+    "reading": "じぶん",
+    "kanji": "自分",
+    "def": "oneself",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L17-27",
+    "reading": "あぶない",
+    "kanji": "危ない",
+    "def": "dangerous",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L17-28",
+    "reading": "うらやましい",
+    "kanji": "",
+    "def": "envious",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L17-29",
+    "reading": "すくない",
+    "kanji": "少ない",
+    "def": "a little; a few",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L17-30",
+    "reading": "つごうがわるい",
+    "kanji": "都合が悪い",
+    "def": "inconvenient; to have a scheduling conflict",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L17-31",
+    "reading": "つよい",
+    "kanji": "強い",
+    "def": "strong",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L17-32",
+    "reading": "さいあく（な）",
+    "kanji": "最悪",
+    "def": "the worst",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L17-33",
+    "reading": "えらぶ",
+    "kanji": "選ぶ",
+    "def": "to choose; to select (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-34",
+    "reading": "おゆをわかす",
+    "kanji": "お湯を沸かす",
+    "def": "to boil water",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-35",
+    "reading": "かみをとかす",
+    "kanji": "髪をとかす",
+    "def": "to comb one's hair",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-36",
+    "reading": "ひげをそる",
+    "kanji": "",
+    "def": "to shave one's beard",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-37",
+    "reading": "ぬぐ",
+    "kanji": "脱ぐ",
+    "def": "to take off (clothes) (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-38",
+    "reading": "こむ",
+    "kanji": "混む",
+    "def": "to get crowded (～が)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-39",
+    "reading": "たからくじにあたる",
+    "kanji": "宝くじに当たる",
+    "def": "to win a lottery",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-40",
+    "reading": "いれる",
+    "kanji": "",
+    "def": "to make tea, coffee, etc. (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-41",
+    "reading": "うまれる",
+    "kanji": "生まれる",
+    "def": "to be born (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-42",
+    "reading": "かぎをかける",
+    "kanji": "",
+    "def": "to lock (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-43",
+    "reading": "たりる",
+    "kanji": "足りる",
+    "def": "to be sufficient; to be enough (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-44",
+    "reading": "なれる",
+    "kanji": "慣れる",
+    "def": "to get used to . . . (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-45",
+    "reading": "おいのりする",
+    "kanji": "お祈りする",
+    "def": "to pray (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-46",
+    "reading": "けしょうする",
+    "kanji": "化粧する",
+    "def": "to put makeup on",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-47",
+    "reading": "しゅうしょくする",
+    "kanji": "就職する",
+    "def": "to get a full-time job (at . . .) (company に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-48",
+    "reading": "りこんする",
+    "kanji": "離婚する",
+    "def": "to get a divorce (person と)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-49",
+    "reading": "する",
+    "kanji": "",
+    "def": "to wear small items (necktie, watch, etc.) (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L17-50",
+    "reading": "ずいぶん",
+    "kanji": "",
+    "def": "very",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-51",
+    "reading": "たとえば",
+    "kanji": "例えば",
+    "def": "for example",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-52",
+    "reading": "～にくらべて",
+    "kanji": "～に比べて",
+    "def": "compared with . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-53",
+    "reading": "～によると",
+    "kanji": "",
+    "def": "according to . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-54",
+    "reading": "まえ",
+    "kanji": "前",
+    "def": "before . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-55",
+    "reading": "やっぱり",
+    "kanji": "",
+    "def": "after all",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-56",
+    "reading": "～かな（あ）",
+    "kanji": "",
+    "def": "I wonder . . . (casual)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-57",
+    "reading": "そうか",
+    "kanji": "",
+    "def": "I see. (casual)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L17-58",
+    "reading": "おめでとうございます",
+    "kanji": "",
+    "def": "Congratulations!",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "id": "L10-1",
+    "reading": "きせつ",
+    "kanji": "季節",
+    "def": "season",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-2",
+    "reading": "はる",
+    "kanji": "春",
+    "def": "spring",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-3",
+    "reading": "あき",
+    "kanji": "秋",
+    "def": "fall",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-4",
+    "reading": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "def": "milk",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-5",
+    "reading": "ケーキ",
+    "kanji": "",
+    "def": "cake",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-6",
+    "reading": "すし",
+    "kanji": "",
+    "def": "sushi",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-7",
+    "reading": "てんぷら",
+    "kanji": "天ぷら",
+    "def": "tempura",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-8",
+    "reading": "りんご",
+    "kanji": "",
+    "def": "apple",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-9",
+    "reading": "りょうり",
+    "kanji": "料理",
+    "def": "cuisine",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-10",
+    "reading": "サッカー",
+    "kanji": "",
+    "def": "soccer",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-11",
+    "reading": "やきゅう",
+    "kanji": "野球",
+    "def": "baseball",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-12",
+    "reading": "いしゃ",
+    "kanji": "医者",
+    "def": "doctor",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-13",
+    "reading": "お金持ち",
+    "kanji": "お金持ち",
+    "def": "rich person",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-14",
+    "reading": "有名人",
+    "kanji": "有名人",
+    "def": "celebrity",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-15",
+    "reading": "かお",
+    "kanji": "顔",
+    "def": "face",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L10-16",
+    "reading": "としうえ",
+    "kanji": "年上",
+    "def": "someone older",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-17",
+    "reading": "えき",
+    "kanji": "駅",
+    "def": "station",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-18",
+    "reading": "しんかんせん",
+    "kanji": "新幹線",
+    "def": "Shinkansen; \"Bullet Train\"",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-19",
+    "reading": "ちかてつ",
+    "kanji": "地下鉄",
+    "def": "subway",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-20",
+    "reading": "ふね",
+    "kanji": "船",
+    "def": "ship; boat",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-21",
+    "reading": "ひこうき",
+    "kanji": "飛行機",
+    "def": "airplane",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-22",
+    "reading": "よやく",
+    "kanji": "予約",
+    "def": "reservation",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-23",
+    "reading": "ツアー",
+    "kanji": "",
+    "def": "tour",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-24",
+    "reading": "どうぶつえん",
+    "kanji": "動物園",
+    "def": "zoo",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-25",
+    "reading": "じかん",
+    "kanji": "時間",
+    "def": "time",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-26",
+    "reading": "せかい",
+    "kanji": "世界",
+    "def": "world",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-27",
+    "reading": "びよういん",
+    "kanji": "美容院",
+    "def": "beauty parlor",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-28",
+    "reading": "てぶくろ",
+    "kanji": "手袋",
+    "def": "gloves",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-29",
+    "reading": "せいかつ",
+    "kanji": "生活",
+    "def": "life; living",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-30",
+    "reading": "ことし",
+    "kanji": "今年",
+    "def": "this year",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L10-31",
+    "reading": "あたたかい",
+    "kanji": "暖かい",
+    "def": "warm",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L10-32",
+    "reading": "すずしい",
+    "kanji": "涼しい",
+    "def": "cool (weather—not used for things)",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L10-33",
+    "reading": "つめたい",
+    "kanji": "冷たい",
+    "def": "cold (things/people)",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L10-34",
+    "reading": "おそい",
+    "kanji": "遅い",
+    "def": "slow; late",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L10-35",
+    "reading": "ねむい",
+    "kanji": "眠い",
+    "def": "sleepy",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L10-36",
+    "reading": "かんたん（な）",
+    "kanji": "簡単",
+    "def": "easy; simple",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L10-37",
+    "reading": "かかる",
+    "kanji": "",
+    "def": "to take (amount of time/money) (no particle)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L10-38",
+    "reading": "とまる",
+    "kanji": "泊まる",
+    "def": "to stay (at a hotel, etc.) (～に)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L10-39",
+    "reading": "なる",
+    "kanji": "",
+    "def": "to become",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L10-40",
+    "reading": "きめる",
+    "kanji": "決める",
+    "def": "to decide (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L10-41",
+    "reading": "ごろごろする",
+    "kanji": "",
+    "def": "to chill out at home; to stay home and do nothing",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L10-42",
+    "reading": "りょこうする",
+    "kanji": "旅行する",
+    "def": "to travel",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L10-43",
+    "reading": "れんしゅうする",
+    "kanji": "練習する",
+    "def": "to practice (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L10-44",
+    "reading": "いちばん",
+    "kanji": "一番",
+    "def": "best",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-45",
+    "reading": "どっち／どちら",
+    "kanji": "",
+    "def": "which",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-46",
+    "reading": "はやく",
+    "kanji": "早く／速く",
+    "def": "(do something) early; fast",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-47",
+    "reading": "あるいて",
+    "kanji": "歩いて",
+    "def": "on foot",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-48",
+    "reading": "～で",
+    "kanji": "",
+    "def": "by (means of transportation);\nwith (a tool)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-49",
+    "reading": "どうやって",
+    "kanji": "",
+    "def": "how; by what means",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-50",
+    "reading": "どのぐらい",
+    "kanji": "",
+    "def": "how much; how long",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-51",
+    "reading": "～しゅうかん",
+    "kanji": "～週間",
+    "def": "for . . . weeks",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-52",
+    "reading": "～かげつ",
+    "kanji": "～か月",
+    "def": "for . . . months",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-53",
+    "reading": "～ねん",
+    "kanji": "～年",
+    "def": ". . . years",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-54",
+    "reading": "このごろ",
+    "kanji": "",
+    "def": "these days",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-55",
+    "reading": "～ご",
+    "kanji": "～後",
+    "def": "in . . . time; after . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L10-56",
+    "reading": "～か～",
+    "kanji": "",
+    "def": "or",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  }
+]

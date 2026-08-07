@@ -1,0 +1,498 @@
+[
+  {
+    "id": "L11-1",
+    "reading": "がいこく",
+    "kanji": "外国",
+    "def": "foreign country",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-2",
+    "reading": "オーストラリア",
+    "kanji": "",
+    "def": "Australia",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-3",
+    "reading": "かわ",
+    "kanji": "川",
+    "def": "river",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-4",
+    "reading": "おんせん",
+    "kanji": "温泉",
+    "def": "spa; hot spring",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-5",
+    "reading": "つり",
+    "kanji": "",
+    "def": "fishing",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-6",
+    "reading": "みずうみ",
+    "kanji": "湖",
+    "def": "lake",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-7",
+    "reading": "やま",
+    "kanji": "山",
+    "def": "mountain",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-8",
+    "reading": "キャンプ",
+    "kanji": "",
+    "def": "camp",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-9",
+    "reading": "ドライブ",
+    "kanji": "",
+    "def": "drive",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-10",
+    "reading": "じんじゃ",
+    "kanji": "神社",
+    "def": "shrine",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-11",
+    "reading": "びじゅつかん",
+    "kanji": "美術館",
+    "def": "art museum",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-12",
+    "reading": "しゃちょう",
+    "kanji": "社長",
+    "def": "president of a company",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-13",
+    "reading": "かしゅ",
+    "kanji": "歌手",
+    "def": "singer",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L11-14",
+    "reading": "ルームメイト",
+    "kanji": "",
+    "def": "roommate",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-15",
+    "reading": "ホストファミリー",
+    "kanji": "",
+    "def": "host family",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-16",
+    "reading": "しょうらい",
+    "kanji": "将来",
+    "def": "future",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-17",
+    "reading": "ゆめ",
+    "kanji": "夢",
+    "def": "dream",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-18",
+    "reading": "おまつり",
+    "kanji": "お祭り",
+    "def": "festival",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-19",
+    "reading": "おしょうがつ",
+    "kanji": "お正月",
+    "def": "New Year's",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-20",
+    "reading": "おかし",
+    "kanji": "お菓子",
+    "def": "snack; sweets",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-21",
+    "reading": "ビール",
+    "kanji": "",
+    "def": "beer",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-22",
+    "reading": "おもちゃ",
+    "kanji": "",
+    "def": "toy",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-23",
+    "reading": "こんがっき",
+    "kanji": "今学期",
+    "def": "this semester",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-24",
+    "reading": "らいがっき",
+    "kanji": "来学期",
+    "def": "next semester",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-25",
+    "reading": "じゅぎょう",
+    "kanji": "授業",
+    "def": "class",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-26",
+    "reading": "こちら",
+    "kanji": "",
+    "def": "this person (polite)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L11-27",
+    "reading": "うそをつく",
+    "kanji": "",
+    "def": "to tell a lie",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-28",
+    "reading": "おなががすく",
+    "kanji": "",
+    "def": "to become hungry",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-29",
+    "reading": "かう",
+    "kanji": "飼う",
+    "def": "to own (a pet) (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-30",
+    "reading": "サボる",
+    "kanji": "",
+    "def": "to cut (classes) (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-31",
+    "reading": "とる",
+    "kanji": "取る",
+    "def": "to take (a class); to get (a grade) (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-32",
+    "reading": "ならう",
+    "kanji": "習う",
+    "def": "to learn (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-33",
+    "reading": "のぼる",
+    "kanji": "登る",
+    "def": "to climb (place に)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-34",
+    "reading": "はしる",
+    "kanji": "走る",
+    "def": "to run",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-35",
+    "reading": "つかれる",
+    "kanji": "疲れる",
+    "def": "to get tired",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-36",
+    "reading": "やめる",
+    "kanji": "",
+    "def": "to quit (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-37",
+    "reading": "けんかする",
+    "kanji": "",
+    "def": "to have a fight; to quarrel",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-38",
+    "reading": "しょうかいする",
+    "kanji": "紹介する",
+    "def": "to introduce (person に person を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-39",
+    "reading": "ダイエットする",
+    "kanji": "",
+    "def": "to go on a diet",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-40",
+    "reading": "ちこくする",
+    "kanji": "遅刻する",
+    "def": "to be late (for an appointment) (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-41",
+    "reading": "りゅうがくする",
+    "kanji": "留学する",
+    "def": "to study abroad (place に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L11-42",
+    "reading": "しゅっしん",
+    "kanji": "出身",
+    "def": "coming from (place の)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-43",
+    "reading": "ひさしぶり",
+    "kanji": "久しぶり",
+    "def": "it has been a long time",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-44",
+    "reading": "まあまあ",
+    "kanji": "",
+    "def": "okay; so-so",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-45",
+    "reading": "もっと",
+    "kanji": "",
+    "def": "more",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-46",
+    "reading": "あと",
+    "kanji": "後",
+    "def": "after (an event) (event の)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-47",
+    "reading": "そして",
+    "kanji": "",
+    "def": "and then",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-48",
+    "reading": "～だけ",
+    "kanji": "",
+    "def": "just . . . ; only . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-49",
+    "reading": "～てん",
+    "kanji": "～点",
+    "def": ". . . points",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L11-50",
+    "reading": "さっか",
+    "kanji": "作家",
+    "def": "writer",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-51",
+    "reading": "ジャーナリスト",
+    "kanji": "",
+    "def": "journalist",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-52",
+    "reading": "けいさつかん",
+    "kanji": "警察官",
+    "def": "police officer",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-53",
+    "reading": "しょうぼうし",
+    "kanji": "消防士",
+    "def": "firefighter",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-54",
+    "reading": "きょうし",
+    "kanji": "教師",
+    "def": "schoolteacher",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-55",
+    "reading": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "def": "researcher",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-56",
+    "reading": "うちゅうひこうし",
+    "kanji": "宇宙飛行士",
+    "def": "astronaut",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-57",
+    "reading": "スポーツせんしゅ",
+    "kanji": "スポーツ選手",
+    "def": "athlete",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-58",
+    "reading": "だいとうりょう",
+    "kanji": "大統領",
+    "def": "president of a country",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-59",
+    "reading": "はいゆう",
+    "kanji": "俳優",
+    "def": "actor; actress",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-60",
+    "reading": "かんごし",
+    "kanji": "看護師",
+    "def": "nurse",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-61",
+    "reading": "シェフ",
+    "kanji": "",
+    "def": "chef",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  },
+  {
+    "id": "L11-62",
+    "reading": "まんがか",
+    "kanji": "漫画家",
+    "def": "cartoonist",
+    "sect": "Occupations",
+    "subsect": "Occupations"
+  }
+]

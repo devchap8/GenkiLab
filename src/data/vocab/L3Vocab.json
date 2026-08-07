@@ -4,405 +4,463 @@
     "kanji": "朝",
     "type": "n.",
     "def": "morning",
-    "id": "L3-1"
+    "id": "L3-1",
+    "subsect": "Time"
   },
   {
     "reading": "あさごはん",
     "kanji": "朝ご飯",
     "type": "n.",
     "def": "breakfast",
-    "id": "L3-2"
+    "id": "L3-2",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "あした",
     "kanji": "明日",
     "type": "n.",
     "def": "tomorrow",
-    "id": "L3-3"
+    "id": "L3-3",
+    "subsect": "Time"
   },
   {
     "reading": "あまり ＋ negative",
     "kanji": "",
     "type": "adv.",
     "def": "not much",
-    "id": "L3-4"
+    "id": "L3-4",
+    "subsect": "Expressions"
   },
   {
     "reading": "いい",
     "kanji": "",
     "type": "い-adj.",
     "def": "good",
-    "id": "L3-5"
+    "id": "L3-5",
+    "subsect": "Adjectives and Places"
   },
   {
     "reading": "いえ",
     "kanji": "家",
     "type": "n.",
     "def": "home; house",
-    "id": "L3-6"
+    "id": "L3-6",
+    "subsect": "Adjectives and Places"
   },
   {
     "reading": "いく",
     "kanji": "行く",
     "type": "u-v.",
     "def": "to go",
-    "id": "L3-7"
+    "id": "L3-7",
+    "subsect": "Verbs"
   },
   {
     "reading": "いつ",
     "kanji": "",
     "type": "n.",
     "def": "when",
-    "id": "L3-8"
+    "id": "L3-8",
+    "subsect": "Time"
   },
   {
     "reading": "うち",
     "kanji": "",
     "type": "n.",
     "def": "home; house; my place",
-    "id": "L3-9"
+    "id": "L3-9",
+    "subsect": "Adjectives and Places"
   },
   {
     "reading": "えいが",
     "kanji": "映画",
     "type": "n.",
     "def": "movie",
-    "id": "L3-10"
+    "id": "L3-10",
+    "subsect": "Hobbies"
   },
   {
     "reading": "ええ",
     "kanji": "",
     "type": "exp.",
     "def": "yes",
-    "id": "L3-11"
+    "id": "L3-11",
+    "subsect": "Expressions"
   },
   {
     "reading": "おきる",
     "kanji": "起きる",
     "type": "ru-v.",
     "def": "to get up ",
-    "id": "L3-12"
+    "id": "L3-12",
+    "subsect": "Verbs"
   },
   {
     "reading": "おさけ",
     "kanji": "お酒",
     "type": "n.",
     "def": "sake; alcoholic drink",
-    "id": "L3-13"
+    "id": "L3-13",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "おちゃ",
     "kanji": "お茶",
     "type": "n.",
     "def": "green tea",
-    "id": "L3-14"
+    "id": "L3-14",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "おんがく",
     "kanji": "音楽",
     "type": "n.",
     "def": "music",
-    "id": "L3-15"
+    "id": "L3-15",
+    "subsect": "Hobbies"
   },
   {
     "reading": "かえる",
     "kanji": "帰る",
     "type": "u-v.",
     "def": "to go back; to return",
-    "id": "L3-16"
+    "id": "L3-16",
+    "subsect": "Verbs"
   },
   {
     "reading": "がっこう",
     "kanji": "学校",
     "type": "n.",
     "def": "school",
-    "id": "L3-17"
+    "id": "L3-17",
+    "subsect": "Adjectives and Places"
   },
   {
     "reading": "きく",
     "kanji": "聞く",
     "type": "u-v.",
     "def": "to ask",
-    "id": "L3-18"
+    "id": "L3-18",
+    "subsect": "Verbs"
   },
   {
     "reading": "きょう",
     "kanji": "今日",
     "type": "n.",
     "def": "today",
-    "id": "L3-19"
+    "id": "L3-19",
+    "subsect": "Time"
   },
   {
     "reading": "くる",
     "kanji": "来る",
     "type": "irr-v.",
     "def": "to come ",
-    "id": "L3-20"
+    "id": "L3-20",
+    "subsect": "Verbs"
   },
   {
     "reading": "こんばん",
     "kanji": "今晩",
     "type": "n.",
     "def": "tonight",
-    "id": "L3-21"
+    "id": "L3-21",
+    "subsect": "Time"
   },
   {
     "reading": "さけ",
     "kanji": "酒",
     "type": "n.",
     "def": "sake; alcohol",
-    "id": "L3-22"
+    "id": "L3-22",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "ざっし",
     "kanji": "雑誌",
     "type": "n.",
     "def": "magazine",
-    "id": "L3-23"
+    "id": "L3-23",
+    "subsect": "Hobbies"
   },
   {
     "reading": "しゅうまつ",
     "kanji": "週末",
     "type": "n.",
     "def": "weekend",
-    "id": "L3-24"
+    "id": "L3-24",
+    "subsect": "Time"
   },
   {
     "reading": "する",
     "kanji": "",
     "type": "irr-v.",
     "def": "to cost ",
-    "id": "L3-25"
+    "id": "L3-25",
+    "subsect": "Verbs"
   },
   {
     "reading": "ぜんぜん ＋ negative",
     "kanji": "全然",
     "type": "adv.",
     "def": "not at all",
-    "id": "L3-26"
+    "id": "L3-26",
+    "subsect": "Expressions"
   },
   {
     "reading": "そうですね",
     "kanji": "",
     "type": "exp.",
-    "def": "That’s right.; Let me see.",
-    "id": "L3-27"
+    "def": "That's right.; Let me see.",
+    "id": "L3-27",
+    "subsect": "Expressions"
   },
   {
     "reading": "たいてい",
     "kanji": "",
     "type": "adv.",
     "def": "usually",
-    "id": "L3-28"
+    "id": "L3-28",
+    "subsect": "Expressions"
   },
   {
     "reading": "たべる",
     "kanji": "食べる",
     "type": "ru-v.",
     "def": "to eat ",
-    "id": "L3-29"
+    "id": "L3-29",
+    "subsect": "Verbs"
   },
   {
     "reading": "ちょっと",
     "kanji": "",
     "type": "adv.",
     "def": "a little",
-    "id": "L3-30"
+    "id": "L3-30",
+    "subsect": "Expressions"
   },
   {
     "reading": "でも",
     "kanji": "",
     "type": "exp.",
     "def": "but",
-    "id": "L3-31"
+    "id": "L3-31",
+    "subsect": "Expressions"
   },
   {
     "reading": "ときどき",
     "kanji": "時々",
     "type": "adv.",
     "def": "sometimes",
-    "id": "L3-32"
+    "id": "L3-32",
+    "subsect": "Expressions"
   },
   {
     "reading": "どうですか",
     "kanji": "",
     "type": "exp.",
-    "def": "How about . . . ?; How is . . . ?",
-    "id": "L3-33"
+    "def": "How about . . . ?; How is . .. ?",
+    "id": "L3-33",
+    "subsect": "Expressions"
   },
   {
     "reading": "どようび",
     "kanji": "土曜日",
     "type": "n.",
     "def": "Saturday",
-    "id": "L3-34"
+    "id": "L3-34",
+    "subsect": "Time"
   },
   {
     "reading": "にちようび",
     "kanji": "日曜日",
     "type": "n.",
     "def": "Sunday",
-    "id": "L3-35"
+    "id": "L3-35",
+    "subsect": "Time"
   },
   {
     "reading": "ねる",
     "kanji": "寝る",
     "type": "ru-v.",
     "def": "to sleep; to go to sleep ",
-    "id": "L3-36"
+    "id": "L3-36",
+    "subsect": "Verbs"
   },
   {
     "reading": "のむ",
     "kanji": "飲む",
     "type": "u-v.",
     "def": "to drink",
-    "id": "L3-37"
+    "id": "L3-37",
+    "subsect": "Verbs"
   },
   {
     "reading": "はなす",
     "kanji": "話す",
     "type": "u-v.",
     "def": "to speak; to talk",
-    "id": "L3-38"
+    "id": "L3-38",
+    "subsect": "Verbs"
   },
   {
     "reading": "はやい",
     "kanji": "早い",
     "type": "い-adj.",
     "def": "early",
-    "id": "L3-39"
+    "id": "L3-39",
+    "subsect": "Adjectives and Places"
   },
   {
     "reading": "はやい",
     "kanji": "速い",
     "type": "い-adj.",
     "def": "fast",
-    "id": "L3-40"
+    "id": "L3-40",
+    "subsect": "Adjectives and Places"
   },
   {
     "reading": "ばんごはん",
     "kanji": "晩ご飯",
     "type": "n.",
     "def": "dinner",
-    "id": "L3-41"
+    "id": "L3-41",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "ひるごはん",
     "kanji": "昼ご飯",
     "type": "n.",
     "def": "lunch",
-    "id": "L3-42"
+    "id": "L3-42",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "べんきょうする",
     "kanji": "勉強する",
     "type": "irr-v.",
     "def": "to study ",
-    "id": "L3-43"
+    "id": "L3-43",
+    "subsect": "Hobbies"
   },
   {
     "reading": "まいにち",
     "kanji": "毎日",
     "type": "n.",
     "def": "every day",
-    "id": "L3-44"
+    "id": "L3-44",
+    "subsect": "Time"
   },
   {
     "reading": "まいばん",
     "kanji": "毎晩",
     "type": "n.",
     "def": "every night",
-    "id": "L3-45"
+    "id": "L3-45",
+    "subsect": "Time"
   },
   {
     "reading": "みず",
     "kanji": "水",
     "type": "n.",
     "def": "water",
-    "id": "L3-46"
+    "id": "L3-46",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "みる",
     "kanji": "見る",
     "type": "ru-v.",
     "def": "to see; to look at; to watch ",
-    "id": "L3-47"
+    "id": "L3-47",
+    "subsect": "Verbs"
   },
   {
     "reading": "よく",
     "kanji": "",
     "type": "adv.",
     "def": "often; much",
-    "id": "L3-48"
+    "id": "L3-48",
+    "subsect": "Expressions"
   },
   {
     "reading": "よむ",
     "kanji": "読む",
     "type": "u-v.",
     "def": "to read",
-    "id": "L3-49"
+    "id": "L3-49",
+    "subsect": "Verbs"
   },
   {
     "reading": "アイスクリーム",
     "kanji": "",
     "type": "n.",
     "def": "ice cream",
-    "id": "L3-50"
+    "id": "L3-50",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "カフェ",
     "kanji": "",
     "type": "n.",
     "def": "cafe",
-    "id": "L3-51"
+    "id": "L3-51",
+    "subsect": "Adjectives and Places"
   },
   {
     "reading": "コーヒー",
     "kanji": "",
     "type": "n.",
     "def": "coffee",
-    "id": "L3-52"
+    "id": "L3-52",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "スポーツ",
     "kanji": "",
     "type": "n.",
     "def": "sports",
-    "id": "L3-53"
+    "id": "L3-53",
+    "subsect": "Hobbies"
   },
   {
     "reading": "テニス",
     "kanji": "",
     "type": "n.",
     "def": "tennis",
-    "id": "L3-54"
+    "id": "L3-54",
+    "subsect": "Hobbies"
   },
   {
     "reading": "テレビ",
     "kanji": "",
     "type": "n.",
     "def": "TV",
-    "id": "L3-55"
+    "id": "L3-55",
+    "subsect": "Hobbies"
   },
   {
     "reading": "デート",
     "kanji": "",
     "type": "n.",
     "def": "date (romantic, not calendar)",
-    "id": "L3-56"
+    "id": "L3-56",
+    "subsect": "Hobbies"
   },
   {
     "reading": "ハンバーガー",
     "kanji": "",
     "type": "n.",
     "def": "hamburger",
-    "id": "L3-57"
+    "id": "L3-57",
+    "subsect": "Food & Drinks"
   },
   {
     "reading": "～ごろ",
     "kanji": "",
     "type": "suf.",
     "def": "at about . . .",
-    "id": "L3-58"
+    "id": "L3-58",
+    "subsect": "Time"
   }
 ]

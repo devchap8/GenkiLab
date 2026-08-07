@@ -1,0 +1,418 @@
+[
+  {
+    "id": "L16-1",
+    "reading": "えきいん（さん）",
+    "kanji": "駅員（さん）",
+    "def": "station attendant",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-2",
+    "reading": "おや",
+    "kanji": "親",
+    "def": "parent",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-3",
+    "reading": "しんせき",
+    "kanji": "親せき",
+    "def": "relatives",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-4",
+    "reading": "ごみ",
+    "kanji": "",
+    "def": "garbage",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-5",
+    "reading": "さとう",
+    "kanji": "砂糖",
+    "def": "sugar",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-6",
+    "reading": "ファイル",
+    "kanji": "",
+    "def": "(file) folder; portfolio; file",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-7",
+    "reading": "おおきさ",
+    "kanji": "大きさ",
+    "def": "size",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-8",
+    "reading": "みち",
+    "kanji": "道",
+    "def": "way; road; directions",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-9",
+    "reading": "きまつしけん",
+    "kanji": "期末試験",
+    "def": "final examination",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-10",
+    "reading": "けんきゅう",
+    "kanji": "研究",
+    "def": "research",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-11",
+    "reading": "だいがくいん",
+    "kanji": "大学院",
+    "def": "graduate school",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-12",
+    "reading": "しょうがくきん",
+    "kanji": "奨学金",
+    "def": "scholarship",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-13",
+    "reading": "すいせんじょう",
+    "kanji": "推薦状",
+    "def": "letter of recommendation",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-14",
+    "reading": "たいふう",
+    "kanji": "台風",
+    "def": "typhoon",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-15",
+    "reading": "ぶんか",
+    "kanji": "文化",
+    "def": "culture",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-16",
+    "reading": "へんじ",
+    "kanji": "返事",
+    "def": "reply",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-17",
+    "reading": "ひ",
+    "kanji": "日",
+    "def": "day",
+    "sect": "Nouns",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-18",
+    "reading": "きたない",
+    "kanji": "汚い",
+    "def": "dirty",
+    "sect": "い-adjectives",
+    "subsect": "Nouns and Adjectives"
+  },
+  {
+    "id": "L16-19",
+    "reading": "おこす",
+    "kanji": "起こす",
+    "def": "to wake (someone) up (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-20",
+    "reading": "おごる",
+    "kanji": "",
+    "def": "to treat (someone) to a meal (person に meal を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-21",
+    "reading": "わらう",
+    "kanji": "笑う",
+    "def": "to laugh",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-22",
+    "reading": "おちこむ",
+    "kanji": "落ち込む",
+    "def": "to get depressed",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-23",
+    "reading": "こまる",
+    "kanji": "困る",
+    "def": "to have difficulty",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-24",
+    "reading": "だす",
+    "kanji": "出す",
+    "def": "to take (something) out; to hand in (something) (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-25",
+    "reading": "なおす",
+    "kanji": "直す",
+    "def": "to correct; to fix (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-26",
+    "reading": "みつかる",
+    "kanji": "見つかる",
+    "def": "to be found (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-27",
+    "reading": "やくす",
+    "kanji": "訳す",
+    "def": "to translate (source を target に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-28",
+    "reading": "かす",
+    "kanji": "貸す",
+    "def": "to lend (person に thing を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-29",
+    "reading": "つれていく",
+    "kanji": "連れていく",
+    "def": "to take (someone) to (a place) (person を place に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-30",
+    "reading": "みちにまよう",
+    "kanji": "道に迷う",
+    "def": "to become lost; to lose one's way",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-31",
+    "reading": "むかえにいく",
+    "kanji": "迎えに行く",
+    "def": "to go to pick up (place まで/に person を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L16-32",
+    "reading": "あつめる",
+    "kanji": "集める",
+    "def": "to collect (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-33",
+    "reading": "いれる",
+    "kanji": "入れる",
+    "def": "to put (something) in (thing を place に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-34",
+    "reading": "みせる",
+    "kanji": "見せる",
+    "def": "to show (person に thing を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-35",
+    "reading": "のりおくれる",
+    "kanji": "乗り遅れる",
+    "def": "to miss (a train, bus, etc.) (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-36",
+    "reading": "アイロンをかける",
+    "kanji": "",
+    "def": "to iron (clothes) (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-37",
+    "reading": "あさねぼうする",
+    "kanji": "朝寝坊する",
+    "def": "to oversleep",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-38",
+    "reading": "あんないする",
+    "kanji": "案内する",
+    "def": "to show (someone) around (place を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-39",
+    "reading": "せつめいする",
+    "kanji": "説明する",
+    "def": "to explain",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-40",
+    "reading": "むかえにくる",
+    "kanji": "迎えに来る",
+    "def": "to come to pick up (place まで/に person を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L16-41",
+    "reading": "きょうじゅうに",
+    "kanji": "今日中に",
+    "def": "by the end of today",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-42",
+    "reading": "じゅぎょうちゅうに",
+    "kanji": "授業中に",
+    "def": "in class; during the class",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-43",
+    "reading": "このあいだ",
+    "kanji": "この間",
+    "def": "the other day",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-44",
+    "reading": "これから",
+    "kanji": "",
+    "def": "from now on",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-45",
+    "reading": "このぐらい",
+    "kanji": "",
+    "def": "about this much (= これぐらい / このくらい / これくらい)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-46",
+    "reading": "じぶんで",
+    "kanji": "自分で",
+    "def": "(do something) by oneself",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-47",
+    "reading": "ほかの",
+    "kanji": "他の",
+    "def": "other",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-48",
+    "reading": "ええと",
+    "kanji": "",
+    "def": "well . . . ; let me see . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-49",
+    "reading": "じつは",
+    "kanji": "実は",
+    "def": "actually; in fact",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-50",
+    "reading": "～いがい",
+    "kanji": "～以外",
+    "def": "other than . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-51",
+    "reading": "ごめん",
+    "kanji": "",
+    "def": "I'm sorry. (casual)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L16-52",
+    "reading": "しつれいします",
+    "kanji": "失礼します",
+    "def": "Excuse me.; Sorry to interrupt you.",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  }
+]

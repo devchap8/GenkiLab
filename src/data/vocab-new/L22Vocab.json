@@ -1,0 +1,450 @@
+[
+  {
+    "id": "L22-1",
+    "reading": "かぜ",
+    "kanji": "風",
+    "def": "wind",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-2",
+    "reading": "き",
+    "kanji": "木",
+    "def": "tree",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-3",
+    "reading": "ボール",
+    "kanji": "",
+    "def": "ball",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-4",
+    "reading": "さる",
+    "kanji": "猿",
+    "def": "monkey",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-5",
+    "reading": "めんきょ",
+    "kanji": "免許",
+    "def": "license",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-6",
+    "reading": "よしゅう",
+    "kanji": "予習",
+    "def": "preparation of a lesson",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-7",
+    "reading": "ふくしゅう",
+    "kanji": "復習",
+    "def": "review of a lesson",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-8",
+    "reading": "じゅく",
+    "kanji": "塾",
+    "def": "cram school",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-9",
+    "reading": "えいかいわ",
+    "kanji": "英会話",
+    "def": "English conversation",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-10",
+    "reading": "あいて",
+    "kanji": "相手",
+    "def": "partner; the other person",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-11",
+    "reading": "おじょうさん",
+    "kanji": "お嬢さん",
+    "def": "(someone's) daughter (polite)",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-12",
+    "reading": "かみさま",
+    "kanji": "神様",
+    "def": "God",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L22-13",
+    "reading": "せんぱい",
+    "kanji": "先輩",
+    "def": "senior member of a group",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-14",
+    "reading": "こうはい",
+    "kanji": "後輩",
+    "def": "junior member of a group",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-15",
+    "reading": "ぶか",
+    "kanji": "部下",
+    "def": "subordinate",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-16",
+    "reading": "うけつけ",
+    "kanji": "受付",
+    "def": "reception desk",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-17",
+    "reading": "しょるい",
+    "kanji": "書類",
+    "def": "document",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-18",
+    "reading": "プロジェクト",
+    "kanji": "",
+    "def": "project",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-19",
+    "reading": "かじ",
+    "kanji": "家事",
+    "def": "housework",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-20",
+    "reading": "ヨーロッパ",
+    "kanji": "",
+    "def": "Europe",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-21",
+    "reading": "ひとりぐらし",
+    "kanji": "一人暮らし",
+    "def": "living alone",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-22",
+    "reading": "じゆう",
+    "kanji": "自由",
+    "def": "freedom",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-23",
+    "reading": "むだづかい",
+    "kanji": "無駄遣い",
+    "def": "waste (money)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L22-24",
+    "reading": "うるさい",
+    "kanji": "",
+    "def": "noisy; annoying",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-25",
+    "reading": "しんぱい（な）",
+    "kanji": "心配",
+    "def": "worried about (～が)",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-26",
+    "reading": "びんぼう（な）",
+    "kanji": "貧乏",
+    "def": "poor",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-27",
+    "reading": "ぺらぺら（な）",
+    "kanji": "",
+    "def": "fluent (language が)",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-28",
+    "reading": "らく（な）",
+    "kanji": "楽",
+    "def": "easy; comfortable",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-29",
+    "reading": "かぜがふく",
+    "kanji": "風が吹く",
+    "def": "the wind blows",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-30",
+    "reading": "コピーをとる",
+    "kanji": "コピーを取る",
+    "def": "to make a photocopy",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-31",
+    "reading": "はこぶ",
+    "kanji": "運ぶ",
+    "def": "to carry (～を)",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-32",
+    "reading": "ひろう",
+    "kanji": "拾う",
+    "def": "to pick up (something) (～を)",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-33",
+    "reading": "ほ（う）っておく",
+    "kanji": "放っておく",
+    "def": "to leave (someone/something) alone; to neglect (～を)",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-34",
+    "reading": "まにあう",
+    "kanji": "間に合う",
+    "def": "to be in time (～に)",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-35",
+    "reading": "かつ",
+    "kanji": "勝つ",
+    "def": "to win (～に)",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and U-verbs"
+  },
+  {
+    "id": "L22-36",
+    "reading": "うける",
+    "kanji": "受ける",
+    "def": "to take (an examination) (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-37",
+    "reading": "けいかくをたてる",
+    "kanji": "計画を立てる",
+    "def": "to make a plan",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-38",
+    "reading": "そだてる",
+    "kanji": "育てる",
+    "def": "to raise; to bring up (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-39",
+    "reading": "たすける",
+    "kanji": "助ける",
+    "def": "to help; to rescue (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-40",
+    "reading": "まける",
+    "kanji": "負ける",
+    "def": "to lose (a match) (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-41",
+    "reading": "おねがいする",
+    "kanji": "お願いする",
+    "def": "to request help (person に～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-42",
+    "reading": "さんせいする",
+    "kanji": "賛成する",
+    "def": "to agree (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-43",
+    "reading": "はんたいする",
+    "kanji": "反対する",
+    "def": "to oppose; to object to (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-44",
+    "reading": "しっぱいする",
+    "kanji": "失敗する",
+    "def": "to fail; to be unsuccessful",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-45",
+    "reading": "てつやする",
+    "kanji": "徹夜する",
+    "def": "to stay up all night",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-46",
+    "reading": "ほんやくする",
+    "kanji": "翻訳する",
+    "def": "to translate (source と target に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L22-47",
+    "reading": "こんなふう",
+    "kanji": "",
+    "def": "like this",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-48",
+    "reading": "じゆうに",
+    "kanji": "自由に",
+    "def": "freely",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-49",
+    "reading": "ずっと",
+    "kanji": "",
+    "def": "for a long time; all the time",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-50",
+    "reading": "ぜったいに",
+    "kanji": "絶対に",
+    "def": "definitely",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-51",
+    "reading": "なんども",
+    "kanji": "何度も",
+    "def": "many times",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-52",
+    "reading": "もうすこし",
+    "kanji": "もう少し",
+    "def": "a little more",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-53",
+    "reading": "～とか",
+    "kanji": "",
+    "def": ". . . for example",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-54",
+    "reading": "そんなこと（は）ない",
+    "kanji": "",
+    "def": "I don't think so.",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-55",
+    "reading": "～ちゃん",
+    "kanji": "",
+    "def": "[suffix for names of children]",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L22-56",
+    "reading": "おおくの～",
+    "kanji": "多くの～",
+    "def": "many . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  }
+]
