@@ -11,6 +11,7 @@ const sortVals = {
 
 export default function VocabList({}) {
     const params = useParams();
+    const [readingsHidden, setReadingsHidden] = useState(false);
     const [defsHidden, setDefsHidden] = useState(false);
 
     const vocab = data.vocab[params.chapter].toSorted((a, b) => sortVals[a.type] - sortVals[b.type]);
@@ -23,10 +24,17 @@ export default function VocabList({}) {
 
             <h2 className="text-center text-4xl font-bold">Lesson {params.chapter.replace("L", "")} Vocab</h2>
 
-            <label className="max-w-200 w-full self-center flex gap-3 justify-end items-center" htmlFor="hideDefsCheckbox">
-                <div>Hide Definitions</div>
-                <input className="size-5" onClick={() => setDefsHidden(!defsHidden)} defaultChecked={defsHidden} type="checkbox" id="hideDefsCheckbox" name="hideDefsCheckbox"></input>
-            </label>
+            <div className="max-w-200 w-full self-center flex justify-between">
+                <label className="flex gap-3 justify-end items-center" htmlFor="hideReadingsCheckbox">
+                    <div>Hide Readings</div>
+                    <input className="size-5" onClick={() => setReadingsHidden(!readingsHidden)} defaultChecked={readingsHidden} type="checkbox" id="hideReadingsCheckbox" name="hideReadingsCheckbox"></input>
+                </label>                
+                <label className="flex gap-3 justify-end items-center" htmlFor="hideDefsCheckbox">
+                    <div>Hide Definitions</div>
+                    <input className="size-5" onClick={() => setDefsHidden(!defsHidden)} defaultChecked={defsHidden} type="checkbox" id="hideDefsCheckbox" name="hideDefsCheckbox"></input>
+                </label>
+            </div>
+
             
             <table className="max-w-200 w-full self-center border-2 border-genki-orange">
                 <thead>
@@ -38,7 +46,7 @@ export default function VocabList({}) {
                 </thead>
                 <tbody>
                     {vocabPairs.map(vocabPair => 
-                        <VocabListSection vocabPair={vocabPair} defsHidden={defsHidden} key={vocabPair[0]}/>
+                        <VocabListSection vocabPair={vocabPair} readingsHidden={readingsHidden} defsHidden={defsHidden} key={vocabPair[0]}/>
                     )}
                 </tbody>
 
