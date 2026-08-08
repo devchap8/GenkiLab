@@ -1,625 +1,450 @@
 [
   {
-    "reading": "あさって",
-    "kanji": "",
-    "type": "n.",
-    "def": "the day after tomorrow",
-    "id": "L8-1"
-  },
-  {
-    "reading": "あめ",
-    "kanji": "雨",
-    "type": "n.",
-    "def": "rain",
-    "id": "L8-2"
-  },
-  {
-    "reading": "あらう",
-    "kanji": "洗う",
-    "type": "u-v.",
-    "def": "to wash",
-    "id": "L8-3"
-  },
-  {
-    "reading": "いう",
-    "kanji": "言う",
-    "type": "u-v.",
-    "def": "to say",
-    "id": "L8-4"
-  },
-  {
-    "reading": "いちご",
-    "kanji": "",
-    "type": "n.",
-    "def": "strawberry",
-    "id": "L8-5"
-  },
-  {
-    "reading": "いつも",
-    "kanji": "",
-    "type": "adv.",
-    "def": "always",
-    "id": "L8-6"
-  },
-  {
-    "reading": "いる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "(a person) is in . . . ; stays at . . . ",
-    "id": "L8-7"
-  },
-  {
-    "reading": "いる",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to need",
-    "id": "L8-8"
-  },
-  {
-    "reading": "ううん",
-    "kanji": "",
-    "type": "exp.",
-    "def": "uh-uh; no",
-    "id": "L8-9"
-  },
-  {
-    "reading": "うん",
-    "kanji": "",
-    "type": "exp.",
-    "def": "uh-huh; yes",
-    "id": "L8-10"
-  },
-  {
-    "reading": "うんてんする",
-    "kanji": "運転する",
-    "type": "irr-v.",
-    "def": "to drive ",
-    "id": "L8-11"
-  },
-  {
-    "reading": "おそく",
-    "kanji": "遅く",
-    "type": "adv.",
-    "def": "(do something) late",
-    "id": "L8-12"
-  },
-  {
-    "reading": "おそくなる",
-    "kanji": "遅くなる",
-    "type": "u-v.",
-    "def": "to be late",
-    "id": "L8-13"
-  },
-  {
-    "reading": "おふろ",
-    "kanji": "お風呂",
-    "type": "n.",
-    "def": "bath",
-    "id": "L8-14"
-  },
-  {
-    "reading": "おふろにはいる",
-    "kanji": "お風呂に入る",
-    "type": "u-v.",
-    "def": "to take a bath",
-    "id": "L8-15"
-  },
-  {
-    "reading": "おもう",
-    "kanji": "思う",
-    "type": "u-v.",
-    "def": "to think",
-    "id": "L8-16"
-  },
-  {
-    "reading": "かいしゃいん",
-    "kanji": "会社員",
-    "type": "n.",
-    "def": "office worker",
-    "id": "L8-17"
-  },
-  {
-    "reading": "かんぱい",
-    "kanji": "乾杯",
-    "type": "exp.",
-    "def": "Cheers! (a toast)",
-    "id": "L8-18"
-  },
-  {
-    "reading": "きおん",
-    "kanji": "気温",
-    "type": "n.",
-    "def": "temperature (weather)",
-    "id": "L8-19"
-  },
-  {
-    "reading": "きゅうり",
-    "kanji": "",
-    "type": "n.",
-    "def": "cucumber",
-    "id": "L8-20"
-  },
-  {
-    "reading": "きる",
-    "kanji": "切る",
-    "type": "u-v.",
-    "def": "to cut",
-    "id": "L8-21"
-  },
-  {
-    "reading": "きる",
-    "kanji": "着る",
-    "type": "ru-v.",
-    "def": "to put on (clothes above your waist) ",
-    "id": "L8-22"
-  },
-  {
-    "reading": "ぎゅうにく",
-    "kanji": "牛肉",
-    "type": "n.",
-    "def": "beef",
-    "id": "L8-23"
-  },
-  {
-    "reading": "くもり",
-    "kanji": "曇り",
-    "type": "n.",
-    "def": "cloudy weather",
-    "id": "L8-24"
-  },
-  {
-    "reading": "けさ",
-    "kanji": "今朝",
-    "type": "n.",
-    "def": "this morning",
-    "id": "L8-25"
-  },
-  {
-    "reading": "こたえる",
-    "kanji": "答える",
-    "type": "ru-v.",
-    "def": "to answer ",
-    "id": "L8-26"
-  },
-  {
-    "reading": "このあいだ",
-    "kanji": "この間",
-    "type": "adv.",
-    "def": "the other day",
-    "id": "L8-27"
-  },
-  {
-    "reading": "こんげつ",
-    "kanji": "今月",
-    "type": "n.",
-    "def": "this month",
-    "id": "L8-28"
-  },
-  {
-    "reading": "さいごに",
-    "kanji": "最後に",
-    "type": "adv.",
-    "def": "finally; lastly",
-    "id": "L8-29"
-  },
-  {
-    "reading": "ざんぎょう",
-    "kanji": "残業",
-    "type": "n.",
-    "def": "overtime work",
-    "id": "L8-30"
-  },
-  {
-    "reading": "ざんねん（ですね）",
-    "kanji": "残念（ですね）",
-    "type": "exp.",
-    "def": "That’s too bad.",
-    "id": "L8-31"
-  },
-  {
-    "reading": "しごと",
-    "kanji": "仕事",
-    "type": "n.",
-    "def": "job; work; occupation",
-    "id": "L8-32"
-  },
-  {
-    "reading": "じゃがいも",
-    "kanji": "",
-    "type": "n.",
-    "def": "potato",
-    "id": "L8-33"
-  },
-  {
-    "reading": "じょうず（な）",
-    "kanji": "上手",
-    "type": "な-adj.",
-    "def": "skillful; good at . . .",
-    "id": "L8-34"
-  },
-  {
-    "reading": "すいか",
-    "kanji": "",
-    "type": "n.",
-    "def": "watermelon",
-    "id": "L8-35"
-  },
-  {
-    "reading": "すてる",
-    "kanji": "捨てる",
-    "type": "ru-v.",
-    "def": "to throw away ",
-    "id": "L8-36"
-  },
-  {
-    "reading": "せんたくする",
-    "kanji": "洗濯する",
-    "type": "irr-v.",
-    "def": "to do laundry ",
-    "id": "L8-37"
-  },
-  {
-    "reading": "そうじする",
-    "kanji": "掃除する",
-    "type": "irr-v.",
-    "def": "to clean ",
-    "id": "L8-38"
-  },
-  {
-    "reading": "たまねぎ",
-    "kanji": "",
-    "type": "n.",
-    "def": "onion",
-    "id": "L8-39"
-  },
-  {
-    "reading": "つかれている",
-    "kanji": "疲れている",
-    "type": "exp.",
-    "def": "to be tired",
-    "id": "L8-40"
-  },
-  {
-    "reading": "つぎに",
-    "kanji": "次に",
-    "type": "adv.",
-    "def": "secondly",
-    "id": "L8-41"
-  },
-  {
-    "reading": "つくる",
-    "kanji": "作る",
-    "type": "u-v.",
-    "def": "to make",
-    "id": "L8-42"
-  },
-  {
-    "reading": "てんきよほう",
-    "kanji": "天気予報",
-    "type": "n.",
-    "def": "weather forecast",
-    "id": "L8-43"
-  },
-  {
-    "reading": "ところ",
-    "kanji": "所",
-    "type": "n.",
-    "def": "place",
-    "id": "L8-44"
-  },
-  {
-    "reading": "とりにく",
-    "kanji": "鶏肉",
-    "type": "n.",
-    "def": "chicken",
-    "id": "L8-45"
-  },
-  {
-    "reading": "どう",
-    "kanji": "",
-    "type": "adv.",
-    "def": "how",
-    "id": "L8-46"
-  },
-  {
-    "reading": "なす",
-    "kanji": "",
-    "type": "n.",
-    "def": "eggplant",
-    "id": "L8-47"
-  },
-  {
-    "reading": "なつ",
-    "kanji": "夏",
-    "type": "n.",
-    "def": "summer",
-    "id": "L8-48"
-  },
-  {
-    "reading": "なにか",
-    "kanji": "何か",
-    "type": "n.",
-    "def": "something",
-    "id": "L8-49"
-  },
-  {
-    "reading": "にんじん",
-    "kanji": "",
-    "type": "n.",
-    "def": "carrot",
-    "id": "L8-50"
-  },
-  {
-    "reading": "はし",
-    "kanji": "",
-    "type": "n.",
-    "def": "chopsticks",
-    "id": "L8-51"
-  },
-  {
-    "reading": "はじめる",
-    "kanji": "始める",
-    "type": "ru-v.",
-    "def": "to begin ",
-    "id": "L8-52"
-  },
-  {
-    "reading": "はなし",
-    "kanji": "話",
-    "type": "n.",
-    "def": "story; talk",
-    "id": "L8-53"
-  },
-  {
+    "id": "L8-1",
     "reading": "はれ",
     "kanji": "晴れ",
-    "type": "n.",
     "def": "sunny weather",
-    "id": "L8-54"
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
   },
   {
-    "reading": "ふくろ",
-    "kanji": "袋",
-    "type": "n.",
-    "def": "bag; sack; plastic/paper bag",
-    "id": "L8-55"
+    "id": "L8-2",
+    "reading": "あめ",
+    "kanji": "雨",
+    "def": "rain",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
   },
   {
-    "reading": "ふゆ",
-    "kanji": "冬",
-    "type": "n.",
-    "def": "winter",
-    "id": "L8-56"
+    "id": "L8-3",
+    "reading": "くもり",
+    "kanji": "曇り",
+    "def": "cloudy weather",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
   },
   {
-    "reading": "ふる（あめ/ゆきが）",
-    "kanji": "降る（雨/雪が）",
-    "type": "u-v.",
-    "def": "(rain/snow) falls",
-    "id": "L8-57"
-  },
-  {
-    "reading": "ぶたにく",
-    "kanji": "豚肉",
-    "type": "n.",
-    "def": "pork",
-    "id": "L8-58"
-  },
-  {
-    "reading": "ぶどう",
-    "kanji": "",
-    "type": "n.",
-    "def": "grape",
-    "id": "L8-59"
-  },
-  {
-    "reading": "へた（な）",
-    "kanji": "下手",
-    "type": "な-adj.",
-    "def": "clumsy; poor at . . .",
-    "id": "L8-60"
-  },
-  {
-    "reading": "まいしゅう",
-    "kanji": "毎週",
-    "type": "n.",
-    "def": "every week",
-    "id": "L8-61"
-  },
-  {
-    "reading": "まず",
-    "kanji": "",
-    "type": "adv.",
-    "def": "first of all",
-    "id": "L8-62"
-  },
-  {
-    "reading": "まだ ＋ negative",
-    "kanji": "",
-    "type": "adv.",
-    "def": "not . . . yet",
-    "id": "L8-63"
-  },
-  {
-    "reading": "みかん",
-    "kanji": "",
-    "type": "n.",
-    "def": "mandarin orange",
-    "id": "L8-64"
-  },
-  {
-    "reading": "みんなで",
-    "kanji": "",
-    "type": "n.",
-    "def": "all (of the people) together",
-    "id": "L8-65"
-  },
-  {
-    "reading": "もっていく",
-    "kanji": "持っていく",
-    "type": "u-v.",
-    "def": "to take (a thing)",
-    "id": "L8-66"
-  },
-  {
-    "reading": "もも",
-    "kanji": "",
-    "type": "n.",
-    "def": "peach",
-    "id": "L8-67"
-  },
-  {
-    "reading": "ゆうめい（な）",
-    "kanji": "有名",
-    "type": "な-adj.",
-    "def": "famous",
-    "id": "L8-68"
-  },
-  {
+    "id": "L8-4",
     "reading": "ゆき",
     "kanji": "雪",
-    "type": "n.",
     "def": "snow",
-    "id": "L8-69"
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
   },
   {
+    "id": "L8-5",
+    "reading": "てんきよほう",
+    "kanji": "天気予報",
+    "def": "weather forecast",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-6",
+    "reading": "きおん",
+    "kanji": "気温",
+    "def": "temperature (weather—not used for things)",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-7",
+    "reading": "なつ",
+    "kanji": "夏",
+    "def": "summer",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-8",
+    "reading": "ふゆ",
+    "kanji": "冬",
+    "def": "winter",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-9",
+    "reading": "けさ",
+    "kanji": "今朝",
+    "def": "this morning",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-10",
+    "reading": "あさって",
+    "kanji": "",
+    "def": "the day after tomorrow",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-11",
+    "reading": "まいしゅう",
+    "kanji": "毎週",
+    "def": "every week",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-12",
+    "reading": "こんげつ",
+    "kanji": "今月",
+    "def": "this month",
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
+  },
+  {
+    "id": "L8-13",
     "reading": "らいげつ",
     "kanji": "来月",
-    "type": "n.",
     "def": "next month",
-    "id": "L8-70"
+    "sect": "Nouns",
+    "subsect": "Weather and Calendar"
   },
   {
-    "reading": "りょうりする",
-    "kanji": "料理する",
-    "type": "irr-v.",
-    "def": "to cook ",
-    "id": "L8-71"
+    "id": "L8-14",
+    "reading": "かいしゃいん",
+    "kanji": "会社員",
+    "def": "office worker",
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "りんご",
-    "kanji": "",
-    "type": "n.",
-    "def": "apple",
-    "id": "L8-72"
+    "id": "L8-15",
+    "reading": "しごと",
+    "kanji": "仕事",
+    "def": "job; work; occupation",
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "アボカド",
-    "kanji": "",
-    "type": "n.",
-    "def": "avocado",
-    "id": "L8-73"
-  },
-  {
-    "reading": "アレルギー",
-    "kanji": "",
-    "type": "n.",
-    "def": "allergy",
-    "id": "L8-74"
-  },
-  {
-    "reading": "アンケート",
-    "kanji": "",
-    "type": "n.",
-    "def": "questionnaire",
-    "id": "L8-75"
-  },
-  {
+    "id": "L8-16",
     "reading": "カメラ",
     "kanji": "",
-    "type": "n.",
     "def": "camera",
-    "id": "L8-76"
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
+    "id": "L8-17",
     "reading": "カラオケ",
     "kanji": "",
-    "type": "n.",
     "def": "karaoke",
-    "id": "L8-77"
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "キャベツ",
-    "kanji": "",
-    "type": "n.",
-    "def": "cabbage",
-    "id": "L8-78"
+    "id": "L8-18",
+    "reading": "ところ",
+    "kanji": "所",
+    "def": "place",
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "ストレス",
-    "kanji": "",
-    "type": "n.",
-    "def": "stress",
-    "id": "L8-79"
-  },
-  {
-    "reading": "スペイン",
-    "kanji": "",
-    "type": "n.",
-    "def": "Spain",
-    "id": "L8-80"
-  },
-  {
+    "id": "L8-19",
     "reading": "トマト",
     "kanji": "",
-    "type": "n.",
     "def": "tomato",
-    "id": "L8-81"
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "ハラルフード",
+    "id": "L8-20",
+    "reading": "はし",
     "kanji": "",
-    "type": "n.",
-    "def": "halal",
-    "id": "L8-82"
+    "def": "chopsticks",
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "バーベキュー",
-    "kanji": "",
-    "type": "n.",
-    "def": "barbecue",
-    "id": "L8-83"
-  },
-  {
+    "id": "L8-21",
     "reading": "パーティー",
     "kanji": "",
-    "type": "n.",
     "def": "party",
-    "id": "L8-84"
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "ピーナッツ",
+    "id": "L8-22",
+    "reading": "バーベキュー",
     "kanji": "",
-    "type": "n.",
-    "def": "peanut",
-    "id": "L8-85"
+    "def": "barbecue",
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
+    "id": "L8-23",
     "reading": "ホームステイ",
     "kanji": "",
-    "type": "n.",
     "def": "homestay; living with a local family",
-    "id": "L8-86"
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "（〜の）あと",
-    "kanji": "後",
-    "type": "exp.",
-    "def": "after (an event)",
-    "id": "L8-87"
+    "id": "L8-24",
+    "reading": "おふろ",
+    "kanji": "お風呂",
+    "def": "bath",
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
-    "reading": "～ど",
-    "kanji": "～度",
-    "type": "suf.",
-    "def": ". . . degrees (temperature)",
-    "id": "L8-88"
+    "id": "L8-25",
+    "reading": "スペイン",
+    "kanji": "",
+    "def": "Spain",
+    "sect": "Nouns",
+    "subsect": "Nouns"
   },
   {
+    "id": "L8-26",
+    "reading": "なにか",
+    "kanji": "何か",
+    "def": "something",
+    "sect": "Nouns",
+    "subsect": "Nouns"
+  },
+  {
+    "id": "L8-27",
+    "reading": "じょうず（な）",
+    "kanji": "上手",
+    "def": "skillful; good at . . . (～が)",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-28",
+    "reading": "へた（な）",
+    "kanji": "下手",
+    "def": "clumsy; poor at . . . (～が)",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-29",
+    "reading": "ゆうめい（な）",
+    "kanji": "有名",
+    "def": "famous",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-30",
+    "reading": "あらう",
+    "kanji": "洗う",
+    "def": "to wash (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-31",
+    "reading": "いう",
+    "kanji": "言う",
+    "def": "to say",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-32",
+    "reading": "いる",
+    "kanji": "",
+    "def": "to need (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-33",
+    "reading": "おそくなる",
+    "kanji": "遅くなる",
+    "def": "to be late",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-34",
+    "reading": "おふろにはいる",
+    "kanji": "お風呂に入る",
+    "def": "to take a bath",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-35",
+    "reading": "おもう",
+    "kanji": "思う",
+    "def": "to think",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-36",
+    "reading": "きる",
+    "kanji": "切る",
+    "def": "to cut (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-37",
+    "reading": "つくる",
+    "kanji": "作る",
+    "def": "to make (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-38",
+    "reading": "（あめ／ゆきが）ふる",
+    "kanji": "（雨／雪が）降る",
+    "def": "(rain/snow) falls",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-39",
+    "reading": "もっていく",
+    "kanji": "持っていく",
+    "def": "to take (a thing) (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L8-40",
+    "reading": "すてる",
+    "kanji": "捨てる",
+    "def": "to throw away (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L8-41",
+    "reading": "はじめる",
+    "kanji": "始める",
+    "def": "to begin (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L8-42",
+    "reading": "うんてんする",
+    "kanji": "運転する",
+    "def": "to drive (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L8-43",
+    "reading": "せんたくする",
+    "kanji": "洗濯する",
+    "def": "to do laundry (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L8-44",
+    "reading": "そうじする",
+    "kanji": "掃除する",
+    "def": "to clean (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L8-45",
+    "reading": "りょうりする",
+    "kanji": "料理する",
+    "def": "to cook",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L8-46",
+    "reading": "うん",
+    "kanji": "",
+    "def": "uh-huh; yes",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-47",
+    "reading": "ううん",
+    "kanji": "",
+    "def": "uh-uh; no",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-48",
+    "reading": "いつも",
+    "kanji": "",
+    "def": "always",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-49",
+    "reading": "おそく",
+    "kanji": "遅く",
+    "def": "(do something) late",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-50",
+    "reading": "かんぱい",
+    "kanji": "乾杯",
+    "def": "Cheers! (a toast)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-51",
+    "reading": "みんなで",
+    "kanji": "",
+    "def": "all (of the people) together",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-52",
+    "reading": "ざんねん（ですね）",
+    "kanji": "残念（ですね）",
+    "def": "That's too bad.",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-53",
+    "reading": "まだ + negative",
+    "kanji": "",
+    "def": "not . . . yet",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-54",
     "reading": "～について",
     "kanji": "",
-    "type": "part.",
     "def": "about . . . ; concerning . . .",
-    "id": "L8-89"
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-55",
+    "reading": "～ど",
+    "kanji": "～度",
+    "def": ". . . degrees (temperature)",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L8-56",
+    "reading": "どう",
+    "kanji": "",
+    "def": "how",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
   }
 ]

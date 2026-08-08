@@ -1,793 +1,426 @@
 [
   {
-    "reading": "〜など",
-    "kanji": "",
-    "type": "suf.",
-    "def": "and so forth",
-    "id": "L12-1"
-  },
-  {
-    "reading": "あし",
-    "kanji": "足",
-    "type": "n.",
-    "def": "leg; foot",
-    "id": "L12-2"
-  },
-  {
-    "reading": "あまい",
-    "kanji": "甘い",
-    "type": "い-adj.",
-    "def": "sweet",
-    "id": "L12-3"
-  },
-  {
-    "reading": "あまのがわ",
-    "kanji": "天の川",
-    "type": "n.",
-    "def": "the Milky Way",
-    "id": "L12-4"
-  },
-  {
-    "reading": "あるく",
-    "kanji": "歩く",
-    "type": "u-v.",
-    "def": "to walk",
-    "id": "L12-5"
-  },
-  {
-    "reading": "ある～",
-    "kanji": "",
-    "type": "pre.",
-    "def": "one . . .",
-    "id": "L12-6"
-  },
-  {
-    "reading": "いたい",
-    "kanji": "痛い",
-    "type": "い-adj.",
-    "def": "hurt; painful",
-    "id": "L12-7"
-  },
-  {
-    "reading": "いたみどめ",
-    "kanji": "痛み止め",
-    "type": "n.",
-    "def": "painkiller",
-    "id": "L12-8"
-  },
-  {
-    "reading": "いちねんにいちど",
-    "kanji": "一年に一度",
-    "type": "adv.",
-    "def": "once a year",
-    "id": "L12-9"
-  },
-  {
-    "reading": "いみ",
-    "kanji": "意味",
-    "type": "n.",
-    "def": "meaning",
-    "id": "L12-10"
-  },
-  {
-    "reading": "うし",
-    "kanji": "牛",
-    "type": "n.",
-    "def": "cow",
-    "id": "L12-11"
-  },
-  {
-    "reading": "おおい",
-    "kanji": "多い",
-    "type": "い-adj.",
-    "def": "there are many . . .",
-    "id": "L12-12"
-  },
-  {
-    "reading": "おこる",
-    "kanji": "起こる",
-    "type": "u-v.",
-    "def": "to occur; to happen",
-    "id": "L12-13"
-  },
-  {
-    "reading": "おこる",
-    "kanji": "怒る",
-    "type": "u-v.",
-    "def": "to get angry",
-    "id": "L12-14"
-  },
-  {
-    "reading": "おだいじに",
-    "kanji": "お大事に",
-    "type": "exp.",
-    "def": "Get well soon.",
-    "id": "L12-15"
-  },
-  {
-    "reading": "おてあらい",
-    "kanji": "お手洗い",
-    "type": "n.",
-    "def": "restroom",
-    "id": "L12-16"
-  },
-  {
-    "reading": "おとな",
-    "kanji": "大人",
-    "type": "n.",
-    "def": "adult",
-    "id": "L12-17"
-  },
-  {
+    "id": "L12-1",
     "reading": "おなか",
     "kanji": "",
-    "type": "n.",
     "def": "stomach",
-    "id": "L12-18"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "おなじ",
-    "kanji": "同じ",
-    "type": "adv.",
-    "def": "same",
-    "id": "L12-19"
+    "id": "L12-2",
+    "reading": "あし",
+    "kanji": "足",
+    "def": "leg; foot",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "かぜ",
-    "kanji": "風",
-    "type": "n.",
-    "def": "wind",
-    "id": "L12-20"
-  },
-  {
-    "reading": "かぜ",
-    "kanji": "風邪",
-    "type": "n.",
-    "def": "cold",
-    "id": "L12-21"
-  },
-  {
-    "reading": "かぜをひく",
-    "kanji": "風邪をひく",
-    "type": "u-v.",
-    "def": "to catch a cold",
-    "id": "L12-22"
-  },
-  {
-    "reading": "かなう",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to be realized",
-    "id": "L12-23"
-  },
-  {
-    "reading": "かのじょ",
-    "kanji": "彼女",
-    "type": "n.",
-    "def": "she; girlfriend",
-    "id": "L12-24"
-  },
-  {
-    "reading": "かふんしょう",
-    "kanji": "花粉症",
-    "type": "n.",
-    "def": "hay fever",
-    "id": "L12-25"
-  },
-  {
-    "reading": "かみさま",
-    "kanji": "神様",
-    "type": "n.",
-    "def": "God",
-    "id": "L12-26"
-  },
-  {
-    "reading": "かれ",
-    "kanji": "彼",
-    "type": "n.",
-    "def": "he; boyfriend",
-    "id": "L12-27"
-  },
-  {
-    "reading": "かれし",
-    "kanji": "彼氏",
-    "type": "n.",
-    "def": "boyfriend",
-    "id": "L12-28"
-  },
-  {
-    "reading": "かわいそう（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "pitiful; feel sorry for; poor thing",
-    "id": "L12-29"
-  },
-  {
-    "reading": "がんか",
-    "kanji": "眼科",
-    "type": "n.",
-    "def": "ophthalmologist",
-    "id": "L12-30"
-  },
-  {
-    "reading": "きっぷ",
-    "kanji": "切符",
-    "type": "n.",
-    "def": "train ticket",
-    "id": "L12-31"
-  },
-  {
-    "reading": "きぶんがわるい",
-    "kanji": "気分が悪い",
-    "type": "い-adj.",
-    "def": "not to feel well; to feel sick",
-    "id": "L12-32"
-  },
-  {
-    "reading": "きょうみがある",
-    "kanji": "興味がある",
-    "type": "u-v.",
-    "def": "to be interested (in)",
-    "id": "L12-33"
-  },
-  {
-    "reading": "きんちょうする",
-    "kanji": "緊張する",
-    "type": "irr-v.",
-    "def": "to get nervous ",
-    "id": "L12-34"
-  },
-  {
-    "reading": "くしゃみ",
-    "kanji": "",
-    "type": "n.",
-    "def": "sneeze",
-    "id": "L12-35"
-  },
-  {
-    "reading": "けが",
-    "kanji": "",
-    "type": "n.",
-    "def": "injury",
-    "id": "L12-36"
-  },
-  {
-    "reading": "げか",
-    "kanji": "外科",
-    "type": "n.",
-    "def": "surgeon",
-    "id": "L12-37"
-  },
-  {
-    "reading": "げり",
-    "kanji": "下痢",
-    "type": "n.",
-    "def": "diarrhea",
-    "id": "L12-38"
-  },
-  {
-    "reading": "げんきがない",
-    "kanji": "元気がない",
-    "type": "exp.",
-    "def": "don’t look well",
-    "id": "L12-39"
-  },
-  {
-    "reading": "こうせいぶっしつ",
-    "kanji": "抗生物質",
-    "type": "n.",
-    "def": "antibiotic",
-    "id": "L12-40"
-  },
-  {
-    "reading": "こっせつする",
-    "kanji": "骨折する",
-    "type": "irr-v.",
-    "def": "to break (a bone)",
-    "id": "L12-41"
-  },
-  {
-    "reading": "さんふじんか",
-    "kanji": "産婦人科",
-    "type": "n.",
-    "def": "obstetrician and gynecologist",
-    "id": "L12-42"
-  },
-  {
-    "reading": "しあい",
-    "kanji": "試合",
-    "type": "n.",
-    "def": "match; game",
-    "id": "L12-43"
-  },
-  {
-    "reading": "しか",
-    "kanji": "鹿",
-    "type": "n.",
-    "def": "deer",
-    "id": "L12-44"
-  },
-  {
-    "reading": "しか",
-    "kanji": "歯科",
-    "type": "n.",
-    "def": "dentist",
-    "id": "L12-45"
-  },
-  {
-    "reading": "しゅじゅつ",
-    "kanji": "手術",
-    "type": "n.",
-    "def": "operation",
-    "id": "L12-46"
-  },
-  {
-    "reading": "しょくご",
-    "kanji": "食後",
-    "type": "n.",
-    "def": "after meals",
-    "id": "L12-47"
-  },
-  {
-    "reading": "しんぱいする",
-    "kanji": "心配する",
-    "type": "irr-v.",
-    "def": "to worry ",
-    "id": "L12-48"
-  },
-  {
-    "reading": "じびか",
-    "kanji": "耳鼻科",
-    "type": "n.",
-    "def": "otorhinolaryngologist; ENT doctor",
-    "id": "L12-49"
-  },
-  {
-    "reading": "すてき（な）",
-    "kanji": "素敵",
-    "type": "な-adj.",
-    "def": "nice",
-    "id": "L12-50"
-  },
-  {
-    "reading": "せいけいげか",
-    "kanji": "整形外科",
-    "type": "n.",
-    "def": "orthopedic surgeon",
-    "id": "L12-51"
-  },
-  {
-    "reading": "せいじ",
-    "kanji": "政治",
-    "type": "n.",
-    "def": "politics",
-    "id": "L12-52"
-  },
-  {
-    "reading": "せいせき",
-    "kanji": "成績",
-    "type": "n.",
-    "def": "grade (on a test, etc.)",
-    "id": "L12-53"
-  },
-  {
-    "reading": "せいり",
-    "kanji": "生理",
-    "type": "n.",
-    "def": "period",
-    "id": "L12-54"
-  },
-  {
-    "reading": "せき",
-    "kanji": "",
-    "type": "n.",
-    "def": "cough",
-    "id": "L12-55"
-  },
-  {
-    "reading": "せきがでる",
-    "kanji": "せきが出る",
-    "type": "ru-v.",
-    "def": "to cough ",
-    "id": "L12-56"
-  },
-  {
-    "reading": "せまい",
-    "kanji": "狭い",
-    "type": "い-adj.",
-    "def": "narrow; not spacious",
-    "id": "L12-57"
-  },
-  {
-    "reading": "それに",
-    "kanji": "",
-    "type": "adv.",
-    "def": "moreover, . . .",
-    "id": "L12-58"
-  },
-  {
-    "reading": "たいおんけい",
-    "kanji": "体温計",
-    "type": "n.",
-    "def": "thermometer",
-    "id": "L12-59"
-  },
-  {
-    "reading": "たぶん",
-    "kanji": "多分",
-    "type": "adv.",
-    "def": "probably; maybe",
-    "id": "L12-60"
-  },
-  {
-    "reading": "たまご",
-    "kanji": "卵",
-    "type": "n.",
-    "def": "egg",
-    "id": "L12-61"
-  },
-  {
-    "reading": "たんざく",
-    "kanji": "",
-    "type": "n.",
-    "def": "strip of fancy paper",
-    "id": "L12-62"
-  },
-  {
-    "reading": "ちゅうしゃ",
-    "kanji": "注射",
-    "type": "n.",
-    "def": "injection",
-    "id": "L12-63"
-  },
-  {
-    "reading": "つれてかえる",
-    "kanji": "連れて帰る",
-    "type": "u-v.",
-    "def": "to bring (a person) back",
-    "id": "L12-64"
-  },
-  {
-    "reading": "てん",
-    "kanji": "天",
-    "type": "n.",
-    "def": "the heavens; the sky",
-    "id": "L12-65"
-  },
-  {
-    "reading": "てんてき",
-    "kanji": "点滴",
-    "type": "n.",
-    "def": "intravenous feeding",
-    "id": "L12-66"
-  },
-  {
-    "reading": "できるだけ",
-    "kanji": "",
-    "type": "adv.",
-    "def": "as much as possible",
-    "id": "L12-67"
-  },
-  {
-    "reading": "ないか",
-    "kanji": "内科",
-    "type": "n.",
-    "def": "physician",
-    "id": "L12-68"
-  },
-  {
-    "reading": "なく",
-    "kanji": "泣く",
-    "type": "u-v.",
-    "def": "to cry",
-    "id": "L12-69"
-  },
-  {
-    "reading": "なくす",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to lose",
-    "id": "L12-70"
-  },
-  {
-    "reading": "にさんにち",
-    "kanji": "二三日",
-    "type": "n.",
-    "def": "for two to three days",
-    "id": "L12-71"
-  },
-  {
-    "reading": "ねがい",
-    "kanji": "願い",
-    "type": "n.",
-    "def": "wish",
-    "id": "L12-72"
-  },
-  {
-    "reading": "ねつがある",
-    "kanji": "熱がある",
-    "type": "u-v.",
-    "def": "to have a fever",
-    "id": "L12-73"
-  },
-  {
+    "id": "L12-3",
     "reading": "のど",
-    "kanji": "喉",
-    "type": "n.",
+    "kanji": "",
     "def": "throat",
-    "id": "L12-74"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "のどがかわく",
-    "kanji": "喉が渇く",
-    "type": "u-v.",
-    "def": "to become thirsty",
-    "id": "L12-75"
-  },
-  {
+    "id": "L12-4",
     "reading": "は",
     "kanji": "歯",
-    "type": "n.",
     "def": "tooth",
-    "id": "L12-76"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "はく",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to put on (items below your waist)",
-    "id": "L12-77"
-  },
-  {
-    "reading": "はく",
-    "kanji": "吐く",
-    "type": "u-v.",
-    "def": "to throw up",
-    "id": "L12-78"
-  },
-  {
-    "reading": "はじめて",
-    "kanji": "初めて",
-    "type": "adv.",
-    "def": "for the first time",
-    "id": "L12-79"
-  },
-  {
-    "reading": "はたけ",
-    "kanji": "畑",
-    "type": "n.",
-    "def": "farm",
-    "id": "L12-80"
-  },
-  {
-    "reading": "はたをおる",
-    "kanji": "はたを織る",
-    "type": "u-v.",
-    "def": "to weave",
-    "id": "L12-81"
-  },
-  {
-    "reading": "はっしん",
-    "kanji": "発疹",
-    "type": "n.",
-    "def": "rash",
-    "id": "L12-82"
-  },
-  {
-    "reading": "はなみず",
-    "kanji": "鼻水",
-    "type": "n.",
-    "def": "runny nose",
-    "id": "L12-83"
-  },
-  {
-    "reading": "はらう",
-    "kanji": "払う",
-    "type": "u-v.",
-    "def": "to pay",
-    "id": "L12-84"
-  },
-  {
-    "reading": "ひとびと",
-    "kanji": "人々",
-    "type": "n.",
-    "def": "people",
-    "id": "L12-85"
-  },
-  {
-    "reading": "ひふか",
-    "kanji": "皮膚科",
-    "type": "n.",
-    "def": "dermatologist",
-    "id": "L12-86"
-  },
-  {
-    "reading": "ひろい",
-    "kanji": "広い",
-    "type": "い-adj.",
-    "def": "wide; spacious",
-    "id": "L12-87"
-  },
-  {
-    "reading": "びょうき",
-    "kanji": "病気",
-    "type": "n.",
-    "def": "illness; sickness",
-    "id": "L12-88"
-  },
-  {
-    "reading": "ふく",
-    "kanji": "服",
-    "type": "n.",
-    "def": "clothes",
-    "id": "L12-89"
-  },
-  {
-    "reading": "ふつかよい",
-    "kanji": "二日酔い",
-    "type": "n.",
-    "def": "hangover",
-    "id": "L12-90"
-  },
-  {
-    "reading": "べんぴ",
-    "kanji": "便秘",
-    "type": "n.",
-    "def": "constipation",
-    "id": "L12-91"
-  },
-  {
-    "reading": "ほけんしょう",
-    "kanji": "保険証",
-    "type": "n.",
-    "def": "health insurance certificate",
-    "id": "L12-92"
-  },
-  {
-    "reading": "まじめ（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "serious; sober; diligent",
-    "id": "L12-93"
-  },
-  {
-    "reading": "むこう",
-    "kanji": "向こう",
-    "type": "n.",
-    "def": "the other side; over there",
-    "id": "L12-94"
-  },
-  {
-    "reading": "むしば",
-    "kanji": "虫歯",
-    "type": "n.",
-    "def": "bad tooth",
-    "id": "L12-95"
-  },
-  {
-    "reading": "むすめ",
-    "kanji": "娘",
-    "type": "n.",
-    "def": "daughter",
-    "id": "L12-96"
-  },
-  {
-    "reading": "めまいがする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to feel dizzy",
-    "id": "L12-97"
-  },
-  {
-    "reading": "もうすぐ",
-    "kanji": "",
-    "type": "adv.",
-    "def": "very soon; in a few moments/days",
-    "id": "L12-98"
-  },
-  {
-    "reading": "もの",
-    "kanji": "物",
-    "type": "n.",
-    "def": "thing (concrete object)",
-    "id": "L12-99"
-  },
-  {
-    "reading": "やけどをする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to burn oneself",
-    "id": "L12-100"
-  },
-  {
-    "reading": "ようじ",
-    "kanji": "用事",
-    "type": "n.",
-    "def": "business to take care of",
-    "id": "L12-101"
-  },
-  {
-    "reading": "わかれる",
-    "kanji": "別れる",
-    "type": "ru-v.",
-    "def": "to break up; to separate ",
-    "id": "L12-102"
-  },
-  {
-    "reading": "わたしたち",
-    "kanji": "私たち",
-    "type": "n.",
-    "def": "we",
-    "id": "L12-103"
-  },
-  {
-    "reading": "わるい",
-    "kanji": "悪い",
-    "type": "い-adj.",
-    "def": "bad",
-    "id": "L12-104"
-  },
-  {
-    "reading": "アレルギー",
-    "kanji": "",
-    "type": "n.",
-    "def": "allergy",
-    "id": "L12-105"
-  },
-  {
+    "id": "L12-5",
     "reading": "インフルエンザ",
     "kanji": "",
-    "type": "n.",
     "def": "influenza",
-    "id": "L12-106"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ジュース",
+    "id": "L12-6",
+    "reading": "かぜ",
+    "kanji": "風邪",
+    "def": "cold",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L12-7",
+    "reading": "せき",
     "kanji": "",
-    "type": "n.",
-    "def": "juice",
-    "id": "L12-107"
+    "def": "cough",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "プレゼント",
-    "kanji": "",
-    "type": "n.",
-    "def": "present",
-    "id": "L12-108"
+    "id": "L12-8",
+    "reading": "ふつかよい",
+    "kanji": "二日酔い",
+    "def": "hangover",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
+    "id": "L12-9",
     "reading": "ホームシック",
     "kanji": "",
-    "type": "n.",
     "def": "homesickness",
-    "id": "L12-109"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "レントゲン",
+    "id": "L12-10",
+    "reading": "アレルギー",
     "kanji": "",
-    "type": "n.",
-    "def": "X-ray",
-    "id": "L12-110"
+    "def": "allergy",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
+    "id": "L12-11",
+    "reading": "ジュース",
+    "kanji": "",
+    "def": "juice",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L12-12",
+    "reading": "たまご",
+    "kanji": "卵",
+    "def": "egg",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L12-13",
+    "reading": "ふく",
+    "kanji": "服",
+    "def": "clothes",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L12-14",
+    "reading": "もの",
+    "kanji": "物",
+    "def": "thing (concrete object)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-15",
+    "reading": "プレゼント",
+    "kanji": "",
+    "def": "present",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-16",
+    "reading": "きっぷ",
+    "kanji": "切符",
+    "def": "train ticket",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-17",
     "reading": "～だい",
     "kanji": "～代",
-    "type": "suf.",
     "def": "charge; fee",
-    "id": "L12-111"
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
   },
   {
-    "reading": "～だい",
-    "kanji": "～台",
-    "type": "suf.",
-    "def": "[counter for equipment]",
-    "id": "L12-112"
+    "id": "L12-18",
+    "reading": "ようじ",
+    "kanji": "用事",
+    "def": "business to take care of",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
   },
   {
-    "reading": "～までに",
+    "id": "L12-19",
+    "reading": "おてあらい",
+    "kanji": "お手洗い",
+    "def": "restroom",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-20",
+    "reading": "しあい",
+    "kanji": "試合",
+    "def": "match; game",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-21",
+    "reading": "せいじ",
+    "kanji": "政治",
+    "def": "politics",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-22",
+    "reading": "せいせき",
+    "kanji": "成績",
+    "def": "grade (on a test, etc.)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-23",
+    "reading": "かのじょ",
+    "kanji": "彼女",
+    "def": "she; girlfriend",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-24",
+    "reading": "かれ",
+    "kanji": "彼",
+    "def": "he; boyfriend",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-25",
+    "reading": "かれし",
+    "kanji": "彼氏",
+    "def": "boyfriend",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-26",
+    "reading": "いみ",
+    "kanji": "意味",
+    "def": "meaning",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L12-27",
+    "reading": "せまい",
+    "kanji": "狭い",
+    "def": "narrow; not spacious",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L12-28",
+    "reading": "ひろい",
+    "kanji": "広い",
+    "def": "wide; spacious",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L12-29",
+    "reading": "わるい",
+    "kanji": "悪い",
+    "def": "bad",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L12-30",
+    "reading": "いたい",
+    "kanji": "痛い",
+    "def": "hurt; painful",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L12-31",
+    "reading": "あまい",
+    "kanji": "甘い",
+    "def": "sweet",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L12-32",
+    "reading": "おおい",
+    "kanji": "多い",
+    "def": "there are many . . .",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L12-33",
+    "reading": "すてき（な）",
+    "kanji": "素敵",
+    "def": "nice",
+    "sect": "な-adjective",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L12-34",
+    "reading": "あるく",
+    "kanji": "歩く",
+    "def": "to walk",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-35",
+    "reading": "かぜをひく",
+    "kanji": "風邪をひく",
+    "def": "to catch a cold",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-36",
+    "reading": "ねつがある",
+    "kanji": "熱がある",
+    "def": "to have a fever",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-37",
+    "reading": "のどがかわく",
+    "kanji": "のどが渇く",
+    "def": "to become thirsty",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-38",
+    "reading": "はらう",
+    "kanji": "払う",
+    "def": "to pay (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-39",
+    "reading": "なくす",
     "kanji": "",
-    "type": "part.",
-    "def": "by (time/date)",
-    "id": "L12-113"
+    "def": "to lose (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-40",
+    "reading": "きょうみがある",
+    "kanji": "興味がある",
+    "def": "to be interested (in . . .) (topic に)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-41",
+    "reading": "せきがでる",
+    "kanji": "せきが出る",
+    "def": "to cough",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-42",
+    "reading": "わかれる",
+    "kanji": "別れる",
+    "def": "to break up; to separate (person と)",
+    "sect": "Ru-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-43",
+    "reading": "きんちょうする",
+    "kanji": "緊張する",
+    "def": "to get nervous",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-44",
+    "reading": "しんぱいする",
+    "kanji": "心配する",
+    "def": "to worry",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L12-45",
+    "reading": "おだいじに",
+    "kanji": "お大事に",
+    "def": "Get well soon.",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-46",
+    "reading": "げんきがない",
+    "kanji": "元気がない",
+    "def": "don't look well",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-47",
+    "reading": "できるだけ",
+    "kanji": "",
+    "def": "as much as possible",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-48",
+    "reading": "たぶん",
+    "kanji": "多分",
+    "def": "probably; maybe",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-49",
+    "reading": "もうすぐ",
+    "kanji": "",
+    "def": "very soon; in a few moments/days",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-50",
+    "reading": "はじめて",
+    "kanji": "初めて",
+    "def": "for the first time",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-51",
+    "reading": "にさんにち",
+    "kanji": "二三日",
+    "def": "for two to three days",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-52",
+    "reading": "それに",
+    "kanji": "",
+    "def": "moreover, . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L12-53",
+    "reading": "おなじ",
+    "kanji": "同じ",
+    "def": "same",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
   }
 ]

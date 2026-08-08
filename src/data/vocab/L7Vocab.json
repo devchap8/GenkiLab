@@ -1,604 +1,450 @@
 [
   {
-    "reading": "あし",
-    "kanji": "足",
-    "type": "n.",
-    "def": "leg; foot",
-    "id": "L7-1"
-  },
-  {
-    "reading": "あたま",
-    "kanji": "頭",
-    "type": "n.",
-    "def": "head",
-    "id": "L7-2"
-  },
-  {
-    "reading": "あたまがいい",
-    "kanji": "頭がいい",
-    "type": "い-adj.",
-    "def": "bright; smart; clever",
-    "id": "L7-3"
-  },
-  {
-    "reading": "あに",
-    "kanji": "兄",
-    "type": "n.",
-    "def": "(my) older brother",
-    "id": "L7-4"
-  },
-  {
-    "reading": "あね",
-    "kanji": "姉",
-    "type": "n.",
-    "def": "(my) older sister",
-    "id": "L7-5"
-  },
-  {
-    "reading": "いもうと",
-    "kanji": "妹",
-    "type": "n.",
-    "def": "younger sister",
-    "id": "L7-6"
-  },
-  {
-    "reading": "うた",
-    "kanji": "歌",
-    "type": "n.",
-    "def": "song",
-    "id": "L7-7"
-  },
-  {
-    "reading": "うたう",
-    "kanji": "歌う",
-    "type": "u-v.",
-    "def": "to sing",
-    "id": "L7-8"
-  },
-  {
-    "reading": "おしり",
-    "kanji": "お尻",
-    "type": "n.",
-    "def": "buttocks",
-    "id": "L7-9"
-  },
-  {
-    "reading": "おじいさん",
-    "kanji": "",
-    "type": "n.",
-    "def": "grandfather; old man",
-    "id": "L7-10"
-  },
-  {
-    "reading": "おとうと",
-    "kanji": "弟",
-    "type": "n.",
-    "def": "younger brother",
-    "id": "L7-11"
-  },
-  {
-    "reading": "おとこのひと",
-    "kanji": "男の人",
-    "type": "n.",
-    "def": "man",
-    "id": "L7-12"
-  },
-  {
-    "reading": "おなか",
-    "kanji": "",
-    "type": "n.",
-    "def": "stomach",
-    "id": "L7-13"
-  },
-  {
-    "reading": "おにいさん",
-    "kanji": "お兄さん",
-    "type": "n.",
-    "def": "older brother",
-    "id": "L7-14"
-  },
-  {
-    "reading": "おねえさん",
-    "kanji": "お姉さん",
-    "type": "n.",
-    "def": "older sister",
-    "id": "L7-15"
-  },
-  {
-    "reading": "おばあさん",
-    "kanji": "",
-    "type": "n.",
-    "def": "grandmother; old woman",
-    "id": "L7-16"
-  },
-  {
-    "reading": "おんなのひと",
-    "kanji": "女の人",
-    "type": "n.",
-    "def": "woman",
-    "id": "L7-17"
-  },
-  {
-    "reading": "かいしゃ",
-    "kanji": "会社",
-    "type": "n.",
-    "def": "company",
-    "id": "L7-18"
-  },
-  {
-    "reading": "かお",
-    "kanji": "顔",
-    "type": "n.",
-    "def": "face",
-    "id": "L7-19"
-  },
-  {
-    "reading": "かける（めがねを）",
-    "kanji": "かける（眼鏡を）",
-    "type": "ru-v.",
-    "def": "to put on (glasses) ",
-    "id": "L7-20"
-  },
-  {
+    "id": "L7-1",
+    "sect": "Nouns",
+    "subsect": "Family",
     "reading": "かぞく",
     "kanji": "家族",
-    "type": "n.",
-    "def": "family",
-    "id": "L7-21"
+    "def": "family"
   },
   {
-    "reading": "かた",
-    "kanji": "肩",
-    "type": "n.",
-    "def": "shoulder",
-    "id": "L7-22"
-  },
-  {
-    "reading": "かぶる",
+    "id": "L7-2",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "おじいさん",
     "kanji": "",
-    "type": "u-v.",
-    "def": "to put on (a hat)",
-    "id": "L7-23"
+    "def": "grandfather; old man"
   },
   {
-    "reading": "かみ",
-    "kanji": "髪",
-    "type": "n.",
-    "def": "hair",
-    "id": "L7-24"
-  },
-  {
-    "reading": "かみ",
-    "kanji": "紙",
-    "type": "n.",
-    "def": "paper",
-    "id": "L7-25"
-  },
-  {
-    "reading": "からだにきをつける",
-    "kanji": "体に気をつける",
-    "type": "ru-v.",
-    "def": "to take care of oneself ",
-    "id": "L7-26"
-  },
-  {
-    "reading": "かわいい",
+    "id": "L7-3",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "おばあさん",
     "kanji": "",
-    "type": "い-adj.",
-    "def": "cute",
-    "id": "L7-27"
+    "def": "grandmother; old woman"
   },
   {
-    "reading": "きょうだい",
-    "kanji": "兄弟",
-    "type": "n.",
-    "def": "brothers and sisters",
-    "id": "L7-28"
+    "id": "L7-4",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "おにいさん",
+    "kanji": "お兄さん",
+    "def": "older brother"
   },
   {
-    "reading": "きる",
-    "kanji": "切る",
-    "type": "u-v.",
-    "def": "to cut",
-    "id": "L7-29"
+    "id": "L7-5",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "おねえさん",
+    "kanji": "お姉さん",
+    "def": "older sister"
   },
   {
-    "reading": "きる",
-    "kanji": "着る",
-    "type": "ru-v.",
-    "def": "to put on (clothes above your waist) ",
-    "id": "L7-30"
-  },
-  {
-    "reading": "くち",
-    "kanji": "口",
-    "type": "n.",
-    "def": "mouth",
-    "id": "L7-31"
-  },
-  {
-    "reading": "くび",
-    "kanji": "首",
-    "type": "n.",
-    "def": "neck",
-    "id": "L7-32"
-  },
-  {
-    "reading": "くるま",
-    "kanji": "車",
-    "type": "n.",
-    "def": "car",
-    "id": "L7-33"
-  },
-  {
-    "reading": "けっこんする",
-    "kanji": "結婚する",
-    "type": "irr-v.",
-    "def": "to get married ",
-    "id": "L7-34"
-  },
-  {
-    "reading": "しっています",
-    "kanji": "知っています",
-    "type": "exp.",
-    "def": "I know",
-    "id": "L7-35"
-  },
-  {
-    "reading": "しょくどう",
-    "kanji": "食堂",
-    "type": "n.",
-    "def": "cafeteria; dining commons",
-    "id": "L7-36"
-  },
-  {
-    "reading": "しりません",
-    "kanji": "知りません",
-    "type": "exp.",
-    "def": "I do not know",
-    "id": "L7-37"
-  },
-  {
-    "reading": "しる",
-    "kanji": "知る",
-    "type": "u-v.",
-    "def": "to get to know",
-    "id": "L7-38"
-  },
-  {
-    "reading": "しんせつ（な）",
-    "kanji": "親切",
-    "type": "な-adj.",
-    "def": "kind",
-    "id": "L7-39"
-  },
-  {
-    "reading": "じゅく",
-    "kanji": "塾",
-    "type": "n.",
-    "def": "cram school",
-    "id": "L7-40"
-  },
-  {
-    "reading": "すこし",
-    "kanji": "少し",
-    "type": "adv.",
-    "def": "a little",
-    "id": "L7-41"
-  },
-  {
-    "reading": "すむ",
-    "kanji": "住む",
-    "type": "u-v.",
-    "def": "to live",
-    "id": "L7-42"
-  },
-  {
-    "reading": "せがたかい",
-    "kanji": "背が高い",
-    "type": "い-adj.",
-    "def": "tall (stature)",
-    "id": "L7-43"
-  },
-  {
-    "reading": "せがひくい",
-    "kanji": "背が低い",
-    "type": "い-adj.",
-    "def": "short (stature)",
-    "id": "L7-44"
-  },
-  {
-    "reading": "せなか",
-    "kanji": "背中",
-    "type": "n.",
-    "def": "back (body)",
-    "id": "L7-45"
-  },
-  {
-    "reading": "たのしみにする（〜を）",
-    "kanji": "楽しみにする",
-    "type": "irr-v.",
-    "def": "to look forward (to) ",
-    "id": "L7-46"
-  },
-  {
+    "id": "L7-6",
+    "sect": "Nouns",
+    "subsect": "Family",
     "reading": "ちち",
     "kanji": "父",
-    "type": "n.",
-    "def": "(my) father",
-    "id": "L7-47"
+    "def": "(my) father"
   },
   {
-    "reading": "て",
-    "kanji": "手",
-    "type": "n.",
-    "def": "hand; arm",
-    "id": "L7-48"
-  },
-  {
-    "reading": "とる",
-    "kanji": "取る",
-    "type": "u-v.",
-    "def": "to take (a class); to get (a grade)",
-    "id": "L7-49"
-  },
-  {
-    "reading": "とる",
-    "kanji": "撮る",
-    "type": "u-v.",
-    "def": "to take (a picture)",
-    "id": "L7-50"
-  },
-  {
-    "reading": "とる",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to take off",
-    "id": "L7-51"
-  },
-  {
-    "reading": "ながい",
-    "kanji": "長い",
-    "type": "い-adj.",
-    "def": "long",
-    "id": "L7-52"
-  },
-  {
-    "reading": "なにも ＋ negative",
-    "kanji": "何も",
-    "type": "adv.",
-    "def": "not . . . anything",
-    "id": "L7-53"
-  },
-  {
-    "reading": "は",
-    "kanji": "歯",
-    "type": "n.",
-    "def": "tooth",
-    "id": "L7-54"
-  },
-  {
-    "reading": "はく",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to put on (items below your waist)",
-    "id": "L7-55"
-  },
-  {
-    "reading": "はく",
-    "kanji": "吐く",
-    "type": "u-v.",
-    "def": "to throw up",
-    "id": "L7-56"
-  },
-  {
-    "reading": "はたらく",
-    "kanji": "働く",
-    "type": "u-v.",
-    "def": "to work",
-    "id": "L7-57"
-  },
-  {
-    "reading": "はな",
-    "kanji": "花",
-    "type": "n.",
-    "def": "flower",
-    "id": "L7-58"
-  },
-  {
-    "reading": "はな",
-    "kanji": "鼻",
-    "type": "n.",
-    "def": "nose",
-    "id": "L7-59"
-  },
-  {
+    "id": "L7-7",
+    "sect": "Nouns",
+    "subsect": "Family",
     "reading": "はは",
     "kanji": "母",
-    "type": "n.",
-    "def": "(my) mother",
-    "id": "L7-60"
+    "def": "(my) mother"
   },
   {
-    "reading": "はやい",
-    "kanji": "早い",
-    "type": "い-adj.",
-    "def": "early",
-    "id": "L7-61"
+    "id": "L7-8",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "あに",
+    "kanji": "兄",
+    "def": "(my) older brother"
   },
   {
-    "reading": "はやい",
-    "kanji": "速い",
-    "type": "い-adj.",
-    "def": "fast",
-    "id": "L7-62"
+    "id": "L7-9",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "あね",
+    "kanji": "姉",
+    "def": "(my) older sister"
   },
   {
-    "reading": "ひとり",
-    "kanji": "一人",
-    "type": "exp.",
-    "def": "one person",
-    "id": "L7-63"
+    "id": "L7-10",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "いもうと",
+    "kanji": "妹",
+    "def": "younger sister"
   },
   {
-    "reading": "ふたり",
-    "kanji": "二人",
-    "type": "exp.",
-    "def": "two people",
-    "id": "L7-64"
+    "id": "L7-11",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "おとうと",
+    "kanji": "弟",
+    "def": "younger brother"
   },
   {
-    "reading": "ふとっています",
-    "kanji": "太っています",
-    "type": "exp.",
-    "def": "to be on the heavy side",
-    "id": "L7-65"
+    "id": "L7-12",
+    "sect": "Nouns",
+    "subsect": "Family",
+    "reading": "きょうだい",
+    "kanji": "兄弟",
+    "def": "brothers and sisters"
   },
   {
-    "reading": "ふとる",
-    "kanji": "太る",
-    "type": "u-v.",
-    "def": "to gain weight; overweight",
-    "id": "L7-66"
+    "id": "L7-13",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "おとこのひと",
+    "kanji": "男の人",
+    "def": "man"
   },
   {
-    "reading": "ぶんがく",
-    "kanji": "文学",
-    "type": "n.",
-    "def": "literature",
-    "id": "L7-67"
+    "id": "L7-14",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "おんなのひと",
+    "kanji": "女の人",
+    "def": "woman"
   },
   {
-    "reading": "べつに ＋ negative",
-    "kanji": "別に",
-    "type": "adv.",
-    "def": "nothing in particular",
-    "id": "L7-68"
+    "id": "L7-15",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "かいしゃ",
+    "kanji": "会社",
+    "def": "company"
   },
   {
-    "reading": "べんり（な）",
-    "kanji": "便利",
-    "type": "な-adj.",
-    "def": "convenient",
-    "id": "L7-69"
+    "id": "L7-16",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "しょくどう",
+    "kanji": "食堂",
+    "def": "cafeteria; dining commons"
   },
   {
-    "reading": "まゆげ",
-    "kanji": "眉毛",
-    "type": "n.",
-    "def": "eyebrow",
-    "id": "L7-70"
-  },
-  {
-    "reading": "みじかい",
-    "kanji": "短い",
-    "type": "い-adj.",
-    "def": "short (length)",
-    "id": "L7-71"
-  },
-  {
-    "reading": "みみ",
-    "kanji": "耳",
-    "type": "n.",
-    "def": "ear",
-    "id": "L7-72"
-  },
-  {
-    "reading": "みんな",
-    "kanji": "",
-    "type": "adv.",
-    "def": "all",
-    "id": "L7-73"
-  },
-  {
-    "reading": "むね",
-    "kanji": "胸",
-    "type": "n.",
-    "def": "breast",
-    "id": "L7-74"
-  },
-  {
-    "reading": "め",
-    "kanji": "目",
-    "type": "n.",
-    "def": "eye",
-    "id": "L7-75"
-  },
-  {
-    "reading": "めがね",
-    "kanji": "眼鏡",
-    "type": "n.",
-    "def": "glasses",
-    "id": "L7-76"
-  },
-  {
-    "reading": "もちろん",
-    "kanji": "",
-    "type": "adv.",
-    "def": "of course",
-    "id": "L7-77"
-  },
-  {
-    "reading": "やせています",
-    "kanji": "",
-    "type": "exp.",
-    "def": "to be thin",
-    "id": "L7-78"
-  },
-  {
-    "reading": "やせる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to lose weight ",
-    "id": "L7-79"
-  },
-  {
-    "reading": "ゆび",
-    "kanji": "指",
-    "type": "n.",
-    "def": "finger",
-    "id": "L7-80"
-  },
-  {
-    "reading": "よかったら",
-    "kanji": "",
-    "type": "adv.",
-    "def": "if you like",
-    "id": "L7-81"
-  },
-  {
-    "reading": "サークル",
-    "kanji": "",
-    "type": "n.",
-    "def": "club activity",
-    "id": "L7-82"
-  },
-  {
+    "id": "L7-17",
+    "sect": "Nouns",
+    "subsect": "Nouns",
     "reading": "デパート",
     "kanji": "",
-    "type": "n.",
-    "def": "department store",
-    "id": "L7-83"
+    "def": "department store"
   },
   {
-    "reading": "～から",
+    "id": "L7-18",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "かみ",
+    "kanji": "髪",
+    "def": "hair"
+  },
+  {
+    "id": "L7-19",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "くち",
+    "kanji": "口",
+    "def": "mouth"
+  },
+  {
+    "id": "L7-20",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "め",
+    "kanji": "目",
+    "def": "eye"
+  },
+  {
+    "id": "L7-21",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "めがね",
+    "kanji": "眼鏡",
+    "def": "glasses"
+  },
+  {
+    "id": "L7-22",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "うた",
+    "kanji": "歌",
+    "def": "song"
+  },
+  {
+    "id": "L7-23",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "サークル",
     "kanji": "",
-    "type": "part.",
-    "def": "from . . .",
-    "id": "L7-84"
+    "def": "club activity"
   },
   {
+    "id": "L7-24",
+    "sect": "Nouns",
+    "subsect": "Nouns",
+    "reading": "くるま",
+    "kanji": "車",
+    "def": "car"
+  },
+  {
+    "id": "L7-25",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives",
+    "reading": "ながい",
+    "kanji": "長い",
+    "def": "long"
+  },
+  {
+    "id": "L7-26",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives",
+    "reading": "みじかい",
+    "kanji": "短い",
+    "def": "short (length)"
+  },
+  {
+    "id": "L7-27",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives",
+    "reading": "はやい",
+    "kanji": "速い",
+    "def": "fast"
+  },
+  {
+    "id": "L7-28",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives",
+    "reading": "せがたかい",
+    "kanji": "背が高い",
+    "def": "tall (stature)"
+  },
+  {
+    "id": "L7-29",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives",
+    "reading": "せがひくい",
+    "kanji": "背が低い",
+    "def": "short (stature)"
+  },
+  {
+    "id": "L7-30",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives",
+    "reading": "あたまがいい",
+    "kanji": "頭がいい",
+    "def": "bright; smart; clever\n(conjugates like いい)"
+  },
+  {
+    "id": "L7-31",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives",
+    "reading": "かわいい",
+    "kanji": "",
+    "def": "cute"
+  },
+  {
+    "id": "L7-32",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives",
+    "reading": "しんせつ（な）",
+    "kanji": "親切",
+    "def": "kind"
+  },
+  {
+    "id": "L7-33",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives",
+    "reading": "べんり（な）",
+    "kanji": "便利",
+    "def": "convenient"
+  },
+  {
+    "id": "L7-34",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "うたう",
+    "kanji": "歌う",
+    "def": "to sing (～を)"
+  },
+  {
+    "id": "L7-35",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "かぶる",
+    "kanji": "",
+    "def": "to put on (a hat) (～を)"
+  },
+  {
+    "id": "L7-36",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "はく",
+    "kanji": "",
+    "def": "to put on (items below your waist)\n(～を)"
+  },
+  {
+    "id": "L7-37",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "しる",
+    "kanji": "知る",
+    "def": "to get to know (～を)"
+  },
+  {
+    "id": "L7-38",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "しっています",
+    "kanji": "知っています",
+    "def": "I know"
+  },
+  {
+    "id": "L7-39",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "しりません",
+    "kanji": "知りません",
+    "def": "I do not know"
+  },
+  {
+    "id": "L7-40",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "すむ",
+    "kanji": "住む",
+    "def": "to live (～にすんでいます)"
+  },
+  {
+    "id": "L7-41",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "はたらく",
+    "kanji": "働く",
+    "def": "to work"
+  },
+  {
+    "id": "L7-42",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "ふとる",
+    "kanji": "太る",
+    "def": "to gain weight"
+  },
+  {
+    "id": "L7-43",
+    "sect": "U-verbs",
+    "subsect": "U-verbs",
+    "reading": "ふとっています",
+    "kanji": "太っています",
+    "def": "to be on the heavy side; overweight"
+  },
+  {
+    "id": "L7-44",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs",
+    "reading": "（めがねを）かける",
+    "kanji": "",
+    "def": "to put on (glasses)"
+  },
+  {
+    "id": "L7-45",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs",
+    "reading": "きる",
+    "kanji": "着る",
+    "def": "to put on (clothes above your waist)\n(～を)"
+  },
+  {
+    "id": "L7-46",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs",
+    "reading": "やせる",
+    "kanji": "",
+    "def": "to lose weight"
+  },
+  {
+    "id": "L7-47",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs",
+    "reading": "やせています",
+    "kanji": "",
+    "def": "to be thin"
+  },
+  {
+    "id": "L7-48",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs",
+    "reading": "けっこんする",
+    "kanji": "結婚する",
+    "def": "to get married (～と)"
+  },
+  {
+    "id": "L7-49",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
     "reading": "～が",
     "kanji": "",
-    "type": "part.",
-    "def": ". . . , but",
-    "id": "L7-85"
+    "def": ". . . , but"
   },
   {
+    "id": "L7-50",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
+    "reading": "なに も + negative",
+    "kanji": "何も",
+    "def": "not . . . anything"
+  },
+  {
+    "id": "L7-51",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
     "reading": "～にん",
     "kanji": "～人",
-    "type": "suf.",
-    "def": "[counter for people]",
-    "id": "L7-86"
+    "def": "[counter for people]"
+  },
+  {
+    "id": "L7-52",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
+    "reading": "ひとり",
+    "kanji": "一人",
+    "def": "one person"
+  },
+  {
+    "id": "L7-53",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
+    "reading": "ふたり",
+    "kanji": "二人",
+    "def": "two people"
+  },
+  {
+    "id": "L7-54",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
+    "reading": "べつ に + negative",
+    "kanji": "別に",
+    "def": "nothing in particular"
+  },
+  {
+    "id": "L7-55",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
+    "reading": "もち ろん",
+    "kanji": "",
+    "def": "of course"
+  },
+  {
+    "id": "L7-56",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions",
+    "reading": "よかったら",
+    "kanji": "",
+    "def": "if you like"
   }
 ]

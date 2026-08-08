@@ -1,457 +1,418 @@
 [
   {
-    "reading": "あいす",
-    "kanji": "愛す",
-    "type": "u-v.",
-    "def": "to love",
-    "id": "L14-1"
-  },
-  {
-    "reading": "あきらめる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to give up ",
-    "id": "L14-2"
-  },
-  {
-    "reading": "あげる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to give (to others) ",
-    "id": "L14-3"
-  },
-  {
-    "reading": "えんぴつ",
-    "kanji": "鉛筆",
-    "type": "n.",
-    "def": "pencil",
-    "id": "L14-4"
-  },
-  {
-    "reading": "おおやさん",
-    "kanji": "大家さん",
-    "type": "n.",
-    "def": "landlord; landlady",
-    "id": "L14-5"
-  },
-  {
-    "reading": "おかえし",
-    "kanji": "お返し",
-    "type": "n.",
-    "def": "return (as a token of gratitude)",
-    "id": "L14-6"
-  },
-  {
+    "id": "L14-1",
     "reading": "おくさん",
     "kanji": "奥さん",
-    "type": "n.",
-    "def": "(your/someone’s) wife",
-    "id": "L14-7"
+    "def": "(your/someone's) wife",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "おくる",
-    "kanji": "送る",
-    "type": "u-v.",
-    "def": "to send",
-    "id": "L14-8"
-  },
-  {
-    "reading": "おさら",
-    "kanji": "お皿",
-    "type": "n.",
-    "def": "plate; dish",
-    "id": "L14-9"
-  },
-  {
-    "reading": "おしゃれ（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "fashionable; stylish",
-    "id": "L14-10"
-  },
-  {
-    "reading": "おじさん",
-    "kanji": "",
-    "type": "n.",
-    "def": "uncle; middle-aged man",
-    "id": "L14-11"
-  },
-  {
-    "reading": "おばさん",
-    "kanji": "",
-    "type": "n.",
-    "def": "aunt; middle-aged woman",
-    "id": "L14-12"
-  },
-  {
-    "reading": "きゅうに",
-    "kanji": "急に",
-    "type": "adv.",
-    "def": "suddenly",
-    "id": "L14-13"
-  },
-  {
-    "reading": "くれる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to give (me) ",
-    "id": "L14-14"
-  },
-  {
-    "reading": "けしょうひん",
-    "kanji": "化粧品",
-    "type": "n.",
-    "def": "cosmetics",
-    "id": "L14-15"
-  },
-  {
-    "reading": "けち（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "stingy; cheap",
-    "id": "L14-16"
-  },
-  {
-    "reading": "こんな～",
-    "kanji": "",
-    "type": "pre.",
-    "def": ". . . like this; this kind of . . .",
-    "id": "L14-17"
-  },
-  {
+    "id": "L14-2",
     "reading": "ごしゅじん",
     "kanji": "ご主人",
-    "type": "n.",
-    "def": "(your/someone’s) husband",
-    "id": "L14-18"
+    "def": "(your/someone's) husband",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "さあ",
-    "kanji": "",
-    "type": "exp.",
-    "def": "I am not sure . . .",
-    "id": "L14-19"
-  },
-  {
-    "reading": "しゅっちょう",
-    "kanji": "出張",
-    "type": "n.",
-    "def": "business trip",
-    "id": "L14-20"
-  },
-  {
-    "reading": "じだい",
-    "kanji": "時代",
-    "type": "n.",
-    "def": "age; era",
-    "id": "L14-21"
-  },
-  {
-    "reading": "せんぱい",
-    "kanji": "先輩",
-    "type": "n.",
-    "def": "senior member of a group",
-    "id": "L14-22"
-  },
-  {
-    "reading": "そうだんする",
-    "kanji": "相談する",
-    "type": "irr-v.",
-    "def": "to consult ",
-    "id": "L14-23"
-  },
-  {
-    "reading": "ちちおや",
-    "kanji": "父親",
-    "type": "n.",
-    "def": "father",
-    "id": "L14-24"
-  },
-  {
-    "reading": "ちゅういする",
-    "kanji": "注意する",
-    "type": "irr-v.",
-    "def": "to give warning; to watch out ",
-    "id": "L14-25"
-  },
-  {
-    "reading": "ちょうど",
-    "kanji": "",
-    "type": "adv.",
-    "def": "exactly",
-    "id": "L14-26"
-  },
-  {
-    "reading": "つきあう",
-    "kanji": "付き合う",
-    "type": "u-v.",
-    "def": "to date (someone); to keep company",
-    "id": "L14-27"
-  },
-  {
-    "reading": "できる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to come into existence; to be made ",
-    "id": "L14-28"
-  },
-  {
-    "reading": "どうしたらいい",
-    "kanji": "",
-    "type": "exp.",
-    "def": "what should one do",
-    "id": "L14-29"
-  },
-  {
-    "reading": "なやみ",
-    "kanji": "悩み",
-    "type": "n.",
-    "def": "worry",
-    "id": "L14-30"
-  },
-  {
-    "reading": "にあう",
-    "kanji": "似合う",
-    "type": "u-v.",
-    "def": "to look good (on somebody)",
-    "id": "L14-31"
-  },
-  {
-    "reading": "ぬいぐるみ",
-    "kanji": "",
-    "type": "n.",
-    "def": "stuffed animal (e.g., teddy bear)",
-    "id": "L14-32"
-  },
-  {
-    "reading": "ばあい",
-    "kanji": "場合",
-    "type": "n.",
-    "def": "case",
-    "id": "L14-33"
-  },
-  {
-    "reading": "ほしい",
-    "kanji": "欲しい",
-    "type": "い-adj.",
-    "def": "to want",
-    "id": "L14-34"
-  },
-  {
-    "reading": "ほんとうに",
-    "kanji": "本当に",
-    "type": "adv.",
-    "def": "really",
-    "id": "L14-35"
-  },
-  {
-    "reading": "まんが",
-    "kanji": "漫画",
-    "type": "n.",
-    "def": "comic book",
-    "id": "L14-36"
-  },
-  {
-    "reading": "みかん",
-    "kanji": "",
-    "type": "n.",
-    "def": "mandarin orange",
-    "id": "L14-37"
-  },
-  {
-    "reading": "みなさん",
-    "kanji": "皆さん",
-    "type": "n.",
-    "def": "everyone; all of you",
-    "id": "L14-38"
-  },
-  {
-    "reading": "ゆびわ",
-    "kanji": "指輪",
-    "type": "n.",
-    "def": "ring",
-    "id": "L14-39"
-  },
-  {
-    "reading": "よく",
-    "kanji": "",
-    "type": "adv.",
-    "def": "often; much",
-    "id": "L14-40"
-  },
-  {
-    "reading": "りょうしん",
-    "kanji": "両親",
-    "type": "n.",
-    "def": "parents",
-    "id": "L14-41"
-  },
-  {
-    "reading": "りれきしょ",
-    "kanji": "履歴書",
-    "type": "n.",
-    "def": "résumé",
-    "id": "L14-42"
-  },
-  {
-    "reading": "わたしたち",
-    "kanji": "私たち",
-    "type": "n.",
-    "def": "we",
-    "id": "L14-43"
-  },
-  {
-    "reading": "アドバイス",
-    "kanji": "",
-    "type": "n.",
-    "def": "advice",
-    "id": "L14-44"
-  },
-  {
-    "reading": "クリスマス",
-    "kanji": "",
-    "type": "n.",
-    "def": "Christmas",
-    "id": "L14-45"
-  },
-  {
-    "reading": "シャツ",
-    "kanji": "",
-    "type": "n.",
-    "def": "shirt",
-    "id": "L14-46"
-  },
-  {
-    "reading": "チョコレート",
-    "kanji": "",
-    "type": "n.",
-    "def": "chocolate",
-    "id": "L14-47"
-  },
-  {
-    "reading": "トレーナー",
-    "kanji": "",
-    "type": "n.",
-    "def": "sweatshirt",
-    "id": "L14-48"
-  },
-  {
-    "reading": "ネクタイ",
-    "kanji": "",
-    "type": "n.",
-    "def": "necktie",
-    "id": "L14-49"
-  },
-  {
-    "reading": "バレンタインデー",
-    "kanji": "",
-    "type": "n.",
-    "def": "Valentine’s Day",
-    "id": "L14-50"
-  },
-  {
+    "id": "L14-3",
     "reading": "パートナー",
     "kanji": "",
-    "type": "n.",
     "def": "partner",
-    "id": "L14-51"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "プロポーズする",
+    "id": "L14-4",
+    "reading": "おじさん",
     "kanji": "",
-    "type": "irr-v.",
-    "def": "to propose marriage ",
-    "id": "L14-52"
+    "def": "uncle; middle-aged man",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ホワイトデー",
+    "id": "L14-5",
+    "reading": "おばさん",
     "kanji": "",
-    "type": "n.",
-    "def": "“White Day” (yet another gift-giving day)",
-    "id": "L14-53"
+    "def": "aunt; middle-aged woman",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
+    "id": "L14-6",
+    "reading": "りょうしん",
+    "kanji": "両親",
+    "def": "parents",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-7",
+    "reading": "おおやさん",
+    "kanji": "大家さん",
+    "def": "landlord; landlady",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-8",
+    "reading": "みなさん",
+    "kanji": "皆さん",
+    "def": "everyone; all of you",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-9",
+    "reading": "チョコレート",
+    "kanji": "",
+    "def": "chocolate",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-10",
+    "reading": "みかん",
+    "kanji": "",
+    "def": "mandarin orange",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-11",
+    "reading": "トレーナー",
+    "kanji": "",
+    "def": "sweatshirt",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-12",
+    "reading": "シャツ",
+    "kanji": "",
+    "def": "shirt",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-13",
+    "reading": "ネクタイ",
+    "kanji": "",
+    "def": "necktie",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L14-14",
     "reading": "マフラー",
     "kanji": "",
-    "type": "n.",
     "def": "winter scarf",
-    "id": "L14-54"
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
   },
   {
+    "id": "L14-15",
+    "reading": "ゆびわ",
+    "kanji": "指輪",
+    "def": "ring",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-16",
+    "reading": "えんぴつ",
+    "kanji": "鉛筆",
+    "def": "pencil",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-17",
+    "reading": "ぬいぐるみ",
+    "kanji": "",
+    "def": "stuffed animal (e.g., teddy bear)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-18",
+    "reading": "まんが",
+    "kanji": "漫画",
+    "def": "comic book",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-19",
+    "reading": "けしょうひん",
+    "kanji": "化粧品",
+    "def": "cosmetics",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-20",
     "reading": "ラジオ",
     "kanji": "",
-    "type": "n.",
     "def": "radio",
-    "id": "L14-55"
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
   },
   {
+    "id": "L14-21",
+    "reading": "おさら",
+    "kanji": "お皿",
+    "def": "plate; dish",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-22",
+    "reading": "おかえし",
+    "kanji": "お返し",
+    "def": "return (as a token of gratitude)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-23",
+    "reading": "りれきしょ",
+    "kanji": "履歴書",
+    "def": "résumé",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-24",
+    "reading": "クリスマス",
+    "kanji": "",
+    "def": "Christmas",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-25",
+    "reading": "バレンタインデー",
+    "kanji": "",
+    "def": "Valentine's Day",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-26",
+    "reading": "ホワイトデー",
+    "kanji": "",
+    "def": "\"White Day\" (yet another gift-giving day)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L14-27",
+    "reading": "ほしい",
+    "kanji": "欲しい",
+    "def": "to want (thing が)",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-28",
+    "reading": "おしゃれ（な）",
+    "kanji": "",
+    "def": "fashionable; stylish",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-29",
+    "reading": "けち（な）",
+    "kanji": "",
+    "def": "stingy; cheap",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-30",
+    "reading": "おくる",
+    "kanji": "送る",
+    "def": "to send (person に thing を)",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-31",
+    "reading": "にあう",
+    "kanji": "似合う",
+    "def": "to look good (on somebody) (thing が)",
+    "sect": "U-verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-32",
+    "reading": "あきらめる",
+    "kanji": "",
+    "def": "to give up (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-33",
+    "reading": "あげる",
+    "kanji": "",
+    "def": "to give (to others) (person に thing を)",
+    "sect": "Ru-verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-34",
+    "reading": "くれる",
+    "kanji": "",
+    "def": "to give (me) (person に thing を)",
+    "sect": "Ru-verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-35",
+    "reading": "できる",
+    "kanji": "",
+    "def": "to come into existence; to be made (～が)",
+    "sect": "Ru-verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-36",
+    "reading": "そうだんする",
+    "kanji": "相談する",
+    "def": "to consult (person に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-37",
+    "reading": "ちゅういする",
+    "kanji": "注意する",
+    "def": "to give warning (person に); to watch out (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-38",
+    "reading": "プロポーズする",
+    "kanji": "",
+    "def": "to propose marriage (person に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Adjectives and Verbs"
+  },
+  {
+    "id": "L14-39",
     "reading": "～くん",
     "kanji": "～君",
-    "type": "suf.",
     "def": "Mr./Ms. . . . (casual)",
-    "id": "L14-56"
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
   },
   {
-    "reading": "～こ",
-    "kanji": "～個",
-    "type": "suf.",
-    "def": "[generic counter for smaller items]",
-    "id": "L14-57"
-  },
-  {
-    "reading": "～さつ",
-    "kanji": "～冊",
-    "type": "suf.",
-    "def": "[counter for bound volumes]",
-    "id": "L14-58"
-  },
-  {
+    "id": "L14-40",
     "reading": "～たち",
     "kanji": "",
-    "type": "suf.",
     "def": "[makes a noun plural]",
-    "id": "L14-59"
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
   },
   {
-    "reading": "～だい",
-    "kanji": "～代",
-    "type": "suf.",
-    "def": "charge; fee",
-    "id": "L14-60"
+    "id": "L14-41",
+    "reading": "わたしたち",
+    "kanji": "私たち",
+    "def": "we",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
   },
   {
+    "id": "L14-42",
+    "reading": "こんな～",
+    "kanji": "",
+    "def": ". . . like this; this kind of . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L14-43",
+    "reading": "きゅうに",
+    "kanji": "急に",
+    "def": "suddenly",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L14-44",
+    "reading": "ちょうど",
+    "kanji": "",
+    "def": "exactly",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L14-45",
+    "reading": "よく",
+    "kanji": "",
+    "def": "well",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L14-46",
+    "reading": "さあ",
+    "kanji": "",
+    "def": "I am not sure . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L14-47",
+    "reading": "どうしたらいい",
+    "kanji": "",
+    "def": "what should one do",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L14-48",
+    "reading": "～こ",
+    "kanji": "～個",
+    "def": "[generic counter for smaller items]",
+    "sect": "Counters",
+    "subsect": "Counters"
+  },
+  {
+    "id": "L14-49",
+    "reading": "～さつ",
+    "kanji": "～冊",
+    "def": "[counter for bound volumes]",
+    "sect": "Counters",
+    "subsect": "Counters"
+  },
+  {
+    "id": "L14-50",
     "reading": "～だい",
     "kanji": "～台",
-    "type": "suf.",
     "def": "[counter for equipment]",
-    "id": "L14-61"
+    "sect": "Counters",
+    "subsect": "Counters"
   },
   {
-    "reading": "～ねんかん",
-    "kanji": "～年間",
-    "type": "suf.",
-    "def": "for . . . years",
-    "id": "L14-62"
-  },
-  {
+    "id": "L14-51",
     "reading": "～ひき",
     "kanji": "～匹",
-    "type": "suf.",
     "def": "[counter for smaller animals]",
-    "id": "L14-63"
+    "sect": "Counters",
+    "subsect": "Counters"
   },
   {
+    "id": "L14-52",
     "reading": "～ほん",
     "kanji": "～本",
-    "type": "suf.",
     "def": "[counter for long objects]",
-    "id": "L14-64"
-  },
-  {
-    "reading": "～まい",
-    "kanji": "～枚",
-    "type": "suf.",
-    "def": "[counter for flat objects]",
-    "id": "L14-65"
+    "sect": "Counters",
+    "subsect": "Counters"
   }
 ]

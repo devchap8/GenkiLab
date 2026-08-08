@@ -1,527 +1,442 @@
 [
   {
-    "reading": "あんぜん（な）",
-    "kanji": "安全",
-    "type": "な-adj.",
-    "def": "safe",
-    "id": "L21-1"
-  },
-  {
-    "reading": "いじめる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to bully ",
-    "id": "L21-2"
-  },
-  {
-    "reading": "いっしょうけんめい",
-    "kanji": "一生懸命",
-    "type": "adv.",
-    "def": "very hard",
-    "id": "L21-3"
-  },
-  {
-    "reading": "うらない",
-    "kanji": "占い",
-    "type": "n.",
-    "def": "fortune-telling",
-    "id": "L21-4"
-  },
-  {
-    "reading": "おおくの～",
-    "kanji": "多くの～",
-    "type": "pre.",
-    "def": "many . . .",
-    "id": "L21-5"
-  },
-  {
-    "reading": "おく",
-    "kanji": "置く",
-    "type": "u-v.",
-    "def": "to put; to lay; to place",
-    "id": "L21-6"
-  },
-  {
-    "reading": "おこる",
-    "kanji": "起こる",
-    "type": "u-v.",
-    "def": "to occur; to happen",
-    "id": "L21-7"
-  },
-  {
-    "reading": "おこる",
-    "kanji": "怒る",
-    "type": "u-v.",
-    "def": "to get angry",
-    "id": "L21-8"
-  },
-  {
-    "reading": "おまもり",
-    "kanji": "お守り",
-    "type": "n.",
-    "def": "charm (against evils); amulet",
-    "id": "L21-9"
-  },
-  {
-    "reading": "か",
-    "kanji": "蚊",
-    "type": "n.",
-    "def": "mosquito",
-    "id": "L21-10"
-  },
-  {
-    "reading": "かいぎ",
-    "kanji": "会議",
-    "type": "n.",
-    "def": "business meeting; conference",
-    "id": "L21-11"
-  },
-  {
-    "reading": "かよう",
-    "kanji": "通う",
-    "type": "u-v.",
-    "def": "to commute to",
-    "id": "L21-12"
-  },
-  {
-    "reading": "かんきょう",
-    "kanji": "環境",
-    "type": "n.",
-    "def": "environment",
-    "id": "L21-13"
-  },
-  {
-    "reading": "きがえる",
-    "kanji": "着替える",
-    "type": "ru-v.",
-    "def": "to change clothes ",
-    "id": "L21-14"
-  },
-  {
-    "reading": "きがつく",
-    "kanji": "気が付く",
-    "type": "u-v.",
-    "def": "to notice",
-    "id": "L21-15"
-  },
-  {
-    "reading": "きにする",
-    "kanji": "気にする",
-    "type": "irr-v.",
-    "def": "to worry ",
-    "id": "L21-16"
-  },
-  {
-    "reading": "くらべる",
-    "kanji": "比べる",
-    "type": "ru-v.",
-    "def": "to compare ",
-    "id": "L21-17"
-  },
-  {
-    "reading": "けいさつ",
-    "kanji": "警察",
-    "type": "n.",
-    "def": "police; police station",
-    "id": "L21-18"
-  },
-  {
-    "reading": "ける",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to kick",
-    "id": "L21-19"
-  },
-  {
-    "reading": "こうじょう",
-    "kanji": "工場",
-    "type": "n.",
-    "def": "factory",
-    "id": "L21-20"
-  },
-  {
-    "reading": "こと",
-    "kanji": "",
-    "type": "n.",
-    "def": "things; matters",
-    "id": "L21-21"
-  },
-  {
-    "reading": "ごぜんちゅう",
-    "kanji": "午前中",
-    "type": "n.",
-    "def": "in the morning",
-    "id": "L21-22"
-  },
-  {
-    "reading": "さす",
-    "kanji": "刺す",
-    "type": "u-v.",
-    "def": "to bite",
-    "id": "L21-23"
-  },
-  {
-    "reading": "さわる",
-    "kanji": "触る",
-    "type": "u-v.",
-    "def": "to touch",
-    "id": "L21-24"
-  },
-  {
-    "reading": "しゅうでん",
-    "kanji": "終電",
-    "type": "n.",
-    "def": "last train (of the day)",
-    "id": "L21-25"
-  },
-  {
-    "reading": "しょくじ",
-    "kanji": "食事",
-    "type": "n.",
-    "def": "meal",
-    "id": "L21-26"
-  },
-  {
-    "reading": "しんじる",
-    "kanji": "信じる",
-    "type": "ru-v.",
-    "def": "to believe ",
-    "id": "L21-27"
-  },
-  {
-    "reading": "しんぱい（な）",
-    "kanji": "心配",
-    "type": "な-adj.",
-    "def": "worried about",
-    "id": "L21-28"
-  },
-  {
-    "reading": "じゅぎょうりょう",
-    "kanji": "授業料",
-    "type": "n.",
-    "def": "tuition",
-    "id": "L21-29"
-  },
-  {
-    "reading": "すこし",
-    "kanji": "少し",
-    "type": "adv.",
-    "def": "a little",
-    "id": "L21-30"
-  },
-  {
-    "reading": "せいふ",
-    "kanji": "政府",
-    "type": "n.",
-    "def": "government",
-    "id": "L21-31"
-  },
-  {
-    "reading": "ぜいたくをする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to indulge in luxury ",
-    "id": "L21-32"
-  },
-  {
-    "reading": "ただの～",
-    "kanji": "",
-    "type": "pre.",
-    "def": "nothing more than . . .",
-    "id": "L21-33"
-  },
-  {
-    "reading": "たのしみ",
-    "kanji": "楽しみ",
-    "type": "n.",
-    "def": "pleasure",
-    "id": "L21-34"
-  },
-  {
-    "reading": "ためる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to save money ",
-    "id": "L21-35"
-  },
-  {
+    "id": "L21-1",
     "reading": "ちかん",
     "kanji": "",
-    "type": "n.",
     "def": "groper; pervert",
-    "id": "L21-36"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "つかまる",
-    "kanji": "捕まる",
-    "type": "u-v.",
-    "def": "to be arrested; to be caught",
-    "id": "L21-37"
-  },
-  {
-    "reading": "つつむ",
-    "kanji": "包む",
-    "type": "u-v.",
-    "def": "to wrap; to cover",
-    "id": "L21-38"
-  },
-  {
-    "reading": "とおい",
-    "kanji": "遠い",
-    "type": "い-adj.",
-    "def": "far (away)",
-    "id": "L21-39"
-  },
-  {
-    "reading": "ところが",
-    "kanji": "",
-    "type": "adv.",
-    "def": "however; on the contrary",
-    "id": "L21-40"
-  },
-  {
-    "reading": "とにかく",
-    "kanji": "",
-    "type": "adv.",
-    "def": "anyhow; anyway",
-    "id": "L21-41"
-  },
-  {
-    "reading": "どうりょう",
-    "kanji": "同僚",
-    "type": "n.",
-    "def": "colleague",
-    "id": "L21-42"
-  },
-  {
+    "id": "L21-2",
     "reading": "どろぼう",
     "kanji": "泥棒",
-    "type": "n.",
     "def": "thief; burglar",
-    "id": "L21-43"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ながいあいだ",
-    "kanji": "長い間",
-    "type": "adv.",
-    "def": "long time",
-    "id": "L21-44"
-  },
-  {
-    "reading": "なぐる",
-    "kanji": "殴る",
-    "type": "u-v.",
-    "def": "to strike; to hit; to punch",
-    "id": "L21-45"
-  },
-  {
-    "reading": "にゅういんする",
-    "kanji": "入院する",
-    "type": "irr-v.",
-    "def": "to be hospitalized ",
-    "id": "L21-46"
-  },
-  {
-    "reading": "ぬすむ",
-    "kanji": "盗む",
-    "type": "u-v.",
-    "def": "to steal; to rob",
-    "id": "L21-47"
-  },
-  {
-    "reading": "はる",
-    "kanji": "春",
-    "type": "n.",
-    "def": "spring",
-    "id": "L21-48"
-  },
-  {
-    "reading": "はる",
-    "kanji": "貼る",
-    "type": "u-v.",
-    "def": "to post; to stick",
-    "id": "L21-49"
-  },
-  {
-    "reading": "はんにん",
+    "id": "L21-3",
+    "reading": "はんんにん",
     "kanji": "犯人",
-    "type": "n.",
     "def": "criminal",
-    "id": "L21-50"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ばかにする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to insult; to make a fool of . . . ",
-    "id": "L21-51"
+    "id": "L21-4",
+    "reading": "どうりょう",
+    "kanji": "同僚",
+    "def": "colleague",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ひどい",
-    "kanji": "",
-    "type": "い-adj.",
-    "def": "awful",
-    "id": "L21-52"
+    "id": "L21-5",
+    "reading": "かいぎ",
+    "kanji": "会議",
+    "def": "business meeting; conference",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ひるねをする",
-    "kanji": "昼寝をする",
-    "type": "irr-v.",
-    "def": "to take a nap ",
-    "id": "L21-53"
-  },
-  {
-    "reading": "びっくりする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to be surprised ",
-    "id": "L21-54"
-  },
-  {
-    "reading": "ふべん（な）",
-    "kanji": "不便",
-    "type": "な-adj.",
-    "def": "inconvenient",
-    "id": "L21-55"
-  },
-  {
-    "reading": "ふむ",
-    "kanji": "踏む",
-    "type": "u-v.",
-    "def": "to step on",
-    "id": "L21-56"
-  },
-  {
-    "reading": "ふる",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to turn down (somebody); to reject; to jilt",
-    "id": "L21-57"
-  },
-  {
-    "reading": "へん（な）",
-    "kanji": "変",
-    "type": "な-adj.",
-    "def": "strange; unusual",
-    "id": "L21-58"
-  },
-  {
-    "reading": "ほめる",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to praise; to say nice things ",
-    "id": "L21-59"
-  },
-  {
-    "reading": "まちがえる",
-    "kanji": "間違える",
-    "type": "ru-v.",
-    "def": "to make a mistake ",
-    "id": "L21-60"
-  },
-  {
-    "reading": "みつける",
-    "kanji": "見つける",
-    "type": "ru-v.",
-    "def": "to find ",
-    "id": "L21-61"
-  },
-  {
-    "reading": "むかし",
-    "kanji": "昔",
-    "type": "n.",
-    "def": "old days; past",
-    "id": "L21-62"
-  },
-  {
-    "reading": "めいしん",
-    "kanji": "迷信",
-    "type": "n.",
-    "def": "superstition",
-    "id": "L21-63"
-  },
-  {
-    "reading": "めちゃくちゃ（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "messy; disorganized",
-    "id": "L21-64"
-  },
-  {
-    "reading": "めったに～ない",
-    "kanji": "",
-    "type": "adv.",
-    "def": "seldom",
-    "id": "L21-65"
-  },
-  {
-    "reading": "もんく",
-    "kanji": "文句",
-    "type": "n.",
-    "def": "complaint",
-    "id": "L21-66"
-  },
-  {
-    "reading": "もんくをいう",
-    "kanji": "文句を言う",
-    "type": "u-v.",
-    "def": "to complain",
-    "id": "L21-67"
-  },
-  {
-    "reading": "やく",
-    "kanji": "焼く",
-    "type": "u-v.",
-    "def": "to bake; to burn; to grill",
-    "id": "L21-68"
-  },
-  {
-    "reading": "やる",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to do; to perform",
-    "id": "L21-69"
-  },
-  {
-    "reading": "るす",
-    "kanji": "留守",
-    "type": "n.",
-    "def": "absence; not at home",
-    "id": "L21-70"
-  },
-  {
-    "reading": "れんらくする",
-    "kanji": "連絡する",
-    "type": "irr-v.",
-    "def": "to contact ",
-    "id": "L21-71"
-  },
-  {
-    "reading": "ガソリン",
-    "kanji": "",
-    "type": "n.",
-    "def": "gasoline",
-    "id": "L21-72"
-  },
-  {
+    "id": "L21-6",
     "reading": "スピーチ",
     "kanji": "",
-    "type": "n.",
     "def": "speech",
-    "id": "L21-73"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
+    "id": "L21-7",
+    "reading": "か",
+    "kanji": "蚊",
+    "def": "mosquito",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L21-8",
+    "reading": "ガソリン",
+    "kanji": "",
+    "def": "gasoline",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L21-9",
     "reading": "ポスター",
     "kanji": "",
-    "type": "n.",
     "def": "poster",
-    "id": "L21-74"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
+    "id": "L21-10",
+    "reading": "もんく",
+    "kanji": "文句",
+    "def": "complaint",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-11",
+    "reading": "るす",
+    "kanji": "留守",
+    "def": "absence; not at home",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-12",
+    "reading": "けいさつ",
+    "kanji": "警察",
+    "def": "police; police station",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-13",
+    "reading": "せいふ",
+    "kanji": "政府",
+    "def": "government",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-14",
+    "reading": "じゅぎょうりょう",
+    "kanji": "授業料",
+    "def": "tuition",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-15",
+    "reading": "こうじょう",
+    "kanji": "工場",
+    "def": "factory",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-16",
+    "reading": "かんきょう",
+    "kanji": "環境",
+    "def": "environment",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-17",
+    "reading": "しゅうでん",
+    "kanji": "終電",
+    "def": "last train (of the day)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-18",
+    "reading": "こと",
+    "kanji": "事",
+    "def": "things; matters",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-19",
+    "reading": "むかし",
+    "kanji": "昔",
+    "def": "old days; past",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L21-20",
+    "reading": "とおい",
+    "kanji": "遠い",
+    "def": "far (away)",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-21",
+    "reading": "ひどい",
+    "kanji": "",
+    "def": "awful",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-22",
+    "reading": "あんぜん（な）",
+    "kanji": "安全",
+    "def": "safe",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-23",
+    "reading": "めちゃくちゃ（な）",
+    "kanji": "",
+    "def": "messy; disorganized",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-24",
+    "reading": "へん（な）",
+    "kanji": "変",
+    "def": "strange; unusual",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-25",
+    "reading": "おく",
+    "kanji": "置く",
+    "def": "to put; to lay; to place (place に object を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-26",
+    "reading": "つつむ",
+    "kanji": "包む",
+    "def": "to wrap; to cover (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-27",
+    "reading": "はる",
+    "kanji": "貼る",
+    "def": "to post; to stick (place に object を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-28",
+    "reading": "やく",
+    "kanji": "焼く",
+    "def": "to bake; to burn; to grill (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-29",
+    "reading": "やる",
+    "kanji": "",
+    "def": "to give (to pets, plants, younger siblings, etc.) (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-30",
+    "reading": "ける",
+    "kanji": "",
+    "def": "to kick (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-31",
+    "reading": "なぐる",
+    "kanji": "殴る",
+    "def": "to strike; to hit; to punch (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-32",
+    "reading": "ふむ",
+    "kanji": "踏む",
+    "def": "to step on (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-33",
+    "reading": "さす",
+    "kanji": "刺す",
+    "def": "to bite (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-34",
+    "reading": "ぬすむ",
+    "kanji": "盗む",
+    "def": "to steal; to rob (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-35",
+    "reading": "さわる",
+    "kanji": "触る",
+    "def": "to touch (～に/を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-36",
+    "reading": "つかまる",
+    "kanji": "捕まる",
+    "def": "to be arrested; to be caught (～が)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-37",
+    "reading": "気がつく",
+    "kanji": "気が付く",
+    "def": "to notice (～に)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-38",
+    "reading": "ふる",
+    "kanji": "",
+    "def": "to turn down (somebody); to reject; to jilt (～を)",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-39",
+    "reading": "もんくをいう",
+    "kanji": "文句を言う",
+    "def": "to complain",
+    "sect": "U-verbs",
+    "subsect": "U-verbs"
+  },
+  {
+    "id": "L21-40",
+    "reading": "いじめる",
+    "kanji": "",
+    "def": "to bully (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-41",
+    "reading": "ほめる",
+    "kanji": "",
+    "def": "to praise; to say nice things (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-42",
+    "reading": "きがえる",
+    "kanji": "着替える",
+    "def": "to change clothes",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-43",
+    "reading": "しんじる",
+    "kanji": "信じる",
+    "def": "to believe (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-44",
+    "reading": "ためる",
+    "kanji": "",
+    "def": "to save money (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-45",
+    "reading": "まちがえる",
+    "kanji": "間違える",
+    "def": "to make a mistake (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-46",
+    "reading": "みつける",
+    "kanji": "見つける",
+    "def": "to find (～を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-47",
+    "reading": "くらべる",
+    "kanji": "比べる",
+    "def": "to compare (X と Y を)",
+    "sect": "Ru-verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-48",
+    "reading": "ばかにする",
+    "kanji": "",
+    "def": "to insult; to make a fool of . . . (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-49",
+    "reading": "びっくりする",
+    "kanji": "",
+    "def": "to be surprised (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-50",
+    "reading": "ひるねをする",
+    "kanji": "昼寝をする",
+    "def": "to take a nap",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-51",
+    "reading": "れんらくする",
+    "kanji": "連絡する",
+    "def": "to contact (person に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Ru- and Irregular Verbs"
+  },
+  {
+    "id": "L21-52",
+    "reading": "ごぜんちゅう",
+    "kanji": "午前中",
+    "def": "in the morning",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-53",
     "reading": "～ころ",
     "kanji": "",
-    "type": "suf.",
     "def": "time of . . . ; when . . .",
-    "id": "L21-75"
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-54",
+    "reading": "すこし",
+    "kanji": "少し",
+    "def": "a little",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
+  },
+  {
+    "id": "L21-55",
+    "reading": "とにかく",
+    "kanji": "",
+    "def": "anyhow; anyway",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adjectives, Adverbs, and Expressions"
   }
 ]

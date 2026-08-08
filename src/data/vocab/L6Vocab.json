@@ -1,506 +1,378 @@
 [
   {
-    "reading": "あける",
-    "kanji": "開ける",
-    "type": "ru-v.",
-    "def": "to open (something) ",
-    "id": "L6-1"
-  },
-  {
-    "reading": "あそぶ",
-    "kanji": "遊ぶ",
-    "type": "u-v.",
-    "def": "to play; to spend time pleasantly",
-    "id": "L6-2"
-  },
-  {
-    "reading": "あとで",
-    "kanji": "後で",
-    "type": "adv.",
-    "def": "later on",
-    "id": "L6-3"
-  },
-  {
-    "reading": "いそぐ",
-    "kanji": "急ぐ",
-    "type": "u-v.",
-    "def": "to hurry",
-    "id": "L6-4"
-  },
-  {
-    "reading": "いつも",
-    "kanji": "",
-    "type": "adv.",
-    "def": "always",
-    "id": "L6-5"
-  },
-  {
-    "reading": "えき",
-    "kanji": "駅",
-    "type": "n.",
-    "def": "station",
-    "id": "L6-6"
-  },
-  {
-    "reading": "おかね",
-    "kanji": "お金",
-    "type": "n.",
-    "def": "money",
-    "id": "L6-7"
-  },
-  {
-    "reading": "おしえる",
-    "kanji": "教える",
-    "type": "ru-v.",
-    "def": "to teach; to instruct ",
-    "id": "L6-8"
-  },
-  {
-    "reading": "おりる",
-    "kanji": "降りる",
-    "type": "ru-v.",
-    "def": "to get off ",
-    "id": "L6-9"
-  },
-  {
-    "reading": "かえす",
-    "kanji": "返す",
-    "type": "u-v.",
-    "def": "to return (a thing)",
-    "id": "L6-10"
-  },
-  {
-    "reading": "かど",
-    "kanji": "角",
-    "type": "n.",
-    "def": "corner",
-    "id": "L6-11"
-  },
-  {
-    "reading": "かりる",
-    "kanji": "借りる",
-    "type": "ru-v.",
-    "def": "to borrow ",
-    "id": "L6-12"
-  },
-  {
+    "id": "L6-1",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
     "reading": "かんじ",
     "kanji": "漢字",
-    "type": "n.",
-    "def": "kanji; Chinese character",
-    "id": "L6-13"
+    "def": "kanji; Chinese character"
   },
   {
-    "reading": "きた",
-    "kanji": "北",
-    "type": "n.",
-    "def": "north",
-    "id": "L6-14"
-  },
-  {
+    "id": "L6-2",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
     "reading": "きょうかしょ",
     "kanji": "教科書",
-    "type": "n.",
-    "def": "textbook",
-    "id": "L6-15"
+    "def": "textbook"
   },
   {
-    "reading": "くに",
-    "kanji": "国",
-    "type": "n.",
-    "def": "country; place of origin",
-    "id": "L6-16"
-  },
-  {
-    "reading": "けす",
-    "kanji": "消す",
-    "type": "u-v.",
-    "def": "to turn off; to erase",
-    "id": "L6-17"
-  },
-  {
-    "reading": "けっこうです",
-    "kanji": "結構です",
-    "type": "exp.",
-    "def": "That would be fine.; That wouldn’t be necessary.",
-    "id": "L6-18"
-  },
-  {
-    "reading": "こんしゅう",
-    "kanji": "今週",
-    "type": "n.",
-    "def": "this week",
-    "id": "L6-19"
-  },
-  {
-    "reading": "しぬ",
-    "kanji": "死ぬ",
-    "type": "u-v.",
-    "def": "to die",
-    "id": "L6-20"
-  },
-  {
-    "reading": "しめる",
-    "kanji": "閉める",
-    "type": "ru-v.",
-    "def": "to close (something) ",
-    "id": "L6-21"
-  },
-  {
-    "reading": "しんごう",
-    "kanji": "信号",
-    "type": "n.",
-    "def": "traffic light",
-    "id": "L6-22"
-  },
-  {
-    "reading": "すぐ",
-    "kanji": "",
-    "type": "adv.",
-    "def": "right away",
-    "id": "L6-23"
-  },
-  {
-    "reading": "すわる",
-    "kanji": "座る",
-    "type": "u-v.",
-    "def": "to sit down",
-    "id": "L6-24"
-  },
-  {
-    "reading": "たいへん（な）",
-    "kanji": "大変",
-    "type": "な-adj.",
-    "def": "tough (situation)",
-    "id": "L6-25"
-  },
-  {
-    "reading": "たつ",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "(time) pass",
-    "id": "L6-26"
-  },
-  {
-    "reading": "たつ",
-    "kanji": "立つ",
-    "type": "u-v.",
-    "def": "to stand up",
-    "id": "L6-27"
-  },
-  {
-    "reading": "たばこをすう",
-    "kanji": "たばこを吸う",
-    "type": "u-v.",
-    "def": "to smoke",
-    "id": "L6-28"
-  },
-  {
-    "reading": "つかう",
-    "kanji": "使う",
-    "type": "u-v.",
-    "def": "to use",
-    "id": "L6-29"
-  },
-  {
-    "reading": "つぎ",
-    "kanji": "次",
-    "type": "n.",
-    "def": "next",
-    "id": "L6-30"
-  },
-  {
-    "reading": "つける",
-    "kanji": "",
-    "type": "ru-v.",
-    "def": "to turn on ",
-    "id": "L6-31"
-  },
-  {
-    "reading": "つれてくる",
-    "kanji": "連れてくる",
-    "type": "irr-v.",
-    "def": "to bring (a person) ",
-    "id": "L6-32"
-  },
-  {
-    "reading": "てつだう",
-    "kanji": "手伝う",
-    "type": "u-v.",
-    "def": "to help",
-    "id": "L6-33"
-  },
-  {
-    "reading": "でる",
-    "kanji": "出る",
-    "type": "ru-v.",
-    "def": "to appear; to attend; to exit ",
-    "id": "L6-34"
-  },
-  {
-    "reading": "でんき",
-    "kanji": "電気",
-    "type": "n.",
-    "def": "electricity; light",
-    "id": "L6-35"
-  },
-  {
-    "reading": "でんしゃ",
-    "kanji": "電車",
-    "type": "n.",
-    "def": "train",
-    "id": "L6-36"
-  },
-  {
-    "reading": "でんわする",
-    "kanji": "電話する",
-    "type": "irr-v.",
-    "def": "to call ",
-    "id": "L6-37"
-  },
-  {
-    "reading": "にし",
-    "kanji": "西",
-    "type": "n.",
-    "def": "west",
-    "id": "L6-38"
-  },
-  {
-    "reading": "にもつ",
-    "kanji": "荷物",
-    "type": "n.",
-    "def": "baggage",
-    "id": "L6-39"
-  },
-  {
-    "reading": "はいる",
-    "kanji": "入る",
-    "type": "u-v.",
-    "def": "to enter",
-    "id": "L6-40"
-  },
-  {
-    "reading": "ひがし",
-    "kanji": "東",
-    "type": "n.",
-    "def": "east",
-    "id": "L6-41"
-  },
-  {
-    "reading": "ひだりがわ",
-    "kanji": "左側",
-    "type": "n.",
-    "def": "left side",
-    "id": "L6-42"
-  },
-  {
-    "reading": "ひとつめ",
-    "kanji": "一つ目",
-    "type": "n.",
-    "def": "first",
-    "id": "L6-43"
-  },
-  {
-    "reading": "ふたつめ",
-    "kanji": "二つ目",
-    "type": "n.",
-    "def": "second",
-    "id": "L6-44"
-  },
-  {
-    "reading": "ほんとうですか",
-    "kanji": "本当ですか",
-    "type": "exp.",
-    "def": "Really?",
-    "id": "L6-45"
-  },
-  {
-    "reading": "まがる",
-    "kanji": "曲がる",
-    "type": "u-v.",
-    "def": "to turn (right/left)",
-    "id": "L6-46"
-  },
-  {
-    "reading": "まっすぐ",
-    "kanji": "",
-    "type": "adv.",
-    "def": "straight",
-    "id": "L6-47"
-  },
-  {
-    "reading": "まど",
-    "kanji": "窓",
-    "type": "n.",
-    "def": "window",
-    "id": "L6-48"
-  },
-  {
-    "reading": "みぎがわ",
-    "kanji": "右側",
-    "type": "n.",
-    "def": "right side",
-    "id": "L6-49"
-  },
-  {
-    "reading": "みっつめ",
-    "kanji": "三つ目",
-    "type": "n.",
-    "def": "third",
-    "id": "L6-50"
-  },
-  {
-    "reading": "みなさん",
-    "kanji": "皆さん",
-    "type": "n.",
-    "def": "everyone; all of you",
-    "id": "L6-51"
-  },
-  {
-    "reading": "みなみ",
-    "kanji": "南",
-    "type": "n.",
-    "def": "south",
-    "id": "L6-52"
-  },
-  {
-    "reading": "もってくる",
-    "kanji": "持ってくる",
-    "type": "irr-v.",
-    "def": "to bring (a thing) ",
-    "id": "L6-53"
-  },
-  {
-    "reading": "もつ",
-    "kanji": "持つ",
-    "type": "u-v.",
-    "def": "to carry; to hold",
-    "id": "L6-54"
-  },
-  {
-    "reading": "やすむ",
-    "kanji": "休む",
-    "type": "u-v.",
-    "def": "to be absent (from); to rest",
-    "id": "L6-55"
-  },
-  {
-    "reading": "ゆっくり",
-    "kanji": "",
-    "type": "adv.",
-    "def": "slowly; leisurely; unhurriedly",
-    "id": "L6-56"
-  },
-  {
-    "reading": "よる",
-    "kanji": "夜",
-    "type": "n.",
-    "def": "night",
-    "id": "L6-57"
-  },
-  {
-    "reading": "よる",
-    "kanji": "寄る",
-    "type": "u-v.",
-    "def": "to stop by",
-    "id": "L6-58"
-  },
-  {
-    "reading": "らいしゅう",
-    "kanji": "来週",
-    "type": "n.",
-    "def": "next week",
-    "id": "L6-59"
-  },
-  {
-    "reading": "らいねん",
-    "kanji": "来年",
-    "type": "n.",
-    "def": "next year",
-    "id": "L6-60"
-  },
-  {
-    "reading": "りょうり",
-    "kanji": "料理",
-    "type": "n.",
-    "def": "cooking; dish",
-    "id": "L6-61"
-  },
-  {
-    "reading": "わすれる",
-    "kanji": "忘れる",
-    "type": "ru-v.",
-    "def": "to forget; to leave behind ",
-    "id": "L6-62"
-  },
-  {
-    "reading": "わたる",
-    "kanji": "渡る",
-    "type": "u-v.",
-    "def": "to cross",
-    "id": "L6-63"
-  },
-  {
-    "reading": "イタリア",
-    "kanji": "",
-    "type": "n.",
-    "def": "Italy",
-    "id": "L6-64"
-  },
-  {
-    "reading": "エアコン",
-    "kanji": "",
-    "type": "n.",
-    "def": "air conditioner",
-    "id": "L6-65"
-  },
-  {
-    "reading": "シェフ",
-    "kanji": "",
-    "type": "n.",
-    "def": "chef",
-    "id": "L6-66"
-  },
-  {
-    "reading": "シャワー",
-    "kanji": "",
-    "type": "n.",
-    "def": "shower",
-    "id": "L6-67"
-  },
-  {
-    "reading": "シャワーをあびる",
-    "kanji": "シャワーを浴びる",
-    "type": "ru-v.",
-    "def": "to take a shower ",
-    "id": "L6-68"
-  },
-  {
-    "reading": "パソコン",
-    "kanji": "",
-    "type": "n.",
-    "def": "personal computer",
-    "id": "L6-69"
-  },
-  {
-    "reading": "ピザ",
-    "kanji": "",
-    "type": "n.",
-    "def": "pizza",
-    "id": "L6-70"
-  },
-  {
+    "id": "L6-3",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
     "reading": "ページ",
     "kanji": "",
-    "type": "n.",
-    "def": "page",
-    "id": "L6-71"
+    "def": "page"
   },
   {
-    "reading": "ワイン",
+    "id": "L6-4",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "つぎ",
+    "kanji": "次",
+    "def": "next"
+  },
+  {
+    "id": "L6-5",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "おかね",
+    "kanji": "お金",
+    "def": "money"
+  },
+  {
+    "id": "L6-6",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "にもつ",
+    "kanji": "荷物",
+    "def": "baggage"
+  },
+  {
+    "id": "L6-7",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "パソコン",
     "kanji": "",
-    "type": "n.",
-    "def": "wine",
-    "id": "L6-72"
+    "def": "personal computer"
+  },
+  {
+    "id": "L6-8",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "シャワー",
+    "kanji": "",
+    "def": "shower"
+  },
+  {
+    "id": "L6-9",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "エアコン",
+    "kanji": "",
+    "def": "air conditioner"
+  },
+  {
+    "id": "L6-10",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "でんき",
+    "kanji": "電気",
+    "def": "electricity; light"
+  },
+  {
+    "id": "L6-11",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "まど",
+    "kanji": "窓",
+    "def": "window"
+  },
+  {
+    "id": "L6-12",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "でんしゃ",
+    "kanji": "電車",
+    "def": "train"
+  },
+  {
+    "id": "L6-13",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "くに",
+    "kanji": "国",
+    "def": "country; place of origin"
+  },
+  {
+    "id": "L6-14",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "こんしゅう",
+    "kanji": "今週",
+    "def": "this week"
+  },
+  {
+    "id": "L6-15",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "らいしゅう",
+    "kanji": "来週",
+    "def": "next week"
+  },
+  {
+    "id": "L6-16",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "らいねん",
+    "kanji": "来年",
+    "def": "next year"
+  },
+  {
+    "id": "L6-17",
+    "subsect": "Nouns and Adjectives",
+    "sect": "Nouns",
+    "reading": "よる",
+    "kanji": "夜",
+    "def": "night"
+  },
+  {
+    "id": "L6-18",
+    "subsect": "Nouns and Adjectives",
+    "sect": "な-Adjectives",
+    "reading": "たいへん（な）",
+    "kanji": "大変",
+    "def": "tough (situation)"
+  },
+  {
+    "id": "L6-19",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "あそぶ",
+    "kanji": "遊ぶ",
+    "def": "to play; to spend time pleasantly"
+  },
+  {
+    "id": "L6-20",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "いそぐ",
+    "kanji": "急ぐ",
+    "def": "to hurry"
+  },
+  {
+    "id": "L6-21",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "かえす",
+    "kanji": "返す",
+    "def": "to return (a thing) (person に thing を)"
+  },
+  {
+    "id": "L6-22",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "けす",
+    "kanji": "消す",
+    "def": "to turn off; to erase (～を)"
+  },
+  {
+    "id": "L6-23",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "しぬ",
+    "kanji": "死ぬ",
+    "def": "to die"
+  },
+  {
+    "id": "L6-24",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "すわる",
+    "kanji": "座る",
+    "def": "to sit down (seat に)"
+  },
+  {
+    "id": "L6-25",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "たつ",
+    "kanji": "立つ",
+    "def": "to stand up"
+  },
+  {
+    "id": "L6-26",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "たばこをすう",
+    "kanji": "たばこを吸う",
+    "def": "to smoke"
+  },
+  {
+    "id": "L6-27",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "つかう",
+    "kanji": "使う",
+    "def": "to use (～を)"
+  },
+  {
+    "id": "L6-28",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "てつだう",
+    "kanji": "手伝う",
+    "def": "to help (person/task を)"
+  },
+  {
+    "id": "L6-29",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "はいる",
+    "kanji": "入る",
+    "def": "to enter (～に)"
+  },
+  {
+    "id": "L6-30",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "もつ",
+    "kanji": "持つ",
+    "def": "to carry; to hold (～を)"
+  },
+  {
+    "id": "L6-31",
+    "subsect": "U-verbs",
+    "sect": "U-verbs",
+    "reading": "やすむ",
+    "kanji": "休む",
+    "def": "(1) to be absent (from . . .) (～を)\n(2) to rest"
+  },
+  {
+    "id": "L6-32",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "あける",
+    "kanji": "開ける",
+    "def": "to open (something) (～を)"
+  },
+  {
+    "id": "L6-33",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "しめる",
+    "kanji": "閉める",
+    "def": "to close (something) (～を)"
+  },
+  {
+    "id": "L6-34",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "おしえる",
+    "kanji": "教える",
+    "def": "to teach; to instruct (person に thing を)"
+  },
+  {
+    "id": "L6-35",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "わすれる",
+    "kanji": "忘れる",
+    "def": "to forget; to leave behind (～を)"
+  },
+  {
+    "id": "L6-36",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "おりる",
+    "kanji": "降りる",
+    "def": "to get off (～を)"
+  },
+  {
+    "id": "L6-37",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "かりる",
+    "kanji": "借りる",
+    "def": "to borrow (person に thing を)"
+  },
+  {
+    "id": "L6-38",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "シャワーをあびる",
+    "kanji": "シャワーを浴びる",
+    "def": "to take a shower"
+  },
+  {
+    "id": "L6-39",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Ru-verbs",
+    "reading": "つける",
+    "kanji": "",
+    "def": "to turn on (～を)"
+  },
+  {
+    "id": "L6-40",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Irregular Verbs",
+    "reading": "でんわする",
+    "kanji": "電話する",
+    "def": "to call (～に)"
+  },
+  {
+    "id": "L6-41",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Irregular Verbs",
+    "reading": "つれてくる",
+    "kanji": "連れてくる",
+    "def": "to bring (a person) (～を)"
+  },
+  {
+    "id": "L6-42",
+    "subsect": "Ru- and Irregular Verbs",
+    "sect": "Irregular Verbs",
+    "reading": "もってくる",
+    "kanji": "持ってくる",
+    "def": "to bring (a thing) (～を)"
+  },
+  {
+    "id": "L6-43",
+    "subsect": "Adverbs and Other Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "あとで",
+    "kanji": "後で",
+    "def": "later on"
+  },
+  {
+    "id": "L6-44",
+    "subsect": "Adverbs and Other Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "すぐ",
+    "kanji": "",
+    "def": "right away"
+  },
+  {
+    "id": "L6-45",
+    "subsect": "Adverbs and Other Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "ゆっくり",
+    "kanji": "",
+    "def": "slowly; leisurely; unhurriedly"
+  },
+  {
+    "id": "L6-46",
+    "subsect": "Adverbs and Other Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "けっこうです",
+    "kanji": "結構です",
+    "def": "That would be fine.; That wouldn't be necessary."
+  },
+  {
+    "id": "L6-47",
+    "subsect": "Adverbs and Other Expressions",
+    "sect": "Adverbs and Other Expressions",
+    "reading": "ほんとうですか",
+    "kanji": "本当ですか",
+    "def": "Really?"
   }
 ]

@@ -11,7 +11,7 @@ export default function SpoilerText(props) {
     }
 
     return (
-        <div className={hidden ? "spoiler-hidden" : "spoiler-not-hidden"} onClick={toggleClicked} onMouseOver={hidden && !clicked && toggleHidden} onMouseOut={!hidden && !clicked && toggleHidden}>
+        <div className={hidden ? "spoiler-hidden" : "spoiler-not-hidden"} onClick={toggleClicked} onMouseOver={hidden && !clicked ? toggleHidden : undefined} onMouseOut={!hidden && !clicked ? toggleHidden : undefined}>
             {props.children}
         </div>
     )

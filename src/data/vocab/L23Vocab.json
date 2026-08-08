@@ -1,457 +1,378 @@
 [
   {
-    "reading": "あいさつ",
-    "kanji": "",
-    "type": "n.",
-    "def": "greetings",
-    "id": "L23-1"
-  },
-  {
-    "reading": "あめがやむ",
-    "kanji": "雨がやむ",
-    "type": "u-v.",
-    "def": "the rain stops",
-    "id": "L23-2"
-  },
-  {
-    "reading": "あらわす",
-    "kanji": "表す",
-    "type": "u-v.",
-    "def": "to express; to show",
-    "id": "L23-3"
-  },
-  {
-    "reading": "いっぽう",
-    "kanji": "一方",
-    "type": "adv.",
-    "def": "on the other hand",
-    "id": "L23-4"
-  },
-  {
-    "reading": "いなくなる",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "(someone) is gone; to disappear",
-    "id": "L23-5"
-  },
-  {
-    "reading": "えもじ",
-    "kanji": "絵文字",
-    "type": "n.",
-    "def": "emoji",
-    "id": "L23-6"
-  },
-  {
-    "reading": "おせわになる",
-    "kanji": "お世話になる",
-    "type": "u-v.",
-    "def": "to be in someone’s care",
-    "id": "L23-7"
-  },
-  {
-    "reading": "おなかをこわす",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to have a stomachache",
-    "id": "L23-8"
-  },
-  {
-    "reading": "おもいで",
-    "kanji": "思い出",
-    "type": "n.",
-    "def": "memory",
-    "id": "L23-9"
-  },
-  {
-    "reading": "かいがいりょこう",
-    "kanji": "海外旅行",
-    "type": "n.",
-    "def": "trip to a foreign country",
-    "id": "L23-10"
-  },
-  {
-    "reading": "かいだん",
-    "kanji": "階段",
-    "type": "n.",
-    "def": "stairs",
-    "id": "L23-11"
-  },
-  {
-    "reading": "かおもじ",
-    "kanji": "顔文字",
-    "type": "n.",
-    "def": "emoticon",
-    "id": "L23-12"
-  },
-  {
-    "reading": "かわいそう（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "pitiful; feel sorry for; poor thing",
-    "id": "L23-13"
-  },
-  {
-    "reading": "かんじょう",
-    "kanji": "感情",
-    "type": "n.",
-    "def": "feeling; emotion",
-    "id": "L23-14"
-  },
-  {
-    "reading": "がっかりする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to be disappointed ",
-    "id": "L23-15"
-  },
-  {
-    "reading": "がまんする",
-    "kanji": "我慢する",
-    "type": "irr-v.",
-    "def": "to be tolerant/patient ",
-    "id": "L23-16"
-  },
-  {
-    "reading": "きごう",
-    "kanji": "記号",
-    "type": "n.",
-    "def": "symbol",
-    "id": "L23-17"
-  },
-  {
-    "reading": "きにいる",
-    "kanji": "気に入る",
-    "type": "u-v.",
-    "def": "to find something agreeable",
-    "id": "L23-18"
-  },
-  {
-    "reading": "きゅうこう",
-    "kanji": "休講",
-    "type": "n.",
-    "def": "class cancellation",
-    "id": "L23-19"
-  },
-  {
-    "reading": "きゅうこう",
-    "kanji": "急行",
-    "type": "n.",
-    "def": "express",
-    "id": "L23-20"
-  },
-  {
+    "id": "L23-1",
     "reading": "くつした",
     "kanji": "靴下",
-    "type": "n.",
     "def": "socks",
-    "id": "L23-21"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "けっか",
-    "kanji": "結果",
-    "type": "n.",
-    "def": "result",
-    "id": "L23-22"
-  },
-  {
-    "reading": "けんこう",
-    "kanji": "健康",
-    "type": "n.",
-    "def": "health",
-    "id": "L23-23"
-  },
-  {
-    "reading": "げんきでね",
-    "kanji": "元気でね",
-    "type": "exp.",
-    "def": "Take care of yourself.",
-    "id": "L23-24"
-  },
-  {
-    "reading": "こたえ",
-    "kanji": "答／答え",
-    "type": "n.",
-    "def": "answer",
-    "id": "L23-25"
-  },
-  {
-    "reading": "こたえる",
-    "kanji": "答える",
-    "type": "ru-v.",
-    "def": "to answer ",
-    "id": "L23-26"
-  },
-  {
-    "reading": "ことわざ",
-    "kanji": "",
-    "type": "n.",
-    "def": "proverb",
-    "id": "L23-27"
-  },
-  {
-    "reading": "このように",
-    "kanji": "",
-    "type": "adv.",
-    "def": "like this; this way",
-    "id": "L23-28"
-  },
-  {
-    "reading": "さいごに",
-    "kanji": "最後に",
-    "type": "adv.",
-    "def": "finally; lastly",
-    "id": "L23-29"
-  },
-  {
-    "reading": "しゃかい",
-    "kanji": "社会",
-    "type": "n.",
-    "def": "society",
-    "id": "L23-30"
-  },
-  {
-    "reading": "しょうがっこう",
-    "kanji": "小学校",
-    "type": "n.",
-    "def": "elementary school",
-    "id": "L23-31"
-  },
-  {
-    "reading": "せかいじゅう",
-    "kanji": "世界中",
-    "type": "n.",
-    "def": "all over the world",
-    "id": "L23-32"
-  },
-  {
-    "reading": "せわをする",
-    "kanji": "世話をする",
-    "type": "irr-v.",
-    "def": "to take care of . . . ",
-    "id": "L23-33"
-  },
-  {
-    "reading": "そうそう",
-    "kanji": "",
-    "type": "exp.",
-    "def": "You are right.",
-    "id": "L23-34"
-  },
-  {
-    "reading": "そろそろ",
-    "kanji": "",
-    "type": "adv.",
-    "def": "it is about time to . . .",
-    "id": "L23-35"
-  },
-  {
-    "reading": "そんな～",
-    "kanji": "",
-    "type": "pre.",
-    "def": "such . . . ; that kind of . . .",
-    "id": "L23-36"
-  },
-  {
-    "reading": "ただ",
-    "kanji": "",
-    "type": "n.",
-    "def": "free of charge",
-    "id": "L23-37"
-  },
-  {
-    "reading": "たて",
-    "kanji": "縦",
-    "type": "n.",
-    "def": "vertical",
-    "id": "L23-38"
-  },
-  {
-    "reading": "ちがう",
-    "kanji": "違う",
-    "type": "u-v.",
-    "def": "to be different; to be wrong",
-    "id": "L23-39"
-  },
-  {
-    "reading": "ちょうさ",
-    "kanji": "調査",
-    "type": "n.",
-    "def": "survey",
-    "id": "L23-40"
-  },
-  {
-    "reading": "どうじょうする",
-    "kanji": "同情する",
-    "type": "irr-v.",
-    "def": "to sympathize ",
-    "id": "L23-41"
-  },
-  {
-    "reading": "なくなる",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "to be lost; to disappear",
-    "id": "L23-42"
-  },
-  {
-    "reading": "はなれる",
-    "kanji": "離れる",
-    "type": "ru-v.",
-    "def": "(something/someone) separates; parts from ",
-    "id": "L23-43"
-  },
-  {
-    "reading": "ばしょ",
-    "kanji": "場所",
-    "type": "n.",
-    "def": "place",
-    "id": "L23-44"
-  },
-  {
-    "reading": "ひょうじょう",
-    "kanji": "表情",
-    "type": "n.",
-    "def": "expression",
-    "id": "L23-45"
-  },
-  {
+    "id": "L23-2",
     "reading": "ふくろ",
     "kanji": "袋",
-    "type": "n.",
-    "def": "bag; sack; plastic/paper bag",
-    "id": "L23-46"
+    "def": "sack; plastic/paper bag",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ぼんおどり",
-    "kanji": "盆踊り",
-    "type": "n.",
-    "def": "Bon dance (Japanese traditional dance)",
-    "id": "L23-47"
-  },
-  {
-    "reading": "まずい",
+    "id": "L23-3",
+    "reading": "ただ",
     "kanji": "",
-    "type": "い-adj.",
-    "def": "(food is) terrible",
-    "id": "L23-48"
+    "def": "free of charge",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "めんせつ",
-    "kanji": "面接",
-    "type": "n.",
-    "def": "interview",
-    "id": "L23-49"
-  },
-  {
-    "reading": "もどってくる",
-    "kanji": "戻ってくる",
-    "type": "irr-v.",
-    "def": "(something/someone) comes back ",
-    "id": "L23-50"
-  },
-  {
-    "reading": "ものすごく",
-    "kanji": "",
-    "type": "adv.",
-    "def": "extremely",
-    "id": "L23-51"
-  },
-  {
-    "reading": "ゆうしょうする",
-    "kanji": "優勝する",
-    "type": "irr-v.",
-    "def": "to win a championship ",
-    "id": "L23-52"
-  },
-  {
+    "id": "L23-4",
     "reading": "ゆうしょく",
     "kanji": "夕食",
-    "type": "n.",
     "def": "dinner",
-    "id": "L23-53"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "よこ",
-    "kanji": "横",
-    "type": "n.",
-    "def": "side; horizontal",
-    "id": "L23-54"
+    "id": "L23-5",
+    "reading": "ばしょ",
+    "kanji": "場所",
+    "def": "place",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
+    "id": "L23-6",
+    "reading": "かいだん",
+    "kanji": "階段",
+    "def": "stairs",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L23-7",
+    "reading": "しょうがっこう",
+    "kanji": "小学校",
+    "def": "elementary school",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L23-8",
+    "reading": "めんせつ",
+    "kanji": "面接",
+    "def": "interview",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L23-9",
+    "reading": "けんこう",
+    "kanji": "健康",
+    "def": "health",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L23-10",
     "reading": "りそう",
     "kanji": "理想",
-    "type": "n.",
     "def": "ideal",
-    "id": "L23-55"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
+    "id": "L23-11",
     "reading": "るすばん",
     "kanji": "留守番",
-    "type": "n.",
-    "def": "looking after a house during someone’s absence",
-    "id": "L23-56"
+    "def": "looking after a house during someone's absence",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
   },
   {
-    "reading": "わるぐちをいう",
-    "kanji": "悪口を言う",
-    "type": "u-v.",
-    "def": "to talk behind someone’s back",
-    "id": "L23-57"
-  },
-  {
-    "reading": "エスエヌエス",
-    "kanji": "SNS",
-    "type": "n.",
-    "def": "social media",
-    "id": "L23-58"
-  },
-  {
-    "reading": "カンニングする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to cheat in an exam ",
-    "id": "L23-59"
-  },
-  {
-    "reading": "キスをする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to kiss ",
-    "id": "L23-60"
-  },
-  {
-    "reading": "チェックする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to check ",
-    "id": "L23-61"
-  },
-  {
+    "id": "L23-12",
     "reading": "メッセージ",
     "kanji": "",
-    "type": "n.",
     "def": "message; text",
-    "id": "L23-62"
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
   },
   {
-    "reading": "（～は）…といういみだ",
-    "kanji": "（～は）…という意味だ",
-    "type": "exp.",
-    "def": "～ means that . . .",
-    "id": "L23-63"
+    "id": "L23-13",
+    "reading": "きゅうこう",
+    "kanji": "休講",
+    "def": "class cancellation",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
   },
   {
+    "id": "L23-14",
+    "reading": "かいがいいりょこう",
+    "kanji": "海外旅行",
+    "def": "trip to a foreign country",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-15",
+    "reading": "ぼんおどり",
+    "kanji": "盆踊り",
+    "def": "Bon dance (Japanese traditional dance)",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-16",
+    "reading": "おもいで",
+    "kanji": "思い出",
+    "def": "memory",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-17",
+    "reading": "しゃかい",
+    "kanji": "社会",
+    "def": "society",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-18",
+    "reading": "けっか",
+    "kanji": "結果",
+    "def": "result",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-19",
+    "reading": "ちょうさ",
+    "kanji": "調査",
+    "def": "survey",
+    "sect": "Nouns",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-20",
+    "reading": "まずい",
+    "kanji": "",
+    "def": "(food is) terrible",
+    "sect": "い-adjectives",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-21",
+    "reading": "かわいそう（な）",
+    "kanji": "",
+    "def": "pitiful; feel sorry for; poor thing",
+    "sect": "な-adjectives",
+    "subsect": "Nouns 2 and Adjectives"
+  },
+  {
+    "id": "L23-22",
+    "reading": "あめがやむ",
+    "kanji": "雨がやむ",
+    "def": "the rain stops",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-23",
+    "reading": "ちがう",
+    "kanji": "違う",
+    "def": "to be different; to be wrong (～と)",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-24",
+    "reading": "なくなる",
+    "kanji": "",
+    "def": "to be lost; to disappear (～が)",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-25",
+    "reading": "いなくなる",
+    "kanji": "",
+    "def": "(someone) is gone; to disappear (～が)",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-26",
+    "reading": "お世話になる",
+    "kanji": "お世話になる",
+    "def": "to be in someone's care (～に)",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-27",
+    "reading": "おなかをこわす",
+    "kanji": "",
+    "def": "to have a stomachache",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-28",
+    "reading": "きにいる",
+    "kanji": "気に入る",
+    "def": "to find something agreeable (～が/を)",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-29",
+    "reading": "わるぐちをいう",
+    "kanji": "悪口を言う",
+    "def": "to talk behind someone's back",
+    "sect": "U-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-30",
+    "reading": "こたえる",
+    "kanji": "答える",
+    "def": "to answer (～に)",
+    "sect": "Ru-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-31",
+    "reading": "はなれる",
+    "kanji": "離れる",
+    "def": "(something/someone) separates; parts from (～と)",
+    "sect": "Ru-verbs",
+    "subsect": "U- and Ru- Verbs"
+  },
+  {
+    "id": "L23-32",
+    "reading": "がっかりする",
+    "kanji": "",
+    "def": "to be disappointed (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-33",
+    "reading": "がまんする",
+    "kanji": "我慢する",
+    "def": "to be tolerant/patient (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-34",
+    "reading": "どうじょうする",
+    "kanji": "同情する",
+    "def": "to sympathize (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-35",
     "reading": "～かおをする",
     "kanji": "～顔をする",
-    "type": "irr-v.",
-    "def": "to look . . . (facial expression) ",
-    "id": "L23-64"
+    "def": "to look . . . (facial expression)",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
   },
   {
+    "id": "L23-36",
+    "reading": "カンニングする",
+    "kanji": "",
+    "def": "to cheat in an exam",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-37",
+    "reading": "チェックする",
+    "kanji": "",
+    "def": "to check (～を)",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-38",
+    "reading": "せわをする",
+    "kanji": "世話をする",
+    "def": "to take care of . . . (～の)",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-39",
+    "reading": "ゆうしょうする",
+    "kanji": "優勝する",
+    "def": "to win a championship",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-40",
+    "reading": "もどってくる",
+    "kanji": "戻ってくる",
+    "def": "(something/someone) comes back",
+    "sect": "Irregular Verbs",
+    "subsect": "Irregular Verbs"
+  },
+  {
+    "id": "L23-41",
+    "reading": "そんな～",
+    "kanji": "",
+    "def": "such . . . ; that kind of . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L23-42",
     "reading": "～ために",
     "kanji": "",
-    "type": "exp.",
     "def": "for . . . ; for the sake of . . .",
-    "id": "L23-65"
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L23-43",
+    "reading": "ものすごく",
+    "kanji": "",
+    "def": "extremely",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L23-44",
+    "reading": "そろそろ",
+    "kanji": "",
+    "def": "it is about time to . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L23-45",
+    "reading": "さいごに",
+    "kanji": "最後に",
+    "def": "finally",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L23-46",
+    "reading": "げんきでね",
+    "kanji": "元気でね",
+    "def": "Take care of yourself.",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L23-47",
+    "reading": "そうそう",
+    "kanji": "",
+    "def": "You are right.",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
   }
 ]

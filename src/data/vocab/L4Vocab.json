@@ -1,111 +1,498 @@
 [
-  {"reading": "あいだ", "kanji": "間", "type": "n.", "def": "between", "id": "L4-1", "subsect": "Directions & Positions"},
-  {"reading": "あう", "kanji": "会う", "type": "u-v.", "def": "to meet; to see (a person)", "id": "L4-2", "subsect": "Verbs"},
-  {"reading": "あなた", "kanji": "", "type": "n.", "def": "you", "id": "L4-5", "subsect": "Living Things"},
-  {"reading": "ある", "kanji": "", "type": "u-v.", "def": "there is . . .", "id": "L4-6", "subsect": "Verbs"},
-  {"reading": "いす", "kanji": "", "type": "n.", "def": "chair", "id": "L4-7", "subsect": "Places & Buildings"},
-  {"reading": "いぬ", "kanji": "犬", "type": "n.", "def": "dog", "id": "L4-11", "subsect": "Living Things"},
-  {"reading": "いる", "kanji": "", "type": "ru-v.", "def": "(a person) is in . . . ; stays at . . . ", "id": "L4-12", "subsect": "Verbs"},
-  {"reading": "いる", "kanji": "", "type": "u-v.", "def": "to need", "id": "L4-13", "subsect": "Verbs"},
-  {"reading": "うえ", "kanji": "上", "type": "n.", "def": "on", "id": "L4-14", "subsect": "Directions & Positions"},
-  {"reading": "うしろ", "kanji": "後ろ", "type": "n.", "def": "back", "id": "L4-15", "subsect": "Directions & Positions"},
-  {"reading": "かいもの", "kanji": "買い物", "type": "n.", "def": "shopping", "id": "L4-20", "subsect": "Verbs"},
-  {"reading": "かう", "kanji": "買う", "type": "u-v.", "def": "to buy", "id": "L4-21", "subsect": "Verbs"},
-  {"reading": "かう", "kanji": "飼う", "type": "u-v.", "def": "to own (a pet)", "id": "L4-22", "subsect": "Verbs"},
-  {"reading": "かく", "kanji": "書く", "type": "u-v.", "def": "to write", "id": "L4-23", "subsect": "Verbs"},
-  {"reading": "かく", "kanji": "描く", "type": "u-v.", "def": "to draw; to paint", "id": "L4-24", "subsect": "Verbs"},
-  {"reading": "かようび", "kanji": "火曜日", "type": "n.", "def": "Tuesday", "id": "L4-25", "subsect": "Time"},
-  {"reading": "きのう", "kanji": "昨日", "type": "n.", "def": "yesterday", "id": "L4-26", "subsect": "Time"},
-  {"reading": "きょう", "kanji": "今日", "type": "n.", "def": "today", "id": "L4-27", "subsect": "Time"},
-  {"reading": "きょねん", "kanji": "去年", "type": "n.", "def": "last year", "id": "L4-28", "subsect": "Time"},
-  {"reading": "きんようび", "kanji": "金曜日", "type": "n.", "def": "Friday", "id": "L4-29", "subsect": "Time"},
-  {"reading": "くがつ", "kanji": "九月", "type": "n.", "def": "September", "id": "L4-30", "subsect": "Time"},
-  {"reading": "げつようび", "kanji": "月曜日", "type": "n.", "def": "Monday", "id": "L4-31", "subsect": "Time"},
-  {"reading": "こうえん", "kanji": "公園", "type": "n.", "def": "park", "id": "L4-32", "subsect": "Places & Buildings"},
-  {"reading": "ここのか", "kanji": "九日", "type": "n.", "def": "nine days", "id": "L4-33", "subsect": "Time"},
-  {"reading": "ことし", "kanji": "今年", "type": "n.", "def": "this year", "id": "L4-34", "subsect": "Time"},
-  {"reading": "こども", "kanji": "子供", "type": "n.", "def": "child", "id": "L4-35", "subsect": "Living Things"},
-  {"reading": "こんげつ", "kanji": "今月", "type": "n.", "def": "this month", "id": "L4-36", "subsect": "Time"},
-  {"reading": "こんしゅう", "kanji": "今週", "type": "n.", "def": "this week", "id": "L4-37", "subsect": "Time"},
-  {"reading": "ごがつ", "kanji": "五月", "type": "n.", "def": "May", "id": "L4-38", "subsect": "Time"},
-  {"reading": "ごはん", "kanji": "ご飯", "type": "n.", "def": "rice; meal", "id": "L4-39", "subsect": "Food & Daily Life"},
-  {"reading": "ごめんなさい", "kanji": "", "type": "exp.", "def": "I'm sorry.", "id": "L4-40", "subsect": "Expressions"},
-  {"reading": "さらいげつ", "kanji": "再来月", "type": "n.", "def": "the month after next", "id": "L4-41", "subsect": "Time"},
-  {"reading": "さらいしゅう", "kanji": "再来週", "type": "n.", "def": "the week after next", "id": "L4-42", "subsect": "Time"},
-  {"reading": "さらいねん", "kanji": "再来年", "type": "n.", "def": "the year after next", "id": "L4-43", "subsect": "Time"},
-  {"reading": "さんがつ", "kanji": "三月", "type": "n.", "def": "March", "id": "L4-44", "subsect": "Time"},
-  {"reading": "しがつ", "kanji": "四月", "type": "n.", "def": "April", "id": "L4-45", "subsect": "Time"},
-  {"reading": "した", "kanji": "下", "type": "n.", "def": "under", "id": "L4-46", "subsect": "Directions & Positions"},
-  {"reading": "しちがつ", "kanji": "七月", "type": "n.", "def": "July", "id": "L4-47", "subsect": "Time"},
-  {"reading": "しゃしん", "kanji": "写真", "type": "n.", "def": "picture; photograph", "id": "L4-48", "subsect": "Activities"},
-  {"reading": "じゅういちがつ", "kanji": "十一月", "type": "n.", "def": "November", "id": "L4-49", "subsect": "Time"},
-  {"reading": "じゅういちにち", "kanji": "十一日", "type": "n.", "def": "the eleventh day of a month", "id": "L4-50", "subsect": "Time"},
-  {"reading": "じゅうがつ", "kanji": "十月", "type": "n.", "def": "October", "id": "L4-51", "subsect": "Time"},
-  {"reading": "じゅうにがつ", "kanji": "十二月", "type": "n.", "def": "December", "id": "L4-52", "subsect": "Time"},
-  {"reading": "じゅうよっか", "kanji": "十四日", "type": "n.", "def": "the fourteenth day of a month", "id": "L4-53", "subsect": "Time"},
-  {"reading": "すいようび", "kanji": "水曜日", "type": "n.", "def": "Wednesday", "id": "L4-54", "subsect": "Time"},
-  {"reading": "せんげつ", "kanji": "先月", "type": "n.", "def": "last month", "id": "L4-55", "subsect": "Time"},
-  {"reading": "せんしゅう", "kanji": "先週", "type": "n.", "def": "last week", "id": "L4-56", "subsect": "Time"},
-  {"reading": "それから", "kanji": "", "type": "adv.", "def": "and then", "id": "L4-57", "subsect": "Expressions"},
-  {"reading": "たくさん", "kanji": "", "type": "adv.", "def": "many; a lot", "id": "L4-58", "subsect": "Expressions"},
-  {"reading": "だから", "kanji": "", "type": "adv.", "def": "so; therefore", "id": "L4-59", "subsect": "Expressions"},
-  {"reading": "ちかく", "kanji": "近く", "type": "n.", "def": "near; nearby", "id": "L4-60", "subsect": "Directions & Positions"},
-  {"reading": "ついたち", "kanji": "一日", "type": "n.", "def": "the first day of a month", "id": "L4-61", "subsect": "Time"},
-  {"reading": "つくえ", "kanji": "机", "type": "n.", "def": "desk", "id": "L4-62", "subsect": "Places & Buildings"},
-  {"reading": "とおか", "kanji": "十日", "type": "n.", "def": "ten days", "id": "L4-63", "subsect": "Time"},
-  {"reading": "とき", "kanji": "時", "type": "n.", "def": "when . . . ; at the time of . .. .", "id": "L4-64", "subsect": "Time"},
-  {"reading": "となり", "kanji": "隣", "type": "n.", "def": "next", "id": "L4-65", "subsect": "Directions & Positions"},
-  {"reading": "とる", "kanji": "取る", "type": "u-v.", "def": "to take (a class); to get (a grade)", "id": "L4-66", "subsect": "Verbs"},
-  {"reading": "とる", "kanji": "撮る", "type": "u-v.", "def": "to take (a picture)", "id": "L4-67", "subsect": "Verbs"},
-  {"reading": "とる", "kanji": "", "type": "u-v.", "def": "to take off", "id": "L4-68", "subsect": "Verbs"},
-  {"reading": "どうして", "kanji": "", "type": "adv.", "def": "why", "id": "L4-69", "subsect": "Expressions"},
-  {"reading": "どようび", "kanji": "土曜日", "type": "n.", "def": "Saturday", "id": "L4-70", "subsect": "Time"},
-  {"reading": "なか", "kanji": "中", "type": "n.", "def": "inside", "id": "L4-71", "subsect": "Directions & Positions"},
-  {"reading": "なのか", "kanji": "七日", "type": "n.", "def": "seven days", "id": "L4-72", "subsect": "Time"},
-  {"reading": "にかげつまえ", "kanji": "二か月前", "type": "n.", "def": "two months ago", "id": "L4-73", "subsect": "Time"},
-  {"reading": "にがつ", "kanji": "二月", "type": "n.", "def": "February", "id": "L4-74", "subsect": "Time"},
-  {"reading": "にしゅうかんまえ", "kanji": "二週間前", "type": "n.", "def": "two weeks ago", "id": "L4-75", "subsect": "Time"},
-  {"reading": "にじゅうよっか", "kanji": "二十四日", "type": "n.", "def": "the twenty-fourth day of a month", "id": "L4-76", "subsect": "Time"},
-  {"reading": "にちようび", "kanji": "日曜日", "type": "n.", "def": "Sunday", "id": "L4-77", "subsect": "Time"},
-  {"reading": "ねこ", "kanji": "猫", "type": "n.", "def": "cat", "id": "L4-78", "subsect": "Living Things"},
-  {"reading": "はちがつ", "kanji": "八月", "type": "n.", "def": "August", "id": "L4-79", "subsect": "Time"},
-  {"reading": "はつか", "kanji": "二十日", "type": "n.", "def": "the twentieth day of a month", "id": "L4-80", "subsect": "Time"},
-  {"reading": "はな", "kanji": "花", "type": "n.", "def": "flower", "id": "L4-81", "subsect": "Food & Daily Life"},
-  {"reading": "はな", "kanji": "鼻", "type": "n.", "def": "nose", "id": "L4-82", "subsect": "Living Things"},
-  {"reading": "ひだり", "kanji": "左", "type": "n.", "def": "left", "id": "L4-83", "subsect": "Directions & Positions"},
-  {"reading": "ひと", "kanji": "人", "type": "n.", "def": "person", "id": "L4-84", "subsect": "Living Things"},
-  {"reading": "ひとりで", "kanji": "一人で", "type": "adv.", "def": "alone", "id": "L4-85", "subsect": "Expressions"},
-  {"reading": "びょういん", "kanji": "病院", "type": "n.", "def": "hospital", "id": "L4-86", "subsect": "Places & Buildings"},
-  {"reading": "ふつか", "kanji": "二日", "type": "n.", "def": "the second day of a month", "id": "L4-87", "subsect": "Time"},
-  {"reading": "ほんや", "kanji": "本屋", "type": "n.", "def": "bookstore", "id": "L4-88", "subsect": "Places & Buildings"},
-  {"reading": "まえ", "kanji": "前", "type": "suf.", "def": "before . .. .", "id": "L4-89", "subsect": "Time"},
-  {"reading": "まえ", "kanji": "前", "type": "n.", "def": "front", "id": "L4-90", "subsect": "Directions & Positions"},
-  {"reading": "まち", "kanji": "町", "type": "n.", "def": "town; city", "id": "L4-91", "subsect": "Places & Buildings"},
-  {"reading": "まつ", "kanji": "待つ", "type": "u-v.", "def": "to wait", "id": "L4-92", "subsect": "Verbs"},
-  {"reading": "まんじゅう", "kanji": "", "type": "n.", "def": "sweet bun", "id": "L4-93", "subsect": "Food & Daily Life"},
-  {"reading": "みぎ", "kanji": "右", "type": "n.", "def": "right", "id": "L4-94", "subsect": "Directions & Positions"},
-  {"reading": "みせ", "kanji": "店", "type": "n.", "def": "shop; store", "id": "L4-95", "subsect": "Places & Buildings"},
-  {"reading": "みっか", "kanji": "三日", "type": "n.", "def": "the third day of a month", "id": "L4-96", "subsect": "Time"},
-  {"reading": "むいか", "kanji": "六日", "type": "n.", "def": "six days", "id": "L4-97", "subsect": "Time"},
-  {"reading": "もくようび", "kanji": "木曜日", "type": "n.", "def": "Thursday", "id": "L4-98", "subsect": "Time"},
-  {"reading": "もしもし", "kanji": "", "type": "exp.", "def": "Hello? (used on the phone)", "id": "L4-99", "subsect": "Expressions"},
-  {"reading": "ようか", "kanji": "八日", "type": "n.", "def": "eight days", "id": "L4-100", "subsect": "Time"},
-  {"reading": "よっか", "kanji": "四日", "type": "n.", "def": "four days", "id": "L4-101", "subsect": "Time"},
-  {"reading": "らいげつ", "kanji": "来月", "type": "n.", "def": "next month", "id": "L4-102", "subsect": "Time"},
-  {"reading": "らいしゅう", "kanji": "来週", "type": "n.", "def": "next week", "id": "L4-103", "subsect": "Time"},
-  {"reading": "らいねん", "kanji": "来年", "type": "n.", "def": "next year", "id": "L4-104", "subsect": "Time"},
-  {"reading": "ろくがつ", "kanji": "六月", "type": "n.", "def": "June", "id": "L4-105", "subsect": "Time"},
-  {"reading": "わかる", "kanji": "", "type": "u-v.", "def": "to understand", "id": "L4-106", "subsect": "Verbs"},
-  {"reading": "アルバイト", "kanji": "", "type": "n.", "def": "part-time job", "id": "L4-107", "subsect": "Activities"},
-  {"reading": "クラス", "kanji": "", "type": "n.", "def": "class", "id": "L4-108", "subsect": "Activities"},
-  {"reading": "ゲーム", "kanji": "", "type": "n.", "def": "game", "id": "L4-109", "subsect": "Activities"},
-  {"reading": "スーパー", "kanji": "", "type": "n.", "def": "supermarket", "id": "L4-110", "subsect": "Places & Buildings"},
-  {"reading": "バスてい", "kanji": "バス停", "type": "n.", "def": "bus stop", "id": "L4-111", "subsect": "Places & Buildings"},
-  {"reading": "パン", "kanji": "", "type": "n.", "def": "bread", "id": "L4-112", "subsect": "Food & Daily Life"},
-  {"reading": "ホテル", "kanji": "", "type": "n.", "def": "hotel", "id": "L4-113", "subsect": "Places & Buildings"},
-  {"reading": "レストラン", "kanji": "", "type": "n.", "def": "restaurant", "id": "L4-114", "subsect": "Places & Buildings"},
-  {"reading": "レポート", "kanji": "", "type": "n.", "def": "(term) paper", "id": "L4-115", "subsect": "Activities"},
-  {"reading": "～ぐらい", "kanji": "", "type": "suf.", "def": "about (approximate measurement)", "id": "L4-116", "subsect": "Time"},
-  {"reading": "～じかん", "kanji": "～時間", "type": "suf.", "def": ". . . hours", "id": "L4-117", "subsect": "Time"},
-  {"reading": "～と", "kanji": "", "type": "part.", "def": "together with (a person); and", "id": "L4-118", "subsect": "Expressions"}
+  {
+    "id": "L4-1",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "ゲーム",
+    "kanji": "",
+    "def": "game"
+  },
+  {
+    "id": "L4-2",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "アルバイト",
+    "kanji": "",
+    "def": "part-time job (more colloquially, バイト)"
+  },
+  {
+    "id": "L4-3",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "かいもの",
+    "kanji": "買い物",
+    "def": "shopping"
+  },
+  {
+    "id": "L4-4",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "クラス",
+    "kanji": "",
+    "def": "class"
+  },
+  {
+    "id": "L4-5",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "いぬ",
+    "kanji": "犬",
+    "def": "dog"
+  },
+  {
+    "id": "L4-6",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "ねこ",
+    "kanji": "猫",
+    "def": "cat"
+  },
+  {
+    "id": "L4-7",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "ひと",
+    "kanji": "人",
+    "def": "person"
+  },
+  {
+    "id": "L4-8",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "こども",
+    "kanji": "子供",
+    "def": "child"
+  },
+  {
+    "id": "L4-9",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "あなた",
+    "kanji": "",
+    "def": "you"
+  },
+  {
+    "id": "L4-10",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "いす",
+    "kanji": "",
+    "def": "chair"
+  },
+  {
+    "id": "L4-11",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "つくえ",
+    "kanji": "机",
+    "def": "desk"
+  },
+  {
+    "id": "L4-12",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "しゃしん",
+    "kanji": "写真",
+    "def": "picture; photograph"
+  },
+  {
+    "id": "L4-13",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "はな",
+    "kanji": "花",
+    "def": "flower"
+  },
+  {
+    "id": "L4-14",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "レポート",
+    "kanji": "",
+    "def": "(term) paper"
+  },
+  {
+    "id": "L4-15",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "ごはん",
+    "kanji": "ご飯",
+    "def": "rice; meal"
+  },
+  {
+    "id": "L4-16",
+    "subsect": "People and Things",
+    "sect": "Nouns",
+    "reading": "パン",
+    "kanji": "",
+    "def": "bread"
+  },
+  {
+    "id": "L4-17",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "おてら",
+    "kanji": "お寺",
+    "def": "temple"
+  },
+  {
+    "id": "L4-18",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "こうえん",
+    "kanji": "公園",
+    "def": "park"
+  },
+  {
+    "id": "L4-19",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "スーパー",
+    "kanji": "",
+    "def": "supermarket"
+  },
+  {
+    "id": "L4-20",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "バスてい",
+    "kanji": "バス停",
+    "def": "bus stop"
+  },
+  {
+    "id": "L4-21",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "びょういん",
+    "kanji": "病院",
+    "def": "hospital"
+  },
+  {
+    "id": "L4-22",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "ホテル",
+    "kanji": "",
+    "def": "hotel"
+  },
+  {
+    "id": "L4-23",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "ほんや",
+    "kanji": "本屋",
+    "def": "bookstore"
+  },
+  {
+    "id": "L4-24",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "まち",
+    "kanji": "町",
+    "def": "town; city"
+  },
+  {
+    "id": "L4-25",
+    "subsect": "Places and Activities",
+    "sect": "Nouns",
+    "reading": "レストラン",
+    "kanji": "",
+    "def": "restaurant"
+  },
+  {
+    "id": "L4-26",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "きのう",
+    "kanji": "昨日",
+    "def": "yesterday"
+  },
+  {
+    "id": "L4-27",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "～じかん",
+    "kanji": "～時間",
+    "def": ". . . hours"
+  },
+  {
+    "id": "L4-28",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "いちじかん",
+    "kanji": "一時間",
+    "def": "one hour"
+  },
+  {
+    "id": "L4-29",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "せんしゅう",
+    "kanji": "先週",
+    "def": "last week"
+  },
+  {
+    "id": "L4-30",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "とき",
+    "kanji": "時",
+    "def": "when . . . ; at the time of . . . (～の)"
+  },
+  {
+    "id": "L4-31",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "げつようび",
+    "kanji": "月曜日",
+    "def": "Monday"
+  },
+  {
+    "id": "L4-32",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "かようび",
+    "kanji": "火曜日",
+    "def": "Tuesday"
+  },
+  {
+    "id": "L4-33",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "すいようび",
+    "kanji": "水曜日",
+    "def": "Wednesday"
+  },
+  {
+    "id": "L4-34",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "もくようび",
+    "kanji": "木曜日",
+    "def": "Thursday"
+  },
+  {
+    "id": "L4-35",
+    "subsect": "Time",
+    "sect": "Nouns",
+    "reading": "きんようび",
+    "kanji": "金曜日",
+    "def": "Friday"
+  },
+  {
+    "id": "L4-36",
+    "subsect": "Verbs",
+    "sect": "U-verbs",
+    "reading": "あう",
+    "kanji": "会う",
+    "def": "to meet; to see (a person) (person に)"
+  },
+  {
+    "id": "L4-37",
+    "subsect": "Verbs",
+    "sect": "U-verbs",
+    "reading": "ある",
+    "kanji": "",
+    "def": "there is . . . (place に thing が)"
+  },
+  {
+    "id": "L4-38",
+    "subsect": "Verbs",
+    "sect": "U-verbs",
+    "reading": "かう",
+    "kanji": "買う",
+    "def": "to buy (～を)"
+  },
+  {
+    "id": "L4-39",
+    "subsect": "Verbs",
+    "sect": "U-verbs",
+    "reading": "かく",
+    "kanji": "書く",
+    "def": "to write (person に thing を)"
+  },
+  {
+    "id": "L4-40",
+    "subsect": "Verbs",
+    "sect": "U-verbs",
+    "reading": "とる",
+    "kanji": "撮る",
+    "def": "to take (a picture) (～を)"
+  },
+  {
+    "id": "L4-41",
+    "subsect": "Verbs",
+    "sect": "U-verbs",
+    "reading": "まつ",
+    "kanji": "待つ",
+    "def": "to wait (～を)"
+  },
+  {
+    "id": "L4-42",
+    "subsect": "Verbs",
+    "sect": "U-verbs",
+    "reading": "わかる",
+    "kanji": "",
+    "def": "to understand (～が)"
+  },
+  {
+    "id": "L4-43",
+    "subsect": "Verbs",
+    "sect": "Ru-verbs",
+    "reading": "いる",
+    "kanji": "",
+    "def": "(a person) is in . . . ; stays at . . . (place に person が)"
+  },
+  {
+    "id": "L4-44",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "～ぐらい",
+    "kanji": "",
+    "def": "about (approximate measurement)"
+  },
+  {
+    "id": "L4-45",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "ごめんなさい",
+    "kanji": "",
+    "def": "I'm sorry."
+  },
+  {
+    "id": "L4-46",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "それから",
+    "kanji": "",
+    "def": "and then"
+  },
+  {
+    "id": "L4-47",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "だから",
+    "kanji": "",
+    "def": "so; therefore"
+  },
+  {
+    "id": "L4-48",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "たくさん",
+    "kanji": "",
+    "def": "many; a lot"
+  },
+  {
+    "id": "L4-49",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "～と",
+    "kanji": "",
+    "def": "together with (a person); and"
+  },
+  {
+    "id": "L4-50",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "どうして",
+    "kanji": "",
+    "def": "why"
+  },
+  {
+    "id": "L4-51",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "ひとりで",
+    "kanji": "一人で",
+    "def": "alone"
+  },
+  {
+    "id": "L4-52",
+    "subsect": "Adverbs and Expressions",
+    "sect": "Adverbs and Expressions",
+    "reading": "もしもし",
+    "kanji": "",
+    "def": "Hello? (used on the phone)"
+  },
+  {
+    "id": "L4-53",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "みぎ",
+    "kanji": "右",
+    "def": "right (～の)"
+  },
+  {
+    "id": "L4-54",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "ひだり",
+    "kanji": "左",
+    "def": "left (～の)"
+  },
+  {
+    "id": "L4-55",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "まえ",
+    "kanji": "前",
+    "def": "front (～の)"
+  },
+  {
+    "id": "L4-56",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "うしろ",
+    "kanji": "後ろ",
+    "def": "back (～の)"
+  },
+  {
+    "id": "L4-57",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "なか",
+    "kanji": "中",
+    "def": "inside (～の)"
+  },
+  {
+    "id": "L4-58",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "うえ",
+    "kanji": "上",
+    "def": "on (～の)"
+  },
+  {
+    "id": "L4-59",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "した",
+    "kanji": "下",
+    "def": "under (～の)"
+  },
+  {
+    "id": "L4-60",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "ちかく",
+    "kanji": "近く",
+    "def": "near; nearby (～の)"
+  },
+  {
+    "id": "L4-61",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "となり",
+    "kanji": "隣",
+    "def": "next (～の)"
+  },
+  {
+    "id": "L4-62",
+    "subsect": "Location Words",
+    "sect": "Adverbs and Expressions",
+    "reading": "あいだ",
+    "kanji": "間",
+    "def": "between (A と B の)"
+  }
 ]

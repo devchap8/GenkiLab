@@ -1,681 +1,450 @@
 [
   {
-    "reading": "あずけいれ",
-    "kanji": "預け入れ",
-    "type": "n.",
-    "def": "deposit",
-    "id": "L13-1"
-  },
-  {
-    "reading": "あむ",
-    "kanji": "編む",
-    "type": "u-v.",
-    "def": "to knit",
-    "id": "L13-2"
-  },
-  {
-    "reading": "あんしょうばんごう",
-    "kanji": "暗証番号",
-    "type": "n.",
-    "def": "personal identification number",
-    "id": "L13-3"
-  },
-  {
-    "reading": "いちにち",
-    "kanji": "一日",
-    "type": "n.",
-    "def": "one day",
-    "id": "L13-4"
-  },
-  {
-    "reading": "いっしょうにいちど",
-    "kanji": "一生に一度",
-    "type": "adv.",
-    "def": "once in a lifetime",
-    "id": "L13-5"
-  },
-  {
-    "reading": "いつか",
-    "kanji": "五日",
-    "type": "n.",
-    "def": "five days",
-    "id": "L13-6"
-  },
-  {
-    "reading": "いろいろ（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "various; different kinds of",
-    "id": "L13-7"
-  },
-  {
-    "reading": "うれしい",
-    "kanji": "",
-    "type": "い-adj.",
-    "def": "glad",
-    "id": "L13-8"
-  },
-  {
-    "reading": "おくれる",
-    "kanji": "遅れる",
-    "type": "ru-v.",
-    "def": "to become late ",
-    "id": "L13-9"
-  },
-  {
+    "id": "L13-1",
     "reading": "おとな",
     "kanji": "大人",
-    "type": "n.",
     "def": "adult",
-    "id": "L13-10"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "かなしい",
-    "kanji": "悲しい",
-    "type": "い-adj.",
-    "def": "sad",
-    "id": "L13-11"
-  },
-  {
-    "reading": "かめ",
-    "kanji": "",
-    "type": "n.",
-    "def": "turtle",
-    "id": "L13-12"
-  },
-  {
-    "reading": "からい",
-    "kanji": "辛い",
-    "type": "い-adj.",
-    "def": "hot and spicy; salty",
-    "id": "L13-13"
-  },
-  {
-    "reading": "からだ",
-    "kanji": "体",
-    "type": "n.",
-    "def": "body",
-    "id": "L13-14"
-  },
-  {
-    "reading": "からて",
-    "kanji": "空手",
-    "type": "n.",
-    "def": "karate",
-    "id": "L13-15"
-  },
-  {
-    "reading": "かんどうする",
-    "kanji": "感動する",
-    "type": "irr-v.",
-    "def": "to be moved/touched (by . . . ) ",
-    "id": "L13-16"
-  },
-  {
-    "reading": "がいこくご",
-    "kanji": "外国語",
-    "type": "n.",
-    "def": "foreign language",
-    "id": "L13-17"
-  },
-  {
-    "reading": "がっき",
-    "kanji": "楽器",
-    "type": "n.",
-    "def": "musical instrument",
-    "id": "L13-18"
-  },
-  {
-    "reading": "がんばる",
-    "kanji": "頑張る",
-    "type": "u-v.",
-    "def": "to do one’s best; to try hard",
-    "id": "L13-19"
-  },
-  {
-    "reading": "きびしい",
-    "kanji": "厳しい",
-    "type": "い-adj.",
-    "def": "strict",
-    "id": "L13-20"
-  },
-  {
-    "reading": "きぶんがわるい",
-    "kanji": "気分が悪い",
-    "type": "い-adj.",
-    "def": "not to feel well; to feel sick",
-    "id": "L13-21"
-  },
-  {
-    "reading": "きもの",
-    "kanji": "着物",
-    "type": "n.",
-    "def": "kimono; Japanese traditional dress",
-    "id": "L13-22"
-  },
-  {
-    "reading": "きんがく",
-    "kanji": "金額",
-    "type": "n.",
-    "def": "amount",
-    "id": "L13-23"
-  },
-  {
-    "reading": "くうこう",
-    "kanji": "空港",
-    "type": "n.",
-    "def": "airport",
-    "id": "L13-24"
-  },
-  {
-    "reading": "けいけん",
-    "kanji": "経験",
-    "type": "n.",
-    "def": "experience",
-    "id": "L13-25"
-  },
-  {
-    "reading": "げんきん",
-    "kanji": "現金",
-    "type": "n.",
-    "def": "cash",
-    "id": "L13-26"
-  },
-  {
-    "reading": "こうこく",
-    "kanji": "広告",
-    "type": "n.",
-    "def": "advertisement",
-    "id": "L13-27"
-  },
-  {
-    "reading": "こうざ",
-    "kanji": "口座",
-    "type": "n.",
-    "def": "account",
-    "id": "L13-28"
-  },
-  {
-    "reading": "こうちゃ",
-    "kanji": "紅茶",
-    "type": "n.",
-    "def": "black tea",
-    "id": "L13-29"
-  },
-  {
-    "reading": "ここのか",
-    "kanji": "九日",
-    "type": "n.",
-    "def": "nine days",
-    "id": "L13-30"
-  },
-  {
-    "reading": "ことば",
-    "kanji": "言葉",
-    "type": "n.",
-    "def": "language",
-    "id": "L13-31"
-  },
-  {
-    "reading": "ざだんかい",
-    "kanji": "座談会",
-    "type": "n.",
-    "def": "round-table discussion",
-    "id": "L13-32"
-  },
-  {
-    "reading": "ざんだかしょうかい",
-    "kanji": "残高照会",
-    "type": "n.",
-    "def": "balance inquiry",
-    "id": "L13-33"
-  },
-  {
-    "reading": "しあわせ（な）",
-    "kanji": "幸せ",
-    "type": "な-adj.",
-    "def": "happy (lasting happiness)",
-    "id": "L13-34"
-  },
-  {
-    "reading": "じかんどおり",
-    "kanji": "時間通り",
-    "type": "n.",
-    "def": "on time",
-    "id": "L13-35"
-  },
-  {
-    "reading": "じどう",
-    "kanji": "自動",
-    "type": "n.",
-    "def": "automatic",
-    "id": "L13-36"
-  },
-  {
-    "reading": "すごい",
-    "kanji": "",
-    "type": "い-adj.",
-    "def": "incredible; awesome",
-    "id": "L13-37"
-  },
-  {
-    "reading": "すっぽん",
-    "kanji": "",
-    "type": "n.",
-    "def": "snapping turtle; terrapin",
-    "id": "L13-38"
-  },
-  {
-    "reading": "ぜんぶ",
-    "kanji": "全部",
-    "type": "adv.",
-    "def": "all",
-    "id": "L13-39"
-  },
-  {
-    "reading": "ぞう",
-    "kanji": "象",
-    "type": "n.",
-    "def": "elephant",
-    "id": "L13-40"
-  },
-  {
-    "reading": "だめ（な）",
-    "kanji": "",
-    "type": "な-adj.",
-    "def": "no good",
-    "id": "L13-41"
-  },
-  {
-    "reading": "ちかい",
-    "kanji": "近い",
-    "type": "い-adj.",
-    "def": "close; near",
-    "id": "L13-42"
-  },
-  {
-    "reading": "つうちょう",
-    "kanji": "通帳",
-    "type": "n.",
-    "def": "passbook",
-    "id": "L13-43"
-  },
-  {
-    "reading": "つうちょうきにゅう",
-    "kanji": "通帳記入",
-    "type": "n.",
-    "def": "passbook update",
-    "id": "L13-44"
-  },
-  {
-    "reading": "つく",
-    "kanji": "着く",
-    "type": "u-v.",
-    "def": "to arrive",
-    "id": "L13-45"
-  },
-  {
-    "reading": "つく",
-    "kanji": "",
-    "type": "u-v.",
-    "def": "(something) turns on",
-    "id": "L13-46"
-  },
-  {
-    "reading": "てすうりょう",
-    "kanji": "手数料",
-    "type": "n.",
-    "def": "commission",
-    "id": "L13-47"
-  },
-  {
-    "reading": "とおか",
-    "kanji": "十日",
-    "type": "n.",
-    "def": "ten days",
-    "id": "L13-48"
-  },
-  {
-    "reading": "とくに",
-    "kanji": "特に",
-    "type": "adv.",
-    "def": "especially",
-    "id": "L13-49"
-  },
-  {
-    "reading": "とり",
-    "kanji": "鳥",
-    "type": "n.",
-    "def": "bird; poultry",
-    "id": "L13-50"
-  },
-  {
-    "reading": "なく",
-    "kanji": "泣く",
-    "type": "u-v.",
-    "def": "to cry",
-    "id": "L13-51"
-  },
-  {
-    "reading": "なのか",
-    "kanji": "七日",
-    "type": "n.",
-    "def": "seven days",
-    "id": "L13-52"
-  },
-  {
-    "reading": "なべ",
-    "kanji": "",
-    "type": "n.",
-    "def": "pot",
-    "id": "L13-53"
-  },
-  {
-    "reading": "なんでも",
-    "kanji": "",
-    "type": "adv.",
-    "def": "anything; everything",
-    "id": "L13-54"
-  },
-  {
-    "reading": "ひきだし",
-    "kanji": "引き出し",
-    "type": "n.",
-    "def": "withdrawal",
-    "id": "L13-55"
-  },
-  {
-    "reading": "ふあん（な）",
-    "kanji": "不安",
-    "type": "な-adj.",
-    "def": "anxious; worried",
-    "id": "L13-56"
-  },
-  {
-    "reading": "ふつか",
-    "kanji": "二日",
-    "type": "n.",
-    "def": "the second day of a month",
-    "id": "L13-57"
-  },
-  {
-    "reading": "ふりこみ",
-    "kanji": "振込",
-    "type": "n.",
-    "def": "bank transfer",
-    "id": "L13-58"
-  },
-  {
-    "reading": "ぶっか",
-    "kanji": "物価",
-    "type": "n.",
-    "def": "consumer prices",
-    "id": "L13-59"
-  },
-  {
-    "reading": "ぶんぽう",
-    "kanji": "文法",
-    "type": "n.",
-    "def": "grammar",
-    "id": "L13-60"
-  },
-  {
+    "id": "L13-2",
     "reading": "べんごし",
     "kanji": "弁護士",
-    "type": "n.",
     "def": "lawyer",
-    "id": "L13-61"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ぼしゅう",
-    "kanji": "募集",
-    "type": "n.",
-    "def": "recruitment",
-    "id": "L13-62"
-  },
-  {
-    "reading": "みがく",
-    "kanji": "磨く",
-    "type": "u-v.",
-    "def": "to brush (teeth); to polish",
-    "id": "L13-63"
-  },
-  {
-    "reading": "みずぎ",
-    "kanji": "水着",
-    "type": "n.",
-    "def": "swimwear",
-    "id": "L13-64"
-  },
-  {
-    "reading": "みせ",
-    "kanji": "店",
-    "type": "n.",
-    "def": "shop; store",
-    "id": "L13-65"
-  },
-  {
-    "reading": "みっか",
-    "kanji": "三日",
-    "type": "n.",
-    "def": "the third day of a month",
-    "id": "L13-66"
-  },
-  {
-    "reading": "むいか",
-    "kanji": "六日",
-    "type": "n.",
-    "def": "six days",
-    "id": "L13-67"
-  },
-  {
-    "reading": "めずらしい",
-    "kanji": "",
-    "type": "い-adj.",
-    "def": "rare",
-    "id": "L13-68"
-  },
-  {
-    "reading": "もう～ない",
-    "kanji": "",
-    "type": "adv.",
-    "def": "not any longer",
-    "id": "L13-69"
-  },
-  {
-    "reading": "やくそく",
-    "kanji": "約束",
-    "type": "n.",
-    "def": "promise; appointment",
-    "id": "L13-70"
-  },
-  {
-    "reading": "やくそくをまもる",
-    "kanji": "約束を守る",
-    "type": "u-v.",
-    "def": "to keep a promise",
-    "id": "L13-71"
-  },
-  {
-    "reading": "やっぱり",
-    "kanji": "",
-    "type": "adv.",
-    "def": "after all",
-    "id": "L13-72"
-  },
-  {
-    "reading": "ようか",
-    "kanji": "八日",
-    "type": "n.",
-    "def": "eight days",
-    "id": "L13-73"
-  },
-  {
-    "reading": "よきん",
-    "kanji": "預金",
-    "type": "n.",
-    "def": "savings",
-    "id": "L13-74"
-  },
-  {
-    "reading": "よっか",
-    "kanji": "四日",
-    "type": "n.",
-    "def": "four days",
-    "id": "L13-75"
-  },
-  {
-    "reading": "りょうがえ",
-    "kanji": "両替",
-    "type": "n.",
-    "def": "money exchange",
-    "id": "L13-76"
-  },
-  {
+    "id": "L13-3",
     "reading": "わたくし",
     "kanji": "私",
-    "type": "n.",
     "def": "I (formal)",
-    "id": "L13-77"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "アナウンス",
-    "kanji": "",
-    "type": "n.",
-    "def": "announcement",
-    "id": "L13-78"
-  },
-  {
-    "reading": "アパート",
-    "kanji": "",
-    "type": "n.",
-    "def": "apartment; smaller apartment building",
-    "id": "L13-79"
-  },
-  {
-    "reading": "アプリ",
-    "kanji": "",
-    "type": "n.",
-    "def": "application",
-    "id": "L13-80"
-  },
-  {
+    "id": "L13-4",
     "reading": "カレー",
     "kanji": "",
-    "type": "n.",
     "def": "curry",
-    "id": "L13-81"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "キャッシュカード",
-    "kanji": "",
-    "type": "n.",
-    "def": "bank card",
-    "id": "L13-82"
+    "id": "L13-5",
+    "reading": "こうちゃ",
+    "kanji": "紅茶",
+    "def": "black tea",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "クレジットカード",
-    "kanji": "",
-    "type": "n.",
-    "def": "credit card",
-    "id": "L13-83"
+    "id": "L13-6",
+    "reading": "着物",
+    "kanji": "着物",
+    "def": "kimono; Japanese traditional dress",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "ゴルフ",
-    "kanji": "",
-    "type": "n.",
-    "def": "golf",
-    "id": "L13-84"
-  },
-  {
+    "id": "L13-7",
     "reading": "セーター",
     "kanji": "",
-    "type": "n.",
     "def": "sweater",
-    "id": "L13-85"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "タクシー",
+    "id": "L13-8",
+    "reading": "がっき",
+    "kanji": "楽器",
+    "def": "musical instrument",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L13-9",
+    "reading": "からて",
+    "kanji": "空手",
+    "def": "karate",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L13-10",
+    "reading": "ゴルフ",
     "kanji": "",
-    "type": "n.",
-    "def": "taxi",
-    "id": "L13-86"
+    "def": "golf",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "チップ",
-    "kanji": "",
-    "type": "n.",
-    "def": "tip",
-    "id": "L13-87"
-  },
-  {
-    "reading": "デザート",
-    "kanji": "",
-    "type": "n.",
-    "def": "desert",
-    "id": "L13-88"
-  },
-  {
-    "reading": "ドア",
-    "kanji": "",
-    "type": "n.",
-    "def": "door",
-    "id": "L13-89"
-  },
-  {
-    "reading": "ニヤニヤする",
-    "kanji": "",
-    "type": "irr-v.",
-    "def": "to grin ",
-    "id": "L13-90"
-  },
-  {
+    "id": "L13-11",
     "reading": "バイク",
     "kanji": "",
-    "type": "n.",
     "def": "motorcycle",
-    "id": "L13-91"
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
   },
   {
-    "reading": "プリン",
+    "id": "L13-12",
+    "reading": "ぞう",
+    "kanji": "象",
+    "def": "elephant",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L13-13",
+    "reading": "からだ",
+    "kanji": "体",
+    "def": "body",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L13-14",
+    "reading": "がいこくご",
+    "kanji": "外国語",
+    "def": "foreign language",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-15",
+    "reading": "ことば",
+    "kanji": "言葉",
+    "def": "language",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-16",
+    "reading": "ぶんぽう",
+    "kanji": "文法",
+    "def": "grammar",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-17",
+    "reading": "アプリ",
     "kanji": "",
-    "type": "n.",
-    "def": "pudding",
-    "id": "L13-92"
+    "def": "application",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
   },
   {
+    "id": "L13-18",
+    "reading": "アパート",
+    "kanji": "",
+    "def": "apartment; smaller apartment building",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-19",
     "reading": "マンション",
     "kanji": "",
-    "type": "n.",
     "def": "larger apartment building; condominium",
-    "id": "L13-93"
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
   },
   {
+    "id": "L13-20",
+    "reading": "くうこう",
+    "kanji": "空港",
+    "def": "airport",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-21",
+    "reading": "みせ",
+    "kanji": "店",
+    "def": "shop; store",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-22",
+    "reading": "ぶっか",
+    "kanji": "物価",
+    "def": "consumer prices",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-23",
+    "reading": "こうこく",
+    "kanji": "広告",
+    "def": "advertisement",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-24",
+    "reading": "ぼしゅう",
+    "kanji": "募集",
+    "def": "recruitment",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-25",
+    "reading": "やくそく",
+    "kanji": "約束",
+    "def": "promise; appointment",
+    "sect": "Nouns",
+    "subsect": "Nouns 2"
+  },
+  {
+    "id": "L13-26",
+    "reading": "うれしい",
+    "kanji": "",
+    "def": "glad",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-27",
+    "reading": "かなしい",
+    "kanji": "悲しい",
+    "def": "sad",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-28",
+    "reading": "きびしい",
+    "kanji": "厳しい",
+    "def": "strict",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-29",
+    "reading": "きぶんがわるい",
+    "kanji": "気分が悪い",
+    "def": "to feel sick",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-30",
+    "reading": "からい",
+    "kanji": "辛い",
+    "def": "hot and spicy; salty",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-31",
+    "reading": "すごい",
+    "kanji": "",
+    "def": "incredible; awesome",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-32",
+    "reading": "ちかい",
+    "kanji": "近い",
+    "def": "close; near",
+    "sect": "い-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-33",
+    "reading": "いろいろ（な）",
+    "kanji": "",
+    "def": "various; different kinds of",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-34",
+    "reading": "しあわせ（な）",
+    "kanji": "幸せ",
+    "def": "happy (lasting happiness)",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-35",
+    "reading": "だめ（な）",
+    "kanji": "",
+    "def": "no good",
+    "sect": "な-adjectives",
+    "subsect": "Adjectives"
+  },
+  {
+    "id": "L13-36",
+    "reading": "あむ",
+    "kanji": "編む",
+    "def": "to knit (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L13-37",
+    "reading": "がんばる",
+    "kanji": "頑張る",
+    "def": "to do one's best; to try hard",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L13-38",
+    "reading": "なく",
+    "kanji": "泣く",
+    "def": "to cry",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L13-39",
+    "reading": "みがく",
+    "kanji": "磨く",
+    "def": "to brush (teeth); to polish (～を)",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L13-40",
+    "reading": "やくそくをまもる",
+    "kanji": "約束を守る",
+    "def": "to keep a promise",
+    "sect": "U-verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L13-41",
+    "reading": "かんどうする",
+    "kanji": "感動する",
+    "def": "to be moved/touched (by . . .) (～に)",
+    "sect": "Irregular Verbs",
+    "subsect": "Verbs"
+  },
+  {
+    "id": "L13-42",
     "reading": "～かい",
     "kanji": "～回",
-    "type": "suf.",
     "def": ". . . times",
-    "id": "L13-94"
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
   },
   {
-    "reading": "～かい",
-    "kanji": "～階",
-    "type": "suf.",
-    "def": ". . . th floor",
-    "id": "L13-95"
-  },
-  {
-    "reading": "～ともうします",
-    "kanji": "～と申します",
-    "type": "exp.",
-    "def": "my name is . . .",
-    "id": "L13-96"
-  },
-  {
+    "id": "L13-43",
     "reading": "～キロ",
     "kanji": "",
-    "type": "suf.",
     "def": ". . . kilometers; . . . kilograms",
-    "id": "L13-97"
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L13-44",
+    "reading": "ぜんぶ",
+    "kanji": "全部",
+    "def": "all",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L13-45",
+    "reading": "～ともうします",
+    "kanji": "～と申します",
+    "def": "my name is . . .",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L13-46",
+    "reading": "とくに",
+    "kanji": "特に",
+    "def": "especially",
+    "sect": "Adverbs and Other Expressions",
+    "subsect": "Adverbs and Other Expressions"
+  },
+  {
+    "id": "L13-47",
+    "reading": "いちにし",
+    "kanji": "一日",
+    "def": "one day",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-48",
+    "reading": "ふつか",
+    "kanji": "二日",
+    "def": "two days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-49",
+    "reading": "みっか",
+    "kanji": "三日",
+    "def": "three days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-50",
+    "reading": "よっか",
+    "kanji": "四日",
+    "def": "four days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-51",
+    "reading": "いつか",
+    "kanji": "五日",
+    "def": "five days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-52",
+    "reading": "むいか",
+    "kanji": "六日",
+    "def": "six days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-53",
+    "reading": "なのか",
+    "kanji": "七日",
+    "def": "seven days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-54",
+    "reading": "ようか",
+    "kanji": "八日",
+    "def": "eight days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-55",
+    "reading": "ここのか",
+    "kanji": "九日",
+    "def": "nine days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
+  },
+  {
+    "id": "L13-56",
+    "reading": "とおか",
+    "kanji": "十日",
+    "def": "ten days",
+    "sect": "Numbers (used to count days)",
+    "subsect": "Numbers (used to count days)"
   }
 ]

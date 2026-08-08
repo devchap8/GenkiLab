@@ -20,7 +20,7 @@ export default function VocabList({}) {
 
             <label className="max-w-200 w-full self-center flex gap-3 justify-end items-center" htmlFor="hideDefsCheckbox">
                 <div>Hide Definitions</div>
-                <input className="size-5" onClick={() => setDefsHidden(!defsHidden)} checked={defsHidden} type="checkbox" id="hideDefsCheckbox" name="hideDefsCheckbox"></input>
+                <input className="size-5" onClick={() => setDefsHidden(!defsHidden)} defaultChecked={defsHidden} type="checkbox" id="hideDefsCheckbox" name="hideDefsCheckbox"></input>
             </label>
             
             <table className="max-w-200 w-full self-center border-2 border-genki-orange">
@@ -28,7 +28,6 @@ export default function VocabList({}) {
                 <tr>
                     <th className="border border-genki-orange p-1">Reading</th>
                     <th className="border border-genki-orange p-1">Kanji</th>
-                    <th className="border border-genki-orange p-1">Word Type</th>
                     <th className="border border-genki-orange p-1">Definition</th>
                 </tr>
                 </thead>
@@ -37,7 +36,6 @@ export default function VocabList({}) {
                     <tr key={v.id}>
                         <td className="border border-genki-orange p-1"><a className="underline underline-offset-3" href={`https://jisho.org/search/${v.reading}`} target="_blank" rel="noopener noreferrer">{v.reading}</a></td>
                         <td className="border border-genki-orange p-1">{v.kanji}</td>
-                        <td className="border border-genki-orange p-1">{v.type}</td>
                         <td className="border border-genki-orange p-1">
                             {defsHidden
                                 ? <SpoilerText><div className="w-full">{v.def}</div></SpoilerText>
