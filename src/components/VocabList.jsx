@@ -2,6 +2,7 @@ import { useParams } from "react-router";
 import { useState } from "react";
 import data from "../data/dataIndex";
 import SpoilerText from "./SpoilerText";
+import VocabListSection from "./VocabListSection";
 
 const sortVals = {
     "n.": 1, "い-adj.": 2, "な-adj.": 3, "irr-v.": 4, "u-v.": 5, "ru-v.": 6,
@@ -11,7 +12,11 @@ const sortVals = {
 export default function VocabList({}) {
     const params = useParams();
     const [defsHidden, setDefsHidden] = useState(false);
-    let vocab = data.vocab[params.chapter].toSorted((a, b) => sortVals[a.type] - sortVals[b.type]);
+
+    const vocab = data.vocab[params.chapter].toSorted((a, b) => sortVals[a.type] - sortVals[b.type]);
+    const sects = [...new Set(vocab.map(v => v.sect))];
+    const sectionedVocab = Object.groupBy(vocab, word => word.sect);
+    const vocabPairs = Object.entries(sectionedVocab);
 
     return (
         <div className="h-full bg-bg-main text-text-main flex flex-col justify-center p-4 gap-6">
@@ -32,18 +37,9 @@ export default function VocabList({}) {
                 </tr>
                 </thead>
                 <tbody>
-                {vocab.map(v => 
-                    <tr key={v.id}>
-                        <td className="border border-genki-orange p-1"><a className="underline underline-offset-3" href={`https://jisho.org/search/${v.reading}`} target="_blank" rel="noopener noreferrer">{v.reading}</a></td>
-                        <td className="border border-genki-orange p-1">{v.kanji}</td>
-                        <td className="border border-genki-orange p-1">
-                            {defsHidden
-                                ? <SpoilerText><div className="w-full">{v.def}</div></SpoilerText>
-                                : v.def
-                            }
-                        </td>
-                    </tr>
-                )}
+                    {vocabPairs.map(vocabPair => 
+                        <VocabListSection vocabPair={vocabPair} defsHidden={defsHidden} key={vocabPair[0]}/>
+                    )}
                 </tbody>
 
             </table>
