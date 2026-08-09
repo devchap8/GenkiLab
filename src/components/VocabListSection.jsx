@@ -9,7 +9,7 @@ export default function VocabListSection({vocabPair, readingsHidden, defsHidden}
         {vocab.map(v => 
             <tr key={v.id}>
                 <td className="text-center p-1">
-                    {readingsHidden
+                    {readingsHidden && v.kanji
                         ? <SpoilerText><div className="w-full">{v.reading}</div></SpoilerText>
                         : <a className="underline underline-offset-3" href={`https://jisho.org/search/${v.reading}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
                     }
