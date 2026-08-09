@@ -1,0 +1,386 @@
+[
+  {
+    "id": "L0-1",
+    "reading": "Ohayoo.",
+    "kanji": "おはよう。",
+    "def": "Good morning.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-2",
+    "reading": "Ohayoo gozaimasu.",
+    "kanji": "おはよう ございます。",
+    "def": "Good morning. (polite)",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-3",
+    "reading": "Konnichiwa.*",
+    "kanji": "こんにちは。*",
+    "def": "Good afternoon.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-4",
+    "reading": "Konbanwa.*",
+    "kanji": "こんばんは。*",
+    "def": "Good evening.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-5",
+    "reading": "Sayoonara.",
+    "kanji": "さようなら。",
+    "def": "Good-bye.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-6",
+    "reading": "Oyasumi (nasai).",
+    "kanji": "おやすみ（なさい）。",
+    "def": "Good night.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-7",
+    "reading": "Arigatoo.",
+    "kanji": "ありがとう。",
+    "def": "Thank you.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-8",
+    "reading": "Arigatoo gozaimasu.",
+    "kanji": "ありがとう ございます。",
+    "def": "Thank you. (polite)",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-9",
+    "reading": "Sumimasen.",
+    "kanji": "すみません。",
+    "def": "Excuse me.; I'm sorry.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-10",
+    "reading": "Iie.",
+    "kanji": "いいえ。",
+    "def": "No.; Not at all.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-11",
+    "reading": "Itte kimasu.",
+    "kanji": "いってきます。",
+    "def": "I'll go and come back.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-12",
+    "reading": "Itterasshai.",
+    "kanji": "いっていらっしゃい。",
+    "def": "Please go and come back.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-13",
+    "reading": "Tadaima.",
+    "kanji": "ただいま。",
+    "def": "I'm home.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-14",
+    "reading": "Okaeri (nasai).",
+    "kanji": "おかえり（なさい）。",
+    "def": "Welcome home.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-15",
+    "reading": "Itadakimasu.",
+    "kanji": "いただきます。",
+    "def": "Thank you for the meal. (before eating)",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-16",
+    "reading": "Gochisoosama (deshita).",
+    "kanji": "ごちそうさま（でした）。",
+    "def": "Thank you for the meal. (after eating)",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-17",
+    "reading": "Hajimemashite.",
+    "kanji": "はじめまして。",
+    "def": "How do you do?",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-18",
+    "reading": ". . . desu.",
+    "kanji": "～です。",
+    "def": "I am . . . .",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-19",
+    "reading": "Yoroshiku onegai shimasu.",
+    "kanji": "よろしく おねがいします。",
+    "def": "Nice to meet you.",
+    "sect": "Greetings",
+    "subsect": "Greetings"
+  },
+  {
+    "id": "L0-20",
+    "reading": "zero / ree",
+    "kanji": "ゼロ／れい",
+    "def": "0",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-22",
+    "reading": "ichi",
+    "kanji": "いち",
+    "def": "1",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-23",
+    "reading": "ni",
+    "kanji": "に",
+    "def": "2",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-24",
+    "reading": "san",
+    "kanji": "さん",
+    "def": "3",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-25",
+    "reading": "yon / shi / (yo)",
+    "kanji": "よん／し／（よ）",
+    "def": "4",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-26",
+    "reading": "go",
+    "kanji": "ご",
+    "def": "5",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-27",
+    "reading": "roku",
+    "kanji": "ろく",
+    "def": "6",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-28",
+    "reading": "nana / shichi",
+    "kanji": "なな／しち",
+    "def": "7",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-29",
+    "reading": "hachi",
+    "kanji": "はち",
+    "def": "8",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-30",
+    "reading": "kyuu / ku",
+    "kanji": "きゅう／く",
+    "def": "9",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-31",
+    "reading": "juu",
+    "kanji": "じゅう",
+    "def": "10",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-32",
+    "reading": "juuichi",
+    "kanji": "じゅういち",
+    "def": "11",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-33",
+    "reading": "juuni",
+    "kanji": "じゅうに",
+    "def": "12",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-34",
+    "reading": "juusan",
+    "kanji": "じゅうさん",
+    "def": "13",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-35",
+    "reading": "juuyon / juushi",
+    "kanji": "じゅうよん／じゅうし",
+    "def": "14",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-36",
+    "reading": "juugo",
+    "kanji": "じゅうご",
+    "def": "15",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-37",
+    "reading": "juuroku",
+    "kanji": "じゅうろく",
+    "def": "16",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-38",
+    "reading": "juunana / juushichi",
+    "kanji": "じゅうなな／じゅうしち",
+    "def": "17",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-39",
+    "reading": "juuhachi",
+    "kanji": "じゅうはち",
+    "def": "18",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-40",
+    "reading": "juukyuu / juuku",
+    "kanji": "じゅうきゅう／じゅうく",
+    "def": "19",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-41",
+    "reading": "nijuu",
+    "kanji": "にじゅう",
+    "def": "20",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-42",
+    "reading": "sanjuu",
+    "kanji": "さんじゅう",
+    "def": "30",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-43",
+    "reading": "yonjuu",
+    "kanji": "よんじゅう",
+    "def": "40",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-44",
+    "reading": "gojuu",
+    "kanji": "ごじゅう",
+    "def": "50",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-45",
+    "reading": "rokujuu",
+    "kanji": "ろくじゅう",
+    "def": "60",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-46",
+    "reading": "nanajuu",
+    "kanji": "ななじゅう",
+    "def": "70",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-47",
+    "reading": "hachijuu",
+    "kanji": "はちじゅう",
+    "def": "80",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-48",
+    "reading": "kyuujuu",
+    "kanji": "きゅうじゅう",
+    "def": "90",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  },
+  {
+    "id": "L0-49",
+    "reading": "hyaku",
+    "kanji": "ひゃく",
+    "def": "100",
+    "sect": "Numbers",
+    "subsect": "Numbers"
+  }
+]

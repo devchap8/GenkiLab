@@ -9,7 +9,7 @@ export default function ChapterIndex({lessonNum, extras}) {
                 {extras && extras.map(extra => 
                     <ChapterNavLink text={extra.text} link={extra.link} key={extra.text}/>
                 )}
-                {lessonNum !== 0 && <ChapterNavLink text="Vocab List" link={`/vocab/L${lessonNum}`} />}
+                <ChapterNavLink text="Vocab List" link={`/vocab/L${lessonNum}`} />
             </ul>
         </div>
     )

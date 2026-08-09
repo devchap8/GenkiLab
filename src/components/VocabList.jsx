@@ -4,17 +4,12 @@ import data from "../data/dataIndex";
 import SpoilerText from "./SpoilerText";
 import VocabListSection from "./VocabListSection";
 
-const sortVals = {
-    "n.": 1, "い-adj.": 2, "な-adj.": 3, "irr-v.": 4, "u-v.": 5, "ru-v.": 6,
-    "adv.": 7, "exp.": 8, "pre.": 9, "suf.": 10, "part.": 11
-}
-
 export default function VocabList({}) {
     const params = useParams();
     const [readingsHidden, setReadingsHidden] = useState(false);
     const [defsHidden, setDefsHidden] = useState(false);
 
-    const vocab = data.vocab[params.chapter].toSorted((a, b) => sortVals[a.type] - sortVals[b.type]);
+    const vocab = data.vocab[params.chapter]
     const sects = [...new Set(vocab.map(v => v.sect))];
     const sectionedVocab = Object.groupBy(vocab, word => word.sect);
     const vocabPairs = Object.entries(sectionedVocab);

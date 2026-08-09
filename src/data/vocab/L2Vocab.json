@@ -1,0 +1,458 @@
+[
+  {
+    "id": "L2-1",
+    "reading": "kore",
+    "kanji": "これ",
+    "def": "this one",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-2",
+    "reading": "sore",
+    "kanji": "それ",
+    "def": "that one",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-3",
+    "reading": "are",
+    "kanji": "あれ",
+    "def": "that one (over there)",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-4",
+    "reading": "dore",
+    "kanji": "どれ",
+    "def": "which one",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-5",
+    "reading": "kono",
+    "kanji": "この",
+    "def": "this . . .",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-6",
+    "reading": "sono",
+    "kanji": "その",
+    "def": "that . . .",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-7",
+    "reading": "ano",
+    "kanji": "あの",
+    "def": "that . . . (over there)",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-8",
+    "reading": "dono",
+    "kanji": "どの",
+    "def": "which . . .",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-9",
+    "reading": "koko",
+    "kanji": "ここ",
+    "def": "here",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-10",
+    "reading": "soko",
+    "kanji": "そこ",
+    "def": "there",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-11",
+    "reading": "asoko",
+    "kanji": "あそこ",
+    "def": "over there",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-12",
+    "reading": "doko",
+    "kanji": "どこ",
+    "def": "where",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-13",
+    "reading": "dare",
+    "kanji": "だれ",
+    "def": "who",
+    "sect": "Words That Point",
+    "subsect": "Words That Point"
+  },
+  {
+    "id": "L2-14",
+    "reading": "oishii",
+    "kanji": "おいしい",
+    "def": "delicious",
+    "sect": "Food",
+    "subsect": "Food"
+  },
+  {
+    "id": "L2-15",
+    "reading": "sakana",
+    "kanji": "さかな",
+    "def": "fish",
+    "sect": "Food",
+    "subsect": "Food"
+  },
+  {
+    "id": "L2-16",
+    "reading": "tonkatsu",
+    "kanji": "とんかつ",
+    "def": "pork cutlet",
+    "sect": "Food",
+    "subsect": "Food"
+  },
+  {
+    "id": "L2-17",
+    "reading": "niku",
+    "kanji": "にく",
+    "def": "meat",
+    "sect": "Food",
+    "subsect": "Food"
+  },
+  {
+    "id": "L2-18",
+    "reading": "menyuu",
+    "kanji": "メニュー",
+    "def": "menu",
+    "sect": "Food",
+    "subsect": "Food"
+  },
+  {
+    "id": "L2-19",
+    "reading": "yasai",
+    "kanji": "やさい",
+    "def": "vegetable",
+    "sect": "Food",
+    "subsect": "Food"
+  },
+  {
+    "id": "L2-20",
+    "reading": "kasa",
+    "kanji": "かさ",
+    "def": "umbrella",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-21",
+    "reading": "kaban",
+    "kanji": "かばん",
+    "def": "bag",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-22",
+    "reading": "kutsu",
+    "kanji": "くつ",
+    "def": "shoes",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-23",
+    "reading": "saifu",
+    "kanji": "さいふ",
+    "def": "wallet",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-24",
+    "reading": "jiinzu",
+    "kanji": "ジーンズ",
+    "def": "jeans",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-25",
+    "reading": "jitensha",
+    "kanji": "じてんしゃ",
+    "def": "bicycle",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-26",
+    "reading": "shinbun",
+    "kanji": "しんぶん",
+    "def": "newspaper",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-27",
+    "reading": "sumaho",
+    "kanji": "スマホ",
+    "def": "smartphone; mobile",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-28",
+    "reading": "tiishatsu",
+    "kanji": "Tシャツ",
+    "def": "T-shirt",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-29",
+    "reading": "tokee",
+    "kanji": "とけい",
+    "def": "watch; clock",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-30",
+    "reading": "nooto",
+    "kanji": "ノート",
+    "def": "notebook",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-31",
+    "reading": "pen",
+    "kanji": "ペン",
+    "def": "pen",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-32",
+    "reading": "booshi",
+    "kanji": "ぼうし",
+    "def": "hat; cap",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-33",
+    "reading": "hon",
+    "kanji": "ほん",
+    "def": "book",
+    "sect": "Things",
+    "subsect": "Things"
+  },
+  {
+    "id": "L2-34",
+    "reading": "ginkoo",
+    "kanji": "ぎんこう",
+    "def": "bank",
+    "sect": "Places",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-35",
+    "reading": "konbini",
+    "kanji": "コンビニ",
+    "def": "convenience store",
+    "sect": "Places",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-36",
+    "reading": "toire",
+    "kanji": "トイレ",
+    "def": "toilet; restroom",
+    "sect": "Places",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-37",
+    "reading": "toshokan",
+    "kanji": "としょかん",
+    "def": "library",
+    "sect": "Places",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-38",
+    "reading": "yuubinkyoku",
+    "kanji": "ゆうびんきょく",
+    "def": "post office",
+    "sect": "Places",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-39",
+    "reading": "Igirisu",
+    "kanji": "イギリス",
+    "def": "Britain",
+    "sect": "Countries",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-40",
+    "reading": "Kankoku",
+    "kanji": "かんこく",
+    "def": "Korea",
+    "sect": "Countries",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-41",
+    "reading": "Chuugoku",
+    "kanji": "ちゅうごく",
+    "def": "China",
+    "sect": "Countries",
+    "subsect": "Places and Countries"
+  },
+  {
+    "id": "L2-42",
+    "reading": "eego",
+    "kanji": "えいご",
+    "def": "English (language)",
+    "sect": "Majors",
+    "subsect": "Majors and Family"
+  },
+  {
+    "id": "L2-43",
+    "reading": "keezai",
+    "kanji": "けいざい",
+    "def": "economics",
+    "sect": "Majors",
+    "subsect": "Majors and Family"
+  },
+  {
+    "id": "L2-44",
+    "reading": "konpyuutaa",
+    "kanji": "コンピューター",
+    "def": "computer",
+    "sect": "Majors",
+    "subsect": "Majors and Family"
+  },
+  {
+    "id": "L2-45",
+    "reading": "bijinesu",
+    "kanji": "ビジネス",
+    "def": "business",
+    "sect": "Majors",
+    "subsect": "Majors and Family"
+  },
+  {
+    "id": "L2-46",
+    "reading": "rekishi",
+    "kanji": "れきし",
+    "def": "history",
+    "sect": "Majors",
+    "subsect": "Majors and Family"
+  },
+  {
+    "id": "L2-47",
+    "reading": "okaasan",
+    "kanji": "おかあさん",
+    "def": "mother",
+    "sect": "Family",
+    "subsect": "Majors and Family"
+  },
+  {
+    "id": "L2-48",
+    "reading": "otoosan",
+    "kanji": "おとうさん",
+    "def": "father",
+    "sect": "Family",
+    "subsect": "Majors and Family"
+  },
+  {
+    "id": "L2-49",
+    "reading": "ikura",
+    "kanji": "いくら",
+    "def": "how much",
+    "sect": "Money Matters",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-50",
+    "reading": ". . . en",
+    "kanji": "～えん",
+    "def": ". . . yen",
+    "sect": "Money Matters",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-51",
+    "reading": "takai",
+    "kanji": "たかい",
+    "def": "expensive; high",
+    "sect": "Money Matters",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-52",
+    "reading": "irasshaimase",
+    "kanji": "いらっしゃいませ",
+    "def": "Welcome (to our store).",
+    "sect": "Expressions",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-53",
+    "reading": "(... o) onegaishimasu",
+    "kanji": "（～を）おねがいします",
+    "def": ". . . , please.",
+    "sect": "Expressions",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-54",
+    "reading": "(... o) kudasai",
+    "kanji": "（～を）ください",
+    "def": "Please give me . . .",
+    "sect": "Expressions",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-55",
+    "reading": "jaa",
+    "kanji": "じゃあ",
+    "def": "then . . . ; if that is the case, . . .",
+    "sect": "Expressions",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-56",
+    "reading": "doozo",
+    "kanji": "どうぞ",
+    "def": "Please.; Here it is.",
+    "sect": "Expressions",
+    "subsect": "Money Matters and Expressions"
+  },
+  {
+    "id": "L2-57",
+    "reading": "doomo",
+    "kanji": "どうも",
+    "def": "Thank you.",
+    "sect": "Expressions",
+    "subsect": "Money Matters and Expressions"
+  }
+]
