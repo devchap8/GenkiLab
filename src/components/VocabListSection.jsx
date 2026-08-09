@@ -1,6 +1,6 @@
 import SpoilerText from "./SpoilerText";
 
-export default function VocabListSection({vocabPair, readingsHidden, defsHidden}) {
+export default function VocabListSection({vocabPair, readingsHidden, defsHidden, isRomaji}) {
     const [sectName, vocab] = vocabPair;
 
     return (
@@ -11,7 +11,7 @@ export default function VocabListSection({vocabPair, readingsHidden, defsHidden}
                 <td className="text-center p-1">
                     {readingsHidden && v.kanji
                         ? <SpoilerText><div className="w-full">{v.reading}</div></SpoilerText>
-                        : <a className="underline underline-offset-3" href={`https://jisho.org/search/${v.reading}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
+                        : <a className="underline underline-offset-3" href={`https://jisho.org/search/${isRomaji ? v.kanji : v.reading}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
                     }
                 </td>
 

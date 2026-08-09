@@ -14,6 +14,9 @@ export default function VocabList({}) {
     const sectionedVocab = Object.groupBy(vocab, word => word.sect);
     const vocabPairs = Object.entries(sectionedVocab);
 
+    const romajiLessons = ["L0", "L1", "L2"];
+    const isRomaji = romajiLessons.includes(params.chapter)
+
     return (
         <div className="h-full bg-bg-main text-text-main flex flex-col justify-center p-4 gap-6">
 
@@ -41,7 +44,7 @@ export default function VocabList({}) {
                 </thead>
                 <tbody>
                     {vocabPairs.map(vocabPair => 
-                        <VocabListSection vocabPair={vocabPair} readingsHidden={readingsHidden} defsHidden={defsHidden} key={vocabPair[0]}/>
+                        <VocabListSection vocabPair={vocabPair} readingsHidden={readingsHidden} defsHidden={defsHidden} isRomaji={isRomaji} key={vocabPair[0]}/>
                     )}
                 </tbody>
 
