@@ -1,5 +1,17 @@
 import SpoilerText from "./SpoilerText";
 
+function cleanSearchText(text) {
+    // replace english parenthesis
+    let newText = text.replace(/\([^)]*\)/g, "");
+    // replace japanese parenthesis
+    newText = newText.replace(/（[^）]*）/g, "");
+    // replace special characters
+    newText = newText.replace(/[～。~.]/g, "");
+    // replace slashes, pluses, and everything following them (words with multiple readings or ending in + negative)
+    newText = newText.replace(/[\/／+＋].*/, "");
+    return newText.trim();
+}
+
 export default function VocabListSection({vocabPair, readingsHidden, defsHidden, isRomaji}) {
     const [sectName, vocab] = vocabPair;
 
@@ -11,7 +23,7 @@ export default function VocabListSection({vocabPair, readingsHidden, defsHidden,
                 <td className="text-center p-1">
                     {readingsHidden && v.kanji
                         ? <SpoilerText><div className="w-full">{v.reading}</div></SpoilerText>
-                        : <a className="underline underline-offset-3" href={`https://jisho.org/search/${isRomaji ? v.kanji : v.reading}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
+                        : <a className="underline underline-offset-3" href={`https://jisho.org/search/${isRomaji ? cleanSearchText(v.kanji) : cleanSearchText(v.reading)}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
                     }
                 </td>
 
