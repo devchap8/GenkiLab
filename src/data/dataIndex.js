@@ -52,8 +52,17 @@ const lessonNames = {
     L21: "Burglar",
     L22: "Education in Japan",
     L23: "Good-bye"
-}
+};
 
-const data = {vocab, lessonNames};
+const subsects = {};
+Object.entries(vocab).forEach(v => {
+    const subsect = new Set();
+    Object.values(v[1]).forEach(info => {
+        subsect.add(info.subsect);
+    });
+    subsects[v[0]] = [...subsect];
+});
+
+const data = {vocab, lessonNames, subsects};
 
 export default data;

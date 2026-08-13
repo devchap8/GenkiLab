@@ -5,6 +5,7 @@
     --color-bg-main: #27272A;
     --color-bg-dark: #18181b;
     --color-text-main: #E4E4E7;
+    --color-text-dim: #a1a1aa;
 }
 
 html, body, #root {
