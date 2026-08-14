@@ -20,7 +20,7 @@ export default function VocabList({}) {
     return (
         <div className="h-full bg-bg-main text-text-main flex flex-col justify-center p-4 gap-6">
 
-            <h2 className="text-center text-4xl font-bold">Lesson {params.chapter.replace("L", "")} Vocab</h2>
+            <h2 className="text-center text-3xl font-bold">第{params.chapter.replace("L", "")}課 Vocab List</h2>
 
             <div className="max-w-200 w-full self-center flex justify-between">
                 <label className="flex gap-3 justify-end items-center" htmlFor="hideReadingsCheckbox">
