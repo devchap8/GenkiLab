@@ -1,11 +1,10 @@
 import { useParams } from "react-router";
-import VocabKanaQuiz from "./VocabKanaQuiz";
-import VocabKanjiQuiz from "./VocabKanjiQuiz";
 import VocabMatchQuiz from "./VocabMatchQuiz";
+import VocabWriteInQuiz from "./VocabWriteInQuiz";
 
 const quizMatch = {
-    kana: <VocabKanaQuiz />,
-    kanji: <VocabKanjiQuiz />,
+    kana: <VocabWriteInQuiz />,
+    kanji: <VocabWriteInQuiz />,
     match: <VocabMatchQuiz />
 };
 
