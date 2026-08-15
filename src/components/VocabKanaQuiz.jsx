@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useParams } from "react-router"
 import data from "../data/dataIndex"
+import validateVocab from "../scripts/validateVocab";
 
 let entries;
 
@@ -24,13 +25,14 @@ export default function VocabKanaQuiz() {
 
     function vocabMap(v) {
         let isCorrect;
-        if(submitted) isCorrect = entries[v.reading] === v.reading;
+        // if(submitted) isCorrect = entries[v.reading] === v.reading;
+        if(submitted) isCorrect = validateVocab(entries[v.reading], v.reading)
         return (
             <div className="p-2" key={v.id}>
                 <label htmlFor={v.reading}>
                     <div className="text-lg font-bold">{v.kanji && `${v.kanji}`}</div>
                     <div className="text-text-dim">{v.def}</div>
-                    <input className={`focus:border-0 focus:outline-0 border-b-2 focus:border-b-genki-orange focus:border-b-2 ${!submitted ? "border-text-dim" : isCorrect ? "border-lime-500" : "border-red-500" }`} type="text" name={v.reading} id={v.reading}></input>
+                    <input className={`focus:border-0 focus:outline-0 border-b-2 focus:border-b-genki-orange focus:border-b-2 ${!submitted ? "border-text-dim" : isCorrect ? "border-lime-500" : "border-red-500" }`} type="text" autoComplete="off" name={v.reading} id={v.reading}></input>
                     {submitted && <div className="">{isCorrect ? "✅" : "❌"}{v.reading}</div>}
                 </label>
             </div>            
