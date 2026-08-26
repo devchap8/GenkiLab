@@ -1,7 +1,6 @@
 import { useParams } from "react-router";
 import { useState } from "react";
 import data from "../data/dataIndex";
-import SpoilerText from "./SpoilerText";
 import VocabListSection from "./VocabListSection";
 
 export default function VocabList({}) {
@@ -9,8 +8,7 @@ export default function VocabList({}) {
     const [readingsHidden, setReadingsHidden] = useState(false);
     const [defsHidden, setDefsHidden] = useState(false);
 
-    const vocab = data.vocab[params.chapter]
-    const sects = [...new Set(vocab.map(v => v.sect))];
+    const vocab = data.vocab[params.chapter];
     const sectionedVocab = Object.groupBy(vocab, word => word.sect);
     const vocabPairs = Object.entries(sectionedVocab);
 
@@ -22,33 +20,34 @@ export default function VocabList({}) {
 
             <h2 className="text-center text-3xl font-bold">第{params.chapter.replace("L", "")}課 Vocab List</h2>
 
-            <div className="max-w-200 w-full self-center flex justify-between">
-                <label className="flex gap-3 justify-end items-center" htmlFor="hideReadingsCheckbox">
-                    <div>Hide Readings</div>
-                    <input className="size-5" onClick={() => setReadingsHidden(!readingsHidden)} defaultChecked={readingsHidden} type="checkbox" id="hideReadingsCheckbox" name="hideReadingsCheckbox"></input>
-                </label>                
-                <label className="flex gap-3 justify-end items-center" htmlFor="hideDefsCheckbox">
-                    <div>Hide Definitions</div>
-                    <input className="size-5" onClick={() => setDefsHidden(!defsHidden)} defaultChecked={defsHidden} type="checkbox" id="hideDefsCheckbox" name="hideDefsCheckbox"></input>
+            <div className="max-w-200 w-full self-center flex flex-wrap justify-center gap-3 sm:justify-between">
+                <label className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-bg-second  text-sm text-text-dim cursor-pointer hover:border-genki-orange/60 transition-colors" htmlFor="hideReadingsCheckbox">
+                    <input className="size-4 accent-genki-orange" onClick={() => setReadingsHidden(!readingsHidden)} defaultChecked={readingsHidden} type="checkbox" id="hideReadingsCheckbox" name="hideReadingsCheckbox"></input>
+                    <span>Hide Readings</span>
+                </label>
+                <label className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-bg-second  text-sm text-text-dim cursor-pointer hover:border-genki-orange/60 transition-colors" htmlFor="hideDefsCheckbox">
+                    <input className="size-4 accent-genki-orange" onClick={() => setDefsHidden(!defsHidden)} defaultChecked={defsHidden} type="checkbox" id="hideDefsCheckbox" name="hideDefsCheckbox"></input>
+                    <span>Hide Definitions</span>
                 </label>
             </div>
 
-            
-            <table className="max-w-200 w-full self-center border-2 border-genki-orange">
-                <thead>
-                <tr>
-                    <th className="border border-genki-orange p-1">Reading</th>
-                    <th className="border border-genki-orange p-1">Kanji</th>
-                    <th className="border border-genki-orange p-1">Definition</th>
-                </tr>
-                </thead>
-                <tbody>
-                    {vocabPairs.map(vocabPair => 
-                        <VocabListSection vocabPair={vocabPair} readingsHidden={readingsHidden} defsHidden={defsHidden} isRomaji={isRomaji} key={vocabPair[0]}/>
-                    )}
-                </tbody>
+            <div className="max-w-200 w-full self-center rounded-xl overflow-hidden  bg-bg-second shadow-sm">
+                <table className="w-full">
+                    <thead>
+                    <tr className="">
+                        <th className="px-4 py-3 text-center text-xs font-semibold uppercase tracking-wider text-text-dim">Reading</th>
+                        <th className="px-4 py-3 text-center text-xs font-semibold uppercase tracking-wider text-text-dim">{isRomaji ? "Kana" : "Kanji"}</th>
+                        <th className="px-4 py-3 text-center text-xs font-semibold uppercase tracking-wider text-text-dim">Definition</th>
+                    </tr>
+                    </thead>
+                    <tbody className="divide-y divide-bg-dim/60">
+                        {vocabPairs.map(vocabPair =>
+                            <VocabListSection vocabPair={vocabPair} readingsHidden={readingsHidden} defsHidden={defsHidden} isRomaji={isRomaji} key={vocabPair[0]}/>
+                        )}
+                    </tbody>
 
-            </table>
+                </table>
+            </div>
         </div>
     )
 

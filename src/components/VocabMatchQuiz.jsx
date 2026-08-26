@@ -138,7 +138,7 @@ export default function VocabMatchQuiz() {
             ))}
             </div>
             <div className="col-span-2 p-5 grid grid-cols-3" onDrop={handleDrop} onDragOver={handleDragOver}>
-                <button className="bg-genki-orange text-bg-dark font-bold text-xl rounded-lg py-2 px-4 max-w-sm cursor-pointer ml-auto mr-auto" onClick={() => setKanaShown(!kanaShown)} >{kanaShown ? "Hide Kana" : "Show Kana"}</button>
+                <button className="bg-genki-orange text-bg-dark font-bold text-xl rounded-lg py-2 px-4 max-w-sm cursor-pointer ml-auto mr-auto" onClick={() => setKanaShown(!kanaShown)} >{kanaShown ? "Hide Reading" : "Show Reading"}</button>
                 <button className="bg-genki-orange text-bg-dark font-bold text-xl rounded-lg py-2 px-4 max-w-sm cursor-pointer ml-auto mr-auto" onClick={() => setSubmitted(!submitted)}>{submitted ? "Try Again" : "Submit Answers"}</button>
                 <button className="bg-genki-orange text-bg-dark font-bold text-xl rounded-lg py-2 px-4 max-w-sm cursor-pointer ml-auto mr-auto" onClick={submitted ? () => null : startOver}>Start Over</button>
             </div>

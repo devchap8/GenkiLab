@@ -17,25 +17,27 @@ export default function VocabListSection({vocabPair, readingsHidden, defsHidden,
 
     return (
         <>
-        <tr><td className="p-4 text-center text-2xl text-genki-orange" colSpan="3">{sectName}</td></tr>
-        {vocab.map(v => 
-            <tr key={v.id}>
-                <td className="text-center p-1">
+        <tr className="bg-bg-dark/30">
+            <td className="px-4 py-2 text-center text-2xl tracking-wide font-bold text-genki-orange" colSpan="3">{sectName}</td>
+        </tr>
+        {vocab.map(v =>
+            <tr key={v.id} className="hover:bg-bg-dark/20 transition-colors">
+                <td className="px-4 py-2.25 text-center align-middle text-text-dim">
                     {readingsHidden && v.kanji
                         ? <SpoilerText><div className="w-full">{v.reading}</div></SpoilerText>
-                        : <a className="underline underline-offset-3" href={`https://jisho.org/search/${isRomaji ? cleanSearchText(v.kanji) : cleanSearchText(v.reading)}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
+                        : <a className="underline decoration-text-dim/40 underline-offset-4 hover:text-genki-orange hover:decoration-genki-orange transition-colors" href={`https://jisho.org/search/${isRomaji ? cleanSearchText(v.kanji) : cleanSearchText(v.reading)}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
                     }
                 </td>
 
-                <td className="text-center p-1">{v.kanji}</td>
-                <td className="text-center p-1">
+                <td className="px-4 py-2.25 text-center align-middle text-lg font-medium text-text-main">{v.kanji}</td>
+                <td className="px-4 py-2.25 text-left align-middle text-text-main">
                     {defsHidden
                         ? <SpoilerText><div className="w-full">{v.def}</div></SpoilerText>
                         : v.def
                     }
                 </td>
             </tr>
-        )}        
+        )}
         </>
     )
 }
