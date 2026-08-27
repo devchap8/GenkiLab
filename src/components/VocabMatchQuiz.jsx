@@ -4,18 +4,35 @@ import DragItem from "./DragItem";
 import data from "../data/dataIndex";
 
 function shuffle(array) {
-  const shuffled = [...array];  
+  const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  } 
+  }
   return shuffled;
+}
+
+function removeDupeReadings(rawVocab) {
+    const vocab = [...rawVocab]
+    const readingList = vocab.map(v => v.reading);
+    const dupes = [...new Set(readingList.filter((item, index) => readingList.indexOf(item) !== index))];
+    if(!dupes) return vocab;
+    let seenDupes = 0;
+    vocab.forEach(v => {
+        if(dupes.includes(v.reading)) {
+            const reading = v.reading
+            v.reading = `${reading}${" ".repeat(seenDupes)}`;
+            seenDupes += 1;
+        }
+    })
+    return vocab;
 }
 
 export default function VocabMatchQuiz() {
     const params = useParams();
-    const vocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
-
+    const rawVocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
+    
+    const vocab = useMemo(() => removeDupeReadings(rawVocab), []);
     const initialWordbank = useMemo(() => shuffle(vocab), []);
     const initialAnswers = useMemo(() => shuffle(vocab), []);
 
@@ -25,83 +42,116 @@ export default function VocabMatchQuiz() {
     const [submitted, setSubmitted] = useState(false);
     const [kanaShown, setKanaShown] = useState(false);
 
+    function moveToSlot(word, reading) {
+        const previousDef = matches[reading];
 
-    function handleDragStart(e) {
-        e.dataTransfer.effectAllowed = "move";
-        e.dataTransfer.setData("definition", e.target.innerText);
-        e.dataTransfer.setData("id", e.target.id);
-        setSelected(e.target);
+        let newWordbank = wordbank.filter(w => w.id !== word.id);
+        if (previousDef && previousDef !== word.def) {
+            const previousWord = vocab.find(v => v.def === previousDef);
+            if (previousWord) newWordbank = [...newWordbank, previousWord];
+        }
+        setWordbank(newWordbank);
+
+        const newMatches = {...matches};
+        for (const key of Object.keys(newMatches)) {
+            if (newMatches[key] === word.def) newMatches[key] = null;
+        }
+        newMatches[reading] = word.def;
+        setMatches(newMatches);
+
+        setSelected(null);
     }
 
-    function handleDragOver(e) {
-        if(selected) {
-            e.preventDefault();
-        }       
+    function swapItems(wordA, wordB) {
+        if (wordA.id === wordB.id) {
+            setSelected(null);
+            return;
+        }
+
+        const readingA = Object.keys(matches).find(key => matches[key] === wordA.def);
+        const readingB = Object.keys(matches).find(key => matches[key] === wordB.def);
+
+        if (!readingA && !readingB) {
+            setSelected(null);
+            return;
+        }
+
+        const newMatches = {...matches};
+        if (readingA) newMatches[readingA] = wordB.def;
+        if (readingB) newMatches[readingB] = wordA.def;
+        setMatches(newMatches);
+
+        if (!readingA) {
+            setWordbank(wordbank.filter(w => w.id !== wordA.id).concat(wordB));
+        } else if (!readingB) {
+            setWordbank(wordbank.filter(w => w.id !== wordB.id).concat(wordA));
+        }
+
+        setSelected(null);
     }
 
-    function handleDrop(e) {
-        e.preventDefault();
-
-        if(e.target.hasAttribute("data-droppable")) {
-            setWordbank(wordbank.filter(w => w.id !== selected.id));
-            const newMatches = {...matches};
-            for(const key of Object.keys(newMatches)) {
-                if(newMatches[key] === selected.innerHTML) {
-                    newMatches[key] = null;
-                }
-            }
-            const reading = e.target.getAttribute("data-reading");
-            newMatches[reading] = selected.innerHTML;
-            setMatches(newMatches);
+    function moveToWordbank(word) {
+        const reading = Object.keys(matches).find(key => matches[key] === word.def);
+        if (!reading) {
+            setSelected(null);
+            return;
         }
-        else if(e.target.hasAttribute("draggable")) {
-            const def1 = e.target.innerHTML;
-            const reading1 = Object.keys(matches).find(key => matches[key] === def1);
-            const def2 = selected.innerHTML;
-            const reading2 = Object.keys(matches).find(key => matches[key] === def2);
-            let newMatches = {...matches};
-            if(!reading1 && !reading2) return;
-            else if(!reading1) swapMatchWordbank(def1, reading1, def2, reading2);
-            else if(!reading2) swapMatchWordbank(def2, reading2, def1, reading1);
-            else {
-                newMatches[reading1] = def2;
-                newMatches[reading2] = def1;
-                setMatches(newMatches);
-            }
 
-        }
-        else {
-            // remove the def from matches
-            // add the word back to the wordbank
-            const def = removeFromMatches();
-            if(def) {
-                const word = vocab.find(v => v.def === def);
-                setWordbank([...wordbank, word]);               
-            }
+        const newMatches = {...matches};
+        newMatches[reading] = null;
+        setMatches(newMatches);
+
+        if (!wordbank.some(w => w.id === word.id)) {
+            setWordbank([...wordbank, word]);
         }
         setSelected(null);
     }
 
-    function swapMatchWordbank(wordbankDef, wordbankReading, matchDef, matchReading) {
-        let newMatches = {...matches};
-        newMatches[matchReading] = wordbankDef;
-        setMatches(newMatches);
-        let newWordbank = wordbank.filter(w => w.def !== wordbankDef);
-        const word = vocab.find(v => v.def === matchDef);
-        setWordbank([...newWordbank, word]);
+    function handleDragStart(e, word) {
+        e.dataTransfer.effectAllowed = "move";
+        setSelected(word);
     }
 
-    function removeFromMatches() {
-        const matchPairs = Object.entries(matches);
-        const pair = matchPairs.find(p => p[1] === selected.innerHTML);
-        if(!pair) return;
-        if(pair[1]) {
-            const newMatches = {...matches};
-            const [reading, def] = pair;
-            newMatches[reading] = null;
-            setMatches(newMatches)
-            return def;
-        }       
+    function handleDragOver(e) {
+        if (selected) {
+            e.preventDefault();
+        }
+    }
+
+    function handleDrop(e) {
+        e.preventDefault();
+        if (!selected) return;
+
+        if (e.target.hasAttribute("data-droppable")) {
+            moveToSlot(selected, e.target.getAttribute("data-reading"));
+        } else if (e.target.hasAttribute("draggable")) {
+            const targetWord = vocab.find(v => v.id === e.target.id);
+            if (targetWord) swapItems(selected, targetWord);
+            else setSelected(null);
+        } else {
+            moveToWordbank(selected);
+        }
+    }
+
+    // for selecting item through click instead of drag and drop
+    function handleItemSelect(word) {
+        if (!selected) {
+            setSelected(word);
+        } else if (selected.id === word.id) {
+            setSelected(null);
+        } else {
+            swapItems(selected, word);
+        }
+    }
+
+    function handleSlotClick(reading) {
+        if (!selected) return;
+        moveToSlot(selected, reading);
+    }
+
+    function handleWordbankAreaClick() {
+        if (!selected) return;
+        moveToWordbank(selected);
     }
 
     function checkMatch(word) {
@@ -111,30 +161,55 @@ export default function VocabMatchQuiz() {
     function startOver() {
         setWordbank(initialWordbank);
         setMatches({});
+        setSelected(null);
     }
 
     return (
         <div className="grid grid-cols-2 text-text-main">
             <div className="flex flex-col gap-2">
-            {initialAnswers.map(v => (
-                <div className="grid grid-cols-2 gap-1" key={v.reading}>
-                    <div>
-                        <div className="outline-2 py-0.5 px-1 outline-bg-main bg-bg-dim">
-                            {v.kanji ? v.kanji : v.reading}
-                            {kanaShown && v.kanji && 
-                                <div className="text-sm text-text-dim">{v.reading}</div>
-                            }
+            {initialAnswers.map(v => {
+                const wordInSlot = vocab.find(word => word.def === matches[v.reading]);
+                return (
+                    <div className="grid grid-cols-2 gap-1" key={v.kanji ? v.kanji : v.reading}>
+                        <div>
+                            <div className="outline-2 py-0.5 px-1 outline-bg-main bg-bg-dim">
+                                {v.kanji ? v.kanji : v.reading}
+                                {kanaShown && v.kanji &&
+                                    <div className="text-sm text-text-dim">{v.reading}</div>
+                                }
+                            </div>
+                        </div>
+                        <div
+                            className="outline-2 py-0.5 px-1 outline-bg-dark bg-bg-main cursor-pointer"
+                            data-droppable
+                            data-reading={v.reading}
+                            onDrop={handleDrop}
+                            onDragOver={handleDragOver}
+                            onClick={() => handleSlotClick(v.reading)}
+                        >
+                            <DragItem
+                                v={wordInSlot}
+                                matched={submitted ? checkMatch(v) : null}
+                                handleDragStart={handleDragStart}
+                                onSelect={handleItemSelect}
+                                isSelected={wordInSlot ? selected?.id === wordInSlot.id : false}
+                            />
                         </div>
                     </div>
-                    <div className="outline-2 py-0.5 px-1 outline-bg-dark bg-bg-main" data-droppable data-reading={v.reading} onDrop={handleDrop} onDragOver={handleDragOver}>
-                        <DragItem v={vocab.find(word => word.def === matches[v.reading])} matched={submitted ? checkMatch(v) : null} handleDragStart={handleDragStart} />
-                    </div>
-                </div>
-            ))}
+                );
+            })}
             </div>
-            <div className="flex flex-col gap-2" onDrop={handleDrop} onDragOver={handleDragOver}>
+            <div className="flex flex-col gap-2" onDrop={handleDrop} onDragOver={handleDragOver} onClick={handleWordbankAreaClick}>
             {wordbank.map(v => (
-                <DragItem v={v} handleDragStart={handleDragStart} key={v.def} submitted={submitted} matched={submitted ? checkMatch(v) : null}/>
+                <DragItem
+                    v={v}
+                    handleDragStart={handleDragStart}
+                    onSelect={handleItemSelect}
+                    isSelected={selected?.id === v.id}
+                    key={v.def}
+                    submitted={submitted}
+                    matched={submitted ? checkMatch(v) : null}
+                />
             ))}
             </div>
             <div className="col-span-2 p-5 grid grid-cols-3" onDrop={handleDrop} onDragOver={handleDragOver}>
