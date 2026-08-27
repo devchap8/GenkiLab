@@ -185,7 +185,7 @@ export default function VocabMatchQuiz() {
                             </div>
                         </div>
                         <div
-                            className="outline-2 py-0.5 px-1 outline-bg-dark bg-bg-main cursor-pointer"
+                            className={`outline-2 py-0.5 px-1 outline-bg-dark bg-bg-main cursor-pointer ${selected && "hover:bg-bg-main/50"}`}
                             data-droppable
                             data-reading={v.reading}
                             onDrop={handleDrop}
