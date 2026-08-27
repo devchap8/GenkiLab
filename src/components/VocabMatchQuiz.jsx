@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { Fragment, useState, useMemo } from "react";
 import { useParams } from "react-router";
 import DragItem from "./DragItem";
 import data from "../data/dataIndex";
@@ -35,6 +35,7 @@ export default function VocabMatchQuiz() {
     const vocab = useMemo(() => removeDupeReadings(rawVocab), []);
     const initialWordbank = useMemo(() => shuffle(vocab), []);
     const initialAnswers = useMemo(() => shuffle(vocab), []);
+    const longestDefChars = useMemo(() => Math.max(...vocab.map(v => v.def.length)), [vocab]);
 
     const [wordbank, setWordbank] = useState(initialWordbank);
     const [matches, setMatches] = useState({});
@@ -166,13 +167,16 @@ export default function VocabMatchQuiz() {
 
     return (
         <div className="grid grid-cols-2 text-text-main">
-            <div className="flex flex-col gap-2">
+            <div
+                className="grid gap-x-1 gap-y-2 w-fit"
+                style={{ gridTemplateColumns: `max-content minmax(${longestDefChars}ch, max-content)` }}
+            >
             {initialAnswers.map(v => {
                 const wordInSlot = vocab.find(word => word.def === matches[v.reading]);
                 return (
-                    <div className="grid grid-cols-2 gap-1" key={v.kanji ? v.kanji : v.reading}>
+                    <Fragment key={v.kanji ? v.kanji : v.reading}>
                         <div>
-                            <div className="outline-2 py-0.5 px-1 outline-bg-main bg-bg-dim">
+                            <div className="outline-2 py-0.5 px-1 outline-bg-main bg-bg-dim h-full">
                                 {v.kanji ? v.kanji : v.reading}
                                 {kanaShown && v.kanji &&
                                     <div className="text-sm text-text-dim">{v.reading}</div>
@@ -195,11 +199,15 @@ export default function VocabMatchQuiz() {
                                 isSelected={wordInSlot ? selected?.id === wordInSlot.id : false}
                             />
                         </div>
-                    </div>
+                    </Fragment>
                 );
             })}
             </div>
-            <div className="flex flex-col gap-2" onDrop={handleDrop} onDragOver={handleDragOver} onClick={handleWordbankAreaClick}>
+            <div className="flex flex-col gap-2 items-end" onDrop={handleDrop} onDragOver={handleDragOver} onClick={handleWordbankAreaClick}>
+            <div
+                className="grid gap-2 w-fit"
+                style={{ gridTemplateColumns: `minmax(${longestDefChars}ch, max-content)` }}
+            >
             {wordbank.map(v => (
                 <DragItem
                     v={v}
@@ -211,6 +219,7 @@ export default function VocabMatchQuiz() {
                     matched={submitted ? checkMatch(v) : null}
                 />
             ))}
+            </div>
             </div>
             <div className="col-span-2 p-5 grid grid-cols-3" onDrop={handleDrop} onDragOver={handleDragOver}>
                 <button className="bg-genki-orange text-bg-dark font-bold text-xl rounded-lg py-2 px-4 max-w-sm cursor-pointer ml-auto mr-auto" onClick={() => setKanaShown(!kanaShown)} >{kanaShown ? "Hide Reading" : "Show Reading"}</button>
