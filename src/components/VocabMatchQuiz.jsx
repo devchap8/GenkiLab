@@ -36,7 +36,9 @@ export default function VocabMatchQuiz() {
     const vocab = useMemo(() => removeDupeReadings(rawVocab), []);
     const initialWordbank = useMemo(() => shuffle(vocab), []);
     const initialAnswers = useMemo(() => shuffle(vocab), []);
-    const longestDefChars = useMemo(() => Math.max(...vocab.map(v => v.def.length)), [vocab]);
+    // decides width of drag/drop boxes. capped so long definitions wrap instead of 
+    // forcing other boxes to stretch really long
+    const longestDefChars = useMemo(() => Math.min(Math.max(...vocab.map(v => v.def.length)), 34), [vocab]);
 
     const [wordbank, setWordbank] = useState(initialWordbank);
     const [matches, setMatches] = useState({});
@@ -170,7 +172,7 @@ export default function VocabMatchQuiz() {
         <div className="grid grid-cols-2 text-text-main">
             <div
                 className="grid gap-x-1 gap-y-2 w-fit"
-                style={{ gridTemplateColumns: `max-content minmax(${longestDefChars}ch, max-content)` }}
+                style={{ gridTemplateColumns: `max-content ${longestDefChars}ch` }}
             >
             {initialAnswers.map(v => {
                 const wordInSlot = vocab.find(word => word.def === matches[v.reading]);
@@ -207,7 +209,7 @@ export default function VocabMatchQuiz() {
             <div className="flex flex-col gap-2 items-end" onDrop={handleDrop} onDragOver={handleDragOver} onClick={handleWordbankAreaClick}>
             <div
                 className="grid gap-2 w-fit"
-                style={{ gridTemplateColumns: `minmax(${longestDefChars}ch, max-content)` }}
+                style={{ gridTemplateColumns: `${longestDefChars}ch` }}
             >
             {wordbank.map(v => (
                 <DragItem
