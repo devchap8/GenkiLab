@@ -193,10 +193,10 @@ export default function VocabMatchQuiz() {
                 return (
                     <Fragment key={v.kanji ? v.kanji : v.reading}>
                         <div>
-                            <div className="outline-2 py-0.5 px-1 outline-bg-main bg-bg-dim h-full">
+                            <div className="text-sm xs:text-base outline-2 py-0.5 px-1 outline-bg-main bg-bg-dim h-full">
                                 {v.kanji ? v.kanji : v.reading}
                                 {kanaShown && v.kanji &&
-                                    <div className="text-sm text-text-dim">{v.reading}</div>
+                                    <div className="text-xs xs:text-sm text-text-dim">{v.reading}</div>
                                 }
                             </div>
                         </div>

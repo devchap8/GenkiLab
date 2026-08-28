@@ -11,6 +11,8 @@
     --color-bg-light: #a1a1aa;
     --color-text-main: #E4E4E7;
     --color-text-dim: #a1a1aa;
+
+    --breakpoint-xs: 25rem;
 }
 
 html, body, #root {

@@ -8,7 +8,7 @@ export default function DragItem({v, handleDragStart, onSelect, matched, isSelec
 
     return (
         <div
-            className={`py-0.5 px-1 bg-bg-dim ${outlineClass} ${selectable ? "cursor-pointer" : ""}`}
+            className={`text-sm xs:text-base py-0.5 px-1 bg-bg-dim ${outlineClass} ${selectable ? "cursor-pointer" : ""}`}
             id={v.id}
             onDragStart={selectable ? (e) => handleDragStart(e, v) : undefined}
             onClick={selectable ? (e) => { e.stopPropagation(); onSelect(v); } : undefined}
@@ -16,7 +16,7 @@ export default function DragItem({v, handleDragStart, onSelect, matched, isSelec
         >
             {v.def}
             {matched !== null &&
-                <div className="text-sm text-text-dim">{v.kanji ? v.kanji : v.reading}</div>
+                <div className="text-xs xs:text-sm text-text-dim">{v.kanji ? v.kanji : v.reading}</div>
             }
         </div>
     )
