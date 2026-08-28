@@ -1,6 +1,5 @@
-import { Fragment, useState, useMemo } from "react";
+import { Fragment, useState, useMemo, useEffect } from "react";
 import { useParams } from "react-router";
-import QuizButton from "./QuizButton";
 import DragItem from "./DragItem";
 import data from "../data/dataIndex";
 
@@ -36,15 +35,30 @@ export default function VocabMatchQuiz() {
     const vocab = useMemo(() => removeDupeReadings(rawVocab), []);
     const initialWordbank = useMemo(() => shuffle(vocab), []);
     const initialAnswers = useMemo(() => shuffle(vocab), []);
-    // decides width of drag/drop boxes. capped so long definitions wrap instead of 
-    // forcing other boxes to stretch really long
-    const longestDefChars = useMemo(() => Math.min(Math.max(...vocab.map(v => v.def.length)), 34), [vocab]);
 
     const [wordbank, setWordbank] = useState(initialWordbank);
     const [matches, setMatches] = useState({});
     const [selected, setSelected] = useState(null);
     const [submitted, setSubmitted] = useState(false);
     const [kanaShown, setKanaShown] = useState(false);
+    // decides width of drag/drop boxes. capped so long definitions wrap instead of 
+    // forcing other boxes to stretch really long
+    const [longestDefChars, setLongestDefChars] = useState(32);
+
+    // changes longestDefChars cap when screen size changes
+    useEffect(() => {
+        window.addEventListener("resize", handleScreenResize);
+        handleScreenResize();
+        return () => window.removeEventListener("resize", handleScreenResize)
+    }, []);
+
+    function handleScreenResize() {
+        const maxChars = window.innerWidth <= 400 ? 12 
+            : window.innerWidth >= 768 ? 32
+            : Math.floor((window.innerWidth - 400) / 18) + 12;
+        setLongestDefChars(Math.min(Math.max(...vocab.map(v => v.def.length)), maxChars))
+    }
+    
 
     function moveToSlot(word, reading) {
         const previousDef = matches[reading];
@@ -224,10 +238,25 @@ export default function VocabMatchQuiz() {
             ))}
             </div>
             </div>
-            <div className="col-span-2 p-5 grid grid-cols-3" onDrop={handleDrop} onDragOver={handleDragOver}>
-                <QuizButton fn={() => setKanaShown(!kanaShown)} text={kanaShown ? "Hide Reading" : "Show Reading"}/>
-                <QuizButton fn={() => setSubmitted(!submitted)} text={submitted ? "Try Again" : "Submit Answers"} />
-                <QuizButton fn={submitted ? () => null : startOver} text={"Start Over"} />
+            <div className="col-span-2 p-5 flex flex-wrap gap-2" onDrop={handleDrop} onDragOver={handleDragOver}>
+                <button 
+                    className="flex-none bg-genki-orange hover:bg-genki-light text-bg-dark font-bold rounded-lg text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
+                    onClick={() => setKanaShown(!kanaShown)}
+                >
+                    {kanaShown ? "Hide Reading" : "Show Reading"}
+                </button>
+                <button
+                    className="flex-none bg-genki-orange hover:bg-genki-light text-bg-dark font-bold rounded-lg text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
+                    onClick={() => setSubmitted(!submitted)}
+                >
+                    {submitted ? "Try Again" : "Submit Answers"}
+                </button>
+                <button
+                    className="flex-none bg-genki-orange hover:bg-genki-light text-bg-dark font-bold rounded-lg text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
+                    onClick={submitted ? () => null : startOver}
+                >
+                    Start Over
+                </button>
             </div>
         </div>
     )
