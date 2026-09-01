@@ -59,7 +59,7 @@ const inThisLesson = {
     L1: ["Introduce Ourselves", "Ask and tell people names, majors at school, time, etc."],
     L2: ["Ask and answer how much things cost", "Go shopping", "Order food in a restaurant"],
     L3: ["Talk about daily activities", "Extend, accept, and refuse invitations"],
-    L4: ["Ask and descripe where things/people are", "Talk about things that happened in the past", "Talk about habitual actions in the past"],
+    L4: ["Ask and describe where things/people are", "Talk about things that happened in the past", "Talk about habitual actions in the past"],
     L5: ["Talk about travel", "Describe people and things", "Make offers and invitations", "Talk about likes and dislikes"],
     L6: ["Make requests", "Ask for and give permission", "Talk about rules and regulations", "Offer help", "Give reasons for doing/not doing something"],
     L7: ["Talk about families and friends", "Describe how people are dressed and how they look"],
@@ -90,6 +90,6 @@ Object.entries(vocab).forEach(v => {
     subsects[v[0]] = [...subsect];
 });
 
-const data = {vocab, lessonNames, subsects};
+const data = {vocab, lessonNames, subsects, inThisLesson};
 
 export default data;
