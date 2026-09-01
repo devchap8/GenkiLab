@@ -34,11 +34,13 @@ export default function VocabQuiz({}) {
                 <div className="text-bg-main">{quizExplanations[params.quizType]}</div>
             </div>
 
-            {!firstThree.includes(params.chapter) && <div className="text-xs sm:text-base">
-                <div className="md:inline-block text-center pb-3 md:pb-0 md:mr-5 text-text-main text-lg">Quiz Type:</div>
-                <a className={`px-3 py-2 ${params.quizType === "match" ?  "bg-genki-orange" : "bg-bg-dim/80 hover:bg-bg-dim"} rounded-l-lg`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/match`}>Match Definition</a>
-                <a className={`px-3 py-2 ${params.quizType === "kana" ? "bg-genki-orange" : "bg-bg-dim/80 hover:bg-bg-dim"}`}              href={`/vocabQuiz/${params.chapter}/${params.subsect}/kana`}>Write Kana</a>
-                <a className={`px-3 py-2 ${params.quizType === "kanji" ? "bg-genki-orange" : "bg-bg-dim/80 hover:bg-bg-dim"} rounded-r-lg`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/kanji`}>Write Kanji</a>
+            {!firstThree.includes(params.chapter) && <div className="text-xs sm:text-base flex flex-col sm:flex-row items-center gap-2 sm:gap-3">
+                <div className="text-text-main text-lg">Quiz Type:</div>
+                <div className="inline-flex rounded-md border border-bg-dim overflow-hidden divide-x divide-bg-dim">
+                    <a className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "match" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/match`}>Match Definition</a>
+                    <a className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kana" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/kana`}>Write Kana</a>
+                    <a className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kanji" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/kanji`}>Write Kanji</a>
+                </div>
             </div>}
 
             <div className="bg-bg-second max-w-250 w-full p-3">
