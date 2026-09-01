@@ -48,7 +48,7 @@ export default function VocabWriteInQuiz() {
             <form className="grid grid-cols-1 items-end md:grid-cols-2 gap-5 text-text-main" onSubmit={submitted ? tryAgain : submitForm} onKeyDown={event => {if(event.key === "Enter") event.preventDefault()}}>
                 {vocab.map(vocabMap)}
                 <button 
-                    className="md:col-span-2 bg-genki-orange hover:bg-genki-light text-bg-dark font-bold rounded-lg py-2 px-4 max-w-sm cursor-pointer ml-auto mr-auto"
+                    className="md:col-span-2 bg-genki-orange hover:bg-genki-light text-bg-dark transition-colors duration-200 font-semibold rounded-md text-lg py-2 px-4 max-w-sm cursor-pointer ml-auto mr-auto"
                     type="submit"
                     >
                     {submitted ? "Try Again" : "Submit Answers"}
