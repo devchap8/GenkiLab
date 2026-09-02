@@ -1,9 +1,16 @@
 import logo from '../assets/logos/logo-clear-white.svg';
-
+import navIcon from "../assets/icons/nav-icon.svg";
 
 export default function Navbar() {
     return (
-        <nav className="bg-bg-main h-16 min-h-16 flex items-center justify-between px-4">
+        <nav className="bg-bg-main h-16 min-h-16 flex items-center gap-3 px-4">
+            <button className='hover:bg-bg-dim/50 p-2 rounded-full cursor-pointer'>
+                <img 
+                    src={navIcon} 
+                    alt="Navigation icon"
+                    className='w-6'
+                />
+            </button>
             <a href="/" className="inline-block">
                 <div className="flex items-center gap-2">
                     <img

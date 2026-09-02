@@ -240,19 +240,19 @@ export default function VocabMatchQuiz() {
             </div>
             <div className="col-span-2 p-5 flex flex-wrap gap-2" onDrop={handleDrop} onDragOver={handleDragOver}>
                 <button 
-                    className="flex-none bg-genki-orange hover:bg-genki-light transition-colors duration-200 text-bg-dark font-semibold rounded-md text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
+                    className="flex-none bg-genki-orange hover:bg-genki-light text-bg-dark transition-colors duration-200 font-semibold rounded-md text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
                     onClick={() => setKanaShown(!kanaShown)}
                 >
                     {kanaShown ? "Hide Reading" : "Show Reading"}
                 </button>
                 <button
-                    className="flex-none bg-genki-orange hover:bg-genki-light transition-colors duration-200 text-bg-dark font-semibold rounded-md text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
+                    className="flex-none bg-genki-orange hover:bg-genki-light text-bg-dark transition-colors duration-200 font-semibold rounded-md text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
                     onClick={() => setSubmitted(!submitted)}
                 >
                     {submitted ? "Try Again" : "Submit Answers"}
                 </button>
                 <button
-                    className="flex-none bg-genki-orange hover:bg-genki-light transition-colors duration-200 text-bg-dark font-semibold rounded-md text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
+                    className="flex-none bg-genki-orange hover:bg-genki-light text-bg-dark transition-colors duration-200 font-semibold rounded-md text-sm sm:text-md md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
                     onClick={submitted ? () => null : startOver}
                 >
                     Start Over
