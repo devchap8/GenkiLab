@@ -3,6 +3,7 @@ import Layout from './components/Layout';
 import Homepage from './components/Homepage';
 import VocabList from './components/VocabList';
 import VocabQuiz from './components/VocabQuiz';
+import NotFound from './components/NotFound';
 
 const router = createBrowserRouter([
  {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
         {
             path: "vocabQuiz/:chapter/:subsect/:quizType", 
             element: <VocabQuiz />
+        },
+        {
+            path: "*",
+            element: <NotFound />
         } 
     ]
  }
