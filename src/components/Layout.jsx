@@ -1,10 +1,10 @@
 import { Outlet } from "react-router";
-import Navbar from "./Navbar";
+import HeaderBar from "./HeaderBar";
 
 export default function Layout() {
     return (
         <div className="flex flex-col h-full">
-            <Navbar />
+            <HeaderBar />
             <main className="flex-1">
                 <Outlet />
             </main>

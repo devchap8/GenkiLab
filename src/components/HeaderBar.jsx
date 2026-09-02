@@ -1,9 +1,9 @@
 import logo from '../assets/logos/logo-clear-white.svg';
 import navIcon from "../assets/icons/nav-icon.svg";
 
-export default function Navbar() {
+export default function HeaderBar() {
     return (
-        <nav className="bg-bg-main h-16 min-h-16 flex items-center gap-3 px-4">
+        <header className="bg-bg-main h-16 min-h-16 flex items-center gap-3 px-4">
             <button className='hover:bg-bg-dim/50 p-2 rounded-full cursor-pointer'>
                 <img 
                     src={navIcon} 
@@ -22,6 +22,6 @@ export default function Navbar() {
                 </div>
                 <div className="bg-genki-orange h-0.5 mt-1"></div>
             </a>
-        </nav>
+        </header>
     )
 }
