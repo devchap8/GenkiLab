@@ -33,14 +33,14 @@ export default function ChapterIndex({lessonNum, extras}) {
 
                     <ChapterSection title="Vocab" navType="main">
                         <ul className="pl-5 list-disc marker:text-genki-orange">
-                            <ChapterNavLink text="Vocab List" link={`/vocab/L${lessonNum}`} />
+                            <ChapterNavLink text="Vocab List" link={`/vocab/L${lessonNum}`} type="main"/>
                         </ul>
                     </ChapterSection>
 
                     <ChapterSection title="Vocab Quizzes" navType="main">
                         <ul className="list-disc pl-5 marker:text-genki-orange">
                             {data.subsects[`L${lessonNum}`].map(subsect =>
-                                <ChapterNavLink text={subsect} link={`/vocabQuiz/L${lessonNum}/${subsect}/match`} key={`L${lessonNum} ${subsect}`}></ChapterNavLink>
+                                <ChapterNavLink text={subsect} link={`/vocabQuiz/L${lessonNum}/${subsect}/match`} key={`L${lessonNum} ${subsect}`} type="main"/>
                             )}
                         </ul>
                     </ChapterSection>
@@ -48,7 +48,7 @@ export default function ChapterIndex({lessonNum, extras}) {
                     {extras && extras.length > 0 && <ChapterSection title="Extras" navType="main">
                         <ul className="pl-5 marker:text-genki-orange">
                             {extras.map(extra =>
-                                <ChapterNavLink text={extra.text} link={extra.link} key={extra.text}/>
+                                <ChapterNavLink text={extra.text} link={extra.link} key={extra.text} type="main"/>
                             )}
                         </ul>
                     </ChapterSection>}
