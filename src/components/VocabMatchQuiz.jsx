@@ -183,7 +183,7 @@ export default function VocabMatchQuiz() {
     }
 
     return (
-        <div className="grid grid-cols-2 text-text-main">
+        <div className="grid grid-cols-[min-content_1fr] text-text-main" >
             <div
                 className="grid gap-x-1 gap-y-2 w-fit"
                 style={{ gridTemplateColumns: `max-content ${longestDefChars}ch` }}

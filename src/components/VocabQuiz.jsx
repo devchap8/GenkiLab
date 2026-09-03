@@ -43,7 +43,7 @@ export default function VocabQuiz({}) {
                 </div>
             </div>}
 
-            <div className="bg-bg-second max-w-250 w-full p-3">
+            <div className="bg-bg-second/50 max-w-250 w-full p-3">
                 {quizMatch[params.quizType]} 
             </div>               
         </div>
