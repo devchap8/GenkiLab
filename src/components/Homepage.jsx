@@ -18,11 +18,19 @@ export default function Homepage() {
                     <div>Planned features: Hiragana / Katakana quizzes, chapter overviews, grammar explanation resources, grammar quizzes, and more!</div>
                 </div>
             </section>
-            <main className=" max-w-165 w-full p-2 flex flex-col gap-5">
-                <h2 className="text-center text-4xl font-bold text-text-main">Chapter Navigation</h2>
-                {lessonNums.map(n => 
-                    <ChapterIndex key={n} lessonNum={n} extras={extraLinks[`L${n}`]}/>
-                )}
+            <main className="max-w-300 w-full p-2 grid grid-cols-1 md:grid-cols-2 gap-5 items-start">
+                <h2 className="text-center mb-3 text-4xl font-bold text-text-main md:col-span-2">Chapter Navigation</h2>
+                <div className="grid gap-5">
+                    {lessonNums.slice(0, 12).map(n => 
+                        <ChapterIndex key={n} lessonNum={n} extras={extraLinks[`L${n}`]}/>
+                    )}
+                </div>
+                <div className="grid gap-5">
+                    {lessonNums.slice(-12).map(n => 
+                        <ChapterIndex key={n} lessonNum={n} extras={extraLinks[`L${n}`]}/>
+                    )}                    
+                </div>
+
             </main>
         </div>
     )
