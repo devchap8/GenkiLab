@@ -66,7 +66,8 @@ export default function VocabMatchQuiz() {
         let newWordbank = wordbank.filter(w => w.id !== word.id);
         if (previousDef && previousDef !== word.def) {
             const previousWord = vocab.find(v => v.def === previousDef);
-            if (previousWord) newWordbank = [...newWordbank, previousWord];
+            swapItems(word, previousWord);
+            return;
         }
         setWordbank(newWordbank);
 
