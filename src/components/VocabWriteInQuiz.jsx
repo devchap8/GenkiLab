@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { useParams } from "react-router"
 import data from "../data/dataIndex"
 import validateVocab from "../scripts/validateVocab";
@@ -8,7 +8,14 @@ let entries;
 export default function VocabWriteInQuiz() {
     const params = useParams();
     const [submitted, setSubmitted] = useState(false);
-    const vocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
+    const rawVocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
+    const vocab = useMemo(() => cleanVocab(rawVocab), []);
+
+    function cleanVocab(rawVocab) {
+        // removes kanjiless vocab in kanji quiz so zebra stipes arent broken
+        if(params.quizType === "kana") return rawVocab;
+        return rawVocab.filter(v => v.kanji);
+    }
 
     function submitForm(event) {
         event.preventDefault();
