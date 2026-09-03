@@ -9,16 +9,16 @@ export default function ChapterIndex({lessonNum, extras}) {
     const [expanded, setExpanded] = useState(false);
 
     return (
-        <div key={lessonNum} className="rounded-xl border border-bg-dim/60 bg-bg-second/20 hover:border-genki-orange/60 transition-colors p-4">
+        <div key={lessonNum} className="rounded-xl border border-bg-dim/60 bg-bg-second/20 hover:border-genki-orange/60 transition-colors">
             <button
-                className="flex gap-2 cursor-pointer w-full justify-between"
+                className={`flex gap-2 cursor-pointer w-full justify-between p-4`}
                 onClick={() => setExpanded(!expanded)}
             >
                 <h3 className="text-genki-orange text-lg font-bold inline-block">L{lessonNum}: {data.lessonNames[`L${lessonNum}`]}</h3>
                 <img className={`w-6 ${!expanded && "rotate-180"} transition-transform duration-400`} src={expandSvg}></img>
             </button>
 
-            {expanded && <div className="flex flex-col gap-3 border-t border-bg-dim/60 pt-3 mt-3">
+            {expanded && <div className="flex flex-col gap-3 border-t border-bg-dim/60 pt-3 p-4">
                 <div className="w-full bg-bg-second/80 rounded-md p-2">
                     <div className="text-text-main tracking-wide font-semibold">In this lesson we will...</div>
                     <ul className="columns-2 gap-x-6 pl-6 text-text-dim list-disc marker:text-genki-orange text-sm space-y-0">

@@ -1,6 +1,6 @@
 import { useState, useMemo } from "react";
-import { useParams } from "react-router"
-import data from "../data/dataIndex"
+import { useParams } from "react-router";
+import data from "../data/dataIndex";
 import validateVocab from "../scripts/validateVocab";
 
 let entries;

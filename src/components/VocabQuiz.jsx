@@ -1,6 +1,7 @@
 import { useParams } from "react-router";
 import VocabMatchQuiz from "./VocabMatchQuiz";
 import VocabWriteInQuiz from "./VocabWriteInQuiz";
+import useDocTitle from "../scripts/useDocTitle";
 
 const quizMatch = {
     kana: <VocabWriteInQuiz />,
@@ -24,6 +25,7 @@ const firstThree = ["L0", "L1", "L2"];
 
 export default function VocabQuiz({}) {
     const params = useParams();
+    useDocTitle(`${params.chapter} Vocab Quiz: ${params.subsect}`);
 
     return (
         <div className="bg-bg-main h-full flex flex-col items-center p-5 gap-6">
