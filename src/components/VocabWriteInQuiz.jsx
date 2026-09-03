@@ -37,7 +37,10 @@ export default function VocabWriteInQuiz() {
 
         if(params.quizType === "kanji" && !v.kanji) return;
         let isCorrect;
-        if(submitted) isCorrect = validateVocab(entered, answer);
+        if(submitted) {
+            isCorrect = validateVocab(entered, answer);
+            if(!isCorrect && params.quizType === "kanji" && v.alt) isCorrect = validateVocab(entered, v.alt);
+        }
 
         const rowTint = submitted
             ? (isCorrect ? "bg-lime-500/10" : "bg-red-500/10")

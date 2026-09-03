@@ -91,6 +91,7 @@
     "id": "L17-12",
     "reading": "たからくじ",
     "kanji": "宝くじ",
+    "alt": "宝籤",
     "def": "lottery",
     "sect": "Nouns",
     "subsect": "Nouns 1"
@@ -307,6 +308,7 @@
     "id": "L17-39",
     "reading": "たからくじにあたる",
     "kanji": "宝くじに当たる",
+    "alt": "宝籤に当たる",
     "def": "to win a lottery",
     "sect": "U-verbs",
     "subsect": "Verbs"

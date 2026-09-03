@@ -109,6 +109,7 @@
     "sect": "Nouns",
     "reading": "あさごはん",
     "kanji": "朝ご飯",
+    "alt": "朝御飯",
     "def": "breakfast"
   },
   {
@@ -117,6 +118,7 @@
     "sect": "Nouns",
     "reading": "ひるごはん",
     "kanji": "昼ご飯",
+    "alt": "昼御飯",
     "def": "lunch"
   },
   {
@@ -125,6 +127,7 @@
     "sect": "Nouns",
     "reading": "ばんごはん",
     "kanji": "晩ご飯",
+    "alt": "晩御飯",
     "def": "dinner"
   },
   {
