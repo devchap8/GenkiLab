@@ -83,7 +83,15 @@
     "id": "L15-11",
     "reading": "インターネット",
     "kanji": "",
-    "def": "internet (more colloquially, ネット)",
+    "def": "internet",
+    "sect": "Nouns",
+    "subsect": "Nouns 1"
+  },
+  {
+    "id": "L15-11-2",
+    "reading": "ネット",
+    "kanji": "",
+    "def": "internet (colloquially)",
     "sect": "Nouns",
     "subsect": "Nouns 1"
   },
