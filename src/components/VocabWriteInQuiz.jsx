@@ -33,7 +33,10 @@ export default function VocabWriteInQuiz() {
     function vocabMap(v, i) {
         let answer = params.quizType === "kana" ? v.reading : v.kanji;
         let entered;
-        if(submitted) entered = params.quizType === "kana" ? entries[v.reading] : entries[v.kanji];
+        if(submitted) {
+            if(params.quizType === "kanji") entered = entries[v.kanji];
+            else if(params.quizType === "kana") entered = entries[v.kanji ? v.kanji : v.reading];
+        }
 
         if(params.quizType === "kanji" && !v.kanji) return;
         let isCorrect;
@@ -52,14 +55,14 @@ export default function VocabWriteInQuiz() {
                 {params.quizType === "kana" && <td className="px-4 py-2 text-center align-middle text-lg font-medium text-text-main">{v.kanji}</td>}
                 <td className="px-2 py-2 align-middle">
                     <div className="flex items-center justify-center gap-2">
-                        <label className="sr-only" htmlFor={answer}>{answer}</label>
+                        <label className="sr-only" htmlFor={v.kanji ? v.kanji : v.reading}>{answer}</label>
                         <input
                             className={`w-28 sm:w-40 rounded border px-2 py-1 text-center bg-bg-main text-text-main focus:outline-none focus:border-genki-orange transition-colors ${!submitted ? "border-bg-dim" : isCorrect ? "border-lime-500" : "border-red-500"}`}
                             disabled={submitted}
                             type="text"
                             autoComplete="off"
-                            name={answer}
-                            id={answer}
+                            name={v.kanji ? v.kanji : v.reading}
+                            id={v.kanji ? v.kanji : v.reading}
                         ></input>
                         {submitted && <span className={`text-sm ${isCorrect ? "text-lime-500" : "text-red-500"}`}>{isCorrect ? "✓" : `✗ ${answer}`}</span>}
                     </div>
