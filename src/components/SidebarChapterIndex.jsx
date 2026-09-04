@@ -17,7 +17,7 @@ export default function SidebarChapterIndex({lessonNum}) {
                 <div className="text-lg px-2 py-.5 text-text-dim font-semibold tracking-wide">
                     {`Lesson ${lessonNum}`}
                 </div>
-                <img className={`w-6 mr-1 ${!expanded && "rotate-180"} transition-transform duration-250`} src={expandIcon} href="Expand Icon" />
+                <img className={`w-6 mr-1 ${!expanded && "rotate-180"} transition-transform duration-250`} src={expandIcon} alt="Expand Icon" />
             </button>
 
             {expanded && <div className="py-1 px-2 flex flex-col gap-2">

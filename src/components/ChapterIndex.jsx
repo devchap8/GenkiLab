@@ -15,7 +15,7 @@ export default function ChapterIndex({lessonNum, extras}) {
                 onClick={() => setExpanded(!expanded)}
             >
                 <h3 className="text-genki-orange text-lg font-bold inline-block">L{lessonNum}: {data.lessonNames[`L${lessonNum}`]}</h3>
-                <img className={`w-6 ${!expanded && "rotate-180"} transition-transform duration-400`} src={expandSvg}></img>
+                <img className={`w-6 ${!expanded && "rotate-180"} transition-transform duration-400`} alt="Expand Icon" src={expandSvg}></img>
             </button>
 
             {expanded && <div className="flex flex-col gap-3 border-t border-bg-dim/60 pt-3 p-4">

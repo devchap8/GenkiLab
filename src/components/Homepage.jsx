@@ -13,7 +13,7 @@ export default function Homepage() {
                 <div className="text-text-main whitespace-pre-line mb-5 flex flex-col gap-2">
                     <div>GenkiLab is a study resource meant to help people learning Japanese through the Genki I and II (Third Edition) textbooks. Each lesson has its own vocab list and quizzes, with more features coming soon.</div>
                     <div>GenkiLab is an independent, unofficial fan resource and is not affiliated with The Japan Times, the publisher of the Genki series. All rights to the Genki textbooks belong to their respective owners. This site is meant to be used alongside the official textbooks and workbooks, not as a replacement. Please support the original creators by purchasing the Genki series.</div>
-                    <div>Found a mistake? Have some feedback? Email me at <p className="inline text-blue-400">devchap8@uri.edu</p></div>
+                    <div>Found a mistake? Have some feedback? Email me at <a className="inline text-genki-orange" href="mailto:devchap8@uri.edu">devchap8@uri.edu</a></div>
                     <div>Planned features: Hiragana / Katakana quizzes, chapter overviews, grammar explanation resources, grammar quizzes, and more!</div>
                 </div>
             </section>

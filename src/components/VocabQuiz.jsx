@@ -12,7 +12,7 @@ const quizMatch = {
 const quizExplanations = {
     kana: "Write the hiragana or katakana reading for each word. Special characters like `~` and anything inside parenthesis can be omitted.",
     kanji: "Write in the kanji for each word's definition. Special characters like `~` and anything inside parenthesis can be omitted. For words with multiple different kanji, either kanji can be written.",
-    match: "Drag and drop each definition into the box next to it's corresponding reading, or click a definition to select it and click a box to drop it in."
+    match: "Drag and drop each definition into the box next to its corresponding reading, or click a definition to select it and click a box to drop it in."
 }
 
 const quizTypeNames = {
