@@ -1,12 +1,12 @@
-import { useParams } from "react-router";
+import { useParams, Link } from "react-router";
 import VocabMatchQuiz from "./VocabMatchQuiz";
 import VocabWriteInQuiz from "./VocabWriteInQuiz";
 import useDocTitle from "../scripts/useDocTitle";
 
-const quizMatch = {
-    kana: <VocabWriteInQuiz />,
-    kanji: <VocabWriteInQuiz />,
-    match: <VocabMatchQuiz />
+const quizComponents = {
+    kana: VocabWriteInQuiz,
+    kanji: VocabWriteInQuiz,
+    match: VocabMatchQuiz
 };
 
 const quizExplanations = {
@@ -26,6 +26,7 @@ const firstThree = ["L0", "L1", "L2"];
 export default function VocabQuiz({}) {
     const params = useParams();
     useDocTitle(`${params.chapter} Vocab Quiz: ${params.subsect}`);
+    const QuizComponent = quizComponents[params.quizType];
 
     return (
         <div className="bg-bg-main h-full flex flex-col items-center p-5 gap-6">
@@ -39,15 +40,15 @@ export default function VocabQuiz({}) {
             {!firstThree.includes(params.chapter) && <div className="text-xs sm:text-base flex flex-col sm:flex-row items-center gap-2 sm:gap-3">
                 <div className="text-text-main text-lg">Quiz Type:</div>
                 <div className="inline-flex rounded-md border border-bg-dim overflow-hidden divide-x divide-bg-dim">
-                    <a className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "match" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/match`}>Match Definition</a>
-                    <a className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kana" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/kana`}>Write Kana</a>
-                    <a className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kanji" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} href={`/vocabQuiz/${params.chapter}/${params.subsect}/kanji`}>Write Kanji</a>
+                    <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "match" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/match`}>Match Definition</Link>
+                    <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kana" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/kana`}>Write Kana</Link>
+                    <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kanji" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/kanji`}>Write Kanji</Link>
                 </div>
             </div>}
 
             <div className="bg-bg-second/50 max-w-250 w-full p-3">
-                {quizMatch[params.quizType]} 
-            </div>               
+                <QuizComponent key={`${params.chapter}/${params.subsect}/${params.quizType}`} />
+            </div>
         </div>
     )
 }

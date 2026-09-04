@@ -4,7 +4,7 @@ import ChapterNavLink from "./ChapterNavLink";
 import data from "../data/dataIndex";
 import expandIcon from "../assets/icons/expand-gray.svg";
 
-export default function SidebarChapterIndex({lessonNum}) {
+export default function SidebarChapterIndex({lessonNum, closeNav}) {
 
     const [expanded, setExpanded] = useState(false);
 
@@ -24,14 +24,14 @@ export default function SidebarChapterIndex({lessonNum}) {
 
                 <ChapterSection title="Vocab" navType="sidebar">
                     <ul className="pl-5 list-disc marker:text-genki-orange">
-                        <ChapterNavLink text="Vocab List" link={`/vocab/L${lessonNum}`} type="sidebar"/>
+                        <ChapterNavLink text="Vocab List" link={`/vocab/L${lessonNum}`} type="sidebar" onNavigate={closeNav}/>
                     </ul>
                 </ChapterSection>
 
                 <ChapterSection title="Vocab Quizzes" navType="sidebar">
                     <ul className="list-disc pl-5 marker:text-genki-orange">
                         {data.subsects[`L${lessonNum}`].map(subsect =>
-                            <ChapterNavLink text={subsect} link={`/vocabQuiz/L${lessonNum}/${subsect}/match`} key={`L${lessonNum} ${subsect}`} type="sidebar"/>
+                            <ChapterNavLink text={subsect} link={`/vocabQuiz/L${lessonNum}/${subsect}/match`} key={`L${lessonNum} ${subsect}`} type="sidebar" onNavigate={closeNav}/>
                         )}
                     </ul>
                 </ChapterSection>
