@@ -2,6 +2,7 @@ export default function validateVocab(response, answer) {
     // regexes from cleanSearchText in VocabListSection component
     if(!answer) return false;
     let newAnswer = answer.trim();
+    response = response.trim();
     if(response === newAnswer) return true;
 
     // for words with multiple readings, split at / and check each word
@@ -13,16 +14,16 @@ export default function validateVocab(response, answer) {
     }
 
     // pluses and everything following them (words ending in + negative, etc.)
-    newAnswer = answer.replace(/[+＋].*/, "").trim();
+    newAnswer = newAnswer.replace(/[+＋].*/, "").trim();
     if(newAnswer === response) return true;
     // replace english parenthesis
-    newAnswer = answer.replace(/\([^)]*\)/g, "").trim();
+    newAnswer = newAnswer.replace(/\([^)]*\)/g, "").trim();
     if(newAnswer === response) return true;
     // replace japanese parenthesis
-    newAnswer = answer.replace(/（[^）]*）/g, "").trim();
+    newAnswer = newAnswer.replace(/（[^）]*）/g, "").trim();
     if(newAnswer === response) return true;
     // replace special characters
-    newAnswer = answer.replace(/[～。~.]/g, "").trim();
+    newAnswer = newAnswer.replace(/[～。~.]/g, "").trim();
     return newAnswer === response;    
     
 

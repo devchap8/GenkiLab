@@ -219,7 +219,7 @@
     "id": "L20-28",
     "reading": "いただく",
     "kanji": "頂く",
-    "def": "extra-modest expression for たべる and のむ",
+    "def": "たべる and のむ extra-modest, もらう humble expression",
     "sect": "U-verbs",
     "subsect": "U-verbs"
   },
@@ -244,14 +244,6 @@
     "reading": "～でござる",
     "kanji": "",
     "def": "extra-modest expression for です",
-    "sect": "U-verbs",
-    "subsect": "U-verbs"
-  },
-  {
-    "id": "L20-32",
-    "reading": "いただく",
-    "kanji": "頂く",
-    "def": "humble expression for もらう",
     "sect": "U-verbs",
     "subsect": "U-verbs"
   },
