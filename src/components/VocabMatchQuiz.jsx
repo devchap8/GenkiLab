@@ -32,9 +32,9 @@ export default function VocabMatchQuiz() {
     const params = useParams();
     const rawVocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
     
-    const vocab = useMemo(() => removeDupeReadings(rawVocab), []);
-    const initialWordbank = useMemo(() => shuffle(vocab), []);
-    const initialAnswers = useMemo(() => shuffle(vocab), []);
+    const vocab = useMemo(() => removeDupeReadings(rawVocab), [rawVocab]);
+    const initialWordbank = useMemo(() => shuffle(vocab), [vocab]);
+    const initialAnswers = useMemo(() => shuffle(vocab), [vocab]);
 
     const [wordbank, setWordbank] = useState(initialWordbank);
     const [matches, setMatches] = useState({});
@@ -46,18 +46,19 @@ export default function VocabMatchQuiz() {
     const [longestDefChars, setLongestDefChars] = useState(32);
 
     // changes longestDefChars cap when screen size changes
-    useEffect(() => {
-        window.addEventListener("resize", handleScreenResize);
-        handleScreenResize();
-        return () => window.removeEventListener("resize", handleScreenResize)
-    }, []);
-
     function handleScreenResize() {
         const maxChars = window.innerWidth <= 400 ? 12 
             : window.innerWidth >= 768 ? 32
             : Math.floor((window.innerWidth - 400) / 18) + 12;
         setLongestDefChars(Math.min(Math.max(...vocab.map(v => v.def.length)), maxChars))
     }
+    useEffect(() => {
+        window.addEventListener("resize", handleScreenResize);
+        handleScreenResize();
+        return () => window.removeEventListener("resize", handleScreenResize)
+    }, []);
+
+
     
 
     function moveToSlot(word, reading) {

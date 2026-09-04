@@ -4,7 +4,7 @@ import ChapterNavLink from "./ChapterNavLink";
 import data from "../data/dataIndex";
 import expandIcon from "../assets/icons/expand-gray.svg";
 
-export default function SidebarChapterIndex({lessonNum, extras}) {
+export default function SidebarChapterIndex({lessonNum}) {
 
     const [expanded, setExpanded] = useState(false);
 

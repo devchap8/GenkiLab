@@ -7,7 +7,7 @@ export default function validateVocab(response, answer) {
 
     // for words with multiple readings, split at / and check each word
     if(newAnswer.includes("/") || newAnswer.includes("／")) {
-        const answers = newAnswer.split(/[\/／]/);
+        const answers = newAnswer.split(/[/／]/);
         for(let ans of answers) {
             if(validateVocab(response, ans)) return true;
         }

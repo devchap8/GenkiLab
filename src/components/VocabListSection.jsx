@@ -8,7 +8,7 @@ function cleanSearchText(text) {
     // replace special characters
     newText = newText.replace(/[～。~.]/g, "");
     // replace slashes, pluses, and everything following them (words with multiple readings or ending in + negative)
-    newText = newText.replace(/[\/／+＋].*/, "");
+    newText = newText.replace(/[/／+＋].*/, "");
     return newText.trim();
 }
 

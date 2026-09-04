@@ -9,13 +9,13 @@ export default function VocabWriteInQuiz() {
     const params = useParams();
     const [submitted, setSubmitted] = useState(false);
     const rawVocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
-    const vocab = useMemo(() => cleanVocab(rawVocab), []);
-
+    
     function cleanVocab(rawVocab) {
         // removes kanjiless vocab in kanji quiz so zebra stipes arent broken
         if(params.quizType === "kana") return rawVocab;
         return rawVocab.filter(v => v.kanji);
     }
+    const vocab = useMemo(() => cleanVocab(rawVocab), [cleanVocab, rawVocab]);
 
     function submitForm(event) {
         event.preventDefault();
