@@ -1,7 +1,8 @@
-import { useParams, Link } from "react-router";
+import { useParams, Link, Navigate } from "react-router";
 import VocabMatchQuiz from "./VocabMatchQuiz";
 import VocabWriteInQuiz from "./VocabWriteInQuiz";
 import useDocTitle from "../scripts/useDocTitle";
+import data from "../data/dataIndex";
 
 const quizComponents = {
     kana: VocabWriteInQuiz,
@@ -21,10 +22,13 @@ const quizTypeNames = {
     match: "Match Definition to Reading"
 }
 
+const lessonsRegex = /^L(?:1\d|2[0-3]|\d)$/;
+
 const firstThree = ["L0", "L1", "L2"]; 
 
 export default function VocabQuiz({}) {
     const params = useParams();
+    if(!lessonsRegex.test(params.chapter) || !data.subsects[params.chapter].includes(params.subsect) || !Object.keys(quizExplanations).includes(params.quizType)) return <Navigate to="/404" />;
     useDocTitle(`${params.chapter} Vocab Quiz: ${params.subsect}`);
     const QuizComponent = quizComponents[params.quizType];
 
