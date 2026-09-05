@@ -1,14 +1,15 @@
-import { useParams, Navigate } from "react-router";
+import { useParams } from "react-router";
 import { useState } from "react";
 import useDocTitle from "../scripts/useDocTitle";
 import data from "../data/dataIndex";
 import VocabListSection from "./VocabListSection";
+import NotFound from "./NotFound";
 
 const lessonsRegex = /^L(?:1\d|2[0-3]|\d)$/;
 
 export default function VocabList({}) {
     const params = useParams();
-    if(!lessonsRegex.test(params.chapter)) return <Navigate to="/404" />;
+    if(!lessonsRegex.test(params.chapter)) return <NotFound />;
     useDocTitle(`${params.chapter} Vocab List`);
     const [readingsHidden, setReadingsHidden] = useState(false);
     const [defsHidden, setDefsHidden] = useState(false);
