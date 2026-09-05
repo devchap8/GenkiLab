@@ -1,16 +1,19 @@
-# React + Vite
+# GenkiLab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GenkiLab is a React frontend website that offers resources to aid people studying through the [Genki (Third Edition) textbooks](https://genki3.japantimes.co.jp/en/intro/). Currently, these resources include a vocab list and 3 different vocab quiz types for all 24 chapters. 
 
-Currently, two official plugins are available:
+GenkiLab is an independent, unofficial fan resource and is not affiliated with The Japan Times, the publisher of the Genki series. All rights to the Genki textbooks belong to their respective owners. This site is meant to be used alongside the official textbooks and workbooks, not as a replacement. Please support the original creators by purchasing the Genki series.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Planned Updates
+* Hiragana / Katakana cheatsheets and quizzes
+* Tests via React Test Library
+* Chapter overviews and grammar explanations
+* Grammar quizzes
 
-## React Compiler
+## Credits
+All icon svgs not made by myself sourced from [svgrepo.com](https://www.svgrepo.com/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## AI Usage
+GenkiLab is my first serious webapp, and as such I intend to treat this as a learning experience. Thus, I only use AI for things I am confident I can do on my own, such as cleaning data and tweaking styling. This is also my first project using AI in the terminal. Through this project, I want to give Japanese language students studying the Genki Series a useful and comprehensive resource while also learning how to build and operate a scalable website with real users and how to incorporate AI into my workflow.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you found any mistakes or have any feedback or advice, please contact me at [devchap8@uri.edu](mailto:devchap8@uri.edu)
