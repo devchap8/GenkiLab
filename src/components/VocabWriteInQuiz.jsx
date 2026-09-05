@@ -22,12 +22,10 @@ export default function VocabWriteInQuiz() {
         const formData = new FormData(event.target);
         entries = Object.fromEntries(formData.entries());
         setSubmitted(true);
-        window.scrollTo(0, 350);
     }
     function tryAgain(event) {
         event.preventDefault();
         setSubmitted(false);
-        window.scrollTo(0, 350);
     }
 
     function vocabMap(v, i) {
