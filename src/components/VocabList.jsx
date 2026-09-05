@@ -9,10 +9,10 @@ const lessonsRegex = /^L(?:1\d|2[0-3]|\d)$/;
 
 export default function VocabList({}) {
     const params = useParams();
-    if(!lessonsRegex.test(params.chapter)) return <NotFound />;
     useDocTitle(`${params.chapter} Vocab List`);
     const [readingsHidden, setReadingsHidden] = useState(false);
     const [defsHidden, setDefsHidden] = useState(false);
+    if(!lessonsRegex.test(params.chapter)) return <NotFound />;
 
     const vocab = data.vocab[params.chapter];
     const sectionedVocab = Object.groupBy(vocab, word => word.sect);

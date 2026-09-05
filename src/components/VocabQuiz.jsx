@@ -29,8 +29,8 @@ const firstThree = ["L0", "L1", "L2"];
 
 export default function VocabQuiz({}) {
     const params = useParams();
-    if(!lessonsRegex.test(params.chapter) || !data.subsects[params.chapter].includes(params.subsect) || !Object.keys(quizExplanations).includes(params.quizType)) return <NotFound />;
     useDocTitle(`${params.chapter} Vocab Quiz: ${params.subsect}`);
+    if(!lessonsRegex.test(params.chapter) || !data.subsects[params.chapter]?.includes(params.subsect) || !Object.keys(quizExplanations).includes(params.quizType)) return <NotFound />;
     const QuizComponent = quizComponents[params.quizType];
 
     return (
