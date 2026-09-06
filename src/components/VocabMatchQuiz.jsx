@@ -184,6 +184,7 @@ export default function VocabMatchQuiz() {
         setWordbank(initialWordbank);
         setMatches({});
         setSelected(null);
+        setSubmitted(false);
     }
 
     return (
@@ -256,8 +257,8 @@ export default function VocabMatchQuiz() {
                     {submitted ? "Try Again" : "Submit Answers"}
                 </button>
                 <button
-                    className="flex-none bg-genki-orange hover:bg-genki-light text-bg-dark transition-colors duration-200 font-semibold rounded-md text-sm sm:text-base md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto"
-                    onClick={submitted ? () => null : startOver}
+                    className={`flex-none bg-genki-orange hover:bg-genki-light text-bg-dark transition-colors duration-200 font-semibold rounded-md text-sm sm:text-base md:text-lg py-1 px-2 sm:py-2 sm:px-4 max-w-sm cursor-pointer ml-auto mr-auto`}
+                    onClick={startOver}
                 >
                     Start Over
                 </button>
