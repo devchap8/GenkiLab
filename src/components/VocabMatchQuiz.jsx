@@ -33,8 +33,8 @@ export default function VocabMatchQuiz() {
     const rawVocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
     
     const vocab = useMemo(() => removeDupeReadings(rawVocab), [rawVocab]);
-    const initialWordbank = useMemo(() => shuffle(vocab), [vocab]);
-    const initialAnswers = useMemo(() => shuffle(vocab), [vocab]);
+    const initialWordbank = useMemo(() => shuffle(vocab), []);
+    const initialAnswers = useMemo(() => shuffle(vocab), []);
 
     const [wordbank, setWordbank] = useState(initialWordbank);
     const [matches, setMatches] = useState({});
@@ -43,18 +43,20 @@ export default function VocabMatchQuiz() {
     const [kanaShown, setKanaShown] = useState(false);
     // decides width of drag/drop boxes. capped so long definitions wrap instead of 
     // forcing other boxes to stretch really long
-    const [longestDefChars, setLongestDefChars] = useState(32);
+    const [longestDefChars, setLongestDefChars] = useState(Math.min(Math.max(...vocab.map(v => v.def.length)), getMaxChars()));
 
     // changes longestDefChars cap when screen size changes
-    function handleScreenResize() {
-        const maxChars = window.innerWidth <= 400 ? 12 
+    function getMaxChars() {
+        return window.innerWidth <= 400 ? 12 
             : window.innerWidth >= 768 ? 32
             : Math.floor((window.innerWidth - 400) / 18) + 12;
+    }
+    function handleScreenResize() {
+        const maxChars = getMaxChars();
         setLongestDefChars(Math.min(Math.max(...vocab.map(v => v.def.length)), maxChars))
     }
     useEffect(() => {
         window.addEventListener("resize", handleScreenResize);
-        handleScreenResize();
         return () => window.removeEventListener("resize", handleScreenResize)
     }, []);
 

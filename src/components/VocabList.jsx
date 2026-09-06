@@ -7,7 +7,7 @@ import NotFound from "./NotFound";
 
 const lessonsRegex = /^L(?:1\d|2[0-3]|\d)$/;
 
-export default function VocabList({}) {
+export default function VocabList() {
     const params = useParams();
     useDocTitle(`${params.chapter} Vocab List`);
     const [readingsHidden, setReadingsHidden] = useState(false);

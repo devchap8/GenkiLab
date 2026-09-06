@@ -27,7 +27,7 @@ const lessonsRegex = /^L(?:1\d|2[0-3]|\d)$/;
 
 const firstThree = ["L0", "L1", "L2"]; 
 
-export default function VocabQuiz({}) {
+export default function VocabQuiz() {
     const params = useParams();
     useDocTitle(`${params.chapter} Vocab Quiz: ${params.subsect}`);
     if(!lessonsRegex.test(params.chapter) || !data.subsects[params.chapter]?.includes(params.subsect) || !Object.keys(quizExplanations).includes(params.quizType)) return <NotFound />;
