@@ -38,6 +38,7 @@ export default function ChapterIndex({lessonNum, extras}) {
 
                     <ChapterSection title="Vocab Quizzes" navType="main">
                         <ul className="list-disc pl-5 marker:text-genki-orange">
+                            <ChapterNavLink text="All Vocab" link={`/vocabQuiz/L${lessonNum}/All/kana`} key={`L${lessonNum} All`} type="main"/>
                             {data.subsects[`L${lessonNum}`].map(subsect =>
                                 <ChapterNavLink text={subsect} link={`/vocabQuiz/L${lessonNum}/${subsect}/match`} key={`L${lessonNum} ${subsect}`} type="main"/>
                             )}

@@ -30,6 +30,7 @@ export default function SidebarChapterIndex({lessonNum, closeNav}) {
 
                 <ChapterSection title="Vocab Quizzes" navType="sidebar">
                     <ul className="list-disc pl-5 marker:text-genki-orange">
+                         <ChapterNavLink text="All Vocab" link={`/vocabQuiz/L${lessonNum}/All/kana`} key={`L${lessonNum} All`} type="main"/>
                         {data.subsects[`L${lessonNum}`].map(subsect =>
                             <ChapterNavLink text={subsect} link={`/vocabQuiz/L${lessonNum}/${subsect}/match`} key={`L${lessonNum} ${subsect}`} type="sidebar" onNavigate={closeNav}/>
                         )}

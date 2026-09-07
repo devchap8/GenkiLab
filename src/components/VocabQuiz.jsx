@@ -30,7 +30,7 @@ const firstThree = ["L0", "L1", "L2"];
 export default function VocabQuiz() {
     const params = useParams();
     useDocTitle(`${params.chapter} Vocab Quiz: ${params.subsect}`);
-    if(!lessonsRegex.test(params.chapter) || !data.subsects[params.chapter]?.includes(params.subsect) || !Object.keys(quizExplanations).includes(params.quizType)) return <NotFound />;
+    if(!lessonsRegex.test(params.chapter) || (!data.subsects[params.chapter]?.includes(params.subsect) && params.subsect !== "All") || !Object.keys(quizExplanations).includes(params.quizType)) return <NotFound />;
     const QuizComponent = quizComponents[params.quizType];
 
     return (
@@ -45,7 +45,7 @@ export default function VocabQuiz() {
             {!firstThree.includes(params.chapter) && <div className="text-xs sm:text-base flex flex-col sm:flex-row items-center gap-2 sm:gap-3">
                 <div className="text-text-main text-lg">Quiz Type:</div>
                 <div className="inline-flex rounded-md border border-bg-dim overflow-hidden divide-x divide-bg-dim">
-                    <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "match" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/match`}>Match Definition</Link>
+                    {params.subsect !== "All" && <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "match" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/match`}>Match Definition</Link>}
                     <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kana" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/kana`}>Write Kana</Link>
                     <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kanji" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/kanji`}>Write Kanji</Link>
                 </div>

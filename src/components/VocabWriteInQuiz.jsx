@@ -8,7 +8,9 @@ let entries;
 export default function VocabWriteInQuiz() {
     const params = useParams();
     const [submitted, setSubmitted] = useState(false);
-    const rawVocab = data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
+    const rawVocab = params.subsect === "All" 
+        ? data.vocab[params.chapter]
+        : data.vocab[params.chapter].filter(v => v.subsect === params.subsect);
     
     function cleanVocab(rawVocab) {
         // removes kanjiless vocab in kanji quiz so zebra stipes arent broken
