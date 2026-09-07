@@ -1,528 +1,528 @@
 [
   {
     "id": "L1-1",
-    "reading": "daigaku",
-    "kanji": "だいがく",
+    "reading": "だいがく",
+    "kanji": "大学",
     "def": "college; university",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-2",
-    "reading": "kookoo",
-    "kanji": "こうこう",
+    "reading": "こうこう",
+    "kanji": "高校",
     "def": "high school",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-3",
-    "reading": "gakusee",
-    "kanji": "がくせい",
+    "reading": "がくせい",
+    "kanji": "学生",
     "def": "student",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-4",
-    "reading": "daigakusee",
-    "kanji": "だいがくせい",
+    "reading": "だいがくせい",
+    "kanji": "大学生",
     "def": "college student",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-5",
-    "reading": "ryuugakusee",
-    "kanji": "りゅうがくせい",
+    "reading": "りゅうがくせい",
+    "kanji": "留学生",
     "def": "international student",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-6",
-    "reading": "sensee",
-    "kanji": "せんせい",
+    "reading": "せんせい",
+    "kanji": "先生",
     "def": "teacher; Professor . . .",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-7",
-    "reading": ". . . nensee",
-    "kanji": "～ねんせい",
+    "reading": "～ねんせい",
+    "kanji": "～年生",
     "def": ". . . year student",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-8",
-    "reading": "ichinensee",
-    "kanji": "いちねんせい",
+    "reading": "いちねんせい",
+    "kanji": "一年生",
     "def": "first-year student",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-9",
-    "reading": "senkoo",
-    "kanji": "せんこう",
+    "reading": "せんこう",
+    "kanji": "専攻",
     "def": "major",
     "sect": "School",
     "subsect": "School"
   },
   {
     "id": "L1-10",
-    "reading": "watashi",
-    "kanji": "わたし",
+    "reading": "わたし",
+    "kanji": "私",
     "def": "I",
     "sect": "Person",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-11",
-    "reading": "tomodachi",
-    "kanji": "ともだち",
+    "reading": "ともだち",
+    "kanji": "友達",
     "def": "friend",
     "sect": "Person",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-12",
-    "reading": ". . . san",
-    "kanji": "～さん",
+    "reading": "～さん",
+    "kanji": "",
     "def": "Mr./Ms. . . .",
     "sect": "Person",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-13",
-    "reading": ". . . jin",
-    "kanji": "～じん",
+    "reading": "～じん",
+    "kanji": "～人",
     "def": ". . . people",
     "sect": "Person",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-14",
-    "reading": "nihonjin",
-    "kanji": "にほんじん",
+    "reading": "にほんじん",
+    "kanji": "日本人",
     "def": "Japanese people",
     "sect": "Person",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-15",
-    "reading": "ima",
-    "kanji": "いま",
+    "reading": "いま",
+    "kanji": "今",
     "def": "now",
     "sect": "Time",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-16",
-    "reading": "gozen",
-    "kanji": "ごぜん",
+    "reading": "ごぜん",
+    "kanji": "午前",
     "def": "A.M.",
     "sect": "Time",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-17",
-    "reading": "gogo",
-    "kanji": "ごご",
+    "reading": "ごご",
+    "kanji": "午後",
     "def": "P.M.",
     "sect": "Time",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-18",
-    "reading": ". . . ji",
-    "kanji": "～じ",
+    "reading": "～じ",
+    "kanji": "～時",
     "def": "o'clock",
     "sect": "Time",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-19",
-    "reading": "ichiji",
-    "kanji": "いちじ",
+    "reading": "いちじ",
+    "kanji": "一時",
     "def": "one o'clock",
     "sect": "Time",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-20",
-    "reading": "han",
-    "kanji": "はん",
+    "reading": "はん",
+    "kanji": "半",
     "def": "half",
     "sect": "Time",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-21",
-    "reading": "niji han",
-    "kanji": "にじはん",
+    "reading": "にじはん",
+    "kanji": "二時半",
     "def": "half past two",
     "sect": "Time",
     "subsect": "Person and Time"
   },
   {
     "id": "L1-22",
-    "reading": "Nihon",
-    "kanji": "にほん",
+    "reading": "にほん",
+    "kanji": "日本",
     "def": "Japan",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-23",
-    "reading": "Amerika",
-    "kanji": "アメリカ",
+    "reading": "アメリカ",
+    "kanji": "",
     "def": "U.S.A.",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-24",
-    "reading": ". . . go",
-    "kanji": "～ご",
+    "reading": "～ご",
+    "kanji": "～語",
     "def": ". . . language",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-25",
-    "reading": "nihongo",
-    "kanji": "にほんご",
+    "reading": "にほんご",
+    "kanji": "日本語",
     "def": "Japanese language",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-26",
-    "reading": ". . . sai",
-    "kanji": "～さい",
+    "reading": "～さい",
+    "kanji": "～歳",
     "def": ". . . years old",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-27",
-    "reading": "denwa",
-    "kanji": "でんわ",
+    "reading": "でんわ",
+    "kanji": "電話",
     "def": "telephone",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-28",
-    "reading": ". . . ban",
-    "kanji": "～ばん",
+    "reading": "～ばん",
+    "kanji": "～番",
     "def": "number . . .",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-29",
-    "reading": "bangoo",
-    "kanji": "ばんごう",
+    "reading": "ばんごう",
+    "kanji": "番号",
     "def": "number",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-30",
-    "reading": "namae",
-    "kanji": "なまえ",
+    "reading": "なまえ",
+    "kanji": "名前",
     "def": "name",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-31",
-    "reading": "nan/nani",
-    "kanji": "なん／なに",
+    "reading": "なん／なに",
+    "kanji": "何",
     "def": "what",
     "sect": "Others",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-32",
-    "reading": "anoo",
-    "kanji": "あのう",
+    "reading": "あのう",
+    "kanji": "",
     "def": "um . . .",
     "sect": "Expressions",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-33",
-    "reading": "hai",
-    "kanji": "はい",
+    "reading": "はい",
+    "kanji": "",
     "def": "yes",
     "sect": "Expressions",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-34",
-    "reading": "soo desu",
-    "kanji": "そうです",
+    "reading": "そうです",
+    "kanji": "",
     "def": "That's right.",
     "sect": "Expressions",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-35",
-    "reading": "soo desu ka",
-    "kanji": "そうですか",
+    "reading": "そうですか",
+    "kanji": "",
     "def": "I see.; Is that so?",
     "sect": "Expressions",
     "subsect": "Others and Expressions"
   },
   {
     "id": "L1-36",
-    "reading": "Igirisu",
-    "kanji": "イギリス",
+    "reading": "イギリス",
+    "kanji": "",
     "def": "Britain",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-37",
-    "reading": "Oosutoraria",
-    "kanji": "オーストラリア",
+    "reading": "オーストラリア",
+    "kanji": "",
     "def": "Australia",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-38",
-    "reading": "Kankoku",
-    "kanji": "かんこく",
+    "reading": "かんこく",
+    "kanji": "韓国",
     "def": "Korea",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-39",
-    "reading": "Kanada",
-    "kanji": "カナダ",
+    "reading": "カナダ",
+    "kanji": "",
     "def": "Canada",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-40",
-    "reading": "Chuugoku",
-    "kanji": "ちゅうごく",
+    "reading": "ちゅうごく",
+    "kanji": "中国",
     "def": "China",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-41",
-    "reading": "Indo",
-    "kanji": "インド",
+    "reading": "インド",
+    "kanji": "",
     "def": "India",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-42",
-    "reading": "Ejiputo",
-    "kanji": "エジプト",
+    "reading": "エジプト",
+    "kanji": "",
     "def": "Egypt",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-43",
-    "reading": "Firipin",
-    "kanji": "フィリピン",
+    "reading": "フィリピン",
+    "kanji": "",
     "def": "Philippines",
     "sect": "Countries",
     "subsect": "Countries"
   },
   {
     "id": "L1-44",
-    "reading": "ajia kenkyuu",
-    "kanji": "アジアけんきゅう",
+    "reading": "アジアけんきゅう",
+    "kanji": "アジア研究",
     "def": "Asian studies",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-45",
-    "reading": "keezai",
-    "kanji": "けいざい",
+    "reading": "けいざい",
+    "kanji": "経済",
     "def": "economics",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-46",
-    "reading": "koogaku",
-    "kanji": "こうがく",
+    "reading": "こうがく",
+    "kanji": "工学",
     "def": "engineering",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-47",
-    "reading": "kokusaikankee",
-    "kanji": "こくさいかんけい",
+    "reading": "こくさいかんけい",
+    "kanji": "国際関係",
     "def": "international relations",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-48",
-    "reading": "konpyuutaa",
-    "kanji": "コンピューター",
+    "reading": "コンピューター",
+    "kanji": "",
     "def": "computer",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-49",
-    "reading": "seeji",
-    "kanji": "せいじ",
+    "reading": "せいじ",
+    "kanji": "政治",
     "def": "politics",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-50",
-    "reading": "seebutsu gaku",
-    "kanji": "せいぶつがく",
+    "reading": "せいぶつがく",
+    "kanji": "生物学",
     "def": "biology",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-51",
-    "reading": "bijinesu",
-    "kanji": "ビジネス",
+    "reading": "ビジネス",
+    "kanji": "",
     "def": "business",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-52",
-    "reading": "bungaku",
-    "kanji": "ぶんがく",
+    "reading": "ぶんがく",
+    "kanji": "文学",
     "def": "literature",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-53",
-    "reading": "rekishi",
-    "kanji": "れきし",
+    "reading": "れきし",
+    "kanji": "歴史",
     "def": "history",
     "sect": "Majors",
     "subsect": "Majors"
   },
   {
     "id": "L1-54",
-    "reading": "isha",
-    "kanji": "いしゃ",
+    "reading": "いしゃ",
+    "kanji": "医者",
     "def": "doctor",
     "sect": "Occupations",
     "subsect": "Occupations"
   },
   {
     "id": "L1-55",
-    "reading": "kaishain",
-    "kanji": "かいしゃいん",
+    "reading": "かいしゃいん",
+    "kanji": "会社員",
     "def": "office worker",
     "sect": "Occupations",
     "subsect": "Occupations"
   },
   {
     "id": "L1-56",
-    "reading": "kangoshi",
-    "kanji": "かんごし",
+    "reading": "かんごし",
+    "kanji": "看護師",
     "def": "nurse",
     "sect": "Occupations",
     "subsect": "Occupations"
   },
   {
     "id": "L1-57",
-    "reading": "kookoosee",
-    "kanji": "こうこうせい",
+    "reading": "こうこうせい",
+    "kanji": "高校生",
     "def": "high school student",
     "sect": "Occupations",
     "subsect": "Occupations"
   },
   {
     "id": "L1-58",
-    "reading": "shufu",
-    "kanji": "しゅふ",
+    "reading": "しゅふ",
+    "kanji": "主婦",
     "def": "housewife",
     "sect": "Occupations",
     "subsect": "Occupations"
   },
   {
     "id": "L1-59",
-    "reading": "daigakuinsee",
-    "kanji": "だいがくいんせい",
+    "reading": "だいがくいんせい",
+    "kanji": "大学院生",
     "def": "graduate student",
     "sect": "Occupations",
     "subsect": "Occupations"
   },
   {
     "id": "L1-60",
-    "reading": "bengoshi",
-    "kanji": "べんごし",
+    "reading": "べんごし",
+    "kanji": "弁護士",
     "def": "lawyer",
     "sect": "Occupations",
     "subsect": "Occupations"
   },
   {
     "id": "L1-61",
-    "reading": "okaasan",
-    "kanji": "おかあさん",
+    "reading": "おかあさん",
+    "kanji": "お母さん",
     "def": "mother",
     "sect": "Family",
     "subsect": "Family"
   },
   {
     "id": "L1-62",
-    "reading": "otoosan",
-    "kanji": "おとうさん",
+    "reading": "おとうさん",
+    "kanji": "お父さん",
     "def": "father",
     "sect": "Family",
     "subsect": "Family"
   },
   {
     "id": "L1-63",
-    "reading": "oneesan",
-    "kanji": "おねえさん",
+    "reading": "おねえさん",
+    "kanji": "お姉さん",
     "def": "older sister",
     "sect": "Family",
     "subsect": "Family"
   },
   {
     "id": "L1-64",
-    "reading": "oniisan",
-    "kanji": "おにいさん",
+    "reading": "おにいさん",
+    "kanji": "お兄さん",
     "def": "older brother",
     "sect": "Family",
     "subsect": "Family"
   },
   {
     "id": "L1-65",
-    "reading": "imooto",
-    "kanji": "いもうと",
+    "reading": "いもうと",
+    "kanji": "妹",
     "def": "younger sister",
     "sect": "Family",
     "subsect": "Family"
   },
   {
     "id": "L1-66",
-    "reading": "otooto",
-    "kanji": "おとうと",
+    "reading": "おとうと",
+    "kanji": "弟",
     "def": "younger brother",
     "sect": "Family",
     "subsect": "Family"

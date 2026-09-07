@@ -12,7 +12,7 @@ function cleanSearchText(text) {
     return newText.trim();
 }
 
-export default function VocabListSection({vocabPair, readingsHidden, defsHidden, isRomaji}) {
+export default function VocabListSection({vocabPair, readingsHidden, defsHidden}) {
     const [sectName, vocab] = vocabPair;
 
     return (
@@ -25,7 +25,7 @@ export default function VocabListSection({vocabPair, readingsHidden, defsHidden,
                 <td className="px-4 py-2 text-center align-middle text-text-dim">
                     {readingsHidden && v.kanji
                         ? <SpoilerText><div className="w-full">{v.reading}</div></SpoilerText>
-                        : <a className="underline decoration-text-dim/40 underline-offset-4 hover:text-genki-orange hover:decoration-genki-orange transition-colors" href={`https://jisho.org/search/${isRomaji ? cleanSearchText(v.kanji) : cleanSearchText(v.reading)}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
+                        : <a className="underline decoration-text-dim/40 underline-offset-4 hover:text-genki-orange hover:decoration-genki-orange transition-colors" href={`https://jisho.org/search/${cleanSearchText(v.reading)}`} target="_blank" rel="noopener noreferrer">{v.reading}</a>
                     }
                 </td>
 

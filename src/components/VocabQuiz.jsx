@@ -25,8 +25,6 @@ const quizTypeNames = {
 
 const lessonsRegex = /^L(?:1\d|2[0-3]|\d)$/;
 
-const firstThree = ["L0", "L1", "L2"]; 
-
 export default function VocabQuiz() {
     const params = useParams();
     useDocTitle(`${params.chapter} Vocab Quiz: ${params.subsect}`);
@@ -42,14 +40,14 @@ export default function VocabQuiz() {
                 <div className="text-bg-main">{quizExplanations[params.quizType]}</div>
             </div>
 
-            {!firstThree.includes(params.chapter) && <div className="text-xs sm:text-base flex flex-col sm:flex-row items-center gap-2 sm:gap-3">
+            <div className="text-xs sm:text-base flex flex-col sm:flex-row items-center gap-2 sm:gap-3">
                 <div className="text-text-main text-lg">Quiz Type:</div>
                 <div className="inline-flex rounded-md border border-bg-dim overflow-hidden divide-x divide-bg-dim">
                     {params.subsect !== "All" && <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "match" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/match`}>Match Definition</Link>}
                     <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kana" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/kana`}>Write Kana</Link>
                     <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.quizType === "kanji" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to={`/vocabQuiz/${params.chapter}/${params.subsect}/kanji`}>Write Kanji</Link>
                 </div>
-            </div>}
+            </div>
 
             <div className="bg-bg-second/50 max-w-250 w-full p-3">
                 <QuizComponent key={`${params.chapter}/${params.subsect}/${params.quizType}`} />
