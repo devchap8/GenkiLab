@@ -13,13 +13,21 @@ export default function validateVocab(response, answer) {
         }
     }
 
+    // check the answer including things in parenthesis
+    const parens = /[()（）]/g;
+    if(parens.test(answer)) {
+        const noParen = answer.trim().replace(parens, "");
+        if(validateVocab(response, noParen)) return true;
+    }
+
+
     // pluses and everything following them (words ending in + negative, etc.)
     newAnswer = newAnswer.replace(/[+＋].*/, "").trim();
     if(newAnswer === response) return true;
-    // replace english parenthesis
+    // replace english parenthesis and their contents
     newAnswer = newAnswer.replace(/\([^)]*\)/g, "").trim();
     if(newAnswer === response) return true;
-    // replace japanese parenthesis
+    // replace japanese parenthesis and their contents
     newAnswer = newAnswer.replace(/（[^）]*）/g, "").trim();
     if(newAnswer === response) return true;
     // replace special characters
