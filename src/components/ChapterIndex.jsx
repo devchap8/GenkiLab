@@ -45,13 +45,15 @@ export default function ChapterIndex({lessonNum, extras}) {
                         </ul>
                     </ChapterSection>
 
-                    {extras && extras.length > 0 && <ChapterSection title="Extras" navType="main">
-                        <ul className="pl-5 marker:text-genki-orange">
-                            {extras.map(extra =>
-                                <ChapterNavLink text={extra.text} link={extra.link} key={extra.text} type="main"/>
-                            )}
-                        </ul>
-                    </ChapterSection>}
+                    {extras && Object.entries(extras).map(([category, links]) =>
+                        <ChapterSection title={category} navType="main" key={category}>
+                            <ul className="list-disc pl-5 marker:text-genki-orange">
+                                {links.map(link =>
+                                    <ChapterNavLink text={link.text} link={link.link} key={link.text} type="main"/>
+                                )}
+                            </ul>
+                        </ChapterSection>
+                    )}
                 </div>
 
             </div>}

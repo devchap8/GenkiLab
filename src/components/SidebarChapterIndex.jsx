@@ -4,7 +4,7 @@ import ChapterNavLink from "./ChapterNavLink";
 import data from "../data/dataIndex";
 import expandIcon from "../assets/icons/expand-gray.svg";
 
-export default function SidebarChapterIndex({lessonNum, closeNav}) {
+export default function SidebarChapterIndex({lessonNum, extras, closeNav}) {
 
     const [expanded, setExpanded] = useState(false);
 
@@ -36,6 +36,16 @@ export default function SidebarChapterIndex({lessonNum, closeNav}) {
                         )}
                     </ul>
                 </ChapterSection>
+
+                {extras && Object.entries(extras).map(([category, links]) =>
+                    <ChapterSection title={category} navType="sidebar" key={category}>
+                        <ul className="pl-5 list-disc marker:text-genki-orange">
+                            {links.map(link =>
+                                <ChapterNavLink text={link.text} link={link.link} key={link.text} type="sidebar" onNavigate={closeNav}/>
+                            )}
+                        </ul>
+                    </ChapterSection>
+                )}
             </div>}
         </div>
     )

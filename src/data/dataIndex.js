@@ -90,6 +90,17 @@ Object.entries(vocab).forEach(v => {
     subsects[v[0]] = [...subsect];
 });
 
-const data = {vocab, lessonNames, subsects, inThisLesson};
+// Each lesson's extras are a map of category name (shown like "Vocab" or
+// "Vocab Quizzes") to an array of nav links ({text, link}) shown under it.
+const extras = {
+    L0: {
+        "Kana Sheets": [
+            {text: "Hiragana", link: "/kana/hiragana"},
+            {text: "Katakana", link: "/kana/katakana"}
+        ]
+    }
+};
+
+const data = {vocab, lessonNames, subsects, inThisLesson, extras};
 
 export default data;

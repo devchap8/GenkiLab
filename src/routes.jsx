@@ -3,6 +3,7 @@ import Layout from './components/Layout';
 import Homepage from './components/Homepage';
 import VocabList from './components/VocabList';
 import VocabQuiz from './components/VocabQuiz';
+import KanaSheet from './components/KanaSheet';
 import NotFound from './components/NotFound';
 
 const router = createBrowserRouter([
@@ -20,8 +21,12 @@ const router = createBrowserRouter([
             element: <VocabList/>
         },
         {
-            path: "vocabQuiz/:chapter/:subsect/:quizType", 
+            path: "vocabQuiz/:chapter/:subsect/:quizType",
             element: <VocabQuiz />
+        },
+        {
+            path: "kana/:kanaType",
+            element: <KanaSheet />
         },
         {
             path: "*",

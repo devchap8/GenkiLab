@@ -2,11 +2,9 @@ import SidebarChapterIndex from './SidebarChapterIndex';
 import labLogo from '../assets/logos/logo-clear-orange.svg';
 import xIcon from "../assets/icons/x-icon.svg";
 import { Link } from "react-router";
+import data from "../data/dataIndex";
 
 const lessonNums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
-const extraLinks = {
-    
-};
 
 export default function SidebarNav({navShown, toggleNav}) {
     return (
@@ -30,7 +28,7 @@ export default function SidebarNav({navShown, toggleNav}) {
             </header>
             <div className='flex flex-col'>
                 {lessonNums.map(n =>
-                    <SidebarChapterIndex key={n} lessonNum={n} extras={extraLinks[`L${n}`]} closeNav={toggleNav}/>
+                    <SidebarChapterIndex key={n} lessonNum={n} extras={data.extras[`L${n}`]} closeNav={toggleNav}/>
                 )}
             </div>
         </nav>

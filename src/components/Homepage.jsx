@@ -1,10 +1,8 @@
 import ChapterIndex from "./ChapterIndex";
 import useDocTitle from "../scripts/useDocTitle";
+import data from "../data/dataIndex";
 
 const lessonNums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
-const extraLinks = {
-    
-};
 
 export default function Homepage() {
     useDocTitle("Home");
@@ -23,12 +21,12 @@ export default function Homepage() {
                 <h2 className="text-center mb-3 text-4xl font-bold text-text-main md:col-span-2">Chapter Navigation</h2>
                 <div className="grid gap-5">
                     {lessonNums.slice(0, 12).map(n => 
-                        <ChapterIndex key={n} lessonNum={n} extras={extraLinks[`L${n}`]}/>
+                        <ChapterIndex key={n} lessonNum={n} extras={data.extras[`L${n}`]}/>
                     )}
                 </div>
                 <div className="grid gap-5">
                     {lessonNums.slice(-12).map(n => 
-                        <ChapterIndex key={n} lessonNum={n} extras={extraLinks[`L${n}`]}/>
+                        <ChapterIndex key={n} lessonNum={n} extras={data.extras[`L${n}`]}/>
                     )}                    
                 </div>
 
