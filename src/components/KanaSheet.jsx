@@ -1,4 +1,4 @@
-import { useParams } from "react-router";
+import { useParams, Link } from "react-router";
 import { useState } from "react";
 import useDocTitle from "../scripts/useDocTitle";
 import NotFound from "./NotFound";
@@ -21,12 +21,17 @@ export default function KanaSheet() {
 
             <h2 className="text-center text-3xl font-bold">{sheet.title} Sheet</h2>
 
+            <div className="inline-flex rounded-md border border-bg-dim overflow-hidden divide-x divide-bg-dim">
+                <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.kanaType === "hiragana" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to="/kana/hiragana">Hiragana</Link>
+                <Link className={`px-3 py-1.5 transition-colors duration-200 ${params.kanaType === "katakana" ? "bg-genki-orange text-bg-dark font-semibold" : "text-text-dim hover:text-text-main hover:bg-bg-second"}`} to="/kana/katakana">Katakana</Link>
+            </div>
+
             <label className={`flex items-center gap-2 px-3 py-1.5 rounded-md border text-sm cursor-pointer transition-colors ${romajiHidden ? "border-genki-orange" : "border-bg-dim text-text-dim hover:border-text-dim"}`} htmlFor="hideRomajiCheckbox">
                 <input className="size-4 accent-genki-orange" onClick={() => setRomajiHidden(!romajiHidden)} defaultChecked={romajiHidden} type="checkbox" id="hideRomajiCheckbox" name="hideRomajiCheckbox"></input>
                 <span>Hide Romaji</span>
             </label>
 
-            <div className="max-w-200 w-full flex flex-col gap-8 items-center">
+            <div className="max-w-300 w-full flex flex-col lg:flex-row lg:flex-wrap justify-center items-center lg:items-start gap-8">
                 {sheet.tables.map((table, i) =>
                     <KanaTable key={i} table={table} romajiHidden={romajiHidden}/>
                 )}
