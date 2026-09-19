@@ -97,6 +97,10 @@ const extras = {
         "Kana Sheets": [
             {text: "Hiragana", link: "/kana/hiragana"},
             {text: "Katakana", link: "/kana/katakana"}
+        ],
+        "Kana Quizzes": [
+            {text: "Hiragana", link: "/kanaQuiz/hiragana"},
+            {text: "Katakana", link: "/kanaQuiz/katakana"}
         ]
     }
 };

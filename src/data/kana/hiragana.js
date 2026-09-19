@@ -1,5 +1,8 @@
 // Each table has vowel columns and consonant-row cells of [kana, romaji] pairs (or null for a gap).
 export const gojuon = {
+    key: "gojuon",
+    name: "Gojuon (Basic Sounds)",
+    examples: [["あ", "a"], ["し", "shi"], ["を", "o"]],
     columns: ["a", "i", "u", "e", "o"],
     rows: [
         { label: "", cells: [["あ", "a"], ["い", "i"], ["う", "u"], ["え", "e"], ["お", "o"]] },
@@ -17,6 +20,9 @@ export const gojuon = {
 };
 
 export const dakuten = {
+    key: "dakuten",
+    name: "Dakuten (Voiced Sounds)",
+    examples: [["が", "ga"], ["じ", "ji"], ["ぽ", "po"]],
     columns: ["a", "i", "u", "e", "o"],
     rows: [
         { label: "g", cells: [["が", "ga"], ["ぎ", "gi"], ["ぐ", "gu"], ["げ", "ge"], ["ご", "go"]] },
@@ -28,6 +34,9 @@ export const dakuten = {
 };
 
 export const youon = {
+    key: "youon",
+    name: "Youon (Combo Sounds)",
+    examples: [["きゃ", "kya"], ["しゅ", "shu"], ["じょ", "jo"]],
     columns: ["a", "u", "o"],
     rows: [
         { label: "ky", cells: [["きゃ", "kya"], ["きゅ", "kyu"], ["きょ", "kyo"]] },
