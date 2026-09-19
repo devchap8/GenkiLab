@@ -14,7 +14,7 @@ export default function KanaWriteInQuiz({tables}) {
     const flatKana = useMemo(() =>
         tables.flatMap(t => t.rows.flatMap(r => r.cells))
             .filter(Boolean)
-            .map(([kana, romaji]) => ({kana, romaji})),
+            .map(([kana, romaji, alts]) => ({kana, romaji, alts: alts ?? []})),
         [tables]
     );
 
@@ -31,7 +31,8 @@ export default function KanaWriteInQuiz({tables}) {
         const formData = new FormData(event.target);
         const newResults = quizList.map((item, i) => {
             const entered = (formData.get(`k${i}`) ?? "").trim().toLowerCase();
-            return entered === item.romaji.toLowerCase();
+            const accepted = [item.romaji, ...item.alts].map(r => r.toLowerCase());
+            return accepted.includes(entered);
         });
         setResults(newResults);
         setSubmitted(true);

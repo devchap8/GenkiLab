@@ -1,4 +1,5 @@
-// Each table has vowel columns and consonant-row cells of [kana, romaji] pairs (or null for a gap).
+// Each table has vowel columns and consonant-row cells of [kana, romaji, alts?] tuples
+// (or null for a gap). alts, when present, are additional accepted readings.
 export const gojuon = {
     key: "gojuon",
     name: "Gojuon (Basic Sounds)",
@@ -14,7 +15,7 @@ export const gojuon = {
         { label: "m", cells: [["マ", "ma"], ["ミ", "mi"], ["ム", "mu"], ["メ", "me"], ["モ", "mo"]] },
         { label: "y", cells: [["ヤ", "ya"], null, ["ユ", "yu"], null, ["ヨ", "yo"]] },
         { label: "r", cells: [["ラ", "ra"], ["リ", "ri"], ["ル", "ru"], ["レ", "re"], ["ロ", "ro"]] },
-        { label: "w", cells: [["ワ", "wa"], null, null, null, ["ヲ", "o"]] },
+        { label: "w", cells: [["ワ", "wa"], null, null, null, ["ヲ", "o", ["wo"]]] },
         { label: "", cells: [["ン", "n"], null, null, null, null] },
     ]
 };
@@ -27,7 +28,7 @@ export const dakuten = {
     rows: [
         { label: "g", cells: [["ガ", "ga"], ["ギ", "gi"], ["グ", "gu"], ["ゲ", "ge"], ["ゴ", "go"]] },
         { label: "z", cells: [["ザ", "za"], ["ジ", "ji"], ["ズ", "zu"], ["ゼ", "ze"], ["ゾ", "zo"]] },
-        { label: "d", cells: [["ダ", "da"], ["ヂ", "ji"], ["ヅ", "zu"], ["デ", "de"], ["ド", "do"]] },
+        { label: "d", cells: [["ダ", "da"], ["ヂ", "ji", ["di"]], ["ヅ", "zu", ["du"]], ["デ", "de"], ["ド", "do"]] },
         { label: "b", cells: [["バ", "ba"], ["ビ", "bi"], ["ブ", "bu"], ["ベ", "be"], ["ボ", "bo"]] },
         { label: "p", cells: [["パ", "pa"], ["ピ", "pi"], ["プ", "pu"], ["ペ", "pe"], ["ポ", "po"]] },
     ]
@@ -47,7 +48,7 @@ export const youon = {
         { label: "my", cells: [["ミャ", "mya"], null, ["ミュ", "myu"], null, ["ミョ", "myo"]] },
         { label: "ry", cells: [["リャ", "rya"], null, ["リュ", "ryu"], null, ["リョ", "ryo"]] },
         { label: "gy", cells: [["ギャ", "gya"], null, ["ギュ", "gyu"], null, ["ギョ", "gyo"]] },
-        { label: "j", cells: [["ジャ", "ja"], null, ["ジュ", "ju"], ["ジェ", "je"], ["ジョ", "jo"]] },
+        { label: "j", cells: [["ジャ", "ja", ["jya"]], null, ["ジュ", "ju", ["jyu"]], ["ジェ", "je"], ["ジョ", "jo", ["jyo"]]] },
         { label: "by", cells: [["ビャ", "bya"], null, ["ビュ", "byu"], null, ["ビョ", "byo"]] },
         { label: "py", cells: [["ピャ", "pya"], null, ["ピュ", "pyu"], null, ["ピョ", "pyo"]] },
     ]

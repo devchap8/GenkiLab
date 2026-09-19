@@ -14,6 +14,14 @@ export default function KanaQuizSelect() {
     useDocTitle(sheet ? `${sheet.title} Quiz` : "Not Found");
     const [selected, setSelected] = useState(() => sheet ? sheet.tables.map(t => t.key) : []);
 
+    // params.kanaType changing (e.g. via the switch bar) re-renders this same component
+    // instance rather than remounting it, so reset the selection back to "all tables" here
+    const [lastSheet, setLastSheet] = useState(sheet);
+    if (sheet !== lastSheet) {
+        setLastSheet(sheet);
+        setSelected(sheet ? sheet.tables.map(t => t.key) : []);
+    }
+
     if (!sheet) return <NotFound />;
 
     function toggleTable(key) {
