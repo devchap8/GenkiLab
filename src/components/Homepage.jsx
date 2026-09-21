@@ -17,6 +17,9 @@ export default function Homepage() {
                     <div>Planned features: chapter overviews, grammar explanation resources, grammar quizzes, and more!</div>
                 </div>
             </section>
+            <div className="max-w-225 w-full mb-5 rounded-lg border border-genki-orange bg-genki-orange/10 px-4 py-2 text-center text-sm text-text-main">
+                <span className="font-bold text-genki-orange">New!</span> Hiragana &amp; Katakana reference sheets and quizzes are now available under the <span className="font-semibold">L0</span> section below.
+            </div>
             <main className="max-w-300 w-full p-2 grid grid-cols-1 md:grid-cols-2 gap-5 items-start">
                 <h2 className="text-center mb-3 text-4xl font-bold text-text-main md:col-span-2">Chapter Navigation</h2>
                 <div className="grid gap-5">

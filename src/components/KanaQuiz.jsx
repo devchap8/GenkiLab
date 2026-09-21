@@ -15,9 +15,10 @@ export default function KanaQuiz() {
     const params = useParams();
     const [searchParams] = useSearchParams();
     const sheet = sheets[params.kanaType];
-    useDocTitle(sheet ? `${sheet.title} Quiz` : "Not Found");
+    const validQuizType = Object.keys(quizComponents).includes(params.quizType);
+    useDocTitle(sheet && validQuizType ? `${sheet.title} Quiz` : "Not Found");
 
-    if (!sheet || !Object.keys(quizComponents).includes(params.quizType)) return <NotFound />;
+    if (!sheet || !validQuizType) return <NotFound />;
 
     const tableKeys = (searchParams.get("tables") ?? "").split(",").filter(Boolean);
     const tables = sheet.tables.filter(t => tableKeys.includes(t.key));
