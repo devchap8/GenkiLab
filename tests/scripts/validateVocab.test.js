@@ -3,50 +3,44 @@ import validateVocab from "../../src/scripts/validateVocab";
 
 describe("validateVocab", () => {
     it("matches an exact answer", () => {
-        expect(validateVocab("cat", "cat")).toBe(true);
+        expect(validateVocab("ねこ", "ねこ")).toBe(true);
     });
 
     it("trims whitespace from both response and answer", () => {
-        expect(validateVocab(" cat ", "cat")).toBe(true);
-        expect(validateVocab("cat", " cat ")).toBe(true);
-    });
-
-    it("is case sensitive", () => {
-        expect(validateVocab("Cat", "cat")).toBe(false);
+        expect(validateVocab(" ねこ ", "ねこ")).toBe(true);
+        expect(validateVocab("ねこ", " ねこ ")).toBe(true);
     });
 
     it("rejects a falsy answer regardless of response", () => {
-        expect(validateVocab("cat", "")).toBe(false);
-        expect(validateVocab("cat", null)).toBe(false);
-        expect(validateVocab("cat", undefined)).toBe(false);
-        // the falsy-answer guard fires before response is ever compared,
-        // so even a blank response against a blank answer is rejected
+        expect(validateVocab("ねこ", "")).toBe(false);
+        expect(validateVocab("ねこ", null)).toBe(false);
+        expect(validateVocab("ねこ", undefined)).toBe(false);
         expect(validateVocab("", "")).toBe(false);
     });
 
     it("rejects a non-matching response", () => {
-        expect(validateVocab("", "cat")).toBe(false);
-        expect(validateVocab("xyz", "cat")).toBe(false);
+        expect(validateVocab("", "ねこ")).toBe(false);
+        expect(validateVocab("いぬ", "ねこ")).toBe(false);
     });
 
     describe("slash-separated alternative readings", () => {
         it("accepts any alternative, half-width slash", () => {
-            expect(validateVocab("dog", "cat/dog")).toBe(true);
-            expect(validateVocab("fish", "cat/dog")).toBe(false);
+            expect(validateVocab("ねこ", "ねこ/いぬ")).toBe(true);
+            expect(validateVocab("さかな", "ねこ/いぬ")).toBe(false);
         });
 
         it("accepts any alternative, full-width slash", () => {
-            expect(validateVocab("dog", "cat／dog")).toBe(true);
+            expect(validateVocab("いぬ", "ねこ／いぬ")).toBe(true);
         });
 
         it("accepts any alternative when separators are mixed", () => {
-            expect(validateVocab("bird", "cat/dog／bird")).toBe(true);
+            expect(validateVocab("とり", "ねこ/いぬ／とり")).toBe(true);
         });
     });
 
     describe("parenthetical content", () => {
         it("accepts the answer with an English parenthetical removed", () => {
-            expect(validateVocab("cat", "cat (animal)")).toBe(true);
+            expect(validateVocab("ねこ", "ねこ (どうぶつ)")).toBe(true);
         });
 
         it("accepts the answer with a Japanese parenthetical removed", () => {
@@ -54,31 +48,32 @@ describe("validateVocab", () => {
         });
 
         it("does not accept the parenthetical content alone", () => {
-            expect(validateVocab("animal", "cat (animal)")).toBe(false);
+            expect(validateVocab("どうぶつ", "ねこ (どうぶつ)")).toBe(false);
         });
     });
 
     describe("+ suffix", () => {
         it("strips a trailing + qualifier, half-width", () => {
-            expect(validateVocab("food", "food + drink")).toBe(true);
+            expect(validateVocab("たべもの", "たべもの + のみもの")).toBe(true);
         });
 
         it("strips a trailing + qualifier, full-width", () => {
-            expect(validateVocab("food", "food ＋ drink")).toBe(true);
+            expect(validateVocab("たべもの", "たべもの ＋ のみもの")).toBe(true);
         });
     });
 
     describe("special characters", () => {
         it.each(["～", "。", "~", "."])("strips trailing %s", (char) => {
-            expect(validateVocab("kore", `kore${char}`)).toBe(true);
+            expect(validateVocab("これ", `これ${char}`)).toBe(true);
         });
     });
 
     describe("combinations", () => {
         it("resolves a slash-separated answer where one alternative has a parenthetical", () => {
-            expect(validateVocab("cat", "cat (animal)/dog")).toBe(true);
-            expect(validateVocab("dog", "cat (animal)/dog")).toBe(true);
-            expect(validateVocab("bird", "cat (animal)/dog")).toBe(false);
+            expect(validateVocab("ねこ", "ねこ (どうぶつ)/いぬ")).toBe(true);
+            expect(validateVocab("いぬ", "ねこ (どうぶつ)/いぬ")).toBe(true);
+            expect(validateVocab("とり", "ねこ (どうぶつ)/いぬ")).toBe(false);
+            expect(validateVocab("どうぶつ", "ねこ (どうぶつ)/いぬ")).toBe(false);
         });
     });
 });

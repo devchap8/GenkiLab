@@ -61,7 +61,6 @@ describe("KanaQuizSelect", () => {
             "/kanaQuiz/hiragana/write?tables=gojuon,youon"
         );
 
-        // a real navigation, not a prop re-render, is required to exercise the reset
         await userEvent.click(screen.getByRole("link", { name: /^katakana$/i }));
 
         expect(screen.getByText("Extended (Loanword Sounds)")).toBeInTheDocument();
