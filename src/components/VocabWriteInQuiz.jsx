@@ -64,7 +64,12 @@ export default function VocabWriteInQuiz() {
                             name={v.kanji ? v.kanji : v.reading}
                             id={v.kanji ? v.kanji : v.reading}
                         ></input>
-                        {submitted && <span className={`text-sm ${isCorrect ? "text-lime-500" : "text-red-500"}`}>{isCorrect ? "✓" : `✗ ${answer}`}</span>}
+                        {submitted && (
+                            <div className="flex flex-col sm:flex-row items-center sm:items-baseline sm:gap-2">
+                                <span className={`text-sm ${isCorrect ? "text-lime-500" : "text-red-500"}`}>{isCorrect ? "✓" : `✗ ${answer}`}</span>
+                                {params.quizType === "kanji" && <span className="text-xs text-text-dim">{v.reading}</span>}
+                            </div>
+                        )}
                     </div>
                 </td>
             </tr>
@@ -77,9 +82,9 @@ export default function VocabWriteInQuiz() {
                 <table className="w-full border-collapse">
                     <thead>
                         <tr className="border-b-2 border-genki-orange">
-                            <th className="px-4 py-2 text-left text-sm font-semibold text-text-dim">Definition</th>
+                            <th className={`px-4 py-2 text-left text-sm font-semibold text-text-dim ${params.quizType === "kanji" ? "w-2/5" : ""}`}>Definition</th>
                             {params.quizType === "kana" && <th className="px-4 py-2 text-center text-sm font-semibold text-text-dim">Kanji</th>}
-                            <th className="px-4 py-2 text-center text-sm font-semibold text-text-dim">Your Answer</th>
+                            <th className={`px-4 py-2 text-center text-sm font-semibold text-text-dim ${params.quizType === "kanji" ? "w-3/5" : ""}`}>Your Answer</th>
                         </tr>
                     </thead>
                     <tbody>

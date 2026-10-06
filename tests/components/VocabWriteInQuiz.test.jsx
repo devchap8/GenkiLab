@@ -70,6 +70,23 @@ describe("VocabWriteInQuiz", () => {
         expect(screen.getByText("✗ 大学")).toBeInTheDocument();
     });
 
+    it("shows the reading on both wrong and correct rows after submitting a kanji quiz", async () => {
+        renderQuiz("kanji");
+        expect(screen.queryByText("だいがく")).not.toBeInTheDocument();
+        await typeAndSubmit({ "大学": "wrong-kanji", "先生": "先生" });
+
+        expect(screen.getByText("だいがく")).toBeInTheDocument();
+        expect(screen.getByText("せんせい")).toBeInTheDocument();
+    });
+
+    it("does not add a separate reading after submitting a kana quiz", async () => {
+        renderQuiz("kana");
+        await typeAndSubmit({ "だいがく": "だいがく" });
+
+        // only the input's label, no extra reading next to the checkmark
+        expect(screen.getAllByText("だいがく")).toHaveLength(1);
+    });
+
     it("re-enables but does not clear inputs on Try Again", async () => {
         renderQuiz("kana");
         await typeAndSubmit({ "だいがく": "だいがく" });
